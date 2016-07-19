@@ -380,6 +380,189 @@
 		ru = Подписаться на %d фотографов
 		zh-Hans = 关注%d位用户
 
+[[selected_galleries]]
+	[selected_galleries__one]
+		en = %d selected gallery
+		fr = %d galerie sélectionée
+		ru = %d галерея
+	[selected_galleries__other]
+		en = %d selected galleries
+		fr = %d galeries sélectionées
+		ru = %d галерей
+		zh-Hans = %d 选中的画廊
+	[selected_galleries__few]
+		ru = %d галереи
+	[selected_galleries__many]
+		ru = %d галерей
+
+[[photos_count]]
+	[photos_count__one]
+		en = %d photo
+		fr = %d photo
+		ru = %d фотография
+	[photos_count__other]
+		en = %d photos
+		fr = %d photos
+		ru = %d фотографий
+		zh-Hans = %d 张照片
+	[photos_count__few]
+		ru = %d фотографии
+	[photos_count__many]
+		ru = %d фотографий
+
+[[view_comments]]
+	[view_comments__one]
+		en = View %d comment
+		fr = Voir %d commentaire
+		ru = Прочитать %d комент
+	[view_comments__other]
+		en = View %d comments
+		fr = Voir %d commentaires
+		ru = Прочитать %d коментов
+		zh-Hans = 查看 %d 条评论
+	[view_comments__few]
+		ru = Прочитать %d комента
+	[view_comments__many]
+		ru = Прочитать %d коментов
+
+[[new_notifications]]
+	[new_notifications__one]
+		en = %d new notification
+		fr = %d nouvelle notification
+		ru = %d новое оповещение
+	[new_notifications__other]
+		en = %d new notifications
+		fr = %d nouvelles notifications
+		ru = %d новый оповещений
+		zh-Hans = %d 条新通知
+	[new_notifications__few]
+		ru = %d новых оповещения
+	[new_notifications__many]
+		ru = %d новых оповещений
+
+[[likes_count]]
+	[likes_count__one]
+		en = %d like
+		fr = %d like
+		ru = %d лайк
+	[likes_count__other]
+		en = %d likes
+		fr = %d likes
+		ru = %d лайков
+		zh-Hans = %d 喜欢
+	[likes_count__few]
+		ru = %d лайка
+	[likes_count__many]
+		ru = %d лайков
+
+[[views_count]]
+	[views_count__one]
+		en = %d view
+		fr = %d visite
+		ru = %d просмотр
+	[views_count__other]
+		en = %d views
+		fr = %d visites
+		ru = %d просмотров
+		zh-Hans = %d 浏览
+	[views_count__few]
+		ru = %d просмотра
+	[views_count__many]
+		ru = %d просмотров
+
+[[comments_count]]
+	[comments_count__one]
+		en = %d comment
+		fr = %d commentaire
+		ru = %d комент
+	[comments_count__other]
+		en = %d comments
+		fr = %d commentaires
+		ru = %d коментов
+		zh-Hans = %d 条评论
+	[comments_count__few]
+		ru = %d комента
+	[comments_count__many]
+		ru = %d коментов
+
+[[quests_available]]
+	[quests_available__one]
+		en = There is <b>%d</b> Photo Quest!<br>Submit your photos to win great prizes.
+		fr = Il y a <b>%d</b> concours photo.<br>Soumettez vos photos pour gagner des prix!
+		ru = <b>%d</b> Фото Квест!<br>Загрузите ваши фото что бы выйграть призы!
+	[quests_available__other]
+		en = There are <b>%d</b> Photo Quests!<br>Submit your photos to win great prizes.
+		fr = Il y a <b>%d</b> concours photo.<br>Soumettez vos photos pour gagner des prix!
+		zh-Hans = 共有 <b>%d</b> 个摄影作品征集活动!<br>提交您的作品，赢取精美礼品。
+	[quests_available__few]
+		ru = <b>%d</b> Фото Квеста!<br>Загрузите ваши фото что бы выйграть призы!
+	[quests_available__many]
+		ru = <b>%d</b> Фото Квестов!<br>Загрузите ваши фото что бы выйграть призы!
+
+[[days_left]]
+	[days_left__one]
+		en = %d day left
+		fr = %d jour restant
+		ru = Остался %d день
+	[days_left__other]
+		en = %d days left
+		fr = %d jours restants
+		ru = Осталось %d дня
+		zh-Hans = 还剩下 %d 天
+	[days_left__few]
+		ru = Осталось %d дня
+	[days_left__many]
+		ru = Осталось %d дней
+
+[[hours_left]]
+	[hours_left__one]
+		en = %d hour left
+		fr = %d heure restante
+		ru = Остался %d час
+	[hours_left__other]
+		en = %d hours left
+		fr = %d heures restantes
+		ru = Осталось %d часа
+		zh-Hans = 还剩下 %d 小时
+	[hours_left__few]
+		ru = Осталось %d часа
+	[hours_left__many]
+		ru = Осталось %d часов
+
+[[minutes_left]]
+	[minutes_left__zero]
+		en = Less than a minute left
+		fr = Moins d'une minute restante
+		zh-Hans = 还剩不到一分钟
+	[minutes_left__one]
+		en = %d minute left
+		fr = %d minute restante
+		ru = Остался %d минута
+	[minutes_left__other]
+		en = %d minutes left
+		fr = %d minutes restantes
+		ru = Осталось %d минуты
+		zh-Hans = 还剩下 %d 分钟	
+	[minutes_left__few]
+		ru = Осталось %d минуты
+	[minutes_left__many]
+		ru = Осталось %d минут
+
+[[follow_people]]
+	[follow_people__one]
+		en = Follow %d person
+		fr = S'abonner à %d utilisateur
+		ru = Подписаться на %d фотографа
+	[follow_people__other]
+		en = Follow %d people
+		fr = S'abonner à %d utilisateurs
+		ru = Подписаться на %d фотографов
+		zh-Hans = 关注 %d 位用户
+	[follow_people__few]
+		ru = Подписаться на %d фотографов
+	[follow_people__many]
+		ru = Подписаться на %d фотографов
+
 [[Uncategorized]]
 	[user_liked_this]
 		en = %#@d_liked_this@
@@ -405,10 +588,10 @@
 	[followers_count]
 		en = %@ Followers
 		es = %@ seguidores
-		fr = %@ Suiveurs
+		fr = %@ Abonnés
 		it = %@ Follower
 		ru = %@ Подписчиков
-		zh-Hans = %@位关注者
+		zh-Hans = %@ 名粉丝
 	[user_hasnt_created_galleries_yet]
 		en = %@ hasn't created any galleries yet
 		es = %@ hasn't created any galleries yet
@@ -636,10 +819,10 @@
 	[about_500px]
 		en = About 500px
 		es = About 500px
-		fr = À propos de 500px
+		fr = A propos de 500px
 		it = ` Chi siamo`
 		ru = О 500px
-		zh-Hans = 关于 500px
+		zh-Hans = 关于500px
 	[discover_category_abstract]
 		en = Abstract
 		es = Abstracto
@@ -718,12 +901,12 @@
 		ru = ВСЕ
 		zh-Hans = 所有
 	[signup_confirm_account_creation_message]
-		en = An account will be created for you using this email
+		en = An account will be created for you using this Email
 		es = Se creará una cuenta para ti usando este email
-		fr = Un compte sera automatiquement crée pour vous avec cette adresse e-mail
+		fr = Un compte sera créé avec cette adresse
 		it = Verrà creato un account con questa e-mail
-		ru = Будет создана учетная запись с вашим электронным адресом
-		zh-Hans = 我们将用此邮箱为您创建账户
+		ru = Этот емайл будет использован для создания аккаунта
+		zh-Hans = 这个邮箱注册的账号将被创建
 	[discover_category_animals]
 		en = Animals
 		es = Animales
@@ -734,17 +917,17 @@
 	[comment_delete_confirmation]
 		en = Are you sure you want to delete this comment?
 		es = Are you sure you want to delete this comment?
-		fr = Êtes vous sur de vouloir supprimer ce commentaire?
+		fr = Etes-vous sur de vouloir supprimer ce commentaire?
 		it = Sicuro di voler cancellare questo commento?
-		ru = Вы действительно хотите удалить этот комментарий?
-		zh-Hans = 您确定要删除此评论吗？
+		ru = Вы уверены, что хотите удалить этот коментарий?
+		zh-Hans = 您确定要删除这条评论吗？
 	[gallery_delete_confirmation]
-		en = Are you sure you want to delete this gallery?
+		en = Are you sure you want to delete this Gallery?
 		es = Are you sure you want to delete this gallery?
 		fr = Êtes-vous sur de vouloir supprimer cette galerie?
 		it = Sicuro di voler eliminare questa galleria?
-		ru = Вы действительно хотите удалить эту галерею?
-		zh-Hans = 您确定要删除此画廊吗？
+		ru = Вы уверены, что хотите удалить галерею?
+		zh-Hans = 你确定要删除此画廊吗？
 	[photo_delete_confirmation]
 		en = Are you sure you want to delete this photo?
 		es = ¿Seguro que deseas eliminar esta foto?
@@ -783,14 +966,14 @@
 	[bio]
 		en = Bio
 		es = Bio
-		fr = Bio
+		fr = Biographie
 		it = Bio
 		ru = Био
-		zh-Hans = 自我介绍
+		zh-Hans = 个人简介
 	[discover_category_black_and_white]
 		en = Black and White
 		es = Blanco y negro
-		fr = Noir et blanc
+		fr = Noir et Blanc
 		it = Bianco e nero
 		ru = Черно-белые
 		zh-Hans = 黑白
@@ -820,7 +1003,7 @@
 		es = Categorías
 		fr = Catégories
 		it = Categorie
-		ru = Категорий
+		ru = Категории
 		zh-Hans = 类别
 	[discover_category_celebrities]
 		en = Celebrities
@@ -830,19 +1013,19 @@
 		ru = Знаменитости
 		zh-Hans = 名人
 	[change_password]
-		en = Change Password
+		en = Change password
 		es = Change Password
-		fr = Change Password
+		fr = Changer votre mot de passe
 		it = Cambia Password
-		ru = Изменить пароль
-		zh-Hans = 修改密码
+		ru = Сменить пароль
+		zh-Hans = 更换密码
 	[choose_category]
-		en = Choose a category
+		en = Choose a Category
 		es = Elige una categoría
-		fr = Choisissez une catégorie
+		fr = Choisir une catégorie
 		it = Seleziona una categoria
 		ru = Выберите категорию
-		zh-Hans = 选择类别
+		zh-Hans = 选择一个分类
 	[choose_photo]
 		en = Choose photo
 		es = Elegir foto
@@ -860,17 +1043,17 @@
 	[discover_category_city_and_architecture]
 		en = City and Architecture
 		es = Ciudad y arquitectura
-		fr = Ville et architecture
+		fr = Ville et Architecture
 		it = Città e architettura
-		ru = Архитектура
-		zh-Hans = 城市和建筑
+		ru = Город и архитектура
+		zh-Hans = 城市与建筑
 	[discover_category_commercial]
 		en = Commercial
 		es = Comercial
 		fr = Commercial
 		it = Commerciali
 		ru = Реклама
-		zh-Hans = 广告
+		zh-Hans = 商业
 	[discover_category_concert]
 		en = Concert
 		es = Conciertos
@@ -911,7 +1094,7 @@
 		es = Contacto
 		fr = Contact
 		it = Contatti
-		ru = Контактная информация
+		ru = Связаться
 		zh-Hans = 联系方式
 	[contact_us]
 		en = Contact us
@@ -933,7 +1116,7 @@
 		fr = Droits d'auteur (plagiat, vol)
 		it = Copyright (plagio, furto)
 		ru = Авторские права (плагиат, воровство)
-		zh-Hans = 版权问题（剽窃、盗版）
+		zh-Hans = 版权（抄袭或窃用）
 	[countries]
 		en = Countries
 		es = Países
@@ -949,19 +1132,19 @@
 		ru = Страна
 		zh-Hans = 国家
 	[invalid_cover_photo]
-		en = Cover photo needs to be landscape and at least 2000 by 1000.
+		en = Cover photos must be landscape and have a resolution of at least 2000px by 1000px.
 		es = La foto de portada debe ser apaisada y de al menos 2000 por 1000.
-		fr = La photo de couverture doit être en orientation paysage et d'une taille minimum de  2000px par 1000px.
+		fr = Les bannières doivent être en orientation paysage et avoir des dimensions de 2000px par 1000px.
 		it = La foto di copertina deve avere orientamento orizzontale e dimensioni minime 2000x1000.
-		ru = Фото на обложке должно быть как минимум 2000 на 1000 и ландшафтной ориентаций
-		zh-Hans = 请使用不少于2000x1000像素的横向照片做封面图片。
+		ru = Обложка должна быть как минимум 2000 на 1000 пикселей
+		zh-Hans = 请使用至少2000x1000像素的横向图片作为封面
 	[update_profile_cover_failed]
-		en = Cover photo update failed.
+		en = Cover photo update failed
 		es = Cover photo update failed.
-		fr = Echec lors du transfert de la photo de couverture.
+		fr = Echec lors du transfert de la photo de couverture
 		it = Impossibile caricare la foto di copertina.
-		ru = Не удалось обновить фото на обложке.
-		zh-Hans = 封面照片更新失败。
+		ru = Не удалось обновить фото на обложке
+		zh-Hans = 封面照片更新失败
 	[upload_profile_cover_failed]
 		en = Cover upload failed.
 		es = Cover upload failed.
@@ -972,33 +1155,33 @@
 	[signup_password_hint]
 		en = Create a Password
 		es = Crea una contraseña
-		fr = Choisir un mot de passe
+		fr = Mot de passe
 		it = Crea una password
 		ru = Создать пароль
-		zh-Hans = 创建口令
+		zh-Hans = 创建密码
 	[tour_description_page_2]
-		en = Create and curate Galleries of your favourite photos
+		en = Create and curate Galleries of your favorite photos
 		es = Create and curate Galleries of your favourite photos
 		fr = Créez des galeries de vos photos préférées
 		it = Crea e cura Gallerie con le tue foto preferite
-		ru = Создавайте и курируйте галереи ваших любимых фотографий
-		zh-Hans = 创建主题画廊，收藏并展示您喜爱的作品
+		ru = Создавайте галереи из своих фотографий, или станьте куратором любых фотографий на 500px
+		zh-Hans = 用您最爱的照片整理创建画廊
 	[signup_confirm_account_creation_title]
 		en = Creating Account
 		es = Creando una cuenta
-		fr = Créer un compte
+		fr = Création de compte
 		it = Creazione account
-		ru = Создаем учетную запись
-		zh-Hans = 创建账户
+		ru = Создания аккаунта
+		zh-Hans = 创建账号
 	[curated_by]
 		en = Curated by %@
 		es = Curated by %@
 		fr = Sélectionné par %@
 		it = Curata da %@
 		ru = Куратор %@
-		zh-Hans = %@ 策划
+		zh-Hans = 由 %@ 精选
 	[current_password]
-		en = Current Password
+		en = Current password
 		es = Current Password
 		fr = Mot de passe actuel
 		it = Current Password
@@ -1007,10 +1190,10 @@
 	[discover_title_debut]
 		en = Debuts
 		es = Debuts
-		fr = Débuts
+		fr = Debuts
 		it = Esordienti
 		ru = Дебют
-		zh-Hans = 首晒
+		zh-Hans = 首秀
 	[delete]
 		en = Delete
 		es = Eliminar
@@ -1023,12 +1206,12 @@
 		es = Delete comment
 		fr = Supprimer ce commentaire
 		it = Cancella commento
-		ru = Удалить
+		ru = Удалить коментарий
 		zh-Hans = 删除评论
 	[delete_gallery]
-		en = Delete gallery
+		en = Delete Gallery
 		es = Delete gallery
-		fr = Supprimer cette galerie
+		fr = Supprimer la galerie
 		it = Elimina Galleria
 		ru = Удалить галерею
 		zh-Hans = 删除画廊
@@ -1038,7 +1221,7 @@
 		fr = Description
 		it = Descrizione
 		ru = Описание
-		zh-Hans = 简介
+		zh-Hans = 描述
 	[suggestions_deselect_all]
 		en = Deselect all
 		es = Deselect all
@@ -1052,18 +1235,18 @@
 		fr = Détails
 		it = Dettagli
 		ru = Детали
-		zh-Hans = 细节
+		zh-Hans = 详细
 	[people]
 		en = People
 		es = People
 		fr = Utilisateurs
 		it = Persone
 		ru = Фотографы
-		zh-Hans = 用户
+		zh-Hans = 摄影师
 	[done]
 		en = Done
 		es = Listo
-		fr = OK
+		fr = Terminer
 		it = Fatto
 		ru = Готово
 		zh-Hans = 完成
@@ -1075,19 +1258,19 @@
 		ru = Изменить
 		zh-Hans = 编辑
 	[edit_gallery]
-		en = Edit gallery
+		en = Edit Gallery
 		es = Edit gallery
-		fr = Modifier cette galerie
+		fr = Modifier la galerie
 		it = Modifica Galleria
 		ru = Редактировать галерею
 		zh-Hans = 编辑画廊
 	[edit_profile]
 		en = Edit Profile
 		es = Edit Profile
-		fr = Editer votre profil
+		fr = Modifier profil
 		it = Modifica Profilo
 		ru = Редактировать профиль
-		zh-Hans = 编辑主页
+		zh-Hans = 编辑个人信息
 	[edit_recommendations]
 		en = Edit Recommendations
 		es = Edit Recommendations
@@ -1108,18 +1291,18 @@
 		fr = Editors' Choice
 		it = Dalla Redazione
 		ru = Выбор редакции
-		zh-Hans = 编辑精选
+		zh-Hans = 编辑推荐
 	[signup_email_hint]
 		en = Email address
 		es = Dirección de email
-		fr = Adresse E-mail
+		fr = Adresse e-mail
 		it = Indirizzo e-mail
-		ru = Адрес электронной почты
-		zh-Hans = 电子邮箱
+		ru = Емайл
+		zh-Hans = 邮箱地址
 	[quest_deadline_reached]
 		en = Ended
 		es = Ended
-		fr = Terminé
+		fr = Accompli
 		it = Terminata
 		ru = Окончен
 		zh-Hans = 已结束
@@ -1143,7 +1326,7 @@
 		fr = Facebook
 		it = facebook
 		ru = Facebook
-		zh-Hans = Facebook
+		zh-Hans = Facebook脸书
 	[discover_category_family]
 		en = Family
 		es = Familia
@@ -1184,12 +1367,12 @@
 		es = Películas
 		fr = Argentique
 		it = Analogiche
-		ru = Плёночная
-		zh-Hans = 胶片
+		ru = Фильм
+		zh-Hans = 电影
 	[find_people]
 		en = Find people
 		es = Find people
-		fr = Trouvez des utilisateurs
+		fr = Trouver des photographes
 		it = Trova Persone
 		ru = Найти фотографов
 		zh-Hans = 浏览用户
@@ -1222,7 +1405,7 @@
 		ru = Искусство
 		zh-Hans = 艺术
 	[first_name]
-		en = First Name
+		en = First name
 		es = Nombre
 		fr = Prénom
 		it = Nome
@@ -1236,7 +1419,7 @@
 		ru = В друзья
 		zh-Hans = 关注
 	[suggestions_follow_all]
-		en = Follow and Continue
+		en = Follow and continue
 		es = Follow and Continue
 		fr = Continuer
 		it = Segui e continua
@@ -1252,17 +1435,17 @@
 	[follow_more_people_message]
 		en = Follow more people and see their latest photos here.
 		es = Sigue a más personas y mira sus fotos más recientes aquí.
-		fr = Suivez plus de personne et contemplez leurs dernières photos ici.
+		fr = Suivez plus de gens et de voir leurs dernières photos ici.
 		it = Segui più persone e visualizza qui le loro foto più recenti.
-		ru = Добавьте больше людей в друзья что бы следить за их новыми работами.
-		zh-Hans = 关注更多摄影师，第一时间在这里看到他们的更新。
+		ru = ` Следуйте больше людей и видеть их последние фотографии здесь.`
+		zh-Hans = 关注更多用户，您将第一时间在这里看到他们的更新。
 	[welcome_home_description]
-		en = Follow your friends and favorite photographers to see their newest uploads here.
+		en = Follow your friends and favorite photographers to see their newest uploads here
 		es = Sigue a tus amigos y a fotógrafos creativos para ver sus cargas más recientes aquí.
-		fr = Suivez vos amis et vos photographes préférés pour voir leurs dernières photos.
+		fr = Suivez vos amis et photographes préférés pour voir leurs dernières créations
 		it = Segui i tuoi amici e fotografi preferiti per visualizzare qui i loro caricamenti più recenti.
 		ru = Следите за новыми работами ваших друзей и любимых фотографов.
-		zh-Hans = 关注好友及您所喜爱的摄影师，第一时间在这里看到他们的更新。
+		zh-Hans = 关注你的朋友和最爱的摄影师，在这里看到他们最新上传
 	[follow_n_people]
 		en = %#@follow_d_people@
 		es = %#@follow_d_people@
@@ -1273,10 +1456,10 @@
 	[following]
 		en = Following
 		es = Siguiendo
-		fr = Abonnements
+		fr = Abonné
 		it = Seguiti
 		ru = В друзьях
-		zh-Hans = 关注中
+		zh-Hans = 正在关注
 	[following_n]
 		en = %#@Following_d@
 		es = %#@Following_d@
@@ -1297,14 +1480,14 @@
 		fr = Nourriture
 		it = Cibo
 		ru = Еда
-		zh-Hans = 食物
+		zh-Hans = 美食
 	[login_signup_forgot_your_password]
 		en = Forgot your password?
 		es = ¿Olvidaste la contraseña?
-		fr = Mot de passe oublié ?
+		fr = Oubli du mot de passe
 		it = Password dimenticata?
 		ru = Забыли пароль?
-		zh-Hans = 忘记了您的密码？
+		zh-Hans = 忘记了你的密码？
 	[discover_title_fresh]
 		en = Fresh
 		es = Reciente
@@ -1336,10 +1519,10 @@
 	[discover_subtitle_editors]
 		en = Hand-Picked by Top Photographers
 		es = Seleccionadas a mano por los fotógrafos más importantes
-		fr = Sélection de nos meilleurs photographes
+		fr = Sélectionné par nos meilleurs photographes
 		it = Selezionate dai migliori fotografi
 		ru = Подобрано ведущими фотографами
-		zh-Hans = 由一流摄影师亲手挑选
+		zh-Hans = 顶级摄影师推荐
 	[help]
 		en = Help
 		es = Ayuda
@@ -1350,10 +1533,10 @@
 	[rate_dialog_title]
 		en = How do you like 500px?
 		es = ¿Qué te parece 500px?
-		fr = Etes vous satisfait de l'application 500px?
+		fr = Que pensez vous de 500px ?
 		it = Come ti sembra 500px?
 		ru = Нравится ли вам 500px?
-		zh-Hans = 您对500px印象如何？
+		zh-Hans = 特别喜欢500px吗?
 	[i_already_have_an_account]
 		en = I already have an account
 		es = I already have an account
@@ -1406,10 +1589,10 @@
 	[tour_description_page_3]
 		en = Join over 6 million inspiring photographers
 		es = Join over 6 million inspiring photographers
-		fr = Rejoignez plus de 6 millions de photographes
+		fr = Rejoignez plus de 6 millions de photographers
 		it = Entra a far parte della community internazionale con più di 6 milioni di utenti
-		ru = Присоеденяйтись к сообществу с более 6 миллионов фотографов
-		zh-Hans = 加入世界各地7百万用户共同的摄影社区
+		ru = Присоединяйтесь к сообществу из 6 миллионов фотографов
+		zh-Hans = 加入超过6百万鼓舞人心的摄影师
 	[join_the_beta]
 		en = Join the Beta
 		es = Join the Beta
@@ -1439,19 +1622,19 @@
 		ru = Пейзажи
 		zh-Hans = 风景
 	[last_name]
-		en = Last Name
+		en = Last name
 		es = Apellido
-		fr = Nom
+		fr = Nom de famille
 		it = Cognome
 		ru = Фамилия
 		zh-Hans = 姓
 	[discover_subtitle_fresh]
 		en = Latest Photos from the Community
 		es = Las fotos más recientes de la Comunidad
-		fr = Les nouvelles photos de la communauté
+		fr = Les dernières photos de la communauté
 		it = Le foto più recenti dalla community
 		ru = Свежие Фотографий Сообщества
-		zh-Hans = 来自本社区的最新作品
+		zh-Hans = 社区最新照片
 	[learn_more]
 		en = Learn more
 		es = Learn more
@@ -1462,7 +1645,7 @@
 	[onboarding_get_started_new_user_title]
 		en = Let's get started
 		es = Let's get started
-		fr = C'est parti
+		fr = Commençons
 		it = Forza, iniziamo
 		ru = Давайте начнем
 		zh-Hans = 现在就开始吧。
@@ -1474,40 +1657,40 @@
 		ru = Загрузить больше комментарий
 		zh-Hans = 加载更多评论
 	[loading]
-		en = Loading...
+		en = Loading
 		es = Cargando...
-		fr = Chargement...
+		fr = Chargement
 		it = Caricamento...
-		ru = Загрузка...
-		zh-Hans = 加载中...
+		ru = Загрузка
+		zh-Hans = 加载中
 	[location]
 		en = Location
 		es = Ubicación
-		fr = Emplacement
+		fr = Adresse
 		it = Località
 		ru = Местоположение
-		zh-Hans = 位置
+		zh-Hans = 地理位置
 	[log_in]
 		en = Log in
 		es = Iniciar sesión
-		fr = Se Connecter
+		fr = Se connecter
 		it = Accedi
 		ru = Войти
-		zh-Hans = 登录
+		zh-Hans = 登入
 	[login_with_facebook]
 		en = Log in with Facebook
 		es = Acceder con Facebook
 		fr = Se connecter avec Facebook
 		it = Accedi a Facebook
 		ru = Войти с Facebook
-		zh-Hans = 用 Facebook 登录
+		zh-Hans = ` 用Facebook账号登入`
 	[log_out]
 		en = Log out
 		es = Cerrar sesión
-		fr = Se Déconnecter
+		fr = Se déconnecter
 		it = Esci
 		ru = Выйти
-		zh-Hans = 退出
+		zh-Hans = 登出
 	[login_signup_error]
 		en = Login/Signup error
 		es = Error de Inicio de sesión/Registro
@@ -1556,7 +1739,7 @@
 		fr = Nom
 		it = Nome
 		ru = Имя
-		zh-Hans = 姓名
+		zh-Hans = 名字
 	[discover_category_nature]
 		en = Nature
 		es = Naturaleza
@@ -1569,8 +1752,8 @@
 		es = New
 		fr = Nouveau
 		it = Nuove
-		ru = Новое
-		zh-Hans = 新
+		ru = Свежие
+		zh-Hans = 最新
 	[new_galleries]
 		en = New Galleries
 		es = New Galleries
@@ -1581,14 +1764,14 @@
 	[new_gallery]
 		en = New Gallery
 		es = New Gallery
-		fr = Nouvelle Galerie
+		fr = Nouvelle galerie
 		it = Nuova Galleria
 		ru = Новая галерея
 		zh-Hans = 新画廊
 	[new_password]
-		en = New Password
+		en = New password
 		es = New Password
-		fr = Nouveau mot de passe
+		fr = Saissisez votre nouveau mot de passe
 		it = New Password
 		ru = Новый пароль
 		zh-Hans = 新密码
@@ -1610,33 +1793,33 @@
 		ru = Ни одной галереи
 		zh-Hans = 尚无画廊
 	[no_galleries_yet]
-		en = No Galleries Yet
+		en = No Galleries yet
 		es = No Galleries Yet
-		fr = Aucune galerie pour le moment
+		fr = Aucune galerie
 		it = Nessuna Galleria
-		ru = Пока ни одной галереи
-		zh-Hans = 尚无画廊
+		ru = Нет галерей
+		zh-Hans = 目前还没有画廊
 	[no_network_connection]
-		en = No Internet Connection...
+		en = No Internet Connection…
 		es = No hay conexión a internet...
-		fr = Pas de connexion internet...
+		fr = Pas de connexion internet…
 		it = Nessuna connessione internet...
-		ru = Нет соединения с Интернетом...
-		zh-Hans = 没有互联网连接...
+		ru = Нет соединения с Интернетом…
+		zh-Hans = 没有可用的网络连接…
 	[no_notifications]
-		en = No Notifications
+		en = No notifications
 		es = No hay notificaciones
 		fr = Aucune notification
 		it = Nessuna notifica
 		ru = Нет уведомлений
-		zh-Hans = 尚无通知
+		zh-Hans = 无通知
 	[onboarding_no_followers_found_title]
-		en = No People Found
+		en = No people found
 		es = No se encontraron personas
-		fr = Aucun utilisateur trouvé
+		fr = Aucun peuple trouvé
 		it = Nessuna persona trovata
-		ru = Никто не найден
-		zh-Hans = 未找到任何人
+		ru = Не найдено ни одного человека
+		zh-Hans = 未找到用户
 	[no_photos]
 		en = No Photos
 		es = No hay fotos
@@ -1645,19 +1828,19 @@
 		ru = Нет фотографии
 		zh-Hans = 尚无照片
 	[no_photos_found]
-		en = No Photos Found
+		en = No photos found
 		es = No se encontraron fotos
 		fr = Aucune photo trouvée
 		it = Nessuna foto trovata
 		ru = Фотографии не найдены
-		zh-Hans = 未找到照片
+		zh-Hans = 没有搜索到照片
 	[no_photos_yet]
-		en = No Photos Yet
+		en = No photos yet
 		es = Aún no hay fotos
-		fr = Pas encore de photo
+		fr = Aucune photo
 		it = Ancora nessuna foto presente
-		ru = Еще ничего не загружено
-		zh-Hans = 尚无照片
+		ru = Нет фотографий
+		zh-Hans = 目前还没有图片
 	[no_twitter_accounts]
 		en = No Twitter Accounts
 		es = No hay cuentas de Twitter
@@ -1706,25 +1889,25 @@
 		fr = Nu
 		it = Nudo
 		ru = Ню
-		zh-Hans = 人体艺术
+		zh-Hans = 人体
 	[report_offensive]
 		en = Offensive (rude, obscene)
 		es = Ofensivo (grosero, obsceno)
 		fr = Offensant (grossier, obscène)
 		it = Offensiva (volgare, oscena)
 		ru = Оскорбительное (грубое, непристойное)
-		zh-Hans = 侮辱性内容（粗鲁、下流）
+		zh-Hans = 暴力（粗鲁或淫秽）
 	[report_offtopic]
 		en = Offtopic (trolling)
 		es = Fuera de contexto (provocador)
 		fr = Hors-Sujet
 		it = Off topic (troll)
 		ru = Оффтопик (троллинг)
-		zh-Hans = 跑题（钓鱼）
+		zh-Hans = 标题不符（有欺骗性）
 	[ok]
 		en = OK
 		es = OK
-		fr = OK
+		fr = Ok
 		it = OK
 		ru = OK
 		zh-Hans = 确认
@@ -1734,7 +1917,7 @@
 		fr = Plus tard
 		it = Non ora
 		ru = Не сейчас
-		zh-Hans = 稍后
+		zh-Hans = 稍后再说
 	[onboarding_error_description]
 		en = Check your internet connection and try again later
 		es = Check your internet connection and try again later
@@ -1750,14 +1933,14 @@
 		ru = Нет соединения с интернетом...
 		zh-Hans = 网络无法连接
 	[onboarding_loading_feed_text]
-		en = Please stand by
+		en = Please stand by.
 		es = Please stand by
-		fr = Veuillez patienter
+		fr = Veuillez patienter.
 		it = Attendi per favore
-		ru = Пожалуйста, ожидайте
+		ru = Пожалуйста, ожидайте.
 		zh-Hans = 请稍后
 	[onboarding_loading_feed_title]
-		en = Beautiful photos coming your way!
+		en = Beautiful photos are coming your way!
 		es = Beautiful photos coming your way!
 		fr = De magnifiques photos arrivent!
 		it = `Stiamo caricando fantastiche foto! `
@@ -1766,9 +1949,9 @@
 	[onboarding_restart_button]
 		en = Try again
 		es = Try again
-		fr = Recommencer
+		fr = Réessayer
 		it = `Prova di nuovo `
-		ru = Попробуйте еще раз
+		ru = Попробуй еще раз
 		zh-Hans = 请重试
 	[onboarding_user_list_title]
 		en = Browse and choose who you want to follow.
@@ -1782,7 +1965,7 @@
 		es = Select all
 		fr = Tout sélectionner
 		it = Seleziona tutto
-		ru = Выбрать все
+		ru = Выделить все
 		zh-Hans = 全选
 	[or]
 		en = or
@@ -1799,23 +1982,23 @@
 		ru = Пароль
 		zh-Hans = 密码
 	[signup_password_too_short]
-		en = Passwords must be at least 6 characters long
+		en = Passwords must be at least 6 characters
 		es = Las contraseñas deben contener al menos 6 caracteres
-		fr = Les mots de passe doivent contenir 6 caractères ou plus
+		fr = Votre de passe doit contenir au moins 6 caractères
 		it = Le password devono essere lunghe almeno 6 caratteri
 		ru = Пароль должен быть как минимум 6 знаков
-		zh-Hans = 密码必须至少6个字符
+		zh-Hans = 密码至少为6个字符
 	[discover_category_people]
 		en = People
 		es = Personas
 		fr = Portrait
 		it = Persone
-		ru = Люди
+		ru = Портреты
 		zh-Hans = 人物
 	[discover_category_performing_arts]
 		en = Performing Arts
 		es = Artes escénicas
-		fr = Spectacles
+		fr = Spectacle
 		it = Spettacolo
 		ru = Представление
 		zh-Hans = 表演艺术
@@ -1845,7 +2028,7 @@
 		es = Fotos
 		fr = Photos
 		it = Foto
-		ru = Фото
+		ru = Фотографии
 		zh-Hans = 照片
 	[photos_by]
 		en = Photos by %@
@@ -1853,14 +2036,14 @@
 		fr = Photos par %@
 		it = Fotografie di %@
 		ru = Автор фото %@
-		zh-Hans = %@ 拍摄
+		zh-Hans = ` %@的照片`
 	[photos_tagged_with]
 		en = Photos tagged with "%@"
 		es = Fotos etiquetadas con "%@"
-		fr = Photos avec le mot-clé "%@"
+		fr = Photos contenant le mot clé "%@"
 		it = Foto taggate come "%@"
 		ru = Фото с тэгом "%@"
-		zh-Hans = 带 "%@" 标签的照片
+		zh-Hans = 带 "%@"标签的照片
 	[please_enter_current_password]
 		en = Please enter your current password.
 		es = Please enter your current password.
@@ -1869,12 +2052,12 @@
 		ru = Введите ваш старый пароль.
 		zh-Hans = 请输入您当前的密码。
 	[rate_dialog_message]
-		en = Please let us know how you feel about the 500px app. It won't take more than a minute. Thanks for your support!
+		en = Please let us know how you feel about the 500px app. It won't take more than a minute.\n\nThanks for your support!
 		es = Haznos saber qué te parece la aplicación 500px. No te llevará más de un minuto. ¡Gracias por tu apoyo!
-		fr = Merci de nous faire savoir si vous appréciez l'application 500px. Cela ne prendra que quelques instants. Merci de votre aide!
+		fr = Partager vos impressions sur l'application. Cela ne prendra que quelques minutes. \n\nMerci pour votre soutien !
 		it = Facci sapere che cosa ne pensi dell'app 500px. Impiegherai meno di un minuto. Grazie per il tuo supporto!
 		ru = Поделитесь вашим мнением по нашему приложению. Это займет не больше минуты. Спасибо за вашу поддержку!
-		zh-Hans = 我们期待收到您对500px应用的使用反馈。它很简短，将占用不超过1分钟时间。我们非常感谢您的支持！
+		zh-Hans = 请告诉我们你觉得500px怎么样？不会超过一分钟的。\n\感谢您的支持!
 	[register_notifications_failed_message]
 		en = Please make sure that you approve 500px in Settings/Notifications.
 		es = Asegúrate de que apruebas a 500px en Ajustes/Notificaciones.
@@ -1892,24 +2075,24 @@
 	[discover_title_popular]
 		en = Popular
 		es = Populares
-		fr = Populaire
+		fr = Popular
 		it = Popolari
 		ru = Популярное
 		zh-Hans = 热门
 	[discover_galleries_trending_subtitle]
-		en = Popular right now
+		en = Galleries popular right now
 		es = Popular right now
 		fr = Le meilleur du moment
 		it = Popolari in questo preciso momento
-		ru = В тренде сейчас
-		zh-Hans = Popular right now
+		ru = Популярные галереи на данный момент
+		zh-Hans = 热门画廊
 	[private_title]
 		en = Private
 		es = Private
 		fr = Privé
 		it = Privata
-		ru = Скрытая
-		zh-Hans = 私密
+		ru = Личный
+		zh-Hans = 隐私
 	[quest_prize_header_caps]
 		en = PRIZE
 		es = PRIZE
@@ -1923,7 +2106,7 @@
 		fr = Nouvelles photos prometteuses
 		it = Nuovi scatti che promettono bene
 		ru = Перспективные Новые Работы
-		zh-Hans = 最新上传的优质作品
+		zh-Hans = 有潜力的最新上传
 	[pulse]
 		en = Pulse
 		es = Pulse
@@ -1943,7 +2126,7 @@
 		es = Quests
 		fr = Concours photo
 		it = Quest
-		ru = Фото Квесты
+		ru = КвестыКвесты
 		zh-Hans = 征集
 	[rate_500px_on_app_store]
 		en = Rate 500px on the App Store
@@ -1972,7 +2155,7 @@
 		fr = Photo recommandée
 		it = Foto consigliate
 		ru = Рекомендованное Фото
-		zh-Hans = 推荐照片
+		zh-Hans = 被推荐的照片
 	[remove_from_gallery]
 		en = Remove from Gallery
 		es = Remove from Gallery
@@ -2046,7 +2229,7 @@
 	[save]
 		en = Save
 		es = Save
-		fr = Save
+		fr = Enregistrer
 		it = Salva
 		ru = Сохранить
 		zh-Hans = 保存
@@ -2060,10 +2243,10 @@
 	[search_hint]
 		en = Search 500px
 		es = Buscar en 500px
-		fr = Recherche 500px
+		fr = Rechercher 500px
 		it = Cerca su 500px
 		ru = Поиск 500px
-		zh-Hans = 搜索 500px
+		zh-Hans = 搜索500px
 	[see_all]
 		en = See all
 		es = See all
@@ -2079,9 +2262,9 @@
 		ru = Поделитесь вашими идеями
 		zh-Hans = 请告诉我们您的想法
 	[set_as_cover]
-		en = Set as Cover
+		en = Set as cover
 		es = Set as Cover
-		fr = Mettre en bannière
+		fr = Utiliser comme bannière
 		it = Foto di Copertina
 		ru = Сделать обложкой
 		zh-Hans = 设置为封面
@@ -2102,31 +2285,31 @@
 	[share_this_photo]
 		en = Share this photo
 		es = Comparte esta foto
-		fr = Partager cette photo
+		fr = Partagez cette photo
 		it = Condividi questa foto
 		ru = Поделиться этой фото
-		zh-Hans = 分享此照片
+		zh-Hans = 分享这张照片
 	[tour_description_page_1]
 		en = Share your best photos with the community
 		es = Share your best photos with the community
-		fr = Partagez vos meilleurs photos avec la communauté
+		fr = Partager vos meilleures photos avec la communauté
 		it = Condiviti le tue migliori foto con la community
-		ru = Поделитесь вашими лучшими фотографиями с нами
-		zh-Hans = 与众分享您最好的摄影作品
+		ru = Загрузите несколько фотографий или проявите инициативу добавив людей в друзья.
+		zh-Hans = 与社区分享您的最佳照片
 	[sign_up]
 		en = Sign up
 		es = Registrarse
-		fr = S'inscrire
+		fr = Inscription
 		it = Registrati
 		ru = Подписаться
 		zh-Hans = 注册
 	[signup_with_facebook]
 		en = Sign up with Facebook
 		es = Registrarse con Facebook
-		fr = S'inscrire avec Facebook
+		fr = Inscription avec Facebook
 		it = Registrati con Facebook
 		ru = Подписаться с Facebook
-		zh-Hans = 用 Facebook 注册
+		zh-Hans = 用Facebook账号注册
 	[skip]
 		en = Skip
 		es = Skip
@@ -2154,7 +2337,7 @@
 		fr = Spam/Publicités
 		it = Spam (pubblicità, autopromozione)
 		ru = Спам (объявления, самореклама)
-		zh-Hans = 垃圾邮件（广告、自我推销）
+		zh-Hans = 垃圾（广告或推销）
 	[quest_sponsored_by]
 		en = Sponsored by %@
 		es = Sponsored by %@
@@ -2175,7 +2358,7 @@
 		fr = Sport
 		it = Sport
 		ru = Спорт
-		zh-Hans = 体育
+		zh-Hans = 运动
 	[steal_this]
 		en = Steal this!
 		es = Steal this!
@@ -2195,14 +2378,14 @@
 		es = Calles
 		fr = Street
 		it = Street photography
-		ru = Уличная
-		zh-Hans = 街头
+		ru = Уличные
+		zh-Hans = 街拍
 	[quest_submit_photo]
 		en = Submit a photo
 		es = Submit a photo
 		fr = Soumettre une photo
 		it = Carica una foto
-		ru = Участвовать
+		ru = Подать фото заявку
 		zh-Hans = 提交一张照片
 	[submit_to_marketplace]
 		en = Submit to Marketplace
@@ -2240,61 +2423,61 @@
 		ru = Расскажите о себе
 		zh-Hans = 向500px社区介绍你自己
 	[upload_photo_description_hint]
-		en = Tell us more about this photo
+		en = Tell us more about your photo
 		es = Cuéntanos más acerca de esta foto
-		fr = Décrivez votre photo
+		fr = Description
 		it = Fornisci maggiori informazioni su questa foto
 		ru = Расскажите подробнее об этой фотографии
-		zh-Hans = 请介绍一下这张照片
+		zh-Hans = 讲讲这张照片
 	[onboarding_get_started_description]
-		en = Tell us what you like. We’ll help you find people to follow based on your choices here.
+		en = Tell us what you like and we'll find great people to follow based on your choices.
 		es = Tell us what you like. We’ll help you find people to follow based on your choices here.
-		fr = Nous allons vous aider à trouver des photographes auxquels vous abonner.
+		fr = Dites nous ce que vous aimez, nous vous aiderons à trouver des utilisateurs en fonction de vos choix.
 		it = Facci conoscere i tuoi gusti in fatto di fotografia. Noi ti aiuteremo a trovare persone da seguire in base alle tue scelte. Sicuro!
 		ru = Покажите что вам нравится и мы найдем интересных для вас людей.
-		zh-Hans = 告诉我们您的喜好。我们将为您搜索值得关注的有趣用户。明白啦！
+		zh-Hans = 告诉系统君您的喜好，系统君为您推介值得关注的用户。
 	[report_confirmation_gallery]
 		en = Thank you. You have reported this gallery.
 		es = Thank you. You have reported this gallery.
-		fr = Merci. Cette gallerie a été signalée.
+		fr = Merci.
 		it = Galleria segnalata correttamente.
 		ru = Спасибо. Сообщение о нарушении отправлено.
-		zh-Hans = 您举报了此画廊。谢谢！
+		zh-Hans = 谢谢，你已经举报了这个画廊
 	[report_confirmation_photo]
 		en = Thank you. You have reported this photo.
 		es = Gracias por reportar a esta foto.
-		fr = Merci d'avoir signalé cette photo.
+		fr = Merci.
 		it = Foto segnalata gorrettamente.
 		ru = Спасибо. Сообщение о нарушении отправлено.
-		zh-Hans = 您举报了这张照片。谢谢！
+		zh-Hans = 谢谢，你已经举报了这张照片
 	[report_confirmation_user]
 		en = Thank you. You have reported this user.
 		es = Gracias por reportar a este usuario.
-		fr = Merci d'avoir signalé cet utilisateur.
+		fr = Merci.
 		it = Utente segnalato correttamente
 		ru = Спасибо. Сообщение о нарушении отправлено.
-		zh-Hans = 您举报了这位用户。谢谢！
+		zh-Hans = 谢谢，你已经举报了这个用户
 	[discover_subtitle_popular_gallery]
 		en = The best galleries from our community
 		es = The best galleries from our community
-		fr = Les meilleures galleries de notre communauté
+		fr = Les meilleures galeries
 		it = Le migliori Gallerie dalla nostra community
 		ru = Лучшие галереи нашего сообщества
-		zh-Hans = 来自社区的最佳画廊
+		zh-Hans = 社区最佳画廊
 	[discover_galleries_new_subtitle]
 		en = The latest from the community
 		es = The latest from the community
-		fr = Les dernières galleries de la communauté
+		fr = Les dernières galleries
 		it = Le ultime dalla nostra community
-		ru = Свежее от сообщества
-		zh-Hans = 来自社区的最新画廊
+		ru = Последнее от нашего сообщества
+		zh-Hans = 来自社区的新画廊
 	[discover_subtitle_fresh_gallery]
 		en = The latest galleries created by our community
 		es = The latest galleries created by our community
-		fr = Les meilleures galleries de notre communauté
+		fr = Les dernières galleries créées par la communauté
 		it = Le ultime Gallerie create dalla nostra community
 		ru = Свежие галереи нашего сообщества
-		zh-Hans = 社区用户最新创建的画廊
+		zh-Hans = 社区最新画廊
 	[password_and_confirmation_dont_match]
 		en = The new password and the confirmation don't match!
 		es = The new password and the confirmation don't match!
@@ -2321,7 +2504,7 @@
 		es = Title
 		fr = Titre
 		it = Titolo
-		ru = Название
+		ru = Заголовок
 		zh-Hans = 标题
 	[marketplace_not_enough_tags_message]
 		en = To be admissible on the marketplace, your photo needs a minimum of 5 tags
@@ -2356,8 +2539,8 @@
 		es = Trending
 		fr = Populaire
 		it = Primo Piano
-		ru = Актуальные
-		zh-Hans = 当红
+		ru = Популярное
+		zh-Hans = 最潮
 	[trending_galleries]
 		en = Trending Galleries
 		es = Trending Galleries
@@ -2368,17 +2551,17 @@
 	[discover_subtitle_popular]
 		en = Trending Right Now
 		es = Tendencias del momento
-		fr = Les meilleures galeries du moment
+		fr = Le meilleur de 500px
 		it = Di tendenza in questo preciso momento
 		ru = Популярные на данный момент
-		zh-Hans = 当红作品
+		zh-Hans = 当下最潮最热
 	[try_a_different_search]
 		en = Try a different search
 		es = Intenta una búsqueda diferente
-		fr = Essayez une recherche différente
+		fr = Essayez une autre recherche
 		it = Prova un'altra ricerca
-		ru = Попробуйте другой поиск
-		zh-Hans = 换个搜索词试试
+		ru = Try a different search
+		zh-Hans = 换个搜索
 	[try_again]
 		en = Try again
 		es = Intenta de nuevo
@@ -2392,7 +2575,7 @@
 		fr = Twitter
 		it = Twitter
 		ru = Twitter
-		zh-Hans = Twitter
+		zh-Hans = Twitter推特
 	[login_twitter_google_unsupported]
 		en = Twitter and Google+\n are no longer supported.
 		es = Twitter and Google+\n are no longer supported.
@@ -2420,14 +2603,14 @@
 		fr = Sans catégorie
 		it = Senza categoria
 		ru = Без рубрики
-		zh-Hans = 未分类
+		zh-Hans = 无类别
 	[discover_category_underwater]
 		en = Underwater
 		es = Bajo el agua
-		fr = Sous l'eau
+		fr = Sous-marine
 		it = Foto subacquee
 		ru = Подводный мир
-		zh-Hans = 水下
+		zh-Hans = 水下摄影
 	[unfollow]
 		en = Unfollow
 		es = Unfollow
@@ -2466,7 +2649,7 @@
 	[update]
 		en = Update
 		es = Actualizar
-		fr = Enregistrer
+		fr = Mettre à jour
 		it = Aggiorna
 		ru = Обновить
 		zh-Hans = 更新
@@ -2487,7 +2670,7 @@
 	[upload]
 		en = Upload
 		es = Cargar
-		fr = OK
+		fr = Transfert
 		it = Carica
 		ru = Загрузить
 		zh-Hans = 上传
@@ -2557,17 +2740,17 @@
 	[discover_category_urban_exploration]
 		en = Urban Exploration
 		es = Exploración urbana
-		fr = Exploration urbaine
+		fr = Exploration Urbaine
 		it = Ambienti urbani
 		ru = Городские пейзажи
-		zh-Hans = 城市搜奇
+		zh-Hans = 城市探索
 	[login_username_email_hint]
 		en = Username or Email address
 		es = Nombre de usuario o dirección de email
-		fr = Nom d'utilisateur ou e-mail
+		fr = Identifiant ou e-mail
 		it = Nome utente o indirizzo e-mail
 		ru = Имя пользователя или емайл
-		zh-Hans = 用户名或邮件地址
+		zh-Hans = 用户名或邮箱地址
 	[view_n_comments]
 		en = View %@
 		es = Ver %@
@@ -2592,10 +2775,10 @@
 	[password_recover_success]
 		en = We have sent you the email with reset password instructions
 		es = Te hemos enviado el email con instrucciones para restablecer tu contraseña
-		fr = Les instructions pour réinitialiser votre mot de passe vous ont été envoyées par e-mail
+		fr = Un email vous a été envoyé avec les instructions nécessaires pour réinitialiser votre mot de passe
 		it = Ti abbiamo inviato l'e-mail contenente le istruzioni per reimpostare la password
 		ru = Мы отправили вам емайл с инструкциями по восстановлению пароля
-		zh-Hans = 我们给您发送了用于重设密码的电子邮件。
+		zh-Hans = 我们已经将重置密码的步骤发到了您的邮箱
 	[beta_tester_invitation_subtitle]
 		en = We value your opinion and would love if you would help us improve your 500px experience!
 		es = We value your opinion and would love if you would help us improve your 500px experience!
@@ -2622,8 +2805,8 @@
 		es = Sitio web
 		fr = Site Web
 		it = Sito web
-		ru = Сайт
-		zh-Hans = 网站
+		ru = Website
+		zh-Hans = 个人网页
 	[discover_category_wedding]
 		en = Wedding
 		es = Boda
@@ -2644,14 +2827,14 @@
 		fr = Bienvenue
 		it = Benvenuto/a a casa
 		ru = Главная Лента
-		zh-Hans = 欢迎来到您的500px家园
+		zh-Hans = 欢迎来到主页
 	[discover_subtitle_debut]
 		en = Welcoming New Creators
 		es = Bienvenida a los nuevos creadores
-		fr = Bienvenue aux nouveaux
+		fr = Bienvenue à nos nouveaux photographes
 		it = Il benvenuto ai nuovi fotografi
 		ru = Приветствуем Новых Фотографов
-		zh-Hans = 欢迎新人新作
+		zh-Hans = 欢迎新艺术家
 	[negative_feedback_confirmation_message]
 		en = We’re sorry you aren’t enjoying the app. Please let us know how you’d like us to improve!
 		es = Lamentamos que no estés disfrutando la aplicación. ¡Infórmanos cómo te gustaría que mejoremos!
@@ -2672,7 +2855,7 @@
 		fr = Contenu invalide (illustration, 3D)
 		it = Contenuto errato (illustrazioni, 3D)
 		ru = Неправильный контент(иллюстрации, 3D)
-		zh-Hans = 错误内容（绘画、3D）
+		zh-Hans = 错误的内容（插画或三维）
 	[wrong_image_size]
 		en = Wrong Image Size
 		es = Tamaño de imagen incorrecto
@@ -2707,7 +2890,7 @@
 		fr = Vous n'avez partagé aucune photo
 		it = Non hai condiviso nessuna foto
 		ru = Вы еще не поделились вашими фото
-		zh-Hans = 您还未分享任何图片
+		zh-Hans = 您还没有上传任何照片
 	[empty_photos_profile_subtitle]
 		en = You haven't uploaded any photos yet
 		es = Aún no has cargado ninguna foto
@@ -2806,3 +2989,801 @@
 		it = “500px” Vorrebbe Inviarti Notifiche
 		ru = «500px» хочет посылать вам уведомления
 		zh-Hans = “500px” 希望向您推送通知
+	[app_name]
+		en = 500px
+		fr = 500px
+		ru = 500px
+		zh-Hans = 500px
+	[company_name]
+		en = 500px
+		fr = 500px
+		ru = 500px
+		zh-Hans = 500px
+	[login_signup_or]
+		en = OR
+		fr = OU
+		ru = ИЛИ
+		zh-Hans = 登录或者注册
+	[login_signup_terms_of_service]
+		en = Read our Terms of Service
+		fr = Lire nos règles d'utilisation
+		ru = Прочитать Условия использования
+		zh-Hans = 阅读我们的服务条款
+	[login_signup_facebook_failed]
+		en = Facebook login failed
+		fr = Echec de la connexion avec Facebook
+		ru = Не удалось войти с Facebook
+		zh-Hans = Facebook登入失败
+	[login_signup_twitter_login]
+		en = Looking to login with {twitter}?
+		fr = Vous rechercher la connexion avec {twitter}?
+		ru = Вход с помощью {twitter}?
+		zh-Hans = 用{twitter}帐号登录？
+	[login_with_google]
+		en = Log in with Google
+		fr = Se connecter avec Google
+		ru = Войти с Google
+		zh-Hans = ` 用Google账号登入`
+	[login_username_required]
+		en = You must provide your Username or Email address
+		fr = Vous devez fournir un e-mail ou identifiant
+		ru = Пожалуйста введите имя пользователя или емайл
+		zh-Hans = 请提供你的用户名或邮箱地址
+	[login_password_required]
+		en = You must provide your Password
+		fr = Vous devez fournir un mot de passe
+		ru = Введите ваш пароль
+		zh-Hans = 请提供你的密码
+	[login_password_too_short]
+		en = Passwords are at least 6 characters
+		fr = Votre de passe doit contenir au moins 6 caractères
+		ru = Пароль должен быть как минимум 6 знаков
+		zh-Hans = 密码至少为6个字符
+	[logging_in]
+		en = Logging in
+		fr = Chargement en cours
+		ru = Войти
+		zh-Hans = 登入中
+	[login_google_services_unavailable_title]
+		en = Missing Google Play Services
+		fr = Google Play Services n'est pas installé
+		ru = Отсутсвует Google Play Services
+		zh-Hans = Google Play服务连接丢失
+	[login_google_services_unavailable]
+		en = You need to have Google Play Services installed in order to log in with Google. You can still login with the email address associated with your Google account. We will just need you to create a password.
+		fr = Google Play Services doit être installé pour se connecter avec Google. Vous pouvez néanmoins vous connecter avec l'adresse e-mail liée à votre compte Google. Vous devrez créer un mot de passe.
+		ru = Вам нужно установить Google Play Services для того что бы зайти с помощью Google. Вы все еще можете войти используя емайл связанный с вашим Google аккаунтом. Вам только нужно будет создать пароль.
+		zh-Hans = 使用Google帐户联合登录需安装Google Play服务。您也可以选择邮箱登入，填写Google帐户邮箱于邮箱一栏 ＋ 创建新密码即可。
+	[login_twitter_unsupported_title]
+		en = Twitter is no longer supported
+		fr = Twitter n'est plus supporté
+		ru = Мы больше не поддерживаем Twitter
+		zh-Hans = 对不起，我们暂时不支持Twitter联合登录
+	[login_twitter_unsupported]
+		en = You can still login with the email address associated with your Twitter account. We will just need you to create a password.
+		fr = Vous pouvez encore utiliser l'adresse mail associée à votre compte Twitter. Veuillez créer un nouveau mot de passe.
+		ru = Вы все еще можете войти с помощью Twitter. Вам надо будет создать пароль.
+		zh-Hans = 您仍旧可以使用Twitter帐户邮箱进行E-mail登入，仅需创建新密码即可。
+	[login_create_password_button]
+		en = Create Password
+		fr = Créer un mot de passe
+		ru = Создать пароль
+		zh-Hans = 创建密码
+	[signup_button]
+		en = Sign me up!
+		fr = Créer un compte
+		ru = Подпишите меня!
+		zh-Hans = 我要注册！
+	[signup_with_google]
+		en = Sign up with Google
+		fr = Inscription avec Google
+		ru = Подписаться с Google
+		zh-Hans = 用Google账号注册
+	[signup_email_required]
+		en = You must provide an Email address
+		fr = Vous devez fournir une adresse e-mail
+		ru = Введите ваш емайл
+		zh-Hans = 请提供一个邮箱地址
+	[signup_password_required]
+		en = You must create a Password
+		fr = Vous devez fournir un mot de passe
+		ru = Создайте пароль
+		zh-Hans = 请创建一个密码
+	[signup_email_invalid]
+		en = That is not a valid Email address
+		fr = Cet e-mail n'est pas valide
+		ru = Это не является допустимым емайлом
+		zh-Hans = 这不是一个有效的邮箱地址
+	[signup_email_used]
+		en = This Email is already in use
+		fr = Cet e-mail est déjà utilisé
+		ru = Этот емайл уже в использований
+		zh-Hans = 这个邮箱已经被注册使用
+	[signup_failure]
+		en = Failed to create account. Please try again later
+		fr = Impossible de créer un compte. Veuillez ré-essayer plus tard
+		ru = Ошибка при созданий аккаунта. Попробуйте позже.
+		zh-Hans = 账号创建失败，请稍后重试
+	[signup_facebook_email_missing]
+		en = Failed: Your Facebook account does not contain an Email
+		fr = Erreur: Votre compte Facebook ne contient pas d'adresse e-mail
+		ru = Ошибка: Ваш Facebook аккаунт не имеет емайла
+		zh-Hans = 您的Facebook账户没有电子
+	[action_login]
+		en = Log In
+		fr = Se connecter
+		ru = Войти
+		zh-Hans = 登入
+	[action_discover]
+		en = Discover
+		fr = Découverte
+		ru = Cообщество
+		zh-Hans = 发现
+	[plus_error_msg]
+		en = Google Play Services is not available.
+		fr = Google Play Services n'est pas disponible.
+		ru = Google Play Services не доступен.
+		zh-Hans = Google Play 服务器不可用.
+	[photo_content_desc]
+		en = Photo
+		fr = Photo
+		ru = Фото
+		zh-Hans = 照片
+	[hello_world]
+		en = Hello world!
+		fr = Hello world!
+		ru = Привет мир!
+		zh-Hans = 你好世界！
+	[discover_blurb_popular]
+		en = Trending right now
+		fr = Le meilleur de 500px
+		ru = Популярные на данный момент
+		zh-Hans = 当下最潮最热
+	[discover_blurb_fresh]
+		en = The latest from the community
+		fr = Les dernières créations de la communauté
+		ru = Последнее от нашего сообщества
+		zh-Hans = 社区最近动态
+	[more]
+		en = More
+		fr = Plus
+		ru = Еще
+		zh-Hans = 更多
+	[no_galleries_found]
+		en = No galleries found
+		fr = Aucune galerie trouvée
+		ru = No galleries found
+		zh-Hans = 没有搜索到画廊
+	[no_people_found]
+		en = No people found
+		fr = Aucun utilisateur trouvé
+		ru = Никто не найден
+		zh-Hans = 没有搜索到摄影师
+	[no_internet_connection]
+		en = No internet connection
+		fr = Pas de connexion Internet
+		ru = Нет соединения с интернетом
+		zh-Hans = 无网络连接
+	[unable_to_login]
+		en = Unable to login.
+		fr = Impossible de se connecter.
+		ru = Ошибка авторизации/регистрации
+		zh-Hans = 无法登入
+	[get_image_chooser_title]
+		en = Choose a photo from
+		fr = Choisir une photo depuis
+		ru = Выберите фото из
+		zh-Hans = 从中选一张照片
+	[submit_from]
+		en = Submit from
+	[get_image_wrong_format]
+		en = Wrong format!
+		fr = Format invalide !
+		ru = Неправильный формат!
+		zh-Hans = 错误格式！
+	[no_image_found]
+		en = No image found!
+		fr = Aucune image trouvée !
+		ru = Нет фотографии!
+		zh-Hans = 找不到图片！
+	[update_photo_failed]
+		en = Failed to update your photo
+		fr = Echec lors de la mise à jour de votre photo
+		ru = Не удалось сохранить ваши изменения
+		zh-Hans = 无法更新图片
+	[add_to_gallery]
+		en = Add to Gallery
+		fr = Ajouter dans une galerie
+		ru = Добавить в Галерею
+		zh-Hans = 添加到画廊
+	[add_new_keyword]
+		en = Add new keyword
+		fr = Ajouter un mot clé
+		ru = Добавьте ключевое слово
+		zh-Hans = 添加新关键字
+	[suggested_tags]
+		en = Suggested
+	[suggested_tags_request_failed]
+		en = Unable to retrieve tag suggestions
+	[notification_upload_complete_title]
+		en = Upload Complete
+		fr = Transfert terminé
+		ru = Загрузка окончена
+		zh-Hans = 上传成功
+	[notification_upload_complete_body]
+		en = Completed upload of your photo
+		fr = Votre photo a été transférée
+		ru = Загрузка вашей фото окончена
+		zh-Hans = 您的照片上传完成了
+	[notification_uploading_title]
+		en = Uploading
+		fr = En cours
+		ru = Загружается
+		zh-Hans = 上传中
+	[notification_uploading_body]
+		en = Uploading your photo
+		fr = Transfert en cours
+		ru = Ваше фото загружается
+		zh-Hans = 上传照片中
+	[notification_upload_failed_title]
+		en = Upload Failed
+		fr = Echec du transfert
+		ru = Ошибка при загрузке
+		zh-Hans = 上传失败
+	[notification_upload_failed_body]
+		en = Failed to upload your photo
+		fr = Impossible de transférer votre photo
+		ru = Ошибка при загрузке вашей фото
+		zh-Hans = 你的照片上传失败了
+	[notification_upload_starting]
+		en = Started upload to 500px
+		fr = Début du transfert vers 500px
+		ru = Загружаем на 500px
+		zh-Hans = 开始上传至500px
+	[upload_no_network_connection]
+		en = There is no internet connection to upload the photo
+	[upload_your_first_photo]
+		en = Upload your first photo!
+	[upload_your_photos_here]
+		en = Upload your photos here!
+	[title_activity_search]
+		en = Search
+		fr = Recherche
+		ru = Поиск
+		zh-Hans = 搜索
+	[share_via]
+		en = Share via
+		fr = Partager via
+		ru = Поделиться
+		zh-Hans = 分享到
+	[following_count]
+		en = Following %@
+		fr = Abonnements %@
+		ru = В друзьях %@
+		zh-Hans = 正在关注 %@
+	[followers_count_singular]
+		en = %@ Follower
+		fr = %@ Abonné
+		ru = %@ Подписчик
+		zh-Hans = %@ 名粉丝
+	[followers_count_plural]
+		en = %@ Followers
+		fr = %@ Abonnés
+		ru = %@ Подписчики
+		zh-Hans = %@ 名粉丝
+	[rate_dialog_ok]
+		en = Love it!
+		fr = Oui
+		ru = Очень нравится!
+		zh-Hans = 特别特别喜欢！
+	[rate_dialog_cancel]
+		en = Later
+		fr = Plus tard
+		ru = Может быть позже
+		zh-Hans = 稍后再说特别特别喜欢吧~
+	[rate_dialog_no]
+		en = Feedback
+		fr = Donnez votre avis
+		ru = Свяжитесь с нами
+		zh-Hans = 反馈
+	[general]
+		en = General
+		fr = Général
+		ru = Общее
+		zh-Hans = 通用
+	[feedback]
+		en = Feedback
+		fr = Donnez votre avis
+		ru = Свяжитесь с нами
+		zh-Hans = 反馈
+	[rate_500px]
+		en = Rate 500px app
+		fr = Notez l'application 500px
+		ru = Оценить 500px в App Store
+		zh-Hans = ` 500px app评分`
+	[personalization_ai_recommendations]
+		en = See Personalization AI Recommendations
+	[report_photo]
+		en = Report Photo
+		fr = Signaler la photo
+		ru = Пожаловаться
+		zh-Hans = 照片举报
+	[report_user]
+		en = Report User
+		fr = Signaler l'utilisateur
+		ru = Пожаловаться
+		zh-Hans = 用户举报
+	[report_gallery]
+		en = Report Gallery
+		fr = Signaler la galerie
+		ru = Пожаловаться
+		zh-Hans = 画廊举报
+	[report_nsfw]
+		en = Should be tagged as adult content
+		fr = Contenu pour adultes
+		ru = Для взрослых
+		zh-Hans = 应标记为成人内容
+	[confirm_report_photo]
+		en = You are about to report this photo for:
+		fr = Vous allez signaler cette photo pour:
+		ru = Пожаловаться на фото
+		zh-Hans = 你就要举报此照片，原因为：
+	[confirm_report_user]
+		en = You are about to report this user for:
+		fr = Vous allez signaler cet utilisateur pour:
+		ru = Пожаловаться на пользователя
+		zh-Hans = 你就要举报此用户，原因为：
+	[confirm_report_gallery]
+		en = You are about to report this gallery for:
+		fr = Vous allez signaler cette galerie pour:
+		ru = Пожаловаться на галерею
+		zh-Hans = 你就要举报此画廊，原因为：
+	[delete_photo_failed]
+		en = Failed to delete photo
+		fr = Impossible de supprimer cette photo
+		ru = Не удалось удалить фото
+		zh-Hans = 无法删除图片
+	[confirm_are_you_sure]
+		en = Are you sure?
+		fr = Êtes vous sur?
+		ru = Вы уверены?
+		zh-Hans = 你确定吗？
+	[photo_details]
+		en = Photo Details
+		fr = Détails
+		ru = Фото Детали
+		zh-Hans = 照片详情
+	[upload_photo_title_hint]
+		en = Title your photo
+		fr = Titre
+		ru = Заголовок вашего фото
+		zh-Hans = 给你的照片命名
+	[add_comment]
+		en = Add comment
+		fr = Ajouter un commentaire
+		ru = Комментировать
+		zh-Hans = 添加评论
+	[report_failed]
+		en = Report failed. Please try again later.
+		fr = Echec. Veuillez réessayer plus tard.
+		ru = Произошла ошибка при попытке отправить сообщение о нарушении. Пожалуйста, попробуйте позже.
+		zh-Hans = 举报失败，请稍后重试
+	[about]
+		en = About
+		fr = A Propos
+		ru = Био
+		zh-Hans = 关于
+	[gallery_delete_confirmation_detail]
+		en = Deleting a Gallery cannot be undone
+		fr = Il n'est pas possible d'annuler la suppression d'une galerie.
+		ru = Удаленные галереи востановлению не подлежат
+		zh-Hans = 画廊删除不能复原
+	[network_error]
+		en = Network Error
+		fr = Erreur de connexion
+		ru = Нет доступа к сети
+		zh-Hans = 网络出错
+	[bad_deeplink]
+		en = Failed to open link
+		fr = Impossible d'ouvrir ce lien
+		ru = Не получилось открыть ссылку
+		zh-Hans = 打开连接失败
+	[most_popular_photos_on_500px]
+		en = The most popular photos on 500px
+		fr = Les photos les plus populaires sur 500px
+		ru = Лучшие работы на 500px
+		zh-Hans = ` 500px上最热照片`
+	[separator_dot]
+		en = •
+		fr = •
+		ru = •
+		zh-Hans = •
+	[updating_gallery]
+		en = Updating gallery
+		fr = Mise à jour de la galerie
+		ru = Сохраняем изменения галереи
+		zh-Hans = 画廊更新中
+	[unable_to_create_gallery]
+		en = Unable to create this gallery!
+		fr = Impossible de créer cette galerie
+		ru = Не удалось создать галерею!
+		zh-Hans = 画廊创建失败
+	[creating_new_gallery]
+		en = Creating new gallery
+		fr = Creation d'une nouvelle galerie
+		ru = Создать новую галерею
+		zh-Hans = 创建新画廊
+	[error_creating_gallery]
+		en = Error attempting to create a gallery
+		fr = Erreur lors de la création de la galerie
+		ru = Ошибка при создании галереи
+		zh-Hans = 创建画廊时出错
+	[edit_complete]
+		en = Edit complete
+		fr = Modification terminée
+		ru = Изменения завершены
+		zh-Hans = 编辑完成
+	[unable_edit_gallery]
+		en = Unable to edit gallery
+		fr = Impossible de modifier la galerie
+		ru = Не удалось созранить изменения галереи
+		zh-Hans = 画廊编辑失败
+	[enable_storage_permissions]
+		en = Please enable storage permissions first
+		fr = Veuillez autoriser notre application a accéder à vos données
+		ru = Необходим доступ к хранилищу
+		zh-Hans = 需要预先给予存储访问许可
+	[gallery_has_been_deleted]
+		en = Your gallery has been deleted
+		fr = Votre galerie a été supprimée
+		ru = Ваша галерея удалена
+		zh-Hans = 画廊删除成功
+	[unable_delete_gallery]
+		en = Unable to delete gallery
+		fr = Impossible de supprimer la galerie
+		ru = Не удалось удалить галерею
+		zh-Hans = 画廊删除失败
+	[cancel_facebook_login]
+		en = Canceled Facebook login
+		fr = Annulation de la connexion Facebook
+		ru = Отменен вход с Facebook
+		zh-Hans = 取消用Facebook登入
+	[facebook_login_error]
+		en = Facebook login error
+		fr = Erreur lors de la connexion avec Facebook
+		ru = Ошибка при попытке входа с Facebook
+		zh-Hans = Facebook登入出错
+	[failed_getting_google_access_token]
+		en = Failed to get Google access token
+		fr = Impossible de récupérer votre jeton d'accès Google
+		ru = Не удалось аутентифицироваться с Google
+		zh-Hans = 获取谷歌令牌失败
+	[google_signin_failed]
+		en = Google sign in failed!
+		fr = Erreur de la connexion avec Google!
+		ru = Ошибка при попытки входа с Google!
+		zh-Hans = 用谷歌登入失败
+	[successfully_created_account]
+		en = Successfully created account!
+		fr = Compte créé avec succès!
+		ru = Ваш аккаунт создан!
+		zh-Hans = 账号创建成功！
+	[failed_to_signup]
+		en = Failed to signup
+		fr = Impossible de créer un compte
+		ru = Ошибка при регистрации
+		zh-Hans = 注册失败
+	[uploaded_started]
+		en = Your upload has started
+		fr = Votre transfert a démarré
+		ru = Загрузка началась
+		zh-Hans = 上传开始
+	[invalid_upload_intent]
+		en = Invalid upload request
+		fr = Echec du transfert
+		ru = Ошибка при загрузке
+		zh-Hans = 无效的上传请求
+	[login_before_upload]
+		en = Please log in before upload
+		fr = Veuillez vous identifier avant le transfert
+		ru = Для загрузки нужно войти
+		zh-Hans = 请先登入再上传
+	[like_by_list_no_others]
+		en = {liked_by_list} likes this photo.
+		fr = {liked_by_list} aiment cette photo.
+		ru = {liked_by_list} понравилось это фото.
+		zh-Hans = {liked_by_list} 喜欢这张照片。
+	[like_by_list_with_one_other]
+		en = {liked_by_list}, and one other like this photo.
+		fr = {liked_by_list}, et une autre personne aiment cette photo.
+		ru = {liked_by_list}, и еще одному понравилось это фото.
+		zh-Hans = {liked_by_list} 和另一位喜欢这张照片。
+	[like_by_list_with_others]
+		en = {liked_by_list}, and {others_count} others like this photo.
+		fr = {liked_by_list}, et {others_count} personnes aiment cette photo.
+		ru = {liked_by_list}, и {others_count} другим понравилось это фото.
+		zh-Hans = {liked_by_list} 和其他 {others_count} 位喜欢这张照片。
+	[people_like_this_photo]
+		en = {liked_count} people like this photo.
+		fr = {liked_count} personnes aiment cette photo.
+		ru = {liked_count} людям понравилось это фото.
+		zh-Hans = {liked_count} 人喜欢这张照片。
+	[one_person_likes_this_photo]
+		en = One person likes this photo.
+		fr = Une personne aime cette photo.
+		ru = одному человеку понравилось это фото.
+		zh-Hans = 1位社区成员喜欢这张照片
+	[retry]
+		en = Retry
+		fr = Réessayer
+		ru = Попробовать еще
+		zh-Hans = 重试
+	[reached_upload_limit]
+		en = You have reached your upload limit for the week
+		fr = Votre limite de transfert hebdomadaire est atteinte.
+		ru = Исчерпан лимит на загрузку
+		zh-Hans = 你已经用完了本周的上传限额
+	[other]
+		en = Other
+		fr = Autre
+		ru = Другое
+		zh-Hans = 其他
+	[updating]
+		en = Updating
+		fr = Mise à jour
+		ru = Обновляем
+		zh-Hans = 更新中
+	[remove]
+		en = Remove
+		fr = Supprimer
+		ru = Удалить
+		zh-Hans = 移除
+	[deleting]
+		en = Deleting
+		fr = Suppression en cours
+		ru = Удаляем
+		zh-Hans = 删除中……
+	[unable_remove_photo_from_gallery]
+		en = Unable to remove photo from gallery
+		fr = Impossible de retirer cette photo de la galerie
+		ru = Не удалось удалить фото из галереи
+		zh-Hans = 无法删除画廊中的图片
+	[remove_photo_from_gallery]
+		en = Remove photo from Gallery
+		fr = Retirer cette photo de la galerie
+		ru = Удалить фото из галереи
+		zh-Hans = 删除画廊中的图片
+	[set_gallery_cover_photo]
+		en = Set as Gallery cover photo
+		fr = Utiliser comme bannière pour cette galerie
+		ru = Сделать обложкой галереи
+		zh-Hans = 设置为画廊封面
+	[update_profile_avatar_failed]
+		en = Unable to update profile picture
+		fr = Impossible de changer votre avatar
+		ru = Не удалось обновить ваш аватар
+		zh-Hans = 无法更新您的头像
+	[update_gallery_cover_failed]
+		en = Unable to update Gallery cover photo
+		fr = Impossible de mettre à jours la bannière
+		ru = Не удалось обновить обложку галереи
+		zh-Hans = 无法更新画廊封面
+	[cover_photo_updated]
+		en = Cover photo updated
+		fr = Bannière mise à jour
+		ru = Обложка обновлена
+		zh-Hans = 封面图片已更新
+	[cover_photo_update_failed]
+		en = Unable to update cover photo
+		fr = Impossible de mettre à jour votre bannière
+		ru = Не удалось обновить обложку
+		zh-Hans = 无法更新封面图片
+	[upload_your_first_photo_message]
+		en = Upload your first photo to get activity from the community
+		fr = Transférez des photos et faites vous connaître par la communauté
+		ru = Загрузите несколько фотографий и будьте замеченным сообществом.
+		zh-Hans = 想得到更多关注么？上传些图片吧
+	[photo_quest_by]
+		en = A Photo Quest by %@
+		fr = Un concours photo par %@
+		ru = Фото Квест %@
+		zh-Hans = 摄影作品征集 by %@
+	[read_more_about_sponsor]
+		en = Read more about %@
+	[quest_challenge]
+		en = The challenge
+		fr = Détails du concours
+		ru = Задание
+		zh-Hans = 挑战
+	[quest_submissions]
+		en = Submissions
+		fr = Soumissions
+		ru = Заявки
+		zh-Hans = 参赛作品
+	[quests_my_submissions]
+		en = My submissions
+		fr = Mes soumissions
+		ru = Мои заявки
+		zh-Hans = 我的参赛作品
+	[quests_all_submissions]
+		en = All
+		fr = Toutes les soumissions
+		ru = Все
+		zh-Hans = 全部
+	[quest_inspiration]
+		en = Images to inspire you
+		fr = Des photos pour s'inspirer
+		ru = Вдохновление
+		zh-Hans = 创作参考
+	[quest_submission_successful]
+		en = Your photo has been submitted to %@!
+		fr = Votre photo a été soumise à %@
+		ru = Ваше фото заявлена в %@!
+		zh-Hans = 您地图片已提交至 %@!
+	[quest_submission_failed]
+		en = Quest submission failed. Please try again
+		fr = ` Soumission Quest a échoué. Veuillez réessayer`
+		ru = ` Представление Quest не удалось. Пожалуйста, попробуйте еще раз`
+		zh-Hans = 上传失败，请重试
+	[quest_submitting]
+		en = Submitting to quest…
+	[quest_winners_header]
+		en = Winners
+	[quest_brief_header]
+		en = Brief
+	[quest_prize_header]
+		en = Prize
+		fr = Prix
+		ru = Приз
+		zh-Hans = 奖品
+	[quest_rules_header]
+		en = Rules
+		fr = Règles
+		ru = Правила
+		zh-Hans = 活动细则
+	[quest_about_sponsor_header]
+		en = About %@
+	[quest_winners_tbd]
+		en = This Quest has ended! Check back later to see who won.
+	[quest_winners_description_single]
+		en = Congratulations to the winning entry in this Quest!
+	[quest_winners_description_multiple]
+		en = Congratulations to the winning entries in this Quest!
+	[confirm_new_password]
+		en = Repeat new password
+		fr = Repeat new password
+		ru = Saissisez votre nouveau mot de passe une 2ème fois
+		zh-Hans = 再次输入新密码
+	[passwords_do_not_match]
+		en = Passwords do not match
+		fr = La 2ème saisie du mot de passe doit être identique
+		ru = Пароли не совпадают
+		zh-Hans = 密码不相符
+	[current_password_required]
+		en = You must provide your current password
+		fr = Vous devez fournir votre mot de passe
+		ru = Вы должны ввести ваш пароль
+		zh-Hans = 请提供你的当前密码
+	[password_change_successful]
+		en = Your password has been changed
+		fr = Votre mot de passe a été modifié
+		ru = Ваш пароль обновлен
+		zh-Hans = 您的密码已更换
+	[password_change_failed]
+		en = Unable to change your password
+		fr = Erreur lors du changement du mot de passe
+		ru = Не удалось обновить ваш пароль
+		zh-Hans = 无法更换您的密码
+	[suggestions_title]
+		en = Suggestions for you
+		fr = Suggestions personnalisées
+		ru = Наши рекомендации
+		zh-Hans = 为您推介
+	[suggestions_description]
+		en = Based on your choices, here are some suggestions for you. We recommend following them all!
+		fr = Choisissez les photographes auxquels vous souhaitez vous abonner
+		ru = Следуя тому, что вы нам указали, вот наши рекомендации. Мы рекомендуем вам добавить всех в друзья.
+		zh-Hans = 根据您的选择，我们为您特别定制了如下推介。关注全部，首页内容更丰富！
+	[suggestions_ready_title]
+		en = We’ve found you some amazing photographers.
+		fr = Nous avons trouvé des photographes fantastiques
+		ru = Мы нашли интересных для вас фотографов.
+		zh-Hans = 我们为您找到了一些有趣的用户
+	[suggestions_ready_edit_list]
+		en = Edit Recommendations
+		fr = Modifier notre sélection
+		ru = Редактировать рекоммендации
+		zh-Hans = 修改选择
+	[onboarding_build_home_feed_title]
+		en = Let's build your home feed
+		fr = C'est parti!
+		ru = Давайти создадим вашу домашнюю ленту
+		zh-Hans = 开始定制您的首页吧。
+	[onboarding_build_feed_description]
+		en = What style of photography do you like?
+		fr = Dites nous quelles photos vous aimez
+		ru = Какой стиль фотографии вам по душе?
+		zh-Hans = 您喜爱哪一类摄影作品？
+	[onboarding_build_feed_pages]
+		en = What do you like? We'll help you find great people to follow based on your choices here.
+		fr = Dites nous quelles photos vous aimez et nous trouverons des photographes fantastiques auxquels vous abonner
+		ru = Что вам нравится? Мы поможем вам найти фотографов удовлетворяющих ваш вкус.
+		zh-Hans = 您会被怎样的摄影作品吸引？我们将根据您的喜好为您推介值得关注的优质用户。
+	[onboarding_category_progress]
+		en = %d of %d
+		fr = %d sur %d
+		ru = %d из %d
+		zh-Hans = %d ／ %d
+	[onboarding_no_followers_found_message]
+		en = We didn't find any matches for you. Choose other categories to find more results.
+		fr = Nous ne avons trouvé aucun match pour vous. Choisissez d'autres catégories pour trouver plus de résultats.
+		ru = Мы не нашли никаких совпадений для вас. Выберите другие категории , чтобы найти больше результатов.
+		zh-Hans = 很抱歉，我们未能找到匹配的用户。请尝试选择更多摄影主题。
+	[onboarding_get_started_existing_user_title]
+		en = Welcome back
+		fr = Bienvenue
+		ru = Добро пожаловать
+		zh-Hans = 欢迎回来
+	[lets_go]
+		en = Let's go!
+		fr = C'est parti!
+		ru = Начнем!
+		zh-Hans = 开始吧！
+	[hamburger_title]
+		en = 500px + Ronald McDonald House
+	[hamburger_subtitle]
+		en = Helping families, one click at a time
+	[hamburger_description]
+		en = We've partnered with Ronald McDonald House to support families with sick kids.
+	[unable_to_open_preview]
+		en = Unable to open preview
+	[your_500px_photos]
+		en = Your 500px photos
+	[activity_action_13]
+		fr = ` s'est abonné!`
+		ru = ` добавил вас в друзья!`
+		zh-Hans = ` 关注你啦！`
+	[activity_action_30]
+		fr = `Votre photo `
+		ru = ` в разделе Интересное!`
+		zh-Hans = ` 进入排名上升！`
+	[activity_action_31]
+		fr = `Votre photo `
+		ru = ` в разделе Популярные!`
+		zh-Hans = ` 成为了热门！`
+	[activity_action_8]
+		fr = `Votre photo `
+		ru = ` в разделе Выбор редакции!`
+		zh-Hans = ` 进入了编辑精选！`
+	[activity_action_302]
+		fr = `Votre galerie `
+		ru = `Ваша галерея `
+		zh-Hans = `你的画廊 `
+	[activity_action_verb_commented_on]
+		fr = commenté sur
+		ru = прокоментировал
+		zh-Hans = 评论了
+	[activity_action_verb_liked]
+		fr = a aimé
+		ru = понравилось
+		zh-Hans = 喜欢了
+	[activity_action_301]
+		fr = ` a ajouté {photo_name} à `
+		ru = ` добавил {photo_name} в `
+		zh-Hans = ` 添加了 {photo_name} 到 `
+	[activity_action]
+		fr = ` {verbs} `
+		ru = ` {verbs} `
+		zh-Hans = ` {verbs} `
+	[activity_comments]
+		fr = {comment_count} commentaires
+		ru = {comment_count} коментов
+		zh-Hans = {comment_count} 条评论
+	[activity_peoples]
+		fr = {user_count} utilisateurs
+		ru = {user_count} подписчиков
+		zh-Hans = {user_count} 位摄影师
+	[activity_photos]
+		fr = {photo_count} photos
+		ru = {photo_count} фотографий
+		zh-Hans = {photo_count} 张照片
