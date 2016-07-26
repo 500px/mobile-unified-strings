@@ -609,7 +609,7 @@
 		de = Noch %d Minuten
 		fr = %d minutes restantes
 		ru = Осталось %d минуты
-		zh-Hans = 还剩下 %d 分钟	
+		zh-Hans = 还剩下 %d 分钟
 	[minutes_left__few]
 		ru = Осталось %d минуты
 	[minutes_left__many]
@@ -4290,15 +4290,6 @@
 		fr = C'est parti!
 		ru = Начнем!
 		zh-Hans = 开始吧！
-	[hamburger_title]
-		en = 500px + Ronald McDonald House
-		de = 500px + Ronald McDonald House
-	[hamburger_subtitle]
-		en = Helping families, one click at a time
-		de = Hilfe für Familien. Klick für Klick.
-	[hamburger_description]
-		en = We've partnered with Ronald McDonald House to support families with sick kids.
-		de = Wir haben uns mit Ronald McDonald House zusammengeschlossen, um Familien mit kranken Kindern zu unterstützen.
 	[unable_to_open_preview]
 		en = Unable to open preview
 	[your_500px_photos]
