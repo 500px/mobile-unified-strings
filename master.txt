@@ -4295,62 +4295,80 @@
 	[your_500px_photos]
 		en = Your 500px photos
 	[activity_action_13]
-		de = ` ist jetzt ihr Fan!`
-		fr = ` s'est abonné!`
-		ru = ` добавил вас в друзья!`
-		zh-Hans = ` 关注你啦！`
+		en = ``<a href="/item"><b>{item}</b></a> is now following you!``
+		de = ``<a href="/item"><b>{item}</b></a> ist jetzt ihr Fan!``
+		fr = ``<a href="/item"><b>{item}</b></a> s'est abonné!``
+		ru = ``<a href="/item"><b>{item}</b></a> добавил вас в друзья!``
+		zh-Hans = ``<a href="/item"><b>{item}</b></a> 关注你啦！``
 	[activity_action_30]
-		de = ` ist jetzt in Upcoming!`
-		fr = `Votre photo `
-		ru = ` в разделе Интересное!`
-		zh-Hans = ` 进入排名上升！`
+		en = ``<a href="/item"><b>{item}</b></a> made it to Upcoming!``
+		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Upcoming!``
+		fr = ``Votre photo <a href="/item"><b>{item}</b></a> est Upcoming!``
+		ru = ``<a href="/item"><b>{item}</b></a> в разделе Интересное!``
+		zh-Hans = ``<a href="/item"><b>{item}</b></a> 进入排名上升！``
 	[activity_action_31]
-		de = ` ist jetzt in Popular!`
-		fr = `Votre photo `
-		ru = ` в разделе Популярные!`
-		zh-Hans = ` 成为了热门！`
+		en = ``<a href="/item"><b>{item}</b></a> made it to Popular!``
+		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Popular!``
+		fr = ``Votre photo <a href="/item"><b>{item}</b></a> est Populaire!``
+		ru = ``<a href="/item"><b>{item}</b></a> в разделе Популярные!``
+		zh-Hans = ``<a href="/item"><b>{item}</b></a> 成为了热门！``
 	[activity_action_8]
-		de = ` ist jetzt in Editor's Choice!`
-		fr = `Votre photo `
-		ru = ` в разделе Выбор редакции!`
-		zh-Hans = ` 进入了编辑精选！`
+		en = ``<a href="/item"><b>{item}</b></a> made it to Editor\'s Choice!``
+		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Editor\'s Choice!``
+		fr = ``Votre photo <a href="/item"><b>{item}</b></a> a été sélectionnée pour Editors\' Choice !``
+		ru = ``<a href="/item"><b>{item}</b></a> в разделе Выбор редакции!``
+		zh-Hans = ``<a href="/item"><b>{item}</b></a> 进入了编辑精选！``
 	[activity_action_302]
-		de = `Deine Galerie `
-		fr = `Votre galerie `
-		ru = `Ваша галерея `
-		zh-Hans = `你的画廊 `
+		en = ``Your gallery <a href="/item"><b>{item}</b></a> has been featured!``
+		de = ``Deine Galerie <a href="/item"><b>{item}</b></a> wird jetzt vorgestellt!``
+		fr = ``Votre galerie <a href="/item"><b>{item}</b></a> a été sélectionnée par nos éditeurs!``
+		ru = ``Ваша галерея <a href="/item"><b>{item}</b></a> в разделе Популярные!``
+		zh-Hans = ``你的画廊 <a href="/item"><b>{item}</b></a> 进入了编辑精选！``
 	[activity_action_verb_commented_on]
-		de = `hat `
+		en = commented on
+		de = ``hat <a href="/item"><b>{item}</b></a> kommentiert``
 		fr = commenté sur
 		ru = прокоментировал
 		zh-Hans = 评论了
 	[activity_action_verb_liked]
+		en = liked
 		de = gefällt
 		fr = a aimé
 		ru = понравилось
 		zh-Hans = 喜欢了
 	[activity_action_301]
-		de = ` hat {photo_name} zu `
-		fr = ` a ajouté {photo_name} à `
-		ru = ` добавил {photo_name} в `
-		zh-Hans = ` 添加了 {photo_name} 到 `
+		en = ``<a href="/user"><b>{user}</b></a> added {photo_name} to <a href="/item"><b>{item}</b></a>``
+		de = ``<a href="/user"><b>{user}</b></a> hat {photo_name} zu <a href="/item"><b>{item}</b></a>``
+		fr = ``<a href="/user"><b>{user}</b></a> a ajouté {photo_name} à <a href="/item"><b>{item}</b></a>``
+		ru = ``<a href="/user"><b>{user}</b></a> добавил {photo_name} в <a href="/item"><b>{item}</b></a>``
+		zh-Hans = ``<a href="/user"><b>{user}</b></a> 添加了 {photo_name} 到 <a href="/item"><b>{item}</b></a>``
 	[activity_action]
-		de = ` {verbs} `
-		fr = ` {verbs} `
-		ru = ` {verbs} `
-		zh-Hans = ` {verbs} `
+		en = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
+		de = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
+		fr = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
+		ru = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
+		zh-Hans = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 	[activity_comments]
+		en = {comment_count} comments
 		de = {comment_count} kommentare
 		fr = {comment_count} commentaires
 		ru = {comment_count} коментов
 		zh-Hans = {comment_count} 条评论
 	[activity_peoples]
+		en = {user_count} people
 		de = {user_count} personen
 		fr = {user_count} utilisateurs
 		ru = {user_count} подписчиков
 		zh-Hans = {user_count} 位摄影师
 	[activity_photos]
+		en = {photo_count} photos
 		de = {photo_count} fotos
 		fr = {photo_count} photos
 		ru = {photo_count} фотографий
 		zh-Hans = {photo_count} 张照片
+	[activity_quest_started]
+		en = ``New Photo Quest! Submit your photos to <a href="/item"><b>{item}</b></a>``
+	[activity_quest_non_winners_selected]
+		en = ``Winners have been selected for the Photo Quest <a href="/item"><b>{item}</b></a>``
+	[activity_quest_winners_selected]
+		en = ``Congratulations! Your photo was selected as a winner of <a href="/item"><b>{item}</b></a>``
