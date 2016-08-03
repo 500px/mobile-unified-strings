@@ -4,7 +4,7 @@ This repository contains all the strings in every language we suppport in 500px 
 
 ## How to submit a translation correction
 
-If you're familiar with `git` clone this repository, update the `master.txt` in sepparate branch, and submit pull request.
+If you're familiar with `git` clone this repository, update the `master.txt` in separate branch, and submit a pull request.
 
 If you're not familiar with `git`
 - You would need to [create](https://github.com/join?source=header-home) Github account
@@ -15,8 +15,8 @@ If you're not familiar with `git`
 - Pick **Create a new branch for this commit and start a pull request.**
 - Click **Commit changes**
 
-After your pull request has been merged you'll see your translations in next release...
+After your pull request has been merged you'll see your translations in future release. This might take up-to 15 days.
 
-## How add new language
+## How to add new language
 
 You can do that above for every key, however it would probably be much easier to do it by cloning the repository. If you're not familiar with `git` and `Github` there is very nice [15 minute tutorial](https://try.github.io/) to get started.
