@@ -5,6 +5,7 @@
 		de = Letztes Jahr
 		fr = L'année dernière
 		ru = год назад
+		nl = Vorig jaar
 	[n_years_ago__other]
 		en = %d years ago
 		ios = %#@d_years@
@@ -13,6 +14,7 @@
 		it = %d anni fa
 		ru = %d лет назад
 		zh-Hans = %d 年前
+		nl = %d jaar geleden
 	[n_years_ago__few]
 		ios = %#@d_years@
 		ru = %d года назад
@@ -24,14 +26,16 @@
 		de = Vor 1 Monat
 		fr = il y a un mois
 		ru = %d месяц назад
+		nl = Eén maand geleden
 	[n_months_ago__other]
 		en = %d months ago
 		ios = %#@d_months@
-		de = `Vor %d Monaten `
+		de = `Vor %d Monaten`
 		fr = il y a %d mois
 		it = %d mesi fa
 		ru = %d месяцев назад
 		zh-Hans = %d 个月前
+		nl = %d maanden geleden
 	[n_months_ago__few]
 		ios = %#@d_months@
 		ru = %d месяца назад
@@ -43,6 +47,7 @@
 		de = Vor 1 Woche
 		fr = il y a un semaine
 		ru = неделю назад
+		nl = Eén week geleden
 	[n_weeks_ago__other]
 		en = %d weeks ago
 		ios = %#@d_weeks@
@@ -51,6 +56,7 @@
 		it = %d settimane fa
 		ru = %d недель назад
 		zh-Hans = %d 周前
+		nl = %d weken geleden
 	[n_weeks_ago__few]
 		ios = %#@d_weeks@
 		ru = %d недели назад
@@ -65,6 +71,7 @@
 		it = Ieri
 		ru = вчера
 		zh-Hans = 昨天
+		nl = Gisteren
 	[n_days_ago__other]
 		en = %d days ago
 		ios = %#@d_days@
@@ -74,6 +81,7 @@
 		it = %d giorni fa
 		ru = %d дней назад
 		zh-Hans = %d天前
+		nl = %d dagen geleden
 	[n_days_ago__few]
 		ios = %#@d_days@
 		ru = %d дня назад
@@ -87,6 +95,7 @@
 		fr = il y a une heure
 		it = Un'ora fa
 		ru = час назад
+		nl = Eén uur geleden
 	[n_hours_ago__other]
 		en = %d hours ago
 		ios = %#@d_hours@
@@ -96,6 +105,7 @@
 		it = %d ore fa
 		ru = %d часов назад
 		zh-Hans = %d小时前
+		nl = %d uur geleden
 	[n_hours_ago__few]
 		ios = %#@d_hours@
 		ru = %d часа назад
@@ -109,6 +119,7 @@
 		fr = il y a une minute
 		it = Un minuto fa
 		ru = Минуту назад
+		nl = Eén minuut geleden
 	[n_minutes_ago__other]
 		en = %d minutes ago
 		ios = %#@d_minutes@
@@ -118,6 +129,7 @@
 		it = %d minuti fa
 		ru = %d минут назад
 		zh-Hans = %d分钟前
+		nl = %d minuten geleden
 	[n_minutes_ago__few]
 		ios = %#@d_minutes@
 		ru = %d минуты назад
@@ -132,6 +144,7 @@
 		it = Adesso
 		ru = Только что
 		zh-Hans = 刚刚
+		nl = Nu
 	[n_seconds_ago__one]
 		ios = %#@d_seconds@
 		es = Ahora
@@ -145,6 +158,7 @@
 		fr = Sans commentaires
 		ru = Нет комментариев
 		zh-Hans = 尚无评论
+		nl = Geen reacties
 	[n_comments__one]
 		en = %d comment
 		ios = %#@d_comments@
@@ -153,6 +167,7 @@
 		fr = %d commentaire
 		it = %d commento
 		ru = %d комментарий
+		nl = %d reactie
 	[n_comments__other]
 		en = %d comments
 		ios = %#@d_comments@
@@ -161,6 +176,7 @@
 		fr = %d commentaires
 		it = %d commenti
 		zh-Hans = %d条评论
+		nl = %d reacties
 	[n_comments__few]
 		ios = %#@d_comments@
 		ru = %d комментария
@@ -204,11 +220,13 @@
 		it = ` hanno messo "Mi piace" a questo elemento`
 		ru = ` понравилось это`
 		zh-Hans = ` 喜欢了此照片`
+		nl = ` vindt dit leuk`
 	[user_liked_this__one]
 		ios = %#@d_liked_this@
 		es = ` le dio 'Me gusta' a esto`
 		fr = ` a aimé`
 		it = ` ha messo "Mi piace" a questo elemento`
+		nl = ` vindt dit leuk`
 
 [[n_followers]]
 	[n_followers__one]
@@ -219,6 +237,7 @@
 		fr = %d Abonné
 		it = %d Follower
 		ru = %d Подписчик
+		nl = %d Volger
 	[n_followers__other]
 		en = %d Followers
 		ios = %#@d_Followers@
@@ -228,12 +247,14 @@
 		it = %d Followers
 		ru = %d Подписчиков
 		zh-Hans = %d位关注者
+		nl = %d Volgers
 	[n_followers__few]
 		ios = %#@d_Followers@
 		ru = %d Подписчика
 	[n_followers__zero]
 		ios = %#@d_Followers@
 		zh-Hans = 尚无关注者
+		nl = Geen volgers
 
 [[following_n]]
 	[following_n__other]
@@ -245,6 +266,7 @@
 		it = Following %d
 		ru = Подписан(а) на %d
 		zh-Hans = 关注%d位
+		nl = Volgt %d
 	[following_n__one]
 		ios = %#@Following_d@
 		es = Siguiendo a %d
@@ -1913,6 +1935,7 @@
 		it = Accedi a Facebook
 		ru = Войти с Facebook
 		zh-Hans = ` 用Facebook账号登入`
+		nl = Inloggen met Facebook
 	[log_out]
 		en = Log out
 		de = Abmelden
@@ -1921,6 +1944,7 @@
 		it = Esci
 		ru = Выйти
 		zh-Hans = 登出
+		nl = Afmelden
 	[login_signup_error]
 		en = Login/Signup error
 		de = Fehler bei der Anmeldung/Registrierung
@@ -1929,6 +1953,7 @@
 		it = Errore di accesso/registrazione
 		ru = Ошибка авторизации/регистрации
 		zh-Hans = 登录或注册出错
+		nl = Aanmeldingsfout
 	[login_signup_twitter_or_google_login]
 		en = Looking to log in with <twitter>Twitter</twitter> or <google>Google</google>?
 		de = Möchtest du dich mit <twitter>Twitter</twitter> oder <google>Google</google> anmelden?
@@ -1953,6 +1978,7 @@
 		it = Macro
 		ru = Макросъемка
 		zh-Hans = 微距
+		nl = Macro
 	[make_gallery_cover_photo]
 		en = Make Gallery cover photo
 		de = Als Cover-Foto der Galerie festlegen.
@@ -1961,6 +1987,7 @@
 		it = Inserisci come Foto di copertina
 		ru = Сделать заглавной фото галереи
 		zh-Hans = 设为画廊封面
+		nl = Maak een coverfoto 
 	[marketplace]
 		en = Marketplace
 		de = Marktplatz
@@ -1969,6 +1996,7 @@
 		it = Marketplace
 		ru = Marketplace
 		zh-Hans = Marketplace
+		nl = Marktplaats
 	[name]
 		en = Name
 		de = Name
@@ -1977,6 +2005,7 @@
 		it = Nome
 		ru = Имя
 		zh-Hans = 名字
+		nl = Naam
 	[discover_category_nature]
 		en = Nature
 		de = Natur
@@ -1985,6 +2014,7 @@
 		it = Natura
 		ru = Природа
 		zh-Hans = 自然
+		nl = Natuur
 	[discover_galleries_new]
 		en = New
 		de = Neu
@@ -1993,6 +2023,7 @@
 		it = Nuove
 		ru = Свежие
 		zh-Hans = 最新
+		nl = Nieuw
 	[new_galleries]
 		en = New Galleries
 		de = Neue Galerien
@@ -2001,6 +2032,7 @@
 		it = Nuove Gallerie
 		ru = Новые галереи
 		zh-Hans = 新画廊
+		nl = Nieuwe Galerijen
 	[new_gallery]
 		en = New Gallery
 		de = Neue Galerie
@@ -2009,18 +2041,21 @@
 		it = Nuova Galleria
 		ru = Новая галерея
 		zh-Hans = 新画廊
+		nl = Nieuwe Gallerij
 	[new_password]
-		en = New password
+		en = New Password
 		de = Neues Passwort
 		es = New Password
 		fr = Saissisez votre nouveau mot de passe
 		it = New Password
 		ru = Новый пароль
 		zh-Hans = 新密码
+		nl = Nieuw Wachtwoord
 	[new_photos]
 		en = New Photos
 		de = Neue Fotos
 		fr = Nouvelles photos
+		nl = Nieuwe foto's
 	[no_followers]
 		en = No Followers
 		de = Keine Follower
@@ -2029,6 +2064,7 @@
 		it = No Follower
 		ru = Нет Подписчиков
 		zh-Hans = 尚无关注者
+		nl = Geen Volgers
 	[no_galleries]
 		en = No Galleries
 		de = Keine Galerien
@@ -2037,6 +2073,7 @@
 		it = Nessuna Galleria
 		ru = Ни одной галереи
 		zh-Hans = 尚无画廊
+		nl = Geen Galerijen
 	[no_galleries_yet]
 		en = No Galleries yet
 		de = Noch keine Galerien
@@ -2045,6 +2082,7 @@
 		it = Nessuna Galleria
 		ru = Нет галерей
 		zh-Hans = 目前还没有画廊
+		nl = Nog geen galerijen
 	[no_network_connection]
 		en = No Internet Connection…
 		de = Keine Internetverbindung
@@ -2053,6 +2091,7 @@
 		it = Nessuna connessione internet...
 		ru = Нет соединения с Интернетом…
 		zh-Hans = 没有可用的网络连接…
+		nl = Geen internetverbinding
 	[no_notifications]
 		en = No notifications
 		de = Keine Benachrichtigungen
@@ -2061,6 +2100,7 @@
 		it = Nessuna notifica
 		ru = Нет уведомлений
 		zh-Hans = 无通知
+		nl = Geen notificaties
 	[onboarding_no_followers_found_title]
 		en = No people found
 		de = Keine Personen gefunden
@@ -2069,6 +2109,7 @@
 		it = Nessuna persona trovata
 		ru = Не найдено ни одного человека
 		zh-Hans = 未找到用户
+		nl = Geen volgers gevonden
 	[no_photos]
 		en = No Photos
 		de = Keine Fotos
@@ -2077,6 +2118,7 @@
 		it = Nessuna foto
 		ru = Нет фотографии
 		zh-Hans = 尚无照片
+		nl = Geen foto's
 	[no_photos_found]
 		en = No photos found
 		de = Keine Fotos gefunden
@@ -2085,6 +2127,7 @@
 		it = Nessuna foto trovata
 		ru = Фотографии не найдены
 		zh-Hans = 没有搜索到照片
+		nl = Geen foto's gevonden
 	[no_photos_yet]
 		en = No photos yet
 		de = Noch keine Fotos
@@ -2093,6 +2136,7 @@
 		it = Ancora nessuna foto presente
 		ru = Нет фотографий
 		zh-Hans = 目前还没有图片
+		nl = Nog geen foto's
 	[no_twitter_accounts]
 		en = No Twitter Accounts
 		de = Keine Twitter-Konten
@@ -2101,6 +2145,7 @@
 		it = Nessun account Twitter
 		ru = Нет Twitter аккаунтов
 		zh-Hans = 没有Twitter账户
+		nl = Geen Twitteraccounts
 	[no_thanks]
 		en = No, thanks
 		de = Nein danke
@@ -2109,6 +2154,7 @@
 		it = No, grazie
 		ru = Нет, спасибо
 		zh-Hans = 不用了，谢谢。
+		nl = Nee, bedankt
 	[not_following_anyone]
 		en = Not following anyone
 		de = Du folgst niemandem
@@ -2117,6 +2163,7 @@
 		it = Nessun utente seguito
 		ru = Никого в друзьях
 		zh-Hans = 尚未关注任何人
+		nl = U volgt niemand
 	[not_now]
 		en = Not now
 		de = Jetzt nicht
@@ -2125,6 +2172,7 @@
 		it = Non adesso
 		ru = Не сейчас
 		zh-Hans = 稍后再说
+		nl = Nog niet
 	[push_notifications_prompt_message]
 		en = Notifications may include alerts, sounds and icon badges. These can be configured in Settings.
 		de = Zu Mitteilungen können Hinweise, Töne und Kennzeichensymbole zählen. Diese kannst du in der Einstellungs-App deines Geräts festlegen.
@@ -2141,6 +2189,7 @@
 		it = Inviami notifiche
 		ru = Оповестить меня
 		zh-Hans = 请通知我
+		nl = Meldingen ontvangen
 	[discover_category_nude]
 		en = Nude
 		de = Akt
@@ -2149,6 +2198,7 @@
 		it = Nudo
 		ru = Ню
 		zh-Hans = 人体
+		nl = Naakt
 	[report_offensive]
 		en = Offensive (rude, obscene)
 		de = Anstößig (beleidigend, obszön)
@@ -2157,6 +2207,7 @@
 		it = Offensiva (volgare, oscena)
 		ru = Оскорбительное (грубое, непристойное)
 		zh-Hans = 暴力（粗鲁或淫秽）
+		nl = Aanstootgevend
 	[report_offtopic]
 		en = Offtopic (trolling)
 		de = Nicht zum Thema gehörig (Troll)
@@ -2165,6 +2216,7 @@
 		it = Off topic (troll)
 		ru = Оффтопик (троллинг)
 		zh-Hans = 标题不符（有欺骗性）
+		nl = Off topic
 	[ok]
 		en = OK
 		de = OK
@@ -2173,6 +2225,7 @@
 		it = OK
 		ru = OK
 		zh-Hans = 确认
+		nl = Ok
 	[maybe_later]
 		en = Maybe later
 		de = Später vielleicht
@@ -2181,6 +2234,7 @@
 		it = Non ora
 		ru = Не сейчас
 		zh-Hans = 稍后再说
+		nl = Misschien later
 	[onboarding_error_description]
 		en = Check your internet connection and try again later
 		de = Überprüfe deine Internetverbindung und versuche es später erneut.
@@ -2189,6 +2243,7 @@
 		it = Controlla la tua connessione e riprova
 		ru = Проверьте соединение с интернетом и попробуйте еще раз
 		zh-Hans = 请检查您的网络连接，并稍后重试
+		nl = Controleer uw internetverbinding en probeer het later opnieuw
 	[onboarding_error_title]
 		en = Unable to connect to the internet
 		de = Die Internetverbindung kann nicht hergestellt werden.
@@ -2197,6 +2252,7 @@
 		it = Impossibile connettersi ad Internet
 		ru = Нет соединения с интернетом...
 		zh-Hans = 网络无法连接
+		nl = Er is een probleem met de verbinding 
 	[onboarding_loading_feed_text]
 		en = Please stand by.
 		de = Bitte warten.
@@ -2205,6 +2261,7 @@
 		it = Attendi per favore
 		ru = Пожалуйста, ожидайте.
 		zh-Hans = 请稍后
+		nl = Even geduld alstublieft
 	[onboarding_loading_feed_title]
 		en = Beautiful photos are coming your way!
 		de = Schöne Fotos sind auf dem Weg zu dir!
