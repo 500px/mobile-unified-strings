@@ -2043,7 +2043,7 @@
 		zh-Hans = 新画廊
 		nl = Nieuwe Gallerij
 	[new_password]
-		en = New Password
+		en = New password
 		de = Neues Passwort
 		es = New Password
 		fr = Saissisez votre nouveau mot de passe
