@@ -5,6 +5,7 @@
 		de = Letztes Jahr
 		fr = L'année dernière
 		ru = год назад
+		pl = ostatni rok
 	[n_years_ago__other]
 		en = %d years ago
 		ios = %#@d_years@
@@ -13,9 +14,11 @@
 		it = %d anni fa
 		ru = %d лет назад
 		zh-Hans = %d 年前
+		pl = %d lat temu
 	[n_years_ago__few]
 		ios = %#@d_years@
 		ru = %d года назад
+		pl = %d lata temu
 
 [[n_months_ago]]
 	[n_months_ago__one]
@@ -24,6 +27,7 @@
 		de = Vor 1 Monat
 		fr = il y a un mois
 		ru = %d месяц назад
+		pl = miesiąc temu
 	[n_months_ago__other]
 		en = %d months ago
 		ios = %#@d_months@
@@ -32,9 +36,11 @@
 		it = %d mesi fa
 		ru = %d месяцев назад
 		zh-Hans = %d 个月前
+		pl = %d miesięcy temu
 	[n_months_ago__few]
 		ios = %#@d_months@
 		ru = %d месяца назад
+		pl = %d miesiące temu
 
 [[n_weeks_ago]]
 	[n_weeks_ago__one]
@@ -43,6 +49,7 @@
 		de = Vor 1 Woche
 		fr = il y a un semaine
 		ru = неделю назад
+		pl = tydzień temu
 	[n_weeks_ago__other]
 		en = %d weeks ago
 		ios = %#@d_weeks@
@@ -51,9 +58,11 @@
 		it = %d settimane fa
 		ru = %d недель назад
 		zh-Hans = %d 周前
+		pl = %d tygodni temu
 	[n_weeks_ago__few]
 		ios = %#@d_weeks@
 		ru = %d недели назад
+		pl = %d tygodnie temu
 
 [[n_days_ago]]
 	[n_days_ago__one]
@@ -65,6 +74,7 @@
 		it = Ieri
 		ru = вчера
 		zh-Hans = 昨天
+		pl = wczoraj
 	[n_days_ago__other]
 		en = %d days ago
 		ios = %#@d_days@
@@ -74,6 +84,7 @@
 		it = %d giorni fa
 		ru = %d дней назад
 		zh-Hans = %d天前
+		pl = %d dni temu
 	[n_days_ago__few]
 		ios = %#@d_days@
 		ru = %d дня назад
@@ -87,6 +98,7 @@
 		fr = il y a une heure
 		it = Un'ora fa
 		ru = час назад
+		pl = godzina temu
 	[n_hours_ago__other]
 		en = %d hours ago
 		ios = %#@d_hours@
@@ -96,9 +108,11 @@
 		it = %d ore fa
 		ru = %d часов назад
 		zh-Hans = %d小时前
+		pl = %d godzin temu
 	[n_hours_ago__few]
 		ios = %#@d_hours@
 		ru = %d часа назад
+		pl = godziny temu
 
 [[n_minutes_ago]]
 	[n_minutes_ago__one]
@@ -109,6 +123,7 @@
 		fr = il y a une minute
 		it = Un minuto fa
 		ru = Минуту назад
+		pl = minuta temu
 	[n_minutes_ago__other]
 		en = %d minutes ago
 		ios = %#@d_minutes@
@@ -118,9 +133,11 @@
 		it = %d minuti fa
 		ru = %d минут назад
 		zh-Hans = %d分钟前
+		pl = %d minut temu
 	[n_minutes_ago__few]
 		ios = %#@d_minutes@
 		ru = %d минуты назад
+		pl = %d minuty temu
 
 [[n_seconds_ago]]
 	[n_seconds_ago__other]
@@ -132,10 +149,12 @@
 		it = Adesso
 		ru = Только что
 		zh-Hans = 刚刚
+		pl = teraz
 	[n_seconds_ago__one]
 		ios = %#@d_seconds@
 		es = Ahora
 		it = Adesso
+		pl - sekunda temu
 
 [[n_comments]]
 	[n_comments__zero]
@@ -145,6 +164,7 @@
 		fr = Sans commentaires
 		ru = Нет комментариев
 		zh-Hans = 尚无评论
+		pl = Brak komentarza
 	[n_comments__one]
 		en = %d comment
 		ios = %#@d_comments@
@@ -153,6 +173,7 @@
 		fr = %d commentaire
 		it = %d commento
 		ru = %d комментарий
+		pl = %d komentarz
 	[n_comments__other]
 		en = %d comments
 		ios = %#@d_comments@
@@ -161,9 +182,11 @@
 		fr = %d commentaires
 		it = %d commenti
 		zh-Hans = %d条评论
+		pl = %d komentarzy
 	[n_comments__few]
 		ios = %#@d_comments@
 		ru = %d комментария
+		pl = %d komentarze
 	[n_comments__many]
 		ios = %#@d_comments@
 		ru = %d комментариев
@@ -176,6 +199,7 @@
 		fr = Personne n'a encore aimé cette photo
 		ru = Никому еще не понравилось это фото
 		zh-Hans = 还没有人喜欢此照片
+		pl = Nikt nie polubił tego zdjęcia
 	[n_people_liked_this_photo__one]
 		en = <strong>%d person</strong> liked this photo
 		ios = %#@d_people_liked_this_photo@
@@ -184,6 +208,7 @@
 		fr = <strong>%d personne</strong> a aimé cette photo
 		it = A <strong>%d persona</strong> piace questa foto
 		ru = <strong>%d человеку</strong> понравилось это фото
+		pl = <strong>%d osoba</strong> polubiła to zdjęcie
 	[n_people_liked_this_photo__other]
 		en = <strong>%d people</strong> liked this photo
 		ios = %#@d_people_liked_this_photo@
@@ -193,6 +218,7 @@
 		it = A <strong>%d persone</strong> piace questa foto
 		ru = <strong>%d людям</strong> понравилось это фото
 		zh-Hans = <strong>%d人</strong>喜欢了此照片
+		pl = <strong>%d osób</strong> polubiło to zdjęcie
 
 [[user_liked_this]]
 	[user_liked_this__other]
@@ -204,6 +230,7 @@
 		it = ` hanno messo "Mi piace" a questo elemento`
 		ru = ` понравилось это`
 		zh-Hans = ` 喜欢了此照片`
+		pl = polubiłem
 	[user_liked_this__one]
 		ios = %#@d_liked_this@
 		es = ` le dio 'Me gusta' a esto`
@@ -219,6 +246,7 @@
 		fr = %d Abonné
 		it = %d Follower
 		ru = %d Подписчик
+		pl = %d obserwujący
 	[n_followers__other]
 		en = %d Followers
 		ios = %#@d_Followers@
@@ -228,12 +256,14 @@
 		it = %d Followers
 		ru = %d Подписчиков
 		zh-Hans = %d位关注者
+		pl = %d obserwujących
 	[n_followers__few]
 		ios = %#@d_Followers@
 		ru = %d Подписчика
 	[n_followers__zero]
 		ios = %#@d_Followers@
 		zh-Hans = 尚无关注者
+		pl = nikt nie obserwuje
 
 [[following_n]]
 	[following_n__other]
@@ -261,6 +291,7 @@
 		es = %d 'me gusta'
 		fr = %d aime
 		it = %d "mi piace"
+		pl = %d lubię
 	[n_likes__other]
 		en = %d likes
 		ios = %#@d_likes@
@@ -270,36 +301,43 @@
 		it = %d "mi piace"
 		ru = %d понравилось
 		zh-Hans = %d 喜欢
+		pl = %d lubi
 
 [[n_years_left]]
 	[n_years_left__one]
 		en = One year left
 		ios = %#@d_years_left@
 		de = Noch 1 Jahr
+		pl = pozostał rok
 	[n_years_left__other]
 		en = %d years left
 		ios = %#@d_years_left@
 		de = Noch %d Jahre
+		pl = %d lat pozostało
 
 [[n_months_left]]
 	[n_months_left__one]
 		en = One month left
 		ios = %#@d_months_left@
 		de = Noch 1 Monat
+		pl = miesiąc pozostał
 	[n_months_left__other]
 		en = %d months left
 		ios = %#@d_months_left@
 		de = Noch %d Monate
+		pl = %d miesięcy pozostało
 
 [[n_weeks_left]]
 	[n_weeks_left__one]
 		en = One week left
 		ios = %#@d_weeks_left@
 		de = Noch 1 Woche
+		pl = tydzień pozostał
 	[n_weeks_left__other]
 		en = %d weeks left
 		ios = %#@d_weeks_left@
 		de = Noch %d Wochen
+		pl = %d tygodni pozostało
 
 [[n_days_left]]
 	[n_days_left__one]
@@ -308,6 +346,7 @@
 		de = Noch 1 Tag
 		fr = Un jour restants
 		ru = Остался %d день
+		pl = dzień pozostał
 	[n_days_left__other]
 		en = %d days left
 		ios = %#@d_days_left@
@@ -316,6 +355,7 @@
 		it = %d giorni rimasti
 		ru = Осталось %d дней
 		zh-Hans = 还剩余 %d 天
+		pl = %d dni pozostało
 	[n_days_left__few]
 		ios = %#@d_days_left@
 		ru = Осталось %d дня
@@ -327,6 +367,7 @@
 		de = Noch 1 Stunde
 		fr = Un heure restantes
 		ru = Остался %d час
+		pl = godzina pozostała
 	[n_hours_left__other]
 		en = %d hours left
 		ios = %#@d_hours_left@
@@ -335,9 +376,11 @@
 		it = %d ore rimaste
 		ru = Осталось %d часов
 		zh-Hans = 还剩余 %d 小时
+		pl = %d godzin pozostało
 	[n_hours_left__few]
 		ios = %#@d_hours_left@
 		ru = Осталось %d часа
+		pl = %d godziny pozostały
 
 [[n_minutes_left]]
 	[n_minutes_left__one]
@@ -346,6 +389,7 @@
 		de = Noch 1 Minute
 		fr = Un minute restantes
 		ru = Осталась минута
+		pl = minuta pozostała
 	[n_minutes_left__other]
 		en = %d minutes left
 		ios = %#@d_minutes_left@
@@ -354,9 +398,11 @@
 		it = %d minuti rimasti
 		ru = Осталось %d минут
 		zh-Hans = 还剩余 %d 分钟
+		pl = %d minut pozostało
 	[n_minutes_left__few]
 		ios = %#@d_minutes_left@
 		ru = Осталось %d минуты
+		pl = %d minuty pozostało
 
 [[n_seconds_left]]
 	[n_seconds_left__one]
@@ -365,6 +411,7 @@
 		de = Noch 1 Sekunde
 		fr = Un seconde restante
 		ru = Осталась %d секунда
+		pl = sekunda pozostała
 	[n_seconds_left__other]
 		en = %d seconds left
 		ios = %#@d_seconds_left@
@@ -373,6 +420,7 @@
 		it = %d secondi rimasti
 		ru = Осталось %d секунд
 		zh-Hans = 还剩余 %d 秒
+		pl = %d sekund pozostało
 	[n_seconds_left__few]
 		ios = %#@d_seconds_left@
 		ru = Осталось %d секунды
@@ -386,12 +434,14 @@
 		it = Non ci sono Foto Quest
 		ru = Нет текущих Фото Квестов
 		zh-Hans = 暂无图片征集
+		pl = brak aktualnych Photo Quests
 	[n_active_photo_quests_bold__one]
 		en = There is <strong>one</strong> active Photo Quest
 		ios = %#@d_quest_count@
 		de = Es gibt <b>1</b> aktive Foto-Quest.
 		fr = <strong>%d</strong> concours photo disponible
 		ru = <strong>Один</strong> текущий Фото Квест
+		pl = Jest <strong>jedno</strong> aktualne Photo Quest
 	[n_active_photo_quests_bold__other]
 		en = There are <strong>%d</strong> active Photo Quests
 		ios = %#@d_quest_count@
@@ -400,6 +450,7 @@
 		it = Ci sono <strong>%d</strong> Foto Quest
 		ru = <strong>%d</strong> текущих Фото Квестов
 		zh-Hans = 共有 <strong>%d</strong> 个图片征集活动
+		pl = Jest <strong>%d</strong> aktualnych Photo Quests
 	[n_active_photo_quests_bold__few]
 		ios = %#@d_quest_count@
 		ru = <strong>%d</strong> текущих Фото Квеста
@@ -414,6 +465,7 @@
 		it = Segui una persona
 		ru = Подписаться на %d фотографа
 		zh-Hans = 关注一位用户
+		pl = obserwujesz 1 osobę
 	[follow_n_people__other]
 		en = Follow %d people
 		ios = %#@follow_d_people@
@@ -423,6 +475,7 @@
 		it = Segui %d persone
 		ru = Подписаться на %d фотографов
 		zh-Hans = 关注%d位用户
+		pl = obserwujesz %d osób 
 
 [[selected_galleries]]
 	[selected_galleries__one]
@@ -430,14 +483,17 @@
 		de = %d ausgewählte Galerie
 		fr = %d galerie sélectionée
 		ru = %d галерея
+		pl = %d galeria zaznaczona
 	[selected_galleries__other]
 		en = %d selected galleries
 		de = %d ausgewählte Galerien
 		fr = %d galeries sélectionées
 		ru = %d галерей
 		zh-Hans = %d 选中的画廊
+		pl = %d galerii zaznaczono
 	[selected_galleries__few]
 		ru = %d галереи
+		pl = %d galerie zaznaczono
 	[selected_galleries__many]
 		ru = %d галерей
 
@@ -453,10 +509,13 @@
 		fr = %d photos
 		ru = %d фотографий
 		zh-Hans = %d 张照片
+		pl = %d zdjęcie
 	[photos_count__few]
 		ru = %d фотографии
+		pl = %d zdjęć
 	[photos_count__many]
 		ru = %d фотографий
+		pl = %d zjęcia
 
 [[view_comments]]
 	[view_comments__one]
@@ -464,14 +523,17 @@
 		de = %d Kommentar anzeigen
 		fr = Voir %d commentaire
 		ru = Прочитать %d комент
+		pl = Zobacz %d komentarz
 	[view_comments__other]
 		en = View %d comments
 		de = %d Kommentare anzeigen
 		fr = Voir %d commentaires
 		ru = Прочитать %d коментов
 		zh-Hans = 查看 %d 条评论
+		pl = Zobacz %d komentarzy
 	[view_comments__few]
 		ru = Прочитать %d комента
+		pl = Zobacz %d komentarze
 	[view_comments__many]
 		ru = Прочитать %d коментов
 
@@ -481,14 +543,17 @@
 		de = %d neue Benachrichtigung
 		fr = %d nouvelle notification
 		ru = %d новое оповещение
+		pl = %d nowe powiadomienie
 	[new_notifications__other]
 		en = %d new notifications
 		de = %d neue Benachrichtigungen
 		fr = %d nouvelles notifications
 		ru = %d новый оповещений
 		zh-Hans = %d 条新通知
+		pl = %d nowych powiadomień
 	[new_notifications__few]
 		ru = %d новых оповещения
+		pl = %d nowe powiadomienia
 	[new_notifications__many]
 		ru = %d новых оповещений
 
@@ -498,14 +563,17 @@
 		de = %d Gefällt mir
 		fr = %d like
 		ru = %d лайк
+		pl = %d polubienie
 	[likes_count__other]
 		en = %d likes
 		de = %d Gefällt mir
 		fr = %d likes
 		ru = %d лайков
 		zh-Hans = %d 喜欢
+		pl = %d polubień
 	[likes_count__few]
 		ru = %d лайка
+		pl = %d polubienia
 	[likes_count__many]
 		ru = %d лайков
 
@@ -4360,15 +4428,19 @@
 		fr = {user_count} utilisateurs
 		ru = {user_count} подписчиков
 		zh-Hans = {user_count} 位摄影师
+		pl = {user_count} użytkowników
 	[activity_photos]
 		en = {photo_count} photos
 		de = {photo_count} fotos
 		fr = {photo_count} photos
 		ru = {photo_count} фотографий
 		zh-Hans = {photo_count} 张照片
+		pl = {photo_count} zdjęć
 	[activity_quest_started]
 		en = ``New Photo Quest! Submit your photos to <a href="/item"><b>{item}</b></a>``
+		pl = ``Nowy Photo Quest! Dodaj nowe zdjęcia do <a href="/item"><b>{item}</b></a>``
 	[activity_quest_non_winners_selected]
 		en = ``Winners have been selected for the Photo Quest <a href="/item"><b>{item}</b></a>``
 	[activity_quest_winners_selected]
 		en = ``Congratulations! Your photo was selected as a winner of <a href="/item"><b>{item}</b></a>``
+		pl = ``Gratulacje! Twoje zdjęcie zostało wybrane jako wygrana<a href="/item"><b>{item}</b></a>``
