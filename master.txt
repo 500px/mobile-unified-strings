@@ -5,6 +5,7 @@
 		de = Letztes Jahr
 		fr = L'année dernière
 		ru = год назад
+		es = El año pasado
 	[n_years_ago__other]
 		en = %d years ago
 		ios = %#@d_years@
@@ -13,6 +14,7 @@
 		it = %d anni fa
 		ru = %d лет назад
 		zh-Hans = %d 年前
+		es = Hace %d años
 	[n_years_ago__few]
 		ios = %#@d_years@
 		ru = %d года назад
@@ -24,6 +26,7 @@
 		de = Vor 1 Monat
 		fr = il y a un mois
 		ru = %d месяц назад
+		es = Hace un mes
 	[n_months_ago__other]
 		en = %d months ago
 		ios = %#@d_months@
@@ -32,6 +35,7 @@
 		it = %d mesi fa
 		ru = %d месяцев назад
 		zh-Hans = %d 个月前
+		es = Hace %d meses
 	[n_months_ago__few]
 		ios = %#@d_months@
 		ru = %d месяца назад
@@ -43,6 +47,7 @@
 		de = Vor 1 Woche
 		fr = il y a un semaine
 		ru = неделю назад
+		es = Hace una semana
 	[n_weeks_ago__other]
 		en = %d weeks ago
 		ios = %#@d_weeks@
@@ -51,6 +56,7 @@
 		it = %d settimane fa
 		ru = %d недель назад
 		zh-Hans = %d 周前
+		es = Hace %d semanas
 	[n_weeks_ago__few]
 		ios = %#@d_weeks@
 		ru = %d недели назад
@@ -145,6 +151,7 @@
 		fr = Sans commentaires
 		ru = Нет комментариев
 		zh-Hans = 尚无评论
+		es = No hay comentarios
 	[n_comments__one]
 		en = %d comment
 		ios = %#@d_comments@
@@ -176,6 +183,7 @@
 		fr = Personne n'a encore aimé cette photo
 		ru = Никому еще не понравилось это фото
 		zh-Hans = 还没有人喜欢此照片
+		es = A nadie le ha gustado esta foto aún
 	[n_people_liked_this_photo__one]
 		en = <strong>%d person</strong> liked this photo
 		ios = %#@d_people_liked_this_photo@
@@ -276,30 +284,36 @@
 		en = One year left
 		ios = %#@d_years_left@
 		de = Noch 1 Jahr
+		es = Queda un año
 	[n_years_left__other]
 		en = %d years left
 		ios = %#@d_years_left@
 		de = Noch %d Jahre
+		es = Quedan %d años 
 
 [[n_months_left]]
 	[n_months_left__one]
 		en = One month left
 		ios = %#@d_months_left@
 		de = Noch 1 Monat
+		es = Queda un mes
 	[n_months_left__other]
 		en = %d months left
 		ios = %#@d_months_left@
 		de = Noch %d Monate
+		es = Quedan %d meses
 
 [[n_weeks_left]]
 	[n_weeks_left__one]
 		en = One week left
 		ios = %#@d_weeks_left@
 		de = Noch 1 Woche
+		es = Queda una semana
 	[n_weeks_left__other]
 		en = %d weeks left
 		ios = %#@d_weeks_left@
 		de = Noch %d Wochen
+		es = Quedan %d semanas
 
 [[n_days_left]]
 	[n_days_left__one]
@@ -308,6 +322,7 @@
 		de = Noch 1 Tag
 		fr = Un jour restants
 		ru = Остался %d день
+		es = Queda un día
 	[n_days_left__other]
 		en = %d days left
 		ios = %#@d_days_left@
@@ -316,6 +331,7 @@
 		it = %d giorni rimasti
 		ru = Осталось %d дней
 		zh-Hans = 还剩余 %d 天
+		es = Quedan %d días
 	[n_days_left__few]
 		ios = %#@d_days_left@
 		ru = Осталось %d дня
@@ -327,6 +343,7 @@
 		de = Noch 1 Stunde
 		fr = Un heure restantes
 		ru = Остался %d час
+		es = Queda una hora
 	[n_hours_left__other]
 		en = %d hours left
 		ios = %#@d_hours_left@
@@ -335,6 +352,7 @@
 		it = %d ore rimaste
 		ru = Осталось %d часов
 		zh-Hans = 还剩余 %d 小时
+		es = Quedan %d horas
 	[n_hours_left__few]
 		ios = %#@d_hours_left@
 		ru = Осталось %d часа
@@ -346,6 +364,7 @@
 		de = Noch 1 Minute
 		fr = Un minute restantes
 		ru = Осталась минута
+		es = Queda un minuto 
 	[n_minutes_left__other]
 		en = %d minutes left
 		ios = %#@d_minutes_left@
@@ -354,6 +373,7 @@
 		it = %d minuti rimasti
 		ru = Осталось %d минут
 		zh-Hans = 还剩余 %d 分钟
+		es = Quedan %d minutos
 	[n_minutes_left__few]
 		ios = %#@d_minutes_left@
 		ru = Осталось %d минуты
@@ -365,6 +385,7 @@
 		de = Noch 1 Sekunde
 		fr = Un seconde restante
 		ru = Осталась %d секунда
+		es = queda un segundo
 	[n_seconds_left__other]
 		en = %d seconds left
 		ios = %#@d_seconds_left@
@@ -373,6 +394,7 @@
 		it = %d secondi rimasti
 		ru = Осталось %d секунд
 		zh-Hans = 还剩余 %d 秒
+		es = Quedan %d segundos
 	[n_seconds_left__few]
 		ios = %#@d_seconds_left@
 		ru = Осталось %d секунды
@@ -386,12 +408,14 @@
 		it = Non ci sono Foto Quest
 		ru = Нет текущих Фото Квестов
 		zh-Hans = 暂无图片征集
+		es = No hay concursos de fotografía disponibles
 	[n_active_photo_quests_bold__one]
 		en = There is <strong>one</strong> active Photo Quest
 		ios = %#@d_quest_count@
 		de = Es gibt <b>1</b> aktive Foto-Quest.
 		fr = <strong>%d</strong> concours photo disponible
 		ru = <strong>Один</strong> текущий Фото Квест
+		es = Hay <strong>1/strong> concurso de fotografía 
 	[n_active_photo_quests_bold__other]
 		en = There are <strong>%d</strong> active Photo Quests
 		ios = %#@d_quest_count@
@@ -400,6 +424,7 @@
 		it = Ci sono <strong>%d</strong> Foto Quest
 		ru = <strong>%d</strong> текущих Фото Квестов
 		zh-Hans = 共有 <strong>%d</strong> 个图片征集活动
+		es = Hay <strong>%d/strong> concurso de fotografía 
 	[n_active_photo_quests_bold__few]
 		ios = %#@d_quest_count@
 		ru = <strong>%d</strong> текущих Фото Квеста
@@ -409,7 +434,7 @@
 		en = Follow one person
 		ios = %#@follow_d_people@
 		de = Folge 1 Person
-		es = Follow one person
+		es = Seguir a una persona
 		fr = S'abonner à un utilisateur
 		it = Segui una persona
 		ru = Подписаться на %d фотографа
@@ -418,7 +443,7 @@
 		en = Follow %d people
 		ios = %#@follow_d_people@
 		de = Folge %d Personen
-		es = Follow %d people
+		es = Seguir a %d personas
 		fr = S'abonner à %d utilisateurs
 		it = Segui %d persone
 		ru = Подписаться на %d фотографов
@@ -430,12 +455,14 @@
 		de = %d ausgewählte Galerie
 		fr = %d galerie sélectionée
 		ru = %d галерея
+		es = %d galería seleccionada
 	[selected_galleries__other]
 		en = %d selected galleries
 		de = %d ausgewählte Galerien
 		fr = %d galeries sélectionées
 		ru = %d галерей
 		zh-Hans = %d 选中的画廊
+		es = %d galerías seleccionada
 	[selected_galleries__few]
 		ru = %d галереи
 	[selected_galleries__many]
@@ -447,12 +474,14 @@
 		de = %d Foto
 		fr = %d photo
 		ru = %d фотография
+		es = %d foto
 	[photos_count__other]
 		en = %d photos
 		de = %d Fotos
 		fr = %d photos
 		ru = %d фотографий
 		zh-Hans = %d 张照片
+		es = %d fotos
 	[photos_count__few]
 		ru = %d фотографии
 	[photos_count__many]
@@ -464,12 +493,14 @@
 		de = %d Kommentar anzeigen
 		fr = Voir %d commentaire
 		ru = Прочитать %d комент
+		es = Ver %d comentario
 	[view_comments__other]
 		en = View %d comments
 		de = %d Kommentare anzeigen
 		fr = Voir %d commentaires
 		ru = Прочитать %d коментов
 		zh-Hans = 查看 %d 条评论
+		es = Ver %d comentarios
 	[view_comments__few]
 		ru = Прочитать %d комента
 	[view_comments__many]
@@ -481,12 +512,14 @@
 		de = %d neue Benachrichtigung
 		fr = %d nouvelle notification
 		ru = %d новое оповещение
+		es = %d nueva notificación
 	[new_notifications__other]
 		en = %d new notifications
 		de = %d neue Benachrichtigungen
 		fr = %d nouvelles notifications
 		ru = %d новый оповещений
 		zh-Hans = %d 条新通知
+		es = %d nuevas notificaciones
 	[new_notifications__few]
 		ru = %d новых оповещения
 	[new_notifications__many]
@@ -498,12 +531,14 @@
 		de = %d Gefällt mir
 		fr = %d like
 		ru = %d лайк
+		es = %d like
 	[likes_count__other]
 		en = %d likes
 		de = %d Gefällt mir
 		fr = %d likes
 		ru = %d лайков
 		zh-Hans = %d 喜欢
+		es = %d likes
 	[likes_count__few]
 		ru = %d лайка
 	[likes_count__many]
@@ -515,12 +550,14 @@
 		de = %d Aufruf
 		fr = %d visite
 		ru = %d просмотр
+		es = %d vista
 	[views_count__other]
 		en = %d views
 		de = %d Aufrufe
 		fr = %d visites
 		ru = %d просмотров
 		zh-Hans = %d 浏览
+		es = %d vistas
 	[views_count__few]
 		ru = %d просмотра
 	[views_count__many]
@@ -532,12 +569,14 @@
 		de = %d Kommentar
 		fr = %d commentaire
 		ru = %d комент
+		es = %d comentario
 	[comments_count__other]
 		en = %d comments
 		de = %d Kommentare
 		fr = %d commentaires
 		ru = %d коментов
 		zh-Hans = %d 条评论
+		es = %d comentarios
 	[comments_count__few]
 		ru = %d комента
 	[comments_count__many]
@@ -549,11 +588,13 @@
 		de = Es gibt <b>%d</b> Foto-Quest!<br>Reiche deine Fotos ein, um tolle Preise zu gewinnen.
 		fr = Il y a <b>%d</b> concours photo.<br>Soumettez vos photos pour gagner des prix!
 		ru = <b>%d</b> Фото Квест!<br>Загрузите ваши фото что бы выйграть призы!
+		es = Hay <b>%d</b> concurso de fotografía!<br>Envía tus fotos para ganar grandes premios.
 	[quests_available__other]
 		en = There are <b>%d</b> Photo Quests!<br>Submit your photos to win great prizes.
 		de = Es gibt <b>%d</b> Foto-Quests!<br>Reiche deine Fotos ein, um tolle Preise zu gewinnen.
 		fr = Il y a <b>%d</b> concours photo.<br>Soumettez vos photos pour gagner des prix!
 		zh-Hans = 共有 <b>%d</b> 个摄影作品征集活动!<br>提交您的作品，赢取精美礼品。
+		es = Hay <b>%d</b> concursos de fotografía!<br>Envía tus fotos para ganar grandes premios.
 	[quests_available__few]
 		ru = <b>%d</b> Фото Квеста!<br>Загрузите ваши фото что бы выйграть призы!
 	[quests_available__many]
@@ -565,12 +606,14 @@
 		de = Noch %d Tag
 		fr = %d jour restant
 		ru = Остался %d день
+		es = Queda %d día
 	[days_left__other]
 		en = %d days left
 		de = Noch %d Tage
 		fr = %d jours restants
 		ru = Осталось %d дня
 		zh-Hans = 还剩下 %d 天
+		es = Quedan %d días
 	[days_left__few]
 		ru = Осталось %d дня
 	[days_left__many]
@@ -582,12 +625,14 @@
 		de = Noch %d Stunde
 		fr = %d heure restante
 		ru = Остался %d час
+		es = Queda una hora
 	[hours_left__other]
 		en = %d hours left
 		de = Noch %d Stunden
 		fr = %d heures restantes
 		ru = Осталось %d часа
 		zh-Hans = 还剩下 %d 小时
+		es = Quedan %d horas
 	[hours_left__few]
 		ru = Осталось %d часа
 	[hours_left__many]
@@ -599,17 +644,20 @@
 		de = Noch weniger als 1 Minute
 		fr = Moins d'une minute restante
 		zh-Hans = 还剩不到一分钟
+		es = Queda menos de un minuto
 	[minutes_left__one]
 		en = %d minute left
 		de = Noch %d Minute
 		fr = %d minute restante
 		ru = Остался %d минута
+		es = Queda %d minuto
 	[minutes_left__other]
 		en = %d minutes left
 		de = Noch %d Minuten
 		fr = %d minutes restantes
 		ru = Осталось %d минуты
 		zh-Hans = 还剩下 %d 分钟
+		es = Quedan %d minutos
 	[minutes_left__few]
 		ru = Осталось %d минуты
 	[minutes_left__many]
@@ -621,12 +669,14 @@
 		de = Folge %d Person
 		fr = S'abonner à %d utilisateur
 		ru = Подписаться на %d фотографа
+		es = seguir a una persona
 	[follow_people__other]
 		en = Follow %d people
 		de = Folge %d Personen
 		fr = S'abonner à %d utilisateurs
 		ru = Подписаться на %d фотографов
 		zh-Hans = 关注 %d 位用户
+		es = seguir a %d personas
 	[follow_people__few]
 		ru = Подписаться на %d фотографов
 	[follow_people__many]
@@ -668,7 +718,7 @@
 	[user_hasnt_created_galleries_yet]
 		en = %@ hasn't created any galleries yet
 		de = %@ hat noch keine Galerien erstellt.
-		es = %@ hasn't created any galleries yet
+		es = %@ Aún no ha creado galerías
 		fr = %@ n'a pas encore crée de galeries
 		it = %@ non ha ancora creato alcuna Galleria
 		ru = %@ еще не создал(а) галереи
@@ -676,7 +726,7 @@
 	[user_hasnt_uploaded_yet]
 		en = %@ hasn't uploaded any photos yet
 		de = %@ hat noch keine Fotos hochgeladen.
-		es = %@ aún no ha cargado ninguna foto
+		es = %@ aún no ha subido ninguna foto
 		fr = %@ n'a pas encore transféré de photos
 		it = %@ non ha ancora caricato alcuna foto
 		ru = %@ еще не загрузил(а) фотографии
@@ -692,7 +742,7 @@
 	[n_curated_photos]
 		en = %d curated photos
 		de = %d kuratierte Fotos
-		es = %d curated photos
+		es = %d fotos curadas
 		fr = %d photos sélectionnées
 		it = %d foto curate
 		ru = %d отобранных фотографий
@@ -700,7 +750,7 @@
 	[n_of_n]
 		en = %1$d of %2$d
 		de = %1$d von %2$d
-		es = %1$d of %2$d
+		es = %1$d de %2$d
 		fr = %d sur %d
 		it = %1$d of %2$d
 		ru = %1$d of %2$d
@@ -708,7 +758,7 @@
 	[n_photos]
 		en = %d photos
 		de = %d Fotos
-		es = %d photos
+		es = %d fotos
 		fr = %d photos
 		it = %d foto
 		ru = %d фотографий
@@ -852,7 +902,7 @@
 	[user_added_photo_to_gallery_bold]
 		en = <strong>%1$@</strong> added <strong>%2$@</strong> to <strong>%3$@</strong>
 		de = <b>%1$@</b> hat <b>%2$@</b> zu <b>%3$@</b> hinzugefügt
-		es = <strong>%1$@</strong> added <strong>%2$@</strong> to <strong>%3$@</strong>
+		es = <strong>%1$@</strong> agregó <strong>%2$@</strong> a <strong>%3$@</strong>
 		fr = <strong>%1$@</strong> a ajouté <strong>%2$@</strong> a <strong>%3$@</strong>
 		it = <strong>%1$@</strong> added <strong>%2$@</strong> to <strong>%3$@</strong>
 		ru = <strong>%1$@</strong> добавил <strong>%2$@</strong> в <strong>%3$@</strong>
@@ -868,7 +918,7 @@
 	[n_followers_bold]
 		en = <strong>%@</strong> Followers
 		de = <b>%@</b> Follower
-		es = <strong>%@</strong> Followers
+		es = <strong>%@</strong> Seguidores
 		fr = <strong>%@</strong> Abonnés
 		it = <strong>%@</strong> Follower
 		ru = <strong>%@</strong> Подписчики
@@ -884,7 +934,7 @@
 	[user_liked_photo_bold]
 		en = <strong>%1$@</strong> liked <strong>%2$@</strong>
 		de = <b>%1$@</b> gefällt <b>%2$@</b>
-		es = <strong>%1$@</strong> liked <strong>%2$@</strong>
+		es = a <strong>%1$@</strong> le gustó <strong>%2$@</strong>
 		fr = <strong>%1$@</strong> a aimé <strong>%2$@</strong>
 		it = <strong>%1$@</strong> liked <strong>%2$@</strong>
 		ru = <strong>%1$@</strong> понравилось <strong>%2$@</strong>
@@ -900,7 +950,7 @@
 	[a_member_since_date]
 		en = A member since %@
 		de = Mitglied seit %@
-		es = A member since %@
+		es = Miembro desde %@
 		fr = Membre depuis %@
 		it = Membro da %@
 		ru = Участник с %@
@@ -908,7 +958,7 @@
 	[a_photo_quest_by_name]
 		en = A Photo Quest by %@
 		de = Eine Foto-Quest von %@
-		es = A Photo Quest by %@
+		es = Un concurso de fotografía por %@
 		fr = Un concours photo par %@
 		it = Una Foro Quest by %@
 		ru = Фото Квест %@
@@ -916,7 +966,7 @@
 	[server_error_message]
 		en = A server-side error has occurred...
 		de = Ein Serverfehler ist aufgetreten ...
-		es = A server-side error has occurred...
+		es = Ha ocurrido un error en el servidor...
 		fr = Une erreur serveur s'est produite...
 		it = Errore dal server...
 		ru = Ошибка на сервере...
@@ -924,7 +974,7 @@
 	[about_500px]
 		en = About 500px
 		de = Über 500px
-		es = About 500px
+		es = Acerca de 500px
 		fr = A propos de 500px
 		it = ` Chi siamo`
 		ru = О 500px
@@ -948,7 +998,7 @@
 	[add_a_comment]
 		en = Add a comment
 		de = Kommentar hinzufügen
-		es = Agrega un comentario
+		es = Agregar un comentario
 		fr = Ajouter un commentaire
 		it = Aggiungi un commento
 		ru = Комментировать
@@ -980,7 +1030,7 @@
 	[admin]
 		en = Admin
 		de = Administrator
-		es = Admin
+		es = Administrador
 		fr = Admin
 		it = Amministratore
 		ru = Админ
@@ -988,7 +1038,7 @@
 	[admin_panel]
 		en = Admin panel
 		de = Administratorbereich
-		es = Admin panel
+		es = Panel de administración
 		fr = Admin panel
 		it = Pannello amministratore
 		ru = Панель администратора
@@ -996,7 +1046,7 @@
 	[adult_content]
 		en = Adult content
 		de = Nicht jugendfreie Inhalte
-		es = Adult content
+		es = Contenido para adultos
 		fr = Adult content
 		it = Adult content
 		ru = Для взрослых
@@ -1012,7 +1062,7 @@
 	[all_caps]
 		en = ALL
 		de = ALLE
-		es = ALL
+		es = TODOS
 		fr = TOUTES
 		it = Tutte
 		ru = ВСЕ
@@ -1020,7 +1070,7 @@
 	[signup_confirm_account_creation_message]
 		en = An account will be created for you using this Email
 		de = Ein Konto wird für dich mit dieser E-Mail-Adresse erstellt.
-		es = Se creará una cuenta para ti usando este email
+		es = Se creará una cuenta para ti usando este Email
 		fr = Un compte sera créé avec cette adresse
 		it = Verrà creato un account con questa e-mail
 		ru = Этот емайл будет использован для создания аккаунта
@@ -1036,7 +1086,7 @@
 	[comment_delete_confirmation]
 		en = Are you sure you want to delete this comment?
 		de = Möchtest du diesen Kommentar wirklich löschen?
-		es = Are you sure you want to delete this comment?
+		es = Estas seguro/a de que deseas eliminar este comentario?
 		fr = Etes-vous sur de vouloir supprimer ce commentaire?
 		it = Sicuro di voler cancellare questo commento?
 		ru = Вы уверены, что хотите удалить этот коментарий?
@@ -1044,7 +1094,7 @@
 	[gallery_delete_confirmation]
 		en = Are you sure you want to delete this Gallery?
 		de = Möchtest du diese Galerie wirklich löschen?
-		es = Are you sure you want to delete this gallery?
+		es = Estas seguro/a de que deseas eliminar esta galería?
 		fr = Êtes-vous sur de vouloir supprimer cette galerie?
 		it = Sicuro di voler eliminare questa galleria?
 		ru = Вы уверены, что хотите удалить галерею?
@@ -1052,7 +1102,7 @@
 	[photo_delete_confirmation]
 		en = Are you sure you want to delete this photo?
 		de = Möchtest du dieses Foto wirklich löschen?
-		es = ¿Seguro que deseas eliminar esta foto?
+		es = ¿Estás seguro de que deseas eliminar esta foto?
 		fr = Êtes-vous sûr de vouloir supprimer cette photo?
 		it = Sei sicuro/a di voler eliminare questa foto?
 		ru = Вы действительно хотите удалить эту фотографию?
@@ -1060,7 +1110,7 @@
 	[log_out_confirmation]
 		en = Are you sure you want to log out?
 		de = Möchtest du dich wirklich abmelden?
-		es = ¿Seguro que deseas cerrar sesión?
+		es = ¿Estás seguro/a de que deseas cerrar sesión?
 		fr = Êtes-vous sûr de vouloir vous déconnecter?
 		it = Sei sicuro di voler uscire?
 		ru = Вы действительно хотите выйти?
@@ -1068,7 +1118,7 @@
 	[unfollow_confirmation]
 		en = Are you sure you want to unfollow %@
 		de = Möchtest du %@ wirklich nicht mehr folgen?
-		es = Are you sure you want to unfollow %@
+		es = Estás seguro/a de que deseas dejar de seguir a %@
 		fr = Etes vous sur de vouloir vous désabonner de %@
 		it = Sicuro di voler smettere di seguire %@
 		ru = Вы точно хотите удалить %@ из списка друзей
@@ -1108,7 +1158,7 @@
 	[by_500px]
 		en = by 500px
 		de = von 500px
-		es = by 500px
+		es = por 500px
 		fr = par 500px
 		it = by 500px
 		ru = 500px
@@ -1124,7 +1174,7 @@
 	[capture]
 		en = Capture
 		de = Aufnehmen
-		es = Capture
+		es = Captura
 		fr = Caméra
 		it = Scatta
 		ru = Камера
@@ -1148,7 +1198,7 @@
 	[change_password]
 		en = Change password
 		de = Passwort ändern
-		es = Change Password
+		es = Cambiar contraseña
 		fr = Changer votre mot de passe
 		it = Cambia Password
 		ru = Сменить пароль
@@ -1204,7 +1254,7 @@
 	[confirm]
 		en = Confirm
 		de = Bestätigen
-		es = Confirm
+		es = Confirmar
 		fr = Confirmer
 		it = Conferma
 		ru = Подтвердить
@@ -1212,7 +1262,7 @@
 	[confirm_password]
 		en = Confirm Password
 		de = Passwort bestätigen
-		es = Confirm Password
+		es = Confirmar contraseña
 		fr = Confirmez le mot de passe
 		it = Confirm Password
 		ru = Поддтвердить пароль
@@ -1220,7 +1270,7 @@
 	[confirm_your_email]
 		en = Confirm your email
 		de = E-Mail-Adresse bestätigen
-		es = Confirm your email
+		es = Confirma tu email
 		fr = Confirmez votre e-mail
 		it = Conferma la tua email
 		ru = Подтвердить емайл
@@ -1228,7 +1278,7 @@
 	[connect_with_facebook]
 		en = Connect with Facebook
 		de = Mit Facebook verbinden
-		es = Connect with Facebook
+		es = Connectar con Facebook
 		fr = Connecter avec Facebook
 		it = Connettiti con Facebook
 		ru = Войти с Facebook
@@ -1284,7 +1334,7 @@
 	[invalid_cover_photo]
 		en = Cover photos must be landscape and have a resolution of at least 2000px by 1000px.
 		de = Cover-Fotos müssen im Querformat vorliegen und eine Auflösung von mind. 2000 x 1000 Pixel haben.
-		es = La foto de portada debe ser apaisada y de al menos 2000 por 1000.
+		es = La foto de portada debe estar en orientación horizontal y medir al menos 2000 por 1000.
 		fr = Les bannières doivent être en orientation paysage et avoir des dimensions de 2000px par 1000px.
 		it = La foto di copertina deve avere orientamento orizzontale e dimensioni minime 2000x1000.
 		ru = Обложка должна быть как минимум 2000 на 1000 пикселей
@@ -1292,7 +1342,7 @@
 	[update_profile_cover_failed]
 		en = Cover photo update failed
 		de = Cover-Foto nicht aktualisiert.
-		es = Cover photo update failed.
+		es = Falló la actualización de foto de portada
 		fr = Echec lors du transfert de la photo de couverture
 		it = Impossibile caricare la foto di copertina.
 		ru = Не удалось обновить фото на обложке
@@ -1300,7 +1350,7 @@
 	[upload_profile_cover_failed]
 		en = Cover upload failed.
 		de = Cover nicht hochgeladen.
-		es = Cover upload failed.
+		es = Falló la carga de foto de portada.
 		fr = Echec lors du transfert de la bannière.
 		it = Caricamento foto di copertina fallito
 		ru = Не удалось обновить обложку
@@ -1316,7 +1366,7 @@
 	[tour_description_page_2]
 		en = Create and curate Galleries of your favorite photos
 		de = Erstelle und kuratiere Galerien deiner Lieblingsfotos.
-		es = Create and curate Galleries of your favourite photos
+		es = Crea galerías de tus fotos favoritas
 		fr = Créez des galeries de vos photos préférées
 		it = Crea e cura Gallerie con le tue foto preferite
 		ru = Создавайте галереи из своих фотографий, или станьте куратором любых фотографий на 500px
@@ -1337,10 +1387,11 @@
 		it = Curata da %@
 		ru = Куратор %@
 		zh-Hans = 由 %@ 精选
+		es = Creada por
 	[current_password]
 		en = Current password
 		de = Aktuelles Passwort
-		es = Current Password
+		es = Contraseña actual
 		fr = Mot de passe actuel
 		it = Current Password
 		ru = Старый пароль
@@ -1364,7 +1415,7 @@
 	[delete_comment]
 		en = Delete comment
 		de = Kommentar löschen
-		es = Delete comment
+		es = Eliminar comentario
 		fr = Supprimer ce commentaire
 		it = Cancella commento
 		ru = Удалить коментарий
@@ -1372,7 +1423,7 @@
 	[delete_gallery]
 		en = Delete Gallery
 		de = Galerie löschen
-		es = Delete gallery
+		es = Eliminaar galería
 		fr = Supprimer la galerie
 		it = Elimina Galleria
 		ru = Удалить галерею
@@ -1380,7 +1431,7 @@
 	[description]
 		en = Description
 		de = Beschreibung
-		es = Description
+		es = Descripción
 		fr = Description
 		it = Descrizione
 		ru = Описание
@@ -1388,7 +1439,7 @@
 	[suggestions_deselect_all]
 		en = Deselect all
 		de = Auswahl aufheben
-		es = Deselect all
+		es = Deseleccionar todo
 		fr = Tout déselectionner
 		it = Deseleziona tutto
 		ru = Убрать все
@@ -1404,7 +1455,7 @@
 	[people]
 		en = People
 		de = Menschen
-		es = People
+		es = Gente
 		fr = Utilisateurs
 		it = Persone
 		ru = Фотографы
@@ -1428,7 +1479,7 @@
 	[edit_gallery]
 		en = Edit Gallery
 		de = Galerie bearbeiten
-		es = Edit gallery
+		es = Editar galería
 		fr = Modifier la galerie
 		it = Modifica Galleria
 		ru = Редактировать галерею
@@ -1436,7 +1487,7 @@
 	[edit_profile]
 		en = Edit Profile
 		de = Profil bearbeiten
-		es = Edit Profile
+		es = Editar Perfil
 		fr = Modifier profil
 		it = Modifica Profilo
 		ru = Редактировать профиль
@@ -1444,7 +1495,7 @@
 	[edit_recommendations]
 		en = Edit Recommendations
 		de = Empfehlungen bearbeiten
-		es = Edit Recommendations
+		es = Editar recomendaciones
 		fr = Modifier notre sélection
 		it = Modifica Raccomandazioni
 		ru = Редактировать рекоммендации
@@ -1452,7 +1503,7 @@
 	[edit_your_profile]
 		en = Edit your profile
 		de = Profil bearbeiten
-		es = Edit your profile
+		es = Editar tu perfil
 		fr = Editer votre profil
 		it = Modifica il tuo profilo
 		ru = Отредактировать ваш профиль
@@ -1478,7 +1529,7 @@
 		de = Beendet
 		es = Ended
 		fr = Accompli
-		it = Terminata
+		it = Terminado
 		ru = Окончен
 		zh-Hans = 已结束
 	[error]
@@ -1532,7 +1583,7 @@
 	[featured_galleries]
 		en = Featured Galleries
 		de = Vorgestellte Galerien
-		es = Featured Galleries
+		es = Galerías destacadas
 		fr = Galeries Sélectionnées
 		it = Gallerie Scelte dalla Redazione
 		ru = Избранные галереи
@@ -1540,7 +1591,7 @@
 	[featured_users]
 		en = Featured Users
 		de = Vorgestellte Benutzer
-		es = Featured Users
+		es = Usuarios destacados
 		fr = Selection d'utilisateurs
 		it = Utenti Scelti dalla Redazione
 		ru = Популярные фотографы
@@ -1556,7 +1607,7 @@
 	[find_people]
 		en = Find people
 		de = Personen finden
-		es = Find people
+		es = Encontrar gente
 		fr = Trouver des photographes
 		it = Trova Persone
 		ru = Найти фотографов
@@ -1564,7 +1615,7 @@
 	[find_people_to_follow]
 		en = Find people to follow
 		de = Personen zum Folgen finden.
-		es = Find people to follow
+		es = Encontrar gente para seguir 
 		fr = Trouvez des comptes auxquels s'abonner
 		it = Trova persone da seguire
 		ru = Найти интересных фотографов
@@ -1572,7 +1623,7 @@
 	[find_photo_quests_in_activities]
 		en = Find Photo Quests in activities
 		de = Foto-Quests in Aktivitäten finden.
-		es = Find Photo Quests in activities
+		es = Encontrar concursos de fotografía en actividades
 		fr = Trouver les concours photo dans vos activités
 		it = Ora puoi trovare le Foto Quest in attivitá
 		ru = Список Фото Квестов в уведомлениях
@@ -1612,7 +1663,7 @@
 	[suggestions_follow_all]
 		en = Follow and continue
 		de = Folgen & weiter
-		es = Follow and Continue
+		es = Seguir and Continuar
 		fr = Continuer
 		it = Segui e continua
 		ru = Добавить в друзья и Продолжить
@@ -1620,7 +1671,7 @@
 	[follow_back]
 		en = Follow back
 		de = Auch folgen
-		es = Follow back
+		es = Seguir
 		fr = S'abonner
 		it = Follow back
 		ru = Добавить в друзья
@@ -1668,7 +1719,7 @@
 	[following_n_bold]
 		en = Following <strong>%@</strong>
 		de = Ich folge <b>%@</b>
-		es = Following <strong>%@</strong>
+		es = Siguiendo <strong>%@</strong>
 		fr = Abonnements <strong>%@</strong>
 		it = Following <strong>%@</strong>
 		ru = Подписан(а) <strong>%@</strong>
@@ -1700,7 +1751,7 @@
 	[galleries]
 		en = Galleries
 		de = Galerien
-		es = Galleries
+		es = Gallerias
 		fr = Galeries
 		it = Gallerie
 		ru = Галереи
@@ -1708,7 +1759,7 @@
 	[get_help]
 		en = Get Help
 		de = Hilfe anfordern
-		es = Get Help
+		es = Obtener ayuda
 		fr = Obtenir de l'aide
 		it = Aiuto
 		ru = Помощь
@@ -1716,7 +1767,7 @@
 	[got_it]
 		en = Got it!
 		de = Alles klar!
-		es = Got it!
+		es = OK
 		fr = OK
 		it = Capito!
 		ru = ОК!
@@ -1724,7 +1775,7 @@
 	[discover_subtitle_editors]
 		en = Hand-Picked by Top Photographers
 		de = Von den besten Fotografen ausgewählt.
-		es = Seleccionadas a mano por los fotógrafos más importantes
+		es = Seleccionadas a mano por los mejores fotógrafos
 		fr = Sélectionné par nos meilleurs photographes
 		it = Selezionate dai migliori fotografi
 		ru = Подобрано ведущими фотографами
@@ -1748,7 +1799,7 @@
 	[i_already_have_an_account]
 		en = I already have an account
 		de = Ich habe bereits ein Konto.
-		es = I already have an account
+		es = Ya tengo una cuenta
 		fr = J'ai déjà un compte
 		it = Ho già un account
 		ru = У меня уже есть аккаунт
@@ -1764,7 +1815,7 @@
 	[i_dont_want_to_join]
 		en = I don't want to join
 		de = Ich möchte nicht beitreten.
-		es = I don't want to join
+		es = No me quiero unir
 		fr = Je ne veux pas participer
 		it = Non voglio partecipare
 		ru = Я не хочу
@@ -1780,7 +1831,7 @@
 	[quest_inspiration_caps]
 		en = IMAGES TO INSPIRE YOU
 		de = INSPIRIERENDE BILDER
-		es = IMAGES TO INSPIRE YOU
+		es = IMAGENES PARA INSPIRARTE
 		fr = Des photos pour s'inspirer
 		it = PER ISPIRARTI
 		ru = Вдохновление
@@ -1804,7 +1855,7 @@
 	[tour_description_page_3]
 		en = Join over 6 million inspiring photographers
 		de = Tritt 6 Millionen inspirierenden Fotografen bei.
-		es = Join over 6 million inspiring photographers
+		es = Únete a más de 6 millones de fotógrafos
 		fr = Rejoignez plus de 6 millions de photographers
 		it = Entra a far parte della community internazionale con più di 6 milioni di utenti
 		ru = Присоединяйтесь к сообществу из 6 миллионов фотографов
@@ -1812,7 +1863,7 @@
 	[join_the_beta]
 		en = Join the Beta
 		de = Beta testen
-		es = Join the Beta
+		es = Participa en la Beta
 		fr = Rejoindre la beta
 		it = Partecipa alla Beta
 		ru = Я хочу доступ к Бета
@@ -1860,7 +1911,7 @@
 	[learn_more]
 		en = Learn more
 		de = Mehr erfahren
-		es = Learn more
+		es = Más información
 		fr = En savoir plus
 		it = Scopri di più
 		ru = Узнать больше
@@ -1868,7 +1919,7 @@
 	[onboarding_get_started_new_user_title]
 		en = Let's get started
 		de = Los geht's
-		es = Let's get started
+		es = Comencemos
 		fr = Commençons
 		it = Forza, iniziamo
 		ru = Давайте начнем
@@ -1932,7 +1983,7 @@
 	[login_signup_twitter_or_google_login]
 		en = Looking to log in with <twitter>Twitter</twitter> or <google>Google</google>?
 		de = Möchtest du dich mit <twitter>Twitter</twitter> oder <google>Google</google> anmelden?
-		es = Looking to log in with <twitter>Twitter</twitter> or <google>Google</google>?
+		es = Estás tratando de acceder con <twitter>Twitter</twitter> o <google>Google</google>?
 		fr = Se connecter avec <twitter>Twitter</twitter> ou <google>Google</google>?
 		it = Stai cercando di accedere con <twitter>Twitter</twitter> o <google>Google</google>?
 		ru = Войти с помощью <twitter>Twitter</twitter> или <google>Google</google>?
@@ -1956,7 +2007,7 @@
 	[make_gallery_cover_photo]
 		en = Make Gallery cover photo
 		de = Als Cover-Foto der Galerie festlegen.
-		es = Make Gallery cover photo
+		es = Establecer como foto de portada
 		fr = Utiliser en tant que photo de couverture
 		it = Inserisci come Foto di copertina
 		ru = Сделать заглавной фото галереи
@@ -1988,7 +2039,7 @@
 	[discover_galleries_new]
 		en = New
 		de = Neu
-		es = New
+		es = Nuevo
 		fr = Nouveau
 		it = Nuove
 		ru = Свежие
@@ -1996,7 +2047,7 @@
 	[new_galleries]
 		en = New Galleries
 		de = Neue Galerien
-		es = New Galleries
+		es = Nuevas Gallerías
 		fr = Nouvelles Galeries
 		it = Nuove Gallerie
 		ru = Новые галереи
@@ -2004,7 +2055,7 @@
 	[new_gallery]
 		en = New Gallery
 		de = Neue Galerie
-		es = New Gallery
+		es = Nuevas Gallerías
 		fr = Nouvelle galerie
 		it = Nuova Galleria
 		ru = Новая галерея
@@ -2012,7 +2063,7 @@
 	[new_password]
 		en = New password
 		de = Neues Passwort
-		es = New Password
+		es = Nuevas contraseña
 		fr = Saissisez votre nouveau mot de passe
 		it = New Password
 		ru = Новый пароль
@@ -2021,10 +2072,11 @@
 		en = New Photos
 		de = Neue Fotos
 		fr = Nouvelles photos
+		es = Nuevas fotos
 	[no_followers]
 		en = No Followers
 		de = Keine Follower
-		es = No Followers
+		es = Ningún seguidor
 		fr = Pas d'abonné
 		it = No Follower
 		ru = Нет Подписчиков
@@ -2032,7 +2084,7 @@
 	[no_galleries]
 		en = No Galleries
 		de = Keine Galerien
-		es = No Galleries
+		es = Ninguna galería
 		fr = Aucune galerie
 		it = Nessuna Galleria
 		ru = Ни одной галереи
@@ -2040,7 +2092,7 @@
 	[no_galleries_yet]
 		en = No Galleries yet
 		de = Noch keine Galerien
-		es = No Galleries Yet
+		es = Aún no hay galerías
 		fr = Aucune galerie
 		it = Nessuna Galleria
 		ru = Нет галерей
@@ -2112,7 +2164,7 @@
 	[not_following_anyone]
 		en = Not following anyone
 		de = Du folgst niemandem
-		es = Not following anyone
+		es = No sigues a nadie
 		fr = Vous ne suivez personne
 		it = Nessun utente seguito
 		ru = Никого в друзьях
@@ -2128,7 +2180,7 @@
 	[push_notifications_prompt_message]
 		en = Notifications may include alerts, sounds and icon badges. These can be configured in Settings.
 		de = Zu Mitteilungen können Hinweise, Töne und Kennzeichensymbole zählen. Diese kannst du in der Einstellungs-App deines Geräts festlegen.
-		es = Notifications may include alerts, sounds and icon badges. These can be configured in Settings.
+		es = Las notificaciones pueden incluir alertas, sonidos, e iconos. Esto puede seer configurado en Ajutes.
 		fr = Les notifications peuvent inclure des alerts, sons et badges. Vous pouvez les configurer dans Réglages
 		it = ` Le notifiche possono includere avvisi, suoni e badge icone. Possono essere configurate nelle Impostazioni.`
 		ru = Уведомления могут быть предупреждениями, звуками и другими компонентами. Их можно поменять в настройках
@@ -2176,7 +2228,7 @@
 	[maybe_later]
 		en = Maybe later
 		de = Später vielleicht
-		es = Maybe later
+		es = Quizás después
 		fr = Plus tard
 		it = Non ora
 		ru = Не сейчас
@@ -2184,7 +2236,7 @@
 	[onboarding_error_description]
 		en = Check your internet connection and try again later
 		de = Überprüfe deine Internetverbindung und versuche es später erneut.
-		es = Check your internet connection and try again later
+		es = Verifica tu conexión a internet e intenta de nuevo. 
 		fr = Veuillez vérifier votre connexion et réessayez.
 		it = Controlla la tua connessione e riprova
 		ru = Проверьте соединение с интернетом и попробуйте еще раз
@@ -2192,7 +2244,7 @@
 	[onboarding_error_title]
 		en = Unable to connect to the internet
 		de = Die Internetverbindung kann nicht hergestellt werden.
-		es = Unable to connect to the internet
+		es = La conexión a Internet no puede ser establecida.
 		fr = Impossible de se connecter
 		it = Impossibile connettersi ad Internet
 		ru = Нет соединения с интернетом...
@@ -2200,7 +2252,7 @@
 	[onboarding_loading_feed_text]
 		en = Please stand by.
 		de = Bitte warten.
-		es = Please stand by
+		es = Por favor espera.
 		fr = Veuillez patienter.
 		it = Attendi per favore
 		ru = Пожалуйста, ожидайте.
@@ -2208,7 +2260,7 @@
 	[onboarding_loading_feed_title]
 		en = Beautiful photos are coming your way!
 		de = Schöne Fotos sind auf dem Weg zu dir!
-		es = Beautiful photos coming your way!
+		es = Magnificas fotos están en camino!
 		fr = De magnifiques photos arrivent!
 		it = `Stiamo caricando fantastiche foto! `
 		ru = Отличные фотографии загружаются в вашу ленту!
@@ -2216,7 +2268,7 @@
 	[onboarding_restart_button]
 		en = Try again
 		de = Erneut versuchen
-		es = Try again
+		es = Intentar de nuevo
 		fr = Réessayer
 		it = `Prova di nuovo `
 		ru = Попробуй еще раз
@@ -2224,7 +2276,7 @@
 	[onboarding_user_list_title]
 		en = Browse and choose who you want to follow.
 		de = Durchsuche die Community und entscheide, wem du folgen möchtest.
-		es = Browse and choose who you want to follow.
+		es = Navega y elige a que fotógrafos seguir.
 		fr = Choisissez les photographes auxquels vous souhaitez vous abonner
 		it = Dai un occhiata e scegli chi vuoi seguire - Scegli chi apparirà nella tua pagina principale. Ti consigliamo di selezionare tutti!
 		ru = Просмотрите и выберите интересных для вас фотографов. Рекомендуем подписаться на всех!
@@ -2232,7 +2284,7 @@
 	[suggestions_select_all]
 		en = Select all
 		de = Alle auswählen
-		es = Select all
+		es = Seleccionar todo
 		fr = Tout sélectionner
 		it = Seleziona tutto
 		ru = Выделить все
@@ -2288,7 +2340,7 @@
 	[photo_added_to]
 		en = Photo added to %@
 		de = Foto zu %@ hinzugefügt.
-		es = Photo added to %@
+		es = Foto agregada a %@
 		fr = Photo ajouté dans %@
 		it = Foto aggiunte a %@
 		ru = Фото добавлено в %@
@@ -2296,7 +2348,7 @@
 	[photo_has_been_submitted_to_quest]
 		en = Photo has been submitted to a Photo Quest
 		de = Das Foto wurde für eine Foto-Quest eingereicht.
-		es = Photo has been submitted to a Photo Quest
+		es = La foto ha sido registrada al concurso
 		fr = Participation au concours enregistrée
 		it = La foto è stata caricata nella Quest
 		ru = Фотография заявлена на Фото Квест
@@ -2312,7 +2364,7 @@
 	[photos_by]
 		en = Photos by %@
 		de = Fotos von %@
-		es = Photos by %@
+		es = Fotos por %@
 		fr = Photos par %@
 		it = Fotografie di %@
 		ru = Автор фото %@
@@ -2328,7 +2380,7 @@
 	[please_enter_current_password]
 		en = Please enter your current password.
 		de = Bitte gib dein aktuelles Passwort ein.
-		es = Please enter your current password.
+		es = Por favor escribe tu contraseña actual.
 		fr = Veuillez renseigner votre mot de passe actuel.
 		it = Please enter your current password.
 		ru = Введите ваш старый пароль.
@@ -2392,7 +2444,7 @@
 	[discover_subtitle_upcoming]
 		en = Promising New Uploads
 		de = Vielversprechende neue Fotos
-		es = Nuevas cargas con potencial
+		es = Nuevas fotos prometedoras
 		fr = Nouvelles photos prometteuses
 		it = Nuovi scatti che promettono bene
 		ru = Перспективные Новые Работы
@@ -2400,7 +2452,7 @@
 	[pulse]
 		en = Pulse
 		de = Puls
-		es = Pulse
+		es = Pulso
 		fr = Pulse
 		it = Pulse
 		ru = Пульс
@@ -2416,7 +2468,7 @@
 	[quests_title]
 		en = Quests
 		de = Quests
-		es = Quests
+		es = Concursos
 		fr = Concours photo
 		it = Quest
 		ru = КвестыКвесты
@@ -2432,7 +2484,7 @@
 	[login_signup_terms_of_service_bold]
 		en = Read our <strong>Terms of Service</strong>
 		de = Lies unsere <b>Nutzungsbedingungen</b>
-		es = Read our <strong>Terms of Service</strong>
+		es = Lee nuestros <strong>Términos de Servicio</strong>
 		fr = Lire nos <strong>Termes d'Utilisation</strong>
 		it = Leggi i <strong>Termini del Servizio</strong>
 		ru = Прочитать <strong>Условия использования</strong>
@@ -2440,7 +2492,7 @@
 	[recent_caps]
 		en = RECENT
 		de = NEUESTE
-		es = RECENT
+		es = RECIENTE
 		fr = RÉCENTES
 		it = RECENTI
 		ru = СВЕЖИЕ
@@ -2456,7 +2508,7 @@
 	[remove_from_gallery]
 		en = Remove from Gallery
 		de = Aus Galerie entfernen
-		es = Remove from Gallery
+		es = Eliminar de galería
 		fr = Retirer de la galerie
 		it = Rimuovi Galleria
 		ru = Убрать из галереи
@@ -2464,7 +2516,7 @@
 	[reply]
 		en = Reply
 		de = Antworten
-		es = Reply
+		es = Responder
 		fr = Répondre
 		it = Reply
 		ru = Ответить
@@ -2480,7 +2532,7 @@
 	[report]
 		en = Report
 		de = Melden
-		es = Report
+		es = Reportar
 		fr = Signaler
 		it = Segnala
 		ru = Пожаловаться
@@ -2488,7 +2540,7 @@
 	[report_gallery_as]
 		en = Report this gallery as
 		de = Galerie melden als
-		es = Report this gallery as
+		es = Reportar esta galería como
 		fr = Signaler cette galerie comme :
 		it = Segnala questa Galleria come
 		ru = Пожаловаться об этой галереи
@@ -2496,7 +2548,7 @@
 	[report_this_photo]
 		en = Report this photo
 		de = Foto melden
-		es = Denunciar esta foto
+		es = Reportar esta foto
 		fr = Signaler cette photo
 		it = Segnala questa foto
 		ru = Пожаловаться
@@ -2504,7 +2556,7 @@
 	[report_this_photo_as]
 		en = Report this photo as
 		de = Foto melden als
-		es = Report this photo as
+		es = Reportar esta foto como
 		fr = Signaler cette photo
 		it = Segnala questa foto come
 		ru = Пожаловаться
@@ -2512,7 +2564,7 @@
 	[report_this_user]
 		en = Report this person
 		de = Person melden
-		es = Report this user
+		es = Reportar este usuario
 		fr = Signaler cet utilisateur
 		it = Segnala questo utente
 		ru = Пожаловаться
@@ -2520,7 +2572,7 @@
 	[report_this_user_as]
 		en = Report this person as
 		de = Person melden als
-		es = Report this user as
+		es = Reportar este usuario como
 		fr = Signaler cet utilisateur
 		it = Segnala questo utente come
 		ru = Пожаловаться
@@ -2528,7 +2580,7 @@
 	[quest_rules_header_caps]
 		en = RULES
 		de = REGELN
-		es = RULES
+		es = REGLAS
 		fr = RÈGLES
 		it = REGOLE
 		ru = ПРАВИЛА
@@ -2536,7 +2588,7 @@
 	[save]
 		en = Save
 		de = Speichern
-		es = Save
+		es = Guardar
 		fr = Enregistrer
 		it = Salva
 		ru = Сохранить
@@ -2544,7 +2596,7 @@
 	[search]
 		en = Search
 		de = Suchen
-		es = Search
+		es = Buscar
 		fr = Recherche
 		it = Cerca
 		ru = Поиск
@@ -2560,7 +2612,7 @@
 	[see_all]
 		en = See all
 		de = Alle anzeigen
-		es = See all
+		es = Ver todo
 		fr = voir plus
 		it = Vedi tutte
 		ru = Все
@@ -2576,7 +2628,7 @@
 	[set_as_cover]
 		en = Set as cover
 		de = Als Cover festlegen
-		es = Set as Cover
+		es = Establecer como portada
 		fr = Utiliser comme bannière
 		it = Foto di Copertina
 		ru = Сделать обложкой
@@ -2608,7 +2660,7 @@
 	[tour_description_page_1]
 		en = Share your best photos with the community
 		de = Teile deine besten Fotos mit der Community.
-		es = Share your best photos with the community
+		es = Comparte tus mejores fotos con la comunidad
 		fr = Partager vos meilleures photos avec la communauté
 		it = Condiviti le tue migliori foto con la community
 		ru = Загрузите несколько фотографий или проявите инициативу добавив людей в друзья.
@@ -2640,7 +2692,7 @@
 	[smart_albums]
 		en = Smart Albums
 		de = Intelligente Alben
-		es = Smart Albums
+		es = Albumes Inteligentes
 		fr = Albums Intelligents
 		it = Smart Albums
 		ru = Cмарт-альбомы
@@ -2648,7 +2700,7 @@
 	[error_incorrect_password_message]
 		en = Something wrong happened, please make sure your current password is correct!
 		de = Hier ist etwas schiefgelaufen. Bitte überprüfe dein aktuelles Passwort.
-		es = Something wrong happened, please make sure your current password is correct!
+		es = Algo ha ido mal. Asegurate que tu contraseña es correcta
 		fr = Assurez vous que votre mot de passe actuel est correct.
 		it = Something wrong happened, please make sure your current password is correct!
 		ru = Произошла ошибка, убедитесь что вы ввели правильный пароль!
@@ -2664,7 +2716,7 @@
 	[quest_sponsored_by]
 		en = Sponsored by %@
 		de = Von %@ gesponsert.
-		es = Sponsored by %@
+		es = Patrocinado por %@
 		fr = Avec la participation de %@
 		it = Sponsorizzata da %@
 		ru = Спонсор %@
@@ -2672,7 +2724,7 @@
 	[quest_sponsored_by_newline]
 		en = Sponsored by \n%@
 		de = Von %@\ngesponsert.
-		es = Sponsored by \n%@
+		es = Patrocinado por \n%@
 		fr = Avec la participation de \n%@
 		it = Sponsorizzato da \n%@
 		ru = Спонсор \n%@
@@ -2688,7 +2740,7 @@
 	[steal_this]
 		en = Steal this!
 		de = Stehlen!
-		es = Steal this!
+		es = Copiar
 		fr = Copier
 		it = Rubalo!
 		ru = Steal this!
@@ -2712,7 +2764,7 @@
 	[quest_submit_photo]
 		en = Submit a photo
 		de = Foto einreichen
-		es = Submit a photo
+		es = Sube una foto
 		fr = Soumettre une photo
 		it = Carica una foto
 		ru = Подать фото заявку
@@ -2720,7 +2772,7 @@
 	[submit_to_marketplace]
 		en = Submit to Marketplace
 		de = An Marktplatz schicken
-		es = Submit to Marketplace
+		es = Publicar a Marketplace
 		fr = Publier sur le Marketplace
 		it = Pubblica nel Marketplace
 		ru = Выставить на продажу
@@ -2728,7 +2780,7 @@
 	[quests_available_subtitle]
 		en = Submit your photos to win great prizes
 		de = Reiche deine Fotos ein, um tolle Preise zu gewinnen.
-		es = Submit your photos to win great prizes
+		es = Sube tus fotos para ganar grandes premios
 		fr = Participez pour gagner des prix
 		it = Carica le tue foto per vincere favolosi premi
 		ru = Участвуй и выиграй супер призы
@@ -2736,7 +2788,7 @@
 	[take_a_new_photo]
 		en = Take a new photo
 		de = Neues Foto aufnehmen
-		es = Take a new photo
+		es = Toma una nueva foto
 		fr = Prendre une nouvelle photo
 		it = Scatta una nuova foto
 		ru = Сфотографировать
@@ -2768,7 +2820,7 @@
 	[onboarding_get_started_description]
 		en = Tell us what you like and we'll find great people to follow based on your choices.
 		de = Sage uns, was dir gefällt, damit wir Personen für dich finden können, denen du folgen kannst.
-		es = Tell us what you like. We’ll help you find people to follow based on your choices here.
+		es = Cuentanos qué te gusta! Te ayudaremos a encontrar gente intersante para seguir.
 		fr = Dites nous ce que vous aimez, nous vous aiderons à trouver des utilisateurs en fonction de vos choix.
 		it = Facci conoscere i tuoi gusti in fatto di fotografia. Noi ti aiuteremo a trovare persone da seguire in base alle tue scelte. Sicuro!
 		ru = Покажите что вам нравится и мы найдем интересных для вас людей.
@@ -2776,7 +2828,7 @@
 	[report_confirmation_gallery]
 		en = Thank you. You have reported this gallery.
 		de = Du hast diese Galerie gemeldet. Vielen Dank!
-		es = Thank you. You have reported this gallery.
+		es = Gracias por reportar a esta galería.
 		fr = Merci.
 		it = Galleria segnalata correttamente.
 		ru = Спасибо. Сообщение о нарушении отправлено.
@@ -2800,7 +2852,7 @@
 	[discover_subtitle_popular_gallery]
 		en = The best galleries from our community
 		de = Die besten Galerien von unserer Community
-		es = The best galleries from our community
+		es = Las mejores galerias de la comunidad
 		fr = Les meilleures galeries
 		it = Le migliori Gallerie dalla nostra community
 		ru = Лучшие галереи нашего сообщества
@@ -2808,7 +2860,7 @@
 	[discover_galleries_new_subtitle]
 		en = The latest from the community
 		de = Das Neueste von der Community
-		es = The latest from the community
+		es = Lo último de la comunidad
 		fr = Les dernières galleries
 		it = Le ultime dalla nostra community
 		ru = Последнее от нашего сообщества
@@ -2816,7 +2868,7 @@
 	[discover_subtitle_fresh_gallery]
 		en = The latest galleries created by our community
 		de = Die neuesten Galerien von unserer Community
-		es = The latest galleries created by our community
+		es = Las últimas galerías creadas por la comunidad
 		fr = Les dernières galleries créées par la communauté
 		it = Le ultime Gallerie create dalla nostra community
 		ru = Свежие галереи нашего сообщества
@@ -2824,7 +2876,7 @@
 	[password_and_confirmation_dont_match]
 		en = The new password and the confirmation don't match!
 		de = Das neue Passwort und die Passwortwiederholung stimmen nicht überein!
-		es = The new password and the confirmation don't match!
+		es = Las contraseñas no coinciden!
 		fr = Le nouveau mot de passe et sa confirmation ne correspondent pas.
 		it = The new password and the confirmation don't match!
 		ru = Новый пароль и подтверждение не совпадают!
@@ -2840,7 +2892,7 @@
 	[error_delete_comment_message]
 		en = There was an error while trying to delete the comment. Please try again later.
 		de = Beim Löschen des Kommentars ist ein Fehler aufgetreten. Versuche es später bitte erneut.
-		es = There was an error while trying to delete the comment. Please try again later.
+		es = Hubo un error al eliminar el comentario. Por favor inténtalo de nuevo más tarde.
 		fr = Une erreur s'est produite lors de la suppression du commentaire. Veuillez ré-essayer ulterieurement.
 		it = C’è stato un errore durante l’eliminazione del commento. Riprova più tardi.
 		ru = Произошла ошибка при попытке удалить комментарий. Пожалуйста, попробуйте позже.
@@ -2856,7 +2908,7 @@
 	[marketplace_not_enough_tags_message]
 		en = To be admissible on the marketplace, your photo needs a minimum of 5 tags
 		de = Damit dein Foto auf dem Marktplatz angenommen wird, braucht es mind. 5 Tags.
-		es = To be admissible on the marketplace, your photo needs a minimum of 5 tags
+		es = Para ser aceptada en Marketplace, tu foto necesita tener al menos 5 etiquetas
 		fr = Pour être acceptée sur le marketplace, votre photo doit avoir 5 mot-clés
 		it = La tua foto deve avere almeno 5 tag per essere pubblicata nel Marketplace
 		ru = Для продажи фотографии нужно как минимум 5 тэгов
@@ -2896,7 +2948,7 @@
 	[trending_galleries]
 		en = Trending Galleries
 		de = Angesagte Galerien
-		es = Trending Galleries
+		es = Tendencias en Galerías
 		fr = Les galeries les plus vues
 		it = Gallerie in Primo Piano
 		ru = Актуальные галереи
@@ -2936,7 +2988,7 @@
 	[login_twitter_google_unsupported]
 		en = Twitter and Google+\n are no longer supported.
 		de = Twitter und Google+\n werden nicht mehr unterstützt.
-		es = Twitter and Google+\n are no longer supported.
+		es = Twitter y Google+\n ya no son soportados.
 		fr = Twitter et Google+\n ne sont plus supportés.
 		it = Twitter e Google+ non saono più siupportati.
 		ru = Мы больше не поддерживаем\n Twitter и Google+.
@@ -3024,7 +3076,7 @@
 	[update_failed]
 		en = Update Failed
 		de = Aktualisierung fehlgeschlagen
-		es = Update Failed
+		es = Actualizacion fallida
 		fr = La mise à jour a échoué
 		it = Aggiornamento Fallito
 		ru = Не удалось обновить
@@ -3040,7 +3092,7 @@
 	[upload]
 		en = Upload
 		de = Hochladen
-		es = Cargar
+		es = Subir
 		fr = Transfert
 		it = Carica
 		ru = Загрузить
@@ -3072,7 +3124,7 @@
 	[upload_photo]
 		en = Upload Photo
 		de = Foto hochladen
-		es = Cargar foto
+		es = Subir foto
 		fr = Transfert
 		it = Carica foto
 		ru = Загрузить фото
@@ -3088,7 +3140,7 @@
 	[upload_photos_to_get_noticed]
 		en = Upload some photos and get noticed by the community
 		de = Lade Fotos hoch und werde von der Community gesehen.
-		es = Upload some photos and get noticed by the community
+		es = Sube algunas fotos para ser notado por la comunidad
 		fr = Transférez des photos et faites vous remarquer par la communauté
 		it = Carica le foto e fatti notare dalla Community
 		ru = Загрузите несколько фотографий и получите мнение сообщество
@@ -3096,7 +3148,7 @@
 	[upload_photos_and_engage_to_gain_followers]
 		en = Upload some photos or engage with the community to gain followers.
 		de = Lade Fotos hoch und beteilige dich an der Community, um Follower zu finden.
-		es = Upload some photos or engage with the community to gain followers.
+		es = Sube algunas fotos o interactúa con la comunidad para ganar seguidores
 		fr = Transférez quelques photos ou echangez avec la communnauté pour gagner des abonnés.
 		it = Carica le tue foto o partecipa alla community per aumentare i tuoi followers.
 		ru = Загрузите несколько фотографий или проявите инициативу добавив людей в друзья.
@@ -3144,7 +3196,7 @@
 	[view_submissions]
 		en = View submissions
 		de = Eingereichte Fotos anzeigen
-		es = View submissions
+		es = Ver fotos
 		fr = Voir les soumissions
 		it = Vedi caricamenti
 		ru = Посмотреть заявки
@@ -3184,7 +3236,7 @@
 	[discover_galleries_featured_subtitle]
 		en = We've picked the best galleries for you
 		de = Wir haben die besten Galerien für dich ausgewählt.
-		es = We've picked the best galleries for you
+		es = Hemos elegido las mejores galerías para ti
 		fr = Nous avons sélectionné les meilleures galeries pour vous
 		it = Abbiamo selezionato le migliori Gallerie per te
 		ru = Мы выбрали лучшие галереи для вас
@@ -3240,7 +3292,7 @@
 	[onboarding_found_matches_message]
 		en = We've found you some great photographers.
 		de = Wir haben tolle Fotografen für dich gefunden.
-		es = We’ve matched you with some amazing people.
+		es = Hemos encontrado algunos fotógrafos que te encantarán
 		fr = Nous avons trouvé des photographes fantastiques
 		it = Abbiamo tovato alcune persone che puoi seguire.
 		ru = Мы нашли интересных для вас фотографов.
@@ -3272,7 +3324,7 @@
 	[login_twitter_google_unsupported_message]
 		en = You can still login with the email address\n associated with your Twitter or Google+\n account. We'll just need you to create a\n new password.
 		de = Du kannst dich weiterhin mit der\nE-Mail-Adresse anmelden, die mit\ndeinem Twitter- oder Google+-Konto\nverknüpft ist. Für uns ist nur wichtig,\ndass du ein neues Passwort festlegst.
-		es = You can still login with the email address\n associated with your Twitter or Google+\n account. We'll just need you to create a\n new password.
+		es = Aún puedes ingresar con el email\n asociado con tu cuenta de Twitter o Google+.\n Solamente tienes que crear una nueva contraseña
 		fr = Vous pouvez encore utiliser l'adresse mail associée à votre compte Twitter ou Google+. Veuillez créer un nouveau mot de passe.
 		it = È comunque possibile accedere usando l'indirizzo email associato a i tuoi account di Twitter o Google+. Dovrai solo creare una nuova password.
 		ru = Вы все еще можете войти используя емайл привязанный к Twitter или Google+. Вам просто необходимо создать пароль.
@@ -3280,7 +3332,7 @@
 	[empty_galleries_profile]
 		en = You haven't created any galleries yet
 		de = Du hast noch keine Galerie erstellt.
-		es = You haven't created any galleries yet
+		es = Aún nos has creado galerias
 		fr = Vous n'avez pas encore crée de galeries
 		it = Non hai creato nessuna Galleria
 		ru = Вы пока не создали ни одной галереи
@@ -3288,7 +3340,7 @@
 	[empty_photos_profile]
 		en = You haven't shared any photos
 		de = Du hast noch kein Foto geteilt.
-		es = You haven't shared any photos
+		es = No has compartido ninguna foto
 		fr = Vous n'avez partagé aucune photo
 		it = Non hai condiviso nessuna foto
 		ru = Вы еще не поделились вашими фото
@@ -3296,7 +3348,7 @@
 	[empty_photos_profile_subtitle]
 		en = You haven't uploaded any photos yet
 		de = Du hast noch kein Foto hochgeladen.
-		es = Aún no has cargado ninguna foto
+		es = Aún no has subido ninguna foto
 		fr = Vous n'avez pas encore envoyé de photo
 		it = Non hai ancora caricato alcuna foto
 		ru = Вы еще не загрузили фотографии
@@ -3304,7 +3356,7 @@
 	[share_extension_unauthorized_message]
 		en = You need to be logged in to use the 500px Share extension. Open the 500px app and log in.
 		de = Du musst angemeldet sein, um die Erweiterung 500px Share verwenden zu können. Öffne die 500px-App und melde dich an.
-		es = Necesitas haber iniciado sesión para usar la extensión para Compartir de 500px. Abre la aplicación 500px e inicia sesión.
+		es = Necesitas iniciar sesión para usar la extensión para Compartir de 500px. Abre la aplicación 500px e inicia sesión.
 		fr = Vous devez être connecté à 500px. Lancez l'app et inscrivez vous.
 		it = Per usare l'estensione di condivisione 500px devi aver effettuato l'accesso. Apri l'app di 500px e accedi.
 		ru = Вы должны залогиниться, чтобы использовать 500px Share. Откройте приложение 500px и залогинтись .
@@ -3384,7 +3436,7 @@
 	[not_following_anyone_yet]
 		en = You’re not following anyone yet
 		de = Du folgst noch niemandem.
-		es = You’re not following anyone yet
+		es = Aún no sigues a nadie
 		fr = Vous êtes pas encore abonné à d'autres utilisateurs
 		it = Non stai seguendo nessuno
 		ru = У нас никого в друзьях
@@ -3392,7 +3444,7 @@
 	[beta_tester_invitation_title]
 		en = You’ve been hand selected to join our beta program!
 		de = Du wurdest persönlich für unser Beta-Programm ausgewählt!
-		es = You’ve been hand selected to join our beta program!
+		es = Has sido seleccionado para unirte a nuestro programa Beta!
 		fr = Vous avez été sélectionné pour participer à notre programme Beta!
 		it = Sei stato selezionato per partecipare al programma di beta test!
 		ru = Присоеденяйтись к Бета тестерам
@@ -3400,7 +3452,7 @@
 	[push_notification_prompt_title]
 		en = “500px” Would Like to Send you Notifications
 		de = 500px möchte dir Benachrichtigungen senden.
-		es = “500px” Would Like to Send you Notifications
+		es = “A 500px” Le gustaría enviarte notificaciones
 		fr = “500px” souhaite vous envoyer des notifications
 		it = “500px” Vorrebbe Inviarti Notifiche
 		ru = «500px» хочет посылать вам уведомления
@@ -3429,204 +3481,239 @@
 		fr = Lire nos règles d'utilisation
 		ru = Прочитать Условия использования
 		zh-Hans = 阅读我们的服务条款
+		es = Lee nuestros términos de servicio
 	[login_signup_facebook_failed]
 		en = Facebook login failed
 		de = Facebook-Anmeldung fehlgeschlagen
 		fr = Echec de la connexion avec Facebook
 		ru = Не удалось войти с Facebook
 		zh-Hans = Facebook登入失败
+		es = Falló la conexión con Facebook
 	[login_signup_twitter_login]
 		en = Looking to login with {twitter}?
 		de = Möchtest du dich mit {twitter} anmelden?
 		fr = Vous rechercher la connexion avec {twitter}?
 		ru = Вход с помощью {twitter}?
 		zh-Hans = 用{twitter}帐号登录？
+		es = Quieres conectarte con {twitter}?
 	[login_with_google]
 		en = Log in with Google
 		de = Mit Google anmelden
 		fr = Se connecter avec Google
 		ru = Войти с Google
 		zh-Hans = ` 用Google账号登入`
+		es = Conectar con Google
 	[login_username_required]
 		en = You must provide your Username or Email address
 		de = Du musst deinen Benutzernamen oder deine E-Mail-Adresse angeben.
 		fr = Vous devez fournir un e-mail ou identifiant
 		ru = Пожалуйста введите имя пользователя или емайл
 		zh-Hans = 请提供你的用户名或邮箱地址
+		en = Necesitas ingresar tu nombre de usuario o email
 	[login_password_required]
 		en = You must provide your Password
 		de = Du musst dein Passwort angeben.
 		fr = Vous devez fournir un mot de passe
 		ru = Введите ваш пароль
 		zh-Hans = 请提供你的密码
+		en = Necesitas ingresar tu contraseña
 	[login_password_too_short]
 		en = Passwords are at least 6 characters
 		de = Das Passwort muss mind. 6 Zeichen enthalten.
 		fr = Votre de passe doit contenir au moins 6 caractères
 		ru = Пароль должен быть как минимум 6 знаков
 		zh-Hans = 密码至少为6个字符
+		en = La contraseña requiere al menos 6 caracteres
 	[logging_in]
 		en = Logging in
 		de = Anmelden ...
 		fr = Chargement en cours
 		ru = Войти
 		zh-Hans = 登入中
+		es = Ingresando...
 	[login_google_services_unavailable_title]
 		en = Missing Google Play Services
 		de = Google-Play-Dienste fehlen
 		fr = Google Play Services n'est pas installé
 		ru = Отсутсвует Google Play Services
 		zh-Hans = Google Play服务连接丢失
+		es = Google Play Services no está disponible
 	[login_google_services_unavailable]
 		en = You need to have Google Play Services installed in order to log in with Google. You can still login with the email address associated with your Google account. We will just need you to create a password.
 		de = Du musst Google-Play-Dienste installiert haben, um dich mit Google anzumelden. Du kannst dich jedoch auch mit der E-Mail-Adresse anmelden, die mit deinem Google-Konto verknüpft ist. Für uns ist dann nur wichtig, dass du ein Passwort festlegst.
 		fr = Google Play Services doit être installé pour se connecter avec Google. Vous pouvez néanmoins vous connecter avec l'adresse e-mail liée à votre compte Google. Vous devrez créer un mot de passe.
 		ru = Вам нужно установить Google Play Services для того что бы зайти с помощью Google. Вы все еще можете войти используя емайл связанный с вашим Google аккаунтом. Вам только нужно будет создать пароль.
 		zh-Hans = 使用Google帐户联合登录需安装Google Play服务。您也可以选择邮箱登入，填写Google帐户邮箱于邮箱一栏 ＋ 创建新密码即可。
+		es = Es necesario tener instalado Google Play Services para iniciar ssesión con Google. Aún puedes iniciar sesión con la dirección de correo electrónico asociada con tu cuenta de Google. Soloamente necesitas crear una contraseña
+		
 	[login_twitter_unsupported_title]
 		en = Twitter is no longer supported
 		de = Twitter wird nicht mehr unterstützt.
 		fr = Twitter n'est plus supporté
 		ru = Мы больше не поддерживаем Twitter
 		zh-Hans = 对不起，我们暂时不支持Twitter联合登录
+		es = Twitter ya no es soportado
 	[login_twitter_unsupported]
 		en = You can still login with the email address associated with your Twitter account. We will just need you to create a password.
 		de = Du kannst dich jedoch auch mit der E-Mail-Adresse anmelden, die mit deinem Twitter-Konto verknüpft ist. Für uns ist dann nur wichtig, dass du ein Passwort festlegst.
 		fr = Vous pouvez encore utiliser l'adresse mail associée à votre compte Twitter. Veuillez créer un nouveau mot de passe.
 		ru = Вы все еще можете войти с помощью Twitter. Вам надо будет создать пароль.
 		zh-Hans = 您仍旧可以使用Twitter帐户邮箱进行E-mail登入，仅需创建新密码即可。
+		es = Aún puedes iniciar sesión con la dirección de correo electrónico asociada con tu cuenta de Twitter. Soloamente necesitas crear una contraseña
 	[login_create_password_button]
 		en = Create Password
 		de = Passwort erstellen
 		fr = Créer un mot de passe
 		ru = Создать пароль
 		zh-Hans = 创建密码
+		es = Crear contraseña
 	[signup_button]
 		en = Sign me up!
 		de = Registrieren!
 		fr = Créer un compte
 		ru = Подпишите меня!
 		zh-Hans = 我要注册！
+		es = Regístrate
 	[signup_with_google]
 		en = Sign up with Google
 		de = Mit Google registrieren
 		fr = Inscription avec Google
 		ru = Подписаться с Google
 		zh-Hans = 用Google账号注册
+		es = Regístrate con Google
 	[signup_email_required]
 		en = You must provide an Email address
 		de = Du musst eine E-Mail-Adresse angeben.
 		fr = Vous devez fournir une adresse e-mail
 		ru = Введите ваш емайл
 		zh-Hans = 请提供一个邮箱地址
+		en = Necesitas ingresar un email
 	[signup_password_required]
 		en = You must create a Password
 		de = Du musst ein Passwort festlegen.
 		fr = Vous devez fournir un mot de passe
 		ru = Создайте пароль
 		zh-Hans = 请创建一个密码
+		es = Necesitas crear una contraseña
 	[signup_email_invalid]
 		en = That is not a valid Email address
 		de = Das ist keine gültige E-Mail-Adresse.
 		fr = Cet e-mail n'est pas valide
 		ru = Это не является допустимым емайлом
 		zh-Hans = 这不是一个有效的邮箱地址
+		es = La dirección de email no es válida
 	[signup_email_used]
 		en = This Email is already in use
 		de = Diese E-Mail-Adresse ist bereits registriert.
 		fr = Cet e-mail est déjà utilisé
 		ru = Этот емайл уже в использований
 		zh-Hans = 这个邮箱已经被注册使用
+		es = Este email ya esta en uso
 	[signup_failure]
 		en = Failed to create account. Please try again later
 		de = Konto nicht erstellt. Bitte später erneut versuchen.
 		fr = Impossible de créer un compte. Veuillez ré-essayer plus tard
 		ru = Ошибка при созданий аккаунта. Попробуйте позже.
 		zh-Hans = 账号创建失败，请稍后重试
+		es = Error al crear cuenta. Por favor intenta de nuevo más tarde
 	[signup_facebook_email_missing]
 		en = Failed: Your Facebook account does not contain an Email
 		de = Fehler: Dein Facebook-Konto enthält keine E-Mail-Adresse.
 		fr = Erreur: Votre compte Facebook ne contient pas d'adresse e-mail
 		ru = Ошибка: Ваш Facebook аккаунт не имеет емайла
 		zh-Hans = 您的Facebook账户没有电子
+		es = Error: Tu cuenta de Facebook no cuenta con un Email
 	[action_login]
 		en = Log In
 		de = Anmelden
 		fr = Se connecter
 		ru = Войти
 		zh-Hans = 登入
+		es = Ingresar
 	[action_discover]
 		en = Discover
 		de = Entdecken
 		fr = Découverte
 		ru = Cообщество
 		zh-Hans = 发现
+		es = Descubrir
 	[plus_error_msg]
 		en = Google Play Services is not available.
 		de = Google-Play-Dienste sind nicht verfügbar.
 		fr = Google Play Services n'est pas disponible.
 		ru = Google Play Services не доступен.
 		zh-Hans = Google Play 服务器不可用.
+		en = Google Play Services no esta disponible
 	[photo_content_desc]
 		en = Photo
 		de = Foto
 		fr = Photo
 		ru = Фото
 		zh-Hans = 照片
+		es = Foto
 	[hello_world]
 		en = Hello world!
 		de = Hallo an alle!
 		fr = Hello world!
 		ru = Привет мир!
 		zh-Hans = 你好世界！
+		es = Hola mundo!
 	[discover_blurb_popular]
 		en = Trending right now
 		de = Derzeit angesagt
 		fr = Le meilleur de 500px
 		ru = Популярные на данный момент
 		zh-Hans = 当下最潮最热
+		es = Tendencias del momento
 	[discover_blurb_fresh]
 		en = The latest from the community
 		de = Das Neueste von der Community
 		fr = Les dernières créations de la communauté
 		ru = Последнее от нашего сообщества
 		zh-Hans = 社区最近动态
+		es = Lo último de la comunidad
 	[more]
 		en = More
 		de = Mehr
 		fr = Plus
 		ru = Еще
 		zh-Hans = 更多
+		es = Más
 	[no_galleries_found]
 		en = No galleries found
 		de = Keine Galerien gefunden
 		fr = Aucune galerie trouvée
 		ru = No galleries found
 		zh-Hans = 没有搜索到画廊
+		es = No se han encontrado galerías
 	[no_people_found]
 		en = No people found
 		de = Keine Personen gefunden
 		fr = Aucun utilisateur trouvé
 		ru = Никто не найден
 		zh-Hans = 没有搜索到摄影师
+		es = No se han encontrado usuarios
 	[no_internet_connection]
 		en = No internet connection
 		de = Keine Internetverbindung
 		fr = Pas de connexion Internet
 		ru = Нет соединения с интернетом
 		zh-Hans = 无网络连接
+		es = No hay conexión a internet
 	[unable_to_login]
 		en = Unable to login.
 		de = Anmeldung nicht möglich.
 		fr = Impossible de se connecter.
 		ru = Ошибка авторизации/регистрации
 		zh-Hans = 无法登入
+		es = No se pudo ingresar
 	[get_image_chooser_title]
 		en = Choose a photo from
 		de = Wähle ein Foto von
 		fr = Choisir une photo depuis
 		ru = Выберите фото из
 		zh-Hans = 从中选一张照片
+		es = Elegir una foto de
 	[submit_from]
 		en = Submit from
 	[get_image_wrong_format]
@@ -3635,151 +3722,179 @@
 		fr = Format invalide !
 		ru = Неправильный формат!
 		zh-Hans = 错误格式！
+		es = Formato inválido!
 	[no_image_found]
 		en = No image found!
 		de = Kein Bild gefunden!
 		fr = Aucune image trouvée !
 		ru = Нет фотографии!
 		zh-Hans = 找不到图片！
+		es = No se han encontrado fotos!
 	[update_photo_failed]
 		en = Failed to update your photo
 		de = Dein Foto konnte nicht aktualisiert werden.
 		fr = Echec lors de la mise à jour de votre photo
 		ru = Не удалось сохранить ваши изменения
 		zh-Hans = 无法更新图片
+		es = Error al actualizar la foto
 	[add_to_gallery]
 		en = Add to Gallery
 		de = Zur Galerie hinzufügen
 		fr = Ajouter dans une galerie
 		ru = Добавить в Галерею
 		zh-Hans = 添加到画廊
+		es = Añadir a una galería
 	[add_new_keyword]
 		en = Add new keyword
 		de = Neuen Suchbegriff hinzufügen
 		fr = Ajouter un mot clé
 		ru = Добавьте ключевое слово
 		zh-Hans = 添加新关键字
+		es = Añadir una palabra clave
 	[suggested_tags]
 		en = Suggested
 		de = Vorgeschlagen
+		es = Sugeridas
 	[suggested_tags_request_failed]
 		en = Unable to retrieve tag suggestions
 		de = Tag-Vorschläge nicht abrufbar
+		es = Error al obtener sugerencias
 	[notification_upload_complete_title]
 		en = Upload Complete
 		de = Fertig hochgeladen
 		fr = Transfert terminé
 		ru = Загрузка окончена
 		zh-Hans = 上传成功
+		es = Carga completa
 	[notification_upload_complete_body]
 		en = Completed upload of your photo
 		de = Dein Foto ist jetzt hochgeladen.
 		fr = Votre photo a été transférée
 		ru = Загрузка вашей фото окончена
 		zh-Hans = 您的照片上传完成了
+		es = Se completó la carga de tu foto
 	[notification_uploading_title]
 		en = Uploading
 		de = Wird hochgeladen
 		fr = En cours
 		ru = Загружается
 		zh-Hans = 上传中
+		es = Subiendo
 	[notification_uploading_body]
 		en = Uploading your photo
 		de = Dein Foto wird hochgeladen
 		fr = Transfert en cours
 		ru = Ваше фото загружается
 		zh-Hans = 上传照片中
+		es = Subiendo tu foto
 	[notification_upload_failed_title]
 		en = Upload Failed
 		de = Hochladen fehlgeschlagen
 		fr = Echec du transfert
 		ru = Ошибка при загрузке
 		zh-Hans = 上传失败
+		es = La carga falló
 	[notification_upload_failed_body]
 		en = Failed to upload your photo
 		de = Dein Foto wurde nicht hochgeladen.
 		fr = Impossible de transférer votre photo
 		ru = Ошибка при загрузке вашей фото
 		zh-Hans = 你的照片上传失败了
+		es = Error al cargar tu foto
 	[notification_upload_starting]
 		en = Started upload to 500px
 		de = Der Uploadvorgang zu 500px wurde gestartet.
 		fr = Début du transfert vers 500px
 		ru = Загружаем на 500px
 		zh-Hans = 开始上传至500px
+		es = Comenzando carga a 500px
 	[upload_no_network_connection]
 		en = There is no internet connection to upload the photo
 		de = Keine Internetverbindung. Das Foto kann nicht hochgeladen werden.
+		es = No hay conexión a Internet para subir la foto.
 	[upload_your_first_photo]
 		en = Upload your first photo!
+		es = Sube tu primera foto!
 	[upload_your_photos_here]
 		en = Upload your photos here!
+		es = Sube tus fotos aquí!
 	[title_activity_search]
 		en = Search
 		de = Suchen
 		fr = Recherche
 		ru = Поиск
 		zh-Hans = 搜索
+		es = Buscar
 	[share_via]
 		en = Share via
 		de = Teilen per
 		fr = Partager via
 		ru = Поделиться
 		zh-Hans = 分享到
+		es = Compartir por
 	[following_count]
 		en = Following %@
 		de = Ich folge %@
 		fr = Abonnements %@
 		ru = В друзьях %@
 		zh-Hans = 正在关注 %@
+		es = Siguiendo %@
 	[followers_count_singular]
 		en = %@ Follower
 		de = %@ Follower
 		fr = %@ Abonné
 		ru = %@ Подписчик
 		zh-Hans = %@ 名粉丝
+		es = %@ Seguidor
 	[followers_count_plural]
 		en = %@ Followers
 		de = %@ Follower
 		fr = %@ Abonnés
 		ru = %@ Подписчики
 		zh-Hans = %@ 名粉丝
+		es = %@ Seguidores
 	[rate_dialog_ok]
 		en = Love it!
 		de = Gefällt mir!
 		fr = Oui
 		ru = Очень нравится!
 		zh-Hans = 特别特别喜欢！
+		es = Si
 	[rate_dialog_cancel]
 		en = Later
 		de = Später
 		fr = Plus tard
 		ru = Может быть позже
 		zh-Hans = 稍后再说特别特别喜欢吧~
+		es = Después
 	[rate_dialog_no]
 		en = Feedback
 		de = Feedback
 		fr = Donnez votre avis
 		ru = Свяжитесь с нами
 		zh-Hans = 反馈
+		es = Danos tus sugerencias
 	[general]
 		en = General
 		de = Allgemein
 		fr = Général
 		ru = Общее
 		zh-Hans = 通用
+		es = General
 	[feedback]
 		en = Feedback
 		de = Feedback
 		fr = Donnez votre avis
 		ru = Свяжитесь с нами
 		zh-Hans = 反馈
+		es = Danos tus sugerencias
 	[rate_500px]
 		en = Rate 500px app
 		de = 500px-App bewerten
 		fr = Notez l'application 500px
 		ru = Оценить 500px в App Store
 		zh-Hans = ` 500px app评分`
+		es = Calificar la aplicación de 500px
 	[personalization_ai_recommendations]
 		en = See Personalization AI Recommendations
 	[report_photo]
@@ -3788,373 +3903,436 @@
 		fr = Signaler la photo
 		ru = Пожаловаться
 		zh-Hans = 照片举报
+		es = Reportar foto
 	[report_user]
 		en = Report User
 		de = Nutzer melden
 		fr = Signaler l'utilisateur
 		ru = Пожаловаться
 		zh-Hans = 用户举报
+		es = Reportar usuario
 	[report_gallery]
 		en = Report Gallery
 		de = Galerie melden
 		fr = Signaler la galerie
 		ru = Пожаловаться
 		zh-Hans = 画廊举报
+		es = Reportar galería 
 	[report_nsfw]
 		en = Should be tagged as adult content
 		de = Sollte als nicht jugendfreier Inhalt markiert werden.
 		fr = Contenu pour adultes
 		ru = Для взрослых
 		zh-Hans = 应标记为成人内容
+		es = Contenido para adultos
 	[confirm_report_photo]
 		en = You are about to report this photo for:
 		de = Du bist im Begriff, dieses Foto aus folgendem Grund zu melden:
 		fr = Vous allez signaler cette photo pour:
 		ru = Пожаловаться на фото
 		zh-Hans = 你就要举报此照片，原因为：
+		en = Estás a punto de reportar esta foto por: 
 	[confirm_report_user]
 		en = You are about to report this user for:
 		de = ` Du bist im Begriff, diesen Nutzer aus folgendem Grund zu melden:`
 		fr = Vous allez signaler cet utilisateur pour:
 		ru = Пожаловаться на пользователя
 		zh-Hans = 你就要举报此用户，原因为：
+		en = Estás a punto de reportar este usuario por: 
 	[confirm_report_gallery]
 		en = You are about to report this gallery for:
 		de = Du bist im Begriff, diese Galerie aus folgendem Grund zu melden:
 		fr = Vous allez signaler cette galerie pour:
 		ru = Пожаловаться на галерею
 		zh-Hans = 你就要举报此画廊，原因为：
+		en = Estás a punto de reportar esta galería por: 
 	[delete_photo_failed]
 		en = Failed to delete photo
 		de = Foto nicht gelöscht
 		fr = Impossible de supprimer cette photo
 		ru = Не удалось удалить фото
 		zh-Hans = 无法删除图片
+		es = Error al eliminar la foto
 	[confirm_are_you_sure]
 		en = Are you sure?
 		de = Sicher?
 		fr = Êtes vous sur?
 		ru = Вы уверены?
 		zh-Hans = 你确定吗？
+		es = Estas seguro/a?
 	[photo_details]
 		en = Photo Details
 		de = Foto-Details
 		fr = Détails
 		ru = Фото Детали
 		zh-Hans = 照片详情
+		es = Detalles de la foto
 	[upload_photo_title_hint]
 		en = Title your photo
 		de = Foto-Titel hinzufügen
 		fr = Titre
 		ru = Заголовок вашего фото
 		zh-Hans = 给你的照片命名
+		es = Título
 	[add_comment]
 		en = Add comment
 		de = Kommentar hinzufügen
 		fr = Ajouter un commentaire
 		ru = Комментировать
 		zh-Hans = 添加评论
+		es = Añadir un comentario
 	[report_failed]
 		en = Report failed. Please try again later.
 		de = Nicht gemeldet. Bitte später erneut versuchen.
 		fr = Echec. Veuillez réessayer plus tard.
 		ru = Произошла ошибка при попытке отправить сообщение о нарушении. Пожалуйста, попробуйте позже.
 		zh-Hans = 举报失败，请稍后重试
+		es = El reporte falló. Por favor intente de nuevo más tarde.
 	[about]
 		en = About
 		de = Infos
 		fr = A Propos
 		ru = Био
 		zh-Hans = 关于
+		es = Acerca de
 	[gallery_delete_confirmation_detail]
 		en = Deleting a Gallery cannot be undone
 		de = Die Löschung einer Galerie kann nicht rückgängig gemacht werden.
 		fr = Il n'est pas possible d'annuler la suppression d'une galerie.
 		ru = Удаленные галереи востановлению не подлежат
 		zh-Hans = 画廊删除不能复原
+		es = La eliminación de una galeria no puede ser revertida.
 	[network_error]
 		en = Network Error
 		de = Netzwerkfehler
 		fr = Erreur de connexion
 		ru = Нет доступа к сети
 		zh-Hans = 网络出错
+		es = Error de conexión
 	[bad_deeplink]
 		en = Failed to open link
 		de = Link nicht geöffnet
 		fr = Impossible d'ouvrir ce lien
 		ru = Не получилось открыть ссылку
 		zh-Hans = 打开连接失败
+		es = Error al abrir el enlace
 	[most_popular_photos_on_500px]
 		en = The most popular photos on 500px
 		de = Die beliebtesten Fotos auf 500px
 		fr = Les photos les plus populaires sur 500px
 		ru = Лучшие работы на 500px
 		zh-Hans = ` 500px上最热照片`
+		es = Las fotos mas populares de 500px
 	[separator_dot]
 		en = •
 		de = •
 		fr = •
 		ru = •
 		zh-Hans = •
+		es = •
 	[updating_gallery]
 		en = Updating gallery
 		de = Galerie wird aktualisiert
 		fr = Mise à jour de la galerie
 		ru = Сохраняем изменения галереи
 		zh-Hans = 画廊更新中
+		es = Actualizando galería
 	[unable_to_create_gallery]
 		en = Unable to create this gallery!
 		de = Diese Galerie kann nicht erstellt werden.
 		fr = Impossible de créer cette galerie
 		ru = Не удалось создать галерею!
 		zh-Hans = 画廊创建失败
+		es = Error al crear la galería
 	[creating_new_gallery]
 		en = Creating new gallery
 		de = Neue Galerie wird erstellt
 		fr = Creation d'une nouvelle galerie
 		ru = Создать новую галерею
 		zh-Hans = 创建新画廊
+		es = Creando nueva galería
 	[error_creating_gallery]
 		en = Error attempting to create a gallery
 		de = Fehler beim Erstellen der Galerie
 		fr = Erreur lors de la création de la galerie
 		ru = Ошибка при создании галереи
 		zh-Hans = 创建画廊时出错
+		es = Error al crear la galería
 	[edit_complete]
 		en = Edit complete
 		de = Bearbeitung abgeschlossen
 		fr = Modification terminée
 		ru = Изменения завершены
 		zh-Hans = 编辑完成
+		es = Edición completa
 	[unable_edit_gallery]
 		en = Unable to edit gallery
 		de = Die Galerie kann nicht bearbeitet werden.
 		fr = Impossible de modifier la galerie
 		ru = Не удалось созранить изменения галереи
 		zh-Hans = 画廊编辑失败
+		es = Error al editar la galería
 	[enable_storage_permissions]
 		en = Please enable storage permissions first
 		de = Bitte gewähre zunächst den Speicherzugriff.
 		fr = Veuillez autoriser notre application a accéder à vos données
 		ru = Необходим доступ к хранилищу
 		zh-Hans = 需要预先给予存储访问许可
+		es = Por favor concédenos permisos de almacenamiento.
 	[gallery_has_been_deleted]
 		en = Your gallery has been deleted
 		de = Deine Galerie wurde gelöscht.
 		fr = Votre galerie a été supprimée
 		ru = Ваша галерея удалена
 		zh-Hans = 画廊删除成功
+		es = Tu galería ha sido eliminada
 	[unable_delete_gallery]
 		en = Unable to delete gallery
 		de = Die Galerie kann nicht gelöscht werden.
 		fr = Impossible de supprimer la galerie
 		ru = Не удалось удалить галерею
 		zh-Hans = 画廊删除失败
+		es = Error al eliminar la galería
 	[cancel_facebook_login]
 		en = Canceled Facebook login
 		de = Facebook-Anmeldung abgebrochen
 		fr = Annulation de la connexion Facebook
 		ru = Отменен вход с Facebook
 		zh-Hans = 取消用Facebook登入
+		es = Cancelación de conexión con Facebook
 	[facebook_login_error]
 		en = Facebook login error
 		de = `Fehler bei der Facebook-Anmeldung `
 		fr = Erreur lors de la connexion avec Facebook
 		ru = Ошибка при попытке входа с Facebook
 		zh-Hans = Facebook登入出错
+		es = Error en la conexión con Facebook
 	[failed_getting_google_access_token]
 		en = Failed to get Google access token
 		de = Google-Zugriff-Token nicht abgerufen
 		fr = Impossible de récupérer votre jeton d'accès Google
 		ru = Не удалось аутентифицироваться с Google
 		zh-Hans = 获取谷歌令牌失败
+		en = Error al adquirir token de Google
 	[google_signin_failed]
 		en = Google sign in failed!
 		de = Google-Anmeldung fehlgeschlagen!
 		fr = Erreur de la connexion avec Google!
 		ru = Ошибка при попытки входа с Google!
 		zh-Hans = 用谷歌登入失败
+		es = Error en la conexión con Google
 	[successfully_created_account]
 		en = Successfully created account!
 		de = Konto erfolgreich erstellt!
 		fr = Compte créé avec succès!
 		ru = Ваш аккаунт создан!
 		zh-Hans = 账号创建成功！
+		es = Cuenta creada con éxito!
 	[failed_to_signup]
 		en = Failed to signup
 		de = Registrierung fehlgeschlagen
 		fr = Impossible de créer un compte
 		ru = Ошибка при регистрации
 		zh-Hans = 注册失败
+		es = Error en el registro
 	[uploaded_started]
 		en = Your upload has started
 		de = Dein Uploadvorgang hat begonnen.
 		fr = Votre transfert a démarré
 		ru = Загрузка началась
 		zh-Hans = 上传开始
+		es = La carga ha comenzado
 	[invalid_upload_intent]
 		en = Invalid upload request
 		de = Ungültige Upload-Anfrage
 		fr = Echec du transfert
 		ru = Ошибка при загрузке
 		zh-Hans = 无效的上传请求
+		es = Error en la transferencia
 	[login_before_upload]
 		en = Please log in before upload
 		de = Bitte melde dich an, bevor du etwas hochlädst.
 		fr = Veuillez vous identifier avant le transfert
 		ru = Для загрузки нужно войти
 		zh-Hans = 请先登入再上传
+		es = Por favor ingresa para poder subir
 	[like_by_list_no_others]
 		en = {liked_by_list} likes this photo.
 		de = {liked_by_list} gefällt dieses Foto.
 		fr = {liked_by_list} aiment cette photo.
 		ru = {liked_by_list} понравилось это фото.
 		zh-Hans = {liked_by_list} 喜欢这张照片。
+		es = a {liked_by_list} les gusta esta foto.
 	[like_by_list_with_one_other]
 		en = {liked_by_list}, and one other like this photo.
 		de = {liked_by_list} und 1 weiteren Person gefällt dieses Foto.
 		fr = {liked_by_list}, et une autre personne aiment cette photo.
 		ru = {liked_by_list}, и еще одному понравилось это фото.
 		zh-Hans = {liked_by_list} 和另一位喜欢这张照片。
+		es = a {liked_by_list} y alguien más les gusta esta foto.
 	[like_by_list_with_others]
 		en = {liked_by_list}, and {others_count} others like this photo.
 		de = {liked_by_list} und {others_count} weiteren Personen gefällt dieses Foto.
 		fr = {liked_by_list}, et {others_count} personnes aiment cette photo.
 		ru = {liked_by_list}, и {others_count} другим понравилось это фото.
 		zh-Hans = {liked_by_list} 和其他 {others_count} 位喜欢这张照片。
+		es = a {liked_by_list} y {others_count} más les gusta esta foto.
 	[people_like_this_photo]
 		en = {liked_count} people like this photo.
 		de = {liked_count} Personen gefällt dieses Foto.
 		fr = {liked_count} personnes aiment cette photo.
 		ru = {liked_count} людям понравилось это фото.
 		zh-Hans = {liked_count} 人喜欢这张照片。
+		es = a {others_count} les gusta esta foto.
 	[one_person_likes_this_photo]
 		en = One person likes this photo.
 		de = 1 Person gefällt dieses Foto.
 		fr = Une personne aime cette photo.
 		ru = одному человеку понравилось это фото.
 		zh-Hans = 1位社区成员喜欢这张照片
+		es = A una persona le gusta esta foto
 	[retry]
 		en = Retry
 		de = Erneut versuchen
 		fr = Réessayer
 		ru = Попробовать еще
 		zh-Hans = 重试
+		es = Reintentar
 	[reached_upload_limit]
 		en = You have reached your upload limit for the week
 		de = Du hast dein Upload-Limit der Woche erreicht.
 		fr = Votre limite de transfert hebdomadaire est atteinte.
 		ru = Исчерпан лимит на загрузку
 		zh-Hans = 你已经用完了本周的上传限额
+		es = Haz alcanzado tu limite de cargas semanal
 	[other]
 		en = Other
 		de = Sonstige
 		fr = Autre
 		ru = Другое
 		zh-Hans = 其他
+		es = Otro
 	[updating]
 		en = Updating
 		de = Wird aktualisiert
 		fr = Mise à jour
 		ru = Обновляем
 		zh-Hans = 更新中
+		es = Actualizando
 	[remove]
 		en = Remove
 		de = Entfernen
 		fr = Supprimer
 		ru = Удалить
 		zh-Hans = 移除
+		es = Eliminar
 	[deleting]
 		en = Deleting
 		de = Wird gelöscht
 		fr = Suppression en cours
 		ru = Удаляем
 		zh-Hans = 删除中……
+		es = Eliminando
 	[unable_remove_photo_from_gallery]
 		en = Unable to remove photo from gallery
 		de = Das Foto kann nicht aus der Galerie entfernt werden.
 		fr = Impossible de retirer cette photo de la galerie
 		ru = Не удалось удалить фото из галереи
 		zh-Hans = 无法删除画廊中的图片
+		es = Error al eliminar la foto de la galería
 	[remove_photo_from_gallery]
 		en = Remove photo from Gallery
 		de = Foto aus Galerie entfernen
 		fr = Retirer cette photo de la galerie
 		ru = Удалить фото из галереи
 		zh-Hans = 删除画廊中的图片
+		es = Eliminar foto de la galería
 	[set_gallery_cover_photo]
 		en = Set as Gallery cover photo
 		de = Als Cover-Foto der Galerie festlegen
 		fr = Utiliser comme bannière pour cette galerie
 		ru = Сделать обложкой галереи
 		zh-Hans = 设置为画廊封面
+		es = Establecer como foto de portada de la galería
 	[update_profile_avatar_failed]
 		en = Unable to update profile picture
 		de = Das Profilbild kann nicht aktualisiert werden.
 		fr = Impossible de changer votre avatar
 		ru = Не удалось обновить ваш аватар
 		zh-Hans = 无法更新您的头像
+		es = Error al actualizar la foto de perfil
 	[update_gallery_cover_failed]
 		en = Unable to update Gallery cover photo
 		de = Das Cover-Foto der Galerie kann nicht aktualisiert werden.
 		fr = Impossible de mettre à jours la bannière
 		ru = Не удалось обновить обложку галереи
 		zh-Hans = 无法更新画廊封面
+		es = Error al actualizar la foto de portada de la galería
 	[cover_photo_updated]
 		en = Cover photo updated
 		de = Cover-Foto aktualisiert
 		fr = Bannière mise à jour
 		ru = Обложка обновлена
 		zh-Hans = 封面图片已更新
+		es = Foto de portada actualizada.
 	[cover_photo_update_failed]
 		en = Unable to update cover photo
 		de = Das Cover-Foto kann nicht aktualisiert werden.
 		fr = Impossible de mettre à jour votre bannière
 		ru = Не удалось обновить обложку
 		zh-Hans = 无法更新封面图片
+		es = Error al actualizar la foto de portada
 	[upload_your_first_photo_message]
 		en = Upload your first photo to get activity from the community
 		de = Lade dein erstes Foto hoch, um Aktivitäten von der Community zu erhalten.
 		fr = Transférez des photos et faites vous connaître par la communauté
 		ru = Загрузите несколько фотографий и будьте замеченным сообществом.
 		zh-Hans = 想得到更多关注么？上传些图片吧
+		en = Sube tu primera foto para entrar en actividad con la comunidad
 	[photo_quest_by]
 		en = A Photo Quest by %@
 		de = Eine Foto-Quest von %@
 		fr = Un concours photo par %@
 		ru = Фото Квест %@
 		zh-Hans = 摄影作品征集 by %@
+		es = Un concurso de fotografía por %@
 	[read_more_about_sponsor]
 		en = Read more about %@
+		es = Mas información sobre %@
 	[quest_challenge]
 		en = The challenge
 		de = Die Aufgabe
 		fr = Détails du concours
 		ru = Задание
 		zh-Hans = 挑战
+		es = Detalles del concurso
 	[quest_submissions]
 		en = Submissions
 		de = Eingereichte Fotos
 		fr = Soumissions
 		ru = Заявки
 		zh-Hans = 参赛作品
+		es = Fotos registradas
 	[quests_my_submissions]
 		en = My submissions
 		de = Meine eingereichten Fotos
 		fr = Mes soumissions
 		ru = Мои заявки
 		zh-Hans = 我的参赛作品
+		es = Mis fotos registradas
 	[quests_all_submissions]
 		en = All
 		de = Alle
 		fr = Toutes les soumissions
 		ru = Все
 		zh-Hans = 全部
+		es = Todas
 	[quest_inspiration]
 		en = Images to inspire you
 		de = Inspirierende Bilder
 		fr = Des photos pour s'inspirer
 		ru = Вдохновление
+		es = Fotos para inspirarte
 		zh-Hans = 创作参考
 	[quest_submission_successful]
 		en = Your photo has been submitted to %@!
@@ -4162,16 +4340,19 @@
 		fr = Votre photo a été soumise à %@
 		ru = Ваше фото заявлена в %@!
 		zh-Hans = 您地图片已提交至 %@!
+		es = Tu foto ha sido registrada a %@!
 	[quest_submission_failed]
 		en = Quest submission failed. Please try again
 		de = Quest-Foto nicht eingereicht. Bitte erneut versuchen.
 		fr = ` Soumission Quest a échoué. Veuillez réessayer`
 		ru = ` Представление Quest не удалось. Пожалуйста, попробуйте еще раз`
 		zh-Hans = 上传失败，请重试
+		es = El registro ha fallado. Por favor intenta de nuevo.
 	[quest_submitting]
 		en = Submitting to quest…
 	[quest_winners_header]
 		en = Winners
+		es = Ganadores
 	[quest_brief_header]
 		en = Brief
 	[quest_prize_header]
@@ -4180,116 +4361,137 @@
 		fr = Prix
 		ru = Приз
 		zh-Hans = 奖品
+		es = Premio
 	[quest_rules_header]
 		en = Rules
 		de = Regeln
 		fr = Règles
 		ru = Правила
 		zh-Hans = 活动细则
+		es = Reglas
 	[quest_about_sponsor_header]
 		en = About %@
 	[quest_winners_tbd]
 		en = This Quest has ended! Check back later to see who won.
+		es = El concurso ha terminado. Regresa despues para ver quien ganó.
 	[quest_winners_description_single]
 		en = Congratulations to the winning entry in this Quest!
+		es = Felicidades por la foto ganadora en este concurso!
 	[quest_winners_description_multiple]
 		en = Congratulations to the winning entries in this Quest!
+		es = Felicidades por las fotos ganadoras en este concurso!
 	[confirm_new_password]
 		en = Repeat new password
 		de = Neues Passwort wiederholen
 		fr = Repeat new password
 		ru = Saissisez votre nouveau mot de passe une 2ème fois
 		zh-Hans = 再次输入新密码
+		es = Repite la nueva contraseña
 	[passwords_do_not_match]
 		en = Passwords do not match
 		de = Die Passwörter stimmen nicht überein.
 		fr = La 2ème saisie du mot de passe doit être identique
 		ru = Пароли не совпадают
 		zh-Hans = 密码不相符
+		 es = Las contraseñas no coinciden
 	[current_password_required]
 		en = You must provide your current password
 		de = Du musst dein aktuelles Passwort eingeben.
 		fr = Vous devez fournir votre mot de passe
 		ru = Вы должны ввести ваш пароль
 		zh-Hans = 请提供你的当前密码
+		es = Necesitas ingresar tu contraseña actual
 	[password_change_successful]
 		en = Your password has been changed
 		de = Dein Passwort wurde erfolgreich geändert.
 		fr = Votre mot de passe a été modifié
 		ru = Ваш пароль обновлен
 		zh-Hans = 您的密码已更换
+		es = Tu contraseña ha sido cambiada con éxito
 	[password_change_failed]
 		en = Unable to change your password
 		de = Dein Passwort kann nicht geändert werden.
 		fr = Erreur lors du changement du mot de passe
 		ru = Не удалось обновить ваш пароль
 		zh-Hans = 无法更换您的密码
+		es = Error al cambiar tu contraseña
 	[suggestions_title]
 		en = Suggestions for you
 		de = Empfehlungen für dich
 		fr = Suggestions personnalisées
 		ru = Наши рекомендации
 		zh-Hans = 为您推介
+		es = Sugerencias para ti
 	[suggestions_description]
 		en = Based on your choices, here are some suggestions for you. We recommend following them all!
 		de = Hier haben wir einige Empfehlungen entsprechend deiner Auswahl für dich. Du kannst all diesen Personen folgen.
 		fr = Choisissez les photographes auxquels vous souhaitez vous abonner
 		ru = Следуя тому, что вы нам указали, вот наши рекомендации. Мы рекомендуем вам добавить всех в друзья.
 		zh-Hans = 根据您的选择，我们为您特别定制了如下推介。关注全部，首页内容更丰富！
+		en = Con base en tus preferencias, te recomendamos seguir a estos fotógrafos.
 	[suggestions_ready_title]
 		en = We’ve found you some amazing photographers.
 		de = Wir haben tolle Fotografen für dich gefunden.
 		fr = Nous avons trouvé des photographes fantastiques
 		ru = Мы нашли интересных для вас фотографов.
 		zh-Hans = 我们为您找到了一些有趣的用户
+		es = Hemos encontrado para ti algunos fotógrafos fantásticos
 	[suggestions_ready_edit_list]
 		en = Edit Recommendations
 		de = Empfehlungen bearbeiten
 		fr = Modifier notre sélection
 		ru = Редактировать рекоммендации
 		zh-Hans = 修改选择
+		es = Editar recomendaciones
 	[onboarding_build_home_feed_title]
 		en = Let's build your home feed
 		de = Erstellen wir jetzt deinen Startseiten-Feed!
 		fr = C'est parti!
 		ru = Давайти создадим вашу домашнюю ленту
 		zh-Hans = 开始定制您的首页吧。
+		es = Comencemos!
 	[onboarding_build_feed_description]
 		en = What style of photography do you like?
 		de = Welcher Fotografie-Stil gefällt dir?
 		fr = Dites nous quelles photos vous aimez
 		ru = Какой стиль фотографии вам по душе?
 		zh-Hans = 您喜爱哪一类摄影作品？
+		es = Qué estilo de fotografía te gusta?
 	[onboarding_build_feed_pages]
 		en = What do you like? We'll help you find great people to follow based on your choices here.
 		de = Was gefällt dir? Wenn du uns deine Interessen verrätst, werden wir dir helfen, gute Fotografen zu finden.
 		fr = Dites nous quelles photos vous aimez et nous trouverons des photographes fantastiques auxquels vous abonner
 		ru = Что вам нравится? Мы поможем вам найти фотографов удовлетворяющих ваш вкус.
 		zh-Hans = 您会被怎样的摄影作品吸引？我们将根据您的喜好为您推介值得关注的优质用户。
+		es = Cuéntanos qué fotos te gustan y encontraremos fotógrafos fantásticos para que sigas.
 	[onboarding_category_progress]
 		en = %d of %d
 		de = %1$d von %2$d
 		fr = %d sur %d
 		ru = %d из %d
 		zh-Hans = %d ／ %d
+		es = %d de %d
 	[onboarding_no_followers_found_message]
 		en = We didn't find any matches for you. Choose other categories to find more results.
 		de = Wir konnten keine passenden Ergebnisse für dich finden. Bitte versuche es mit anderen Kategorien.
 		fr = Nous ne avons trouvé aucun match pour vous. Choisissez d'autres catégories pour trouver plus de résultats.
 		ru = Мы не нашли никаких совпадений для вас. Выберите другие категории , чтобы найти больше результатов.
 		zh-Hans = 很抱歉，我们未能找到匹配的用户。请尝试选择更多摄影主题。
+		es = No hemos podido encontrar ninguna coincidencia para ti. Selecciona otras categorías para encontrar más resultados.
 	[onboarding_get_started_existing_user_title]
 		en = Welcome back
 		de = Willkommen zurück
 		fr = Bienvenue
 		ru = Добро пожаловать
-		zh-Hans = 欢迎回来
+		zh-Hans = 欢迎回
+		es = Bienvenido 
 	[lets_go]
 		en = Let's go!
 		de = Los geht's!
 		fr = C'est parti!
 		ru = Начнем!
 		zh-Hans = 开始吧！
+		es = Comencemos
 	[unable_to_open_preview]
 		en = Unable to open preview
 	[your_500px_photos]
@@ -4300,75 +4502,90 @@
 		fr = ``<a href="/item"><b>{item}</b></a> s'est abonné!``
 		ru = ``<a href="/item"><b>{item}</b></a> добавил вас в друзья!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 关注你啦！``
+		es = ``<a href="/item"><b>{item}</b></a> Te ha seguido!``
 	[activity_action_30]
 		en = ``<a href="/item"><b>{item}</b></a> made it to Upcoming!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Upcoming!``
 		fr = ``Votre photo <a href="/item"><b>{item}</b></a> est Upcoming!``
 		ru = ``<a href="/item"><b>{item}</b></a> в разделе Интересное!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 进入排名上升！``
+		es = ``<a href="/item"><b>{item}</b></a> Está en Upcoming!``
 	[activity_action_31]
 		en = ``<a href="/item"><b>{item}</b></a> made it to Popular!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Popular!``
 		fr = ``Votre photo <a href="/item"><b>{item}</b></a> est Populaire!``
 		ru = ``<a href="/item"><b>{item}</b></a> в разделе Популярные!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 成为了热门！``
+		es = ``<a href="/item"><b>{item}</b></a> Está en Popular!``
 	[activity_action_8]
 		en = ``<a href="/item"><b>{item}</b></a> made it to Editor\'s Choice!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Editor\'s Choice!``
 		fr = ``Votre photo <a href="/item"><b>{item}</b></a> a été sélectionnée pour Editors\' Choice !``
 		ru = ``<a href="/item"><b>{item}</b></a> в разделе Выбор редакции!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 进入了编辑精选！``
+		es = ``<a href="/item"><b>{item}</b></a> Está en Editor\'s Choice!``
 	[activity_action_302]
 		en = ``Your gallery <a href="/item"><b>{item}</b></a> has been featured!``
 		de = ``Deine Galerie <a href="/item"><b>{item}</b></a> wird jetzt vorgestellt!``
 		fr = ``Votre galerie <a href="/item"><b>{item}</b></a> a été sélectionnée par nos éditeurs!``
 		ru = ``Ваша галерея <a href="/item"><b>{item}</b></a> в разделе Популярные!``
 		zh-Hans = ``你的画廊 <a href="/item"><b>{item}</b></a> 进入了编辑精选！``
+		es = ``<a href="/item"><b>{item}</b></a> Ha sido seleccionada por nuestros editores!
 	[activity_action_verb_commented_on]
 		en = commented on
 		de = ``hat <a href="/item"><b>{item}</b></a> kommentiert``
 		fr = commenté sur
 		ru = прокоментировал
 		zh-Hans = 评论了
+		es = commentó en
 	[activity_action_verb_liked]
 		en = liked
 		de = gefällt
 		fr = a aimé
 		ru = понравилось
 		zh-Hans = 喜欢了
+		es = le gustó
 	[activity_action_301]
 		en = ``<a href="/user"><b>{user}</b></a> added {photo_name} to <a href="/item"><b>{item}</b></a>``
 		de = ``<a href="/user"><b>{user}</b></a> hat {photo_name} zu <a href="/item"><b>{item}</b></a>``
 		fr = ``<a href="/user"><b>{user}</b></a> a ajouté {photo_name} à <a href="/item"><b>{item}</b></a>``
 		ru = ``<a href="/user"><b>{user}</b></a> добавил {photo_name} в <a href="/item"><b>{item}</b></a>``
 		zh-Hans = ``<a href="/user"><b>{user}</b></a> 添加了 {photo_name} 到 <a href="/item"><b>{item}</b></a>``
+		es = ``<a href="/user"><b>{user}</b></a> añadió {photo_name} a <a href="/item"><b>{item}</b></a>``
 	[activity_action]
 		en = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		de = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		fr = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		ru = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		zh-Hans = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
+		es = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 	[activity_comments]
 		en = {comment_count} comments
 		de = {comment_count} kommentare
 		fr = {comment_count} commentaires
 		ru = {comment_count} коментов
 		zh-Hans = {comment_count} 条评论
+		es = {comment_count} comentarios
 	[activity_peoples]
 		en = {user_count} people
 		de = {user_count} personen
 		fr = {user_count} utilisateurs
 		ru = {user_count} подписчиков
 		zh-Hans = {user_count} 位摄影师
+		es = {user_count} personas
 	[activity_photos]
 		en = {photo_count} photos
 		de = {photo_count} fotos
 		fr = {photo_count} photos
 		ru = {photo_count} фотографий
 		zh-Hans = {photo_count} 张照片
+		es = {photo_count} fotos
 	[activity_quest_started]
 		en = ``New Photo Quest! Submit your photos to <a href="/item"><b>{item}</b></a>``
+		es = ``Nuevo concurso! Registra tos fotos a <a href="/item"><b>{item}</b></a>``
 	[activity_quest_non_winners_selected]
-		en = ``Winners have been selected for the Photo Quest <a href="/item"><b>{item}</b></a>``
+		en = ``Winners have been selected for the Photo Quest <a href="/item"><b>{item}</b></a>`
+		es = ``Los ganadores del concurso <a href="/item"><b>{item}</b></a> han sido seleccionados!``
 	[activity_quest_winners_selected]
 		en = ``Congratulations! Your photo was selected as a winner of <a href="/item"><b>{item}</b></a>``
+		es = ``Enhorabuena! Tu foto ha sido seleccionada como ganadora de <a href="/item"><b>{item}</b></a>``
