@@ -5,6 +5,7 @@
 		de = Letztes Jahr
 		fr = L'année dernière
 		ru = год назад
+		nl = Vorig jaar
 	[n_years_ago__other]
 		en = %d years ago
 		ios = %#@d_years@
@@ -13,6 +14,7 @@
 		it = %d anni fa
 		ru = %d лет назад
 		zh-Hans = %d 年前
+		nl = %d jaar geleden
 	[n_years_ago__few]
 		ios = %#@d_years@
 		ru = %d года назад
@@ -24,14 +26,16 @@
 		de = Vor 1 Monat
 		fr = il y a un mois
 		ru = %d месяц назад
+		nl = Eén maand geleden
 	[n_months_ago__other]
 		en = %d months ago
 		ios = %#@d_months@
-		de = `Vor %d Monaten `
+		de = `Vor %d Monaten`
 		fr = il y a %d mois
 		it = %d mesi fa
 		ru = %d месяцев назад
 		zh-Hans = %d 个月前
+		nl = %d maanden geleden
 	[n_months_ago__few]
 		ios = %#@d_months@
 		ru = %d месяца назад
@@ -43,6 +47,7 @@
 		de = Vor 1 Woche
 		fr = il y a un semaine
 		ru = неделю назад
+		nl = Eén week geleden
 	[n_weeks_ago__other]
 		en = %d weeks ago
 		ios = %#@d_weeks@
@@ -51,6 +56,7 @@
 		it = %d settimane fa
 		ru = %d недель назад
 		zh-Hans = %d 周前
+		nl = %d weken geleden
 	[n_weeks_ago__few]
 		ios = %#@d_weeks@
 		ru = %d недели назад
@@ -65,6 +71,7 @@
 		it = Ieri
 		ru = вчера
 		zh-Hans = 昨天
+		nl = Gisteren
 	[n_days_ago__other]
 		en = %d days ago
 		ios = %#@d_days@
@@ -74,6 +81,7 @@
 		it = %d giorni fa
 		ru = %d дней назад
 		zh-Hans = %d天前
+		nl = %d dagen geleden
 	[n_days_ago__few]
 		ios = %#@d_days@
 		ru = %d дня назад
@@ -87,6 +95,7 @@
 		fr = il y a une heure
 		it = Un'ora fa
 		ru = час назад
+		nl = Eén uur geleden
 	[n_hours_ago__other]
 		en = %d hours ago
 		ios = %#@d_hours@
@@ -96,6 +105,7 @@
 		it = %d ore fa
 		ru = %d часов назад
 		zh-Hans = %d小时前
+		nl = %d uur geleden
 	[n_hours_ago__few]
 		ios = %#@d_hours@
 		ru = %d часа назад
@@ -109,6 +119,7 @@
 		fr = il y a une minute
 		it = Un minuto fa
 		ru = Минуту назад
+		nl = Eén minuut geleden
 	[n_minutes_ago__other]
 		en = %d minutes ago
 		ios = %#@d_minutes@
@@ -118,6 +129,7 @@
 		it = %d minuti fa
 		ru = %d минут назад
 		zh-Hans = %d分钟前
+		nl = %d minuten geleden
 	[n_minutes_ago__few]
 		ios = %#@d_minutes@
 		ru = %d минуты назад
@@ -132,6 +144,7 @@
 		it = Adesso
 		ru = Только что
 		zh-Hans = 刚刚
+		nl = Nu
 	[n_seconds_ago__one]
 		ios = %#@d_seconds@
 		es = Ahora
@@ -145,6 +158,7 @@
 		fr = Sans commentaires
 		ru = Нет комментариев
 		zh-Hans = 尚无评论
+		nl = Geen reacties
 	[n_comments__one]
 		en = %d comment
 		ios = %#@d_comments@
@@ -153,6 +167,7 @@
 		fr = %d commentaire
 		it = %d commento
 		ru = %d комментарий
+		nl = %d reactie
 	[n_comments__other]
 		en = %d comments
 		ios = %#@d_comments@
@@ -161,6 +176,7 @@
 		fr = %d commentaires
 		it = %d commenti
 		zh-Hans = %d条评论
+		nl = %d reacties
 	[n_comments__few]
 		ios = %#@d_comments@
 		ru = %d комментария
@@ -204,11 +220,13 @@
 		it = ` hanno messo "Mi piace" a questo elemento`
 		ru = ` понравилось это`
 		zh-Hans = ` 喜欢了此照片`
+		nl = ` vindt dit leuk`
 	[user_liked_this__one]
 		ios = %#@d_liked_this@
 		es = ` le dio 'Me gusta' a esto`
 		fr = ` a aimé`
 		it = ` ha messo "Mi piace" a questo elemento`
+		nl = ` vindt dit leuk`
 
 [[n_followers]]
 	[n_followers__one]
@@ -219,6 +237,7 @@
 		fr = %d Abonné
 		it = %d Follower
 		ru = %d Подписчик
+		nl = %d Volger
 	[n_followers__other]
 		en = %d Followers
 		ios = %#@d_Followers@
@@ -228,12 +247,14 @@
 		it = %d Followers
 		ru = %d Подписчиков
 		zh-Hans = %d位关注者
+		nl = %d Volgers
 	[n_followers__few]
 		ios = %#@d_Followers@
 		ru = %d Подписчика
 	[n_followers__zero]
 		ios = %#@d_Followers@
 		zh-Hans = 尚无关注者
+		nl = Geen volgers
 
 [[following_n]]
 	[following_n__other]
@@ -245,6 +266,7 @@
 		it = Following %d
 		ru = Подписан(а) на %d
 		zh-Hans = 关注%d位
+		nl = Volgt %d
 	[following_n__one]
 		ios = %#@Following_d@
 		es = Siguiendo a %d
@@ -1913,6 +1935,7 @@
 		it = Accedi a Facebook
 		ru = Войти с Facebook
 		zh-Hans = ` 用Facebook账号登入`
+		nl = Inloggen met Facebook
 	[log_out]
 		en = Log out
 		de = Abmelden
@@ -1921,6 +1944,7 @@
 		it = Esci
 		ru = Выйти
 		zh-Hans = 登出
+		nl = Afmelden
 	[login_signup_error]
 		en = Login/Signup error
 		de = Fehler bei der Anmeldung/Registrierung
@@ -1929,6 +1953,7 @@
 		it = Errore di accesso/registrazione
 		ru = Ошибка авторизации/регистрации
 		zh-Hans = 登录或注册出错
+		nl = Aanmeldingsfout
 	[login_signup_twitter_or_google_login]
 		en = Looking to log in with <twitter>Twitter</twitter> or <google>Google</google>?
 		de = Möchtest du dich mit <twitter>Twitter</twitter> oder <google>Google</google> anmelden?
@@ -1953,6 +1978,7 @@
 		it = Macro
 		ru = Макросъемка
 		zh-Hans = 微距
+		nl = Macro
 	[make_gallery_cover_photo]
 		en = Make Gallery cover photo
 		de = Als Cover-Foto der Galerie festlegen.
@@ -1961,6 +1987,7 @@
 		it = Inserisci come Foto di copertina
 		ru = Сделать заглавной фото галереи
 		zh-Hans = 设为画廊封面
+		nl = Maak een coverfoto 
 	[marketplace]
 		en = Marketplace
 		de = Marktplatz
@@ -1969,6 +1996,7 @@
 		it = Marketplace
 		ru = Marketplace
 		zh-Hans = Marketplace
+		nl = Marktplaats
 	[name]
 		en = Name
 		de = Name
@@ -1977,6 +2005,7 @@
 		it = Nome
 		ru = Имя
 		zh-Hans = 名字
+		nl = Naam
 	[discover_category_nature]
 		en = Nature
 		de = Natur
@@ -1985,6 +2014,7 @@
 		it = Natura
 		ru = Природа
 		zh-Hans = 自然
+		nl = Natuur
 	[discover_galleries_new]
 		en = New
 		de = Neu
@@ -1993,6 +2023,7 @@
 		it = Nuove
 		ru = Свежие
 		zh-Hans = 最新
+		nl = Nieuw
 	[new_galleries]
 		en = New Galleries
 		de = Neue Galerien
@@ -2001,6 +2032,7 @@
 		it = Nuove Gallerie
 		ru = Новые галереи
 		zh-Hans = 新画廊
+		nl = Nieuwe Galerijen
 	[new_gallery]
 		en = New Gallery
 		de = Neue Galerie
@@ -2009,6 +2041,7 @@
 		it = Nuova Galleria
 		ru = Новая галерея
 		zh-Hans = 新画廊
+		nl = Nieuwe Gallerij
 	[new_password]
 		en = New password
 		de = Neues Passwort
@@ -2017,10 +2050,12 @@
 		it = New Password
 		ru = Новый пароль
 		zh-Hans = 新密码
+		nl = Nieuw Wachtwoord
 	[new_photos]
 		en = New Photos
 		de = Neue Fotos
 		fr = Nouvelles photos
+		nl = Nieuwe foto's
 	[no_followers]
 		en = No Followers
 		de = Keine Follower
@@ -2029,6 +2064,7 @@
 		it = No Follower
 		ru = Нет Подписчиков
 		zh-Hans = 尚无关注者
+		nl = Geen Volgers
 	[no_galleries]
 		en = No Galleries
 		de = Keine Galerien
@@ -2037,6 +2073,7 @@
 		it = Nessuna Galleria
 		ru = Ни одной галереи
 		zh-Hans = 尚无画廊
+		nl = Geen Galerijen
 	[no_galleries_yet]
 		en = No Galleries yet
 		de = Noch keine Galerien
@@ -2045,6 +2082,7 @@
 		it = Nessuna Galleria
 		ru = Нет галерей
 		zh-Hans = 目前还没有画廊
+		nl = Nog geen galerijen
 	[no_network_connection]
 		en = No Internet Connection…
 		de = Keine Internetverbindung
@@ -2053,6 +2091,7 @@
 		it = Nessuna connessione internet...
 		ru = Нет соединения с Интернетом…
 		zh-Hans = 没有可用的网络连接…
+		nl = Geen internetverbinding
 	[no_notifications]
 		en = No notifications
 		de = Keine Benachrichtigungen
@@ -2061,6 +2100,7 @@
 		it = Nessuna notifica
 		ru = Нет уведомлений
 		zh-Hans = 无通知
+		nl = Geen notificaties
 	[onboarding_no_followers_found_title]
 		en = No people found
 		de = Keine Personen gefunden
@@ -2069,6 +2109,7 @@
 		it = Nessuna persona trovata
 		ru = Не найдено ни одного человека
 		zh-Hans = 未找到用户
+		nl = Geen volgers gevonden
 	[no_photos]
 		en = No Photos
 		de = Keine Fotos
@@ -2077,6 +2118,7 @@
 		it = Nessuna foto
 		ru = Нет фотографии
 		zh-Hans = 尚无照片
+		nl = Geen foto's
 	[no_photos_found]
 		en = No photos found
 		de = Keine Fotos gefunden
@@ -2085,6 +2127,7 @@
 		it = Nessuna foto trovata
 		ru = Фотографии не найдены
 		zh-Hans = 没有搜索到照片
+		nl = Geen foto's gevonden
 	[no_photos_yet]
 		en = No photos yet
 		de = Noch keine Fotos
@@ -2093,6 +2136,7 @@
 		it = Ancora nessuna foto presente
 		ru = Нет фотографий
 		zh-Hans = 目前还没有图片
+		nl = Nog geen foto's
 	[no_twitter_accounts]
 		en = No Twitter Accounts
 		de = Keine Twitter-Konten
@@ -2101,6 +2145,7 @@
 		it = Nessun account Twitter
 		ru = Нет Twitter аккаунтов
 		zh-Hans = 没有Twitter账户
+		nl = Geen Twitteraccounts
 	[no_thanks]
 		en = No, thanks
 		de = Nein danke
@@ -2109,6 +2154,7 @@
 		it = No, grazie
 		ru = Нет, спасибо
 		zh-Hans = 不用了，谢谢。
+		nl = Nee, bedankt
 	[not_following_anyone]
 		en = Not following anyone
 		de = Du folgst niemandem
@@ -2117,6 +2163,7 @@
 		it = Nessun utente seguito
 		ru = Никого в друзьях
 		zh-Hans = 尚未关注任何人
+		nl = U volgt niemand
 	[not_now]
 		en = Not now
 		de = Jetzt nicht
@@ -2125,6 +2172,7 @@
 		it = Non adesso
 		ru = Не сейчас
 		zh-Hans = 稍后再说
+		nl = Nog niet
 	[push_notifications_prompt_message]
 		en = Notifications may include alerts, sounds and icon badges. These can be configured in Settings.
 		de = Zu Mitteilungen können Hinweise, Töne und Kennzeichensymbole zählen. Diese kannst du in der Einstellungs-App deines Geräts festlegen.
@@ -2141,6 +2189,7 @@
 		it = Inviami notifiche
 		ru = Оповестить меня
 		zh-Hans = 请通知我
+		nl = Meldingen ontvangen
 	[discover_category_nude]
 		en = Nude
 		de = Akt
@@ -2149,6 +2198,7 @@
 		it = Nudo
 		ru = Ню
 		zh-Hans = 人体
+		nl = Naakt
 	[report_offensive]
 		en = Offensive (rude, obscene)
 		de = Anstößig (beleidigend, obszön)
@@ -2157,6 +2207,7 @@
 		it = Offensiva (volgare, oscena)
 		ru = Оскорбительное (грубое, непристойное)
 		zh-Hans = 暴力（粗鲁或淫秽）
+		nl = Aanstootgevend
 	[report_offtopic]
 		en = Offtopic (trolling)
 		de = Nicht zum Thema gehörig (Troll)
@@ -2165,6 +2216,7 @@
 		it = Off topic (troll)
 		ru = Оффтопик (троллинг)
 		zh-Hans = 标题不符（有欺骗性）
+		nl = Off topic
 	[ok]
 		en = OK
 		de = OK
@@ -2173,6 +2225,7 @@
 		it = OK
 		ru = OK
 		zh-Hans = 确认
+		nl = Ok
 	[maybe_later]
 		en = Maybe later
 		de = Später vielleicht
@@ -2181,6 +2234,7 @@
 		it = Non ora
 		ru = Не сейчас
 		zh-Hans = 稍后再说
+		nl = Misschien later
 	[onboarding_error_description]
 		en = Check your internet connection and try again later
 		de = Überprüfe deine Internetverbindung und versuche es später erneut.
@@ -2189,6 +2243,7 @@
 		it = Controlla la tua connessione e riprova
 		ru = Проверьте соединение с интернетом и попробуйте еще раз
 		zh-Hans = 请检查您的网络连接，并稍后重试
+		nl = Controleer uw internetverbinding en probeer het later opnieuw
 	[onboarding_error_title]
 		en = Unable to connect to the internet
 		de = Die Internetverbindung kann nicht hergestellt werden.
@@ -2197,6 +2252,7 @@
 		it = Impossibile connettersi ad Internet
 		ru = Нет соединения с интернетом...
 		zh-Hans = 网络无法连接
+		nl = Er is een probleem met de verbinding 
 	[onboarding_loading_feed_text]
 		en = Please stand by.
 		de = Bitte warten.
@@ -2205,6 +2261,7 @@
 		it = Attendi per favore
 		ru = Пожалуйста, ожидайте.
 		zh-Hans = 请稍后
+		nl = Even geduld alstublieft
 	[onboarding_loading_feed_title]
 		en = Beautiful photos are coming your way!
 		de = Schöne Fotos sind auf dem Weg zu dir!
@@ -3970,150 +4027,175 @@
 		zh-Hans = 获取谷歌令牌失败
 	[google_signin_failed]
 		en = Google sign in failed!
+		nl = Aanmelding via Google mislukt
 		de = Google-Anmeldung fehlgeschlagen!
 		fr = Erreur de la connexion avec Google!
 		ru = Ошибка при попытки входа с Google!
 		zh-Hans = 用谷歌登入失败
 	[successfully_created_account]
 		en = Successfully created account!
+		nl = Uw account is aangemaakt!
 		de = Konto erfolgreich erstellt!
 		fr = Compte créé avec succès!
 		ru = Ваш аккаунт создан!
 		zh-Hans = 账号创建成功！
 	[failed_to_signup]
 		en = Failed to signup
+		nl = Registratie mislukt
 		de = Registrierung fehlgeschlagen
 		fr = Impossible de créer un compte
 		ru = Ошибка при регистрации
 		zh-Hans = 注册失败
 	[uploaded_started]
 		en = Your upload has started
+		nl = Uw upload is begonnen
 		de = Dein Uploadvorgang hat begonnen.
 		fr = Votre transfert a démarré
 		ru = Загрузка началась
 		zh-Hans = 上传开始
 	[invalid_upload_intent]
 		en = Invalid upload request
+		nl = Ongeldig uploadverzoek
 		de = Ungültige Upload-Anfrage
 		fr = Echec du transfert
 		ru = Ошибка при загрузке
 		zh-Hans = 无效的上传请求
 	[login_before_upload]
 		en = Please log in before upload
+		nl = Log in alvorens te uploaden.
 		de = Bitte melde dich an, bevor du etwas hochlädst.
 		fr = Veuillez vous identifier avant le transfert
 		ru = Для загрузки нужно войти
 		zh-Hans = 请先登入再上传
 	[like_by_list_no_others]
 		en = {liked_by_list} likes this photo.
+		nl = {liked_by_list} vinden deze foto goed.
 		de = {liked_by_list} gefällt dieses Foto.
 		fr = {liked_by_list} aiment cette photo.
 		ru = {liked_by_list} понравилось это фото.
 		zh-Hans = {liked_by_list} 喜欢这张照片。
 	[like_by_list_with_one_other]
 		en = {liked_by_list}, and one other like this photo.
+		nl = {liked_by_list}, en nog iemand vinden deze foto goed.
 		de = {liked_by_list} und 1 weiteren Person gefällt dieses Foto.
 		fr = {liked_by_list}, et une autre personne aiment cette photo.
 		ru = {liked_by_list}, и еще одному понравилось это фото.
 		zh-Hans = {liked_by_list} 和另一位喜欢这张照片。
 	[like_by_list_with_others]
 		en = {liked_by_list}, and {others_count} others like this photo.
+		nl = {liked_by_list}, en {others_count} anderen vinden deze foto goed.
 		de = {liked_by_list} und {others_count} weiteren Personen gefällt dieses Foto.
 		fr = {liked_by_list}, et {others_count} personnes aiment cette photo.
 		ru = {liked_by_list}, и {others_count} другим понравилось это фото.
 		zh-Hans = {liked_by_list} 和其他 {others_count} 位喜欢这张照片。
 	[people_like_this_photo]
 		en = {liked_count} people like this photo.
+		nl = {liked_count} vinden deze foto goed.
 		de = {liked_count} Personen gefällt dieses Foto.
 		fr = {liked_count} personnes aiment cette photo.
 		ru = {liked_count} людям понравилось это фото.
 		zh-Hans = {liked_count} 人喜欢这张照片。
 	[one_person_likes_this_photo]
 		en = One person likes this photo.
+		nl = Deze foto heeft één like.
 		de = 1 Person gefällt dieses Foto.
 		fr = Une personne aime cette photo.
 		ru = одному человеку понравилось это фото.
 		zh-Hans = 1位社区成员喜欢这张照片
 	[retry]
 		en = Retry
+		nl = Opnieuw proberen
 		de = Erneut versuchen
 		fr = Réessayer
 		ru = Попробовать еще
 		zh-Hans = 重试
 	[reached_upload_limit]
 		en = You have reached your upload limit for the week
+		nl = U heeft het uploadlimiet voor deze week bereikt.
 		de = Du hast dein Upload-Limit der Woche erreicht.
 		fr = Votre limite de transfert hebdomadaire est atteinte.
 		ru = Исчерпан лимит на загрузку
 		zh-Hans = 你已经用完了本周的上传限额
 	[other]
 		en = Other
+		nl = Overig
 		de = Sonstige
 		fr = Autre
 		ru = Другое
 		zh-Hans = 其他
 	[updating]
 		en = Updating
+		nl = Bezig met updaten
 		de = Wird aktualisiert
 		fr = Mise à jour
 		ru = Обновляем
 		zh-Hans = 更新中
 	[remove]
 		en = Remove
+		nl = Verwijder
 		de = Entfernen
 		fr = Supprimer
 		ru = Удалить
 		zh-Hans = 移除
 	[deleting]
 		en = Deleting
+		nl = Bezig met verwijderen
 		de = Wird gelöscht
 		fr = Suppression en cours
 		ru = Удаляем
 		zh-Hans = 删除中……
 	[unable_remove_photo_from_gallery]
 		en = Unable to remove photo from gallery
+		nl = De foto kon niet uit de galerij verwijderd worden.
 		de = Das Foto kann nicht aus der Galerie entfernt werden.
 		fr = Impossible de retirer cette photo de la galerie
 		ru = Не удалось удалить фото из галереи
 		zh-Hans = 无法删除画廊中的图片
 	[remove_photo_from_gallery]
 		en = Remove photo from Gallery
+		nl = Verwijder foto uit de galerij
 		de = Foto aus Galerie entfernen
 		fr = Retirer cette photo de la galerie
 		ru = Удалить фото из галереи
 		zh-Hans = 删除画廊中的图片
 	[set_gallery_cover_photo]
 		en = Set as Gallery cover photo
+		nl = Stel in als omslagfoto van de galerij
 		de = Als Cover-Foto der Galerie festlegen
 		fr = Utiliser comme bannière pour cette galerie
 		ru = Сделать обложкой галереи
 		zh-Hans = 设置为画廊封面
 	[update_profile_avatar_failed]
 		en = Unable to update profile picture
+		nl = Uw profielfoto kon niet gewijzigd worden.
 		de = Das Profilbild kann nicht aktualisiert werden.
 		fr = Impossible de changer votre avatar
 		ru = Не удалось обновить ваш аватар
 		zh-Hans = 无法更新您的头像
 	[update_gallery_cover_failed]
 		en = Unable to update Gallery cover photo
+		nl = De omslagfoto van uw galerij kon niet gewijzigd worden.
 		de = Das Cover-Foto der Galerie kann nicht aktualisiert werden.
 		fr = Impossible de mettre à jours la bannière
 		ru = Не удалось обновить обложку галереи
 		zh-Hans = 无法更新画廊封面
 	[cover_photo_updated]
 		en = Cover photo updated
+		nl = Uw omslagfoto is gewijzigd
 		de = Cover-Foto aktualisiert
 		fr = Bannière mise à jour
 		ru = Обложка обновлена
 		zh-Hans = 封面图片已更新
 	[cover_photo_update_failed]
 		en = Unable to update cover photo
+		nl = Uw omslagfoto kon niet gewijzigd worden
 		de = Das Cover-Foto kann nicht aktualisiert werden.
 		fr = Impossible de mettre à jour votre bannière
 		ru = Не удалось обновить обложку
 		zh-Hans = 无法更新封面图片
 	[upload_your_first_photo_message]
 		en = Upload your first photo to get activity from the community
+		nl = Upload je eerste foto en beleef de 500px community
 		de = Lade dein erstes Foto hoch, um Aktivitäten von der Community zu erhalten.
 		fr = Transférez des photos et faites vous connaître par la communauté
 		ru = Загрузите несколько фотографий и будьте замеченным сообществом.
@@ -4126,62 +4208,75 @@
 		zh-Hans = 摄影作品征集 by %@
 	[read_more_about_sponsor]
 		en = Read more about %@
+		nl = Lees meer over %@
 	[quest_challenge]
 		en = The challenge
+		nl = De uitdaging
 		de = Die Aufgabe
 		fr = Détails du concours
 		ru = Задание
 		zh-Hans = 挑战
 	[quest_submissions]
 		en = Submissions
+		nl = Voorleggingen
 		de = Eingereichte Fotos
 		fr = Soumissions
 		ru = Заявки
 		zh-Hans = 参赛作品
 	[quests_my_submissions]
 		en = My submissions
+		nl = Mijn voorleggingen
 		de = Meine eingereichten Fotos
 		fr = Mes soumissions
 		ru = Мои заявки
 		zh-Hans = 我的参赛作品
 	[quests_all_submissions]
 		en = All
+		nl = Alle voorleggingen
 		de = Alle
 		fr = Toutes les soumissions
 		ru = Все
 		zh-Hans = 全部
 	[quest_inspiration]
 		en = Images to inspire you
+		nl = Foto's ter inspiratie
 		de = Inspirierende Bilder
 		fr = Des photos pour s'inspirer
 		ru = Вдохновление
 		zh-Hans = 创作参考
 	[quest_submission_successful]
 		en = Your photo has been submitted to %@!
+		nl = UW foto doet nu mee aan %@!
 		de = Dein Foto wurde für %@ eingereicht!
 		fr = Votre photo a été soumise à %@
 		ru = Ваше фото заявлена в %@!
 		zh-Hans = 您地图片已提交至 %@!
 	[quest_submission_failed]
 		en = Quest submission failed. Please try again
+		nl = Er is iets misgegaan. Probeert u het alstublieft opnieuw
 		de = Quest-Foto nicht eingereicht. Bitte erneut versuchen.
 		fr = ` Soumission Quest a échoué. Veuillez réessayer`
 		ru = ` Представление Quest не удалось. Пожалуйста, попробуйте еще раз`
 		zh-Hans = 上传失败，请重试
 	[quest_submitting]
 		en = Submitting to quest…
+		nl = Versturen…
 	[quest_winners_header]
 		en = Winners
+		nl = Winnaars
 	[quest_brief_header]
 		en = Brief
+		en = In het kort
 	[quest_prize_header]
 		en = Prize
+		nl = Prijs
 		de = Preis
 		fr = Prix
 		ru = Приз
 		zh-Hans = 奖品
 	[quest_rules_header]
 		en = Rules
+		nl = Regels
 		de = Regeln
 		fr = Règles
 		ru = Правила
@@ -4190,48 +4285,56 @@
 		en = About %@
 	[quest_winners_tbd]
 		en = This Quest has ended! Check back later to see who won.
+		nl = Deelname aan deze fotowedstrijd is niet meer mogelijk! Kom later nog eens terug om te kijken wie gewonnen heeft.
 	[quest_winners_description_single]
 		en = Congratulations to the winning entry in this Quest!
 	[quest_winners_description_multiple]
 		en = Congratulations to the winning entries in this Quest!
 	[confirm_new_password]
 		en = Repeat new password
+		en = Herhaal uw nieuwe wachtwoord
 		de = Neues Passwort wiederholen
 		fr = Repeat new password
 		ru = Saissisez votre nouveau mot de passe une 2ème fois
 		zh-Hans = 再次输入新密码
 	[passwords_do_not_match]
 		en = Passwords do not match
+		nl = De wachtwoorden komen niet overeen.
 		de = Die Passwörter stimmen nicht überein.
 		fr = La 2ème saisie du mot de passe doit être identique
 		ru = Пароли не совпадают
 		zh-Hans = 密码不相符
 	[current_password_required]
 		en = You must provide your current password
+		nl = Geef uw huidige wachtwoord op.
 		de = Du musst dein aktuelles Passwort eingeben.
 		fr = Vous devez fournir votre mot de passe
 		ru = Вы должны ввести ваш пароль
 		zh-Hans = 请提供你的当前密码
 	[password_change_successful]
 		en = Your password has been changed
+		nl = Uw wachtwoord is gewijzigd.
 		de = Dein Passwort wurde erfolgreich geändert.
 		fr = Votre mot de passe a été modifié
 		ru = Ваш пароль обновлен
 		zh-Hans = 您的密码已更换
 	[password_change_failed]
 		en = Unable to change your password
+		nl = Het veranderen van uw wachtwoord is niet mogelijk.
 		de = Dein Passwort kann nicht geändert werden.
 		fr = Erreur lors du changement du mot de passe
 		ru = Не удалось обновить ваш пароль
 		zh-Hans = 无法更换您的密码
 	[suggestions_title]
 		en = Suggestions for you
+		nl = Suggesties speciaal voor u
 		de = Empfehlungen für dich
 		fr = Suggestions personnalisées
 		ru = Наши рекомендации
 		zh-Hans = 为您推介
 	[suggestions_description]
 		en = Based on your choices, here are some suggestions for you. We recommend following them all!
+		nl = Op basis van uw keuzes hebben we een aantal suggesties voor u. Volg ze allemaal!
 		de = Hier haben wir einige Empfehlungen entsprechend deiner Auswahl für dich. Du kannst all diesen Personen folgen.
 		fr = Choisissez les photographes auxquels vous souhaitez vous abonner
 		ru = Следуя тому, что вы нам указали, вот наши рекомендации. Мы рекомендуем вам добавить всех в друзья.
@@ -4239,6 +4342,7 @@
 	[suggestions_ready_title]
 		en = We’ve found you some amazing photographers.
 		de = Wir haben tolle Fotografen für dich gefunden.
+		nl = we hebben fantastische fotografen voor u gevonden.
 		fr = Nous avons trouvé des photographes fantastiques
 		ru = Мы нашли интересных для вас фотографов.
 		zh-Hans = 我们为您找到了一些有趣的用户
@@ -4248,8 +4352,10 @@
 		fr = Modifier notre sélection
 		ru = Редактировать рекоммендации
 		zh-Hans = 修改选择
+		nl = Wijzig aanbevelingen
 	[onboarding_build_home_feed_title]
-		en = Let's build your home feed
+		en = Let's build your home feed!
+		nl = Laten we uw startpagina vormgeven!
 		de = Erstellen wir jetzt deinen Startseiten-Feed!
 		fr = C'est parti!
 		ru = Давайти создадим вашу домашнюю ленту
@@ -4257,6 +4363,7 @@
 	[onboarding_build_feed_description]
 		en = What style of photography do you like?
 		de = Welcher Fotografie-Stil gefällt dir?
+		de = Welke fotografiestijl heeft uw voorkeur?
 		fr = Dites nous quelles photos vous aimez
 		ru = Какой стиль фотографии вам по душе?
 		zh-Hans = 您喜爱哪一类摄影作品？
@@ -4269,40 +4376,48 @@
 	[onboarding_category_progress]
 		en = %d of %d
 		de = %1$d von %2$d
+		nl = %1$d van %2$d
 		fr = %d sur %d
 		ru = %d из %d
 		zh-Hans = %d ／ %d
 	[onboarding_no_followers_found_message]
 		en = We didn't find any matches for you. Choose other categories to find more results.
 		de = Wir konnten keine passenden Ergebnisse für dich finden. Bitte versuche es mit anderen Kategorien.
+		nl = We hebben niks kunnen vinden. Probeer andere categorie&euml;n voor meer resultaten.
 		fr = Nous ne avons trouvé aucun match pour vous. Choisissez d'autres catégories pour trouver plus de résultats.
 		ru = Мы не нашли никаких совпадений для вас. Выберите другие категории , чтобы найти больше результатов.
 		zh-Hans = 很抱歉，我们未能找到匹配的用户。请尝试选择更多摄影主题。
 	[onboarding_get_started_existing_user_title]
 		en = Welcome back
 		de = Willkommen zurück
+		nl = Welkom terug
 		fr = Bienvenue
 		ru = Добро пожаловать
 		zh-Hans = 欢迎回来
 	[lets_go]
 		en = Let's go!
+		nl = Let's go!
 		de = Los geht's!
 		fr = C'est parti!
 		ru = Начнем!
 		zh-Hans = 开始吧！
 	[unable_to_open_preview]
 		en = Unable to open preview
+		nl = Preview openen niet mogelijk
 	[your_500px_photos]
 		en = Your 500px photos
+		en = Uw 500px-foto's
 	[activity_action_13]
 		en = ``<a href="/item"><b>{item}</b></a> is now following you!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt ihr Fan!``
+		nl = ``<a href="/item"><b>{item}</b></a> is nu een volger!``
 		fr = ``<a href="/item"><b>{item}</b></a> s'est abonné!``
 		ru = ``<a href="/item"><b>{item}</b></a> добавил вас в друзья!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 关注你啦！``
 	[activity_action_30]
 		en = ``<a href="/item"><b>{item}</b></a> made it to Upcoming!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Upcoming!``
+		nl = ``<a href="/item"><b>{item}</b></a> is nu Upcoming!``
 		fr = ``Votre photo <a href="/item"><b>{item}</b></a> est Upcoming!``
 		ru = ``<a href="/item"><b>{item}</b></a> в разделе Интересное!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 进入排名上升！``
@@ -4312,63 +4427,76 @@
 		fr = ``Votre photo <a href="/item"><b>{item}</b></a> est Populaire!``
 		ru = ``<a href="/item"><b>{item}</b></a> в разделе Популярные!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 成为了热门！``
+		nl = ``<a href="/item"><b>{item}</b></a> is nu Popular！``
 	[activity_action_8]
 		en = ``<a href="/item"><b>{item}</b></a> made it to Editor\'s Choice!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Editor\'s Choice!``
 		fr = ``Votre photo <a href="/item"><b>{item}</b></a> a été sélectionnée pour Editors\' Choice !``
 		ru = ``<a href="/item"><b>{item}</b></a> в разделе Выбор редакции!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 进入了编辑精选！``
+		nl = ``<a href="/item"><b>{item}</b></a> is nu te zien bij Editors\' Choice!``
 	[activity_action_302]
 		en = ``Your gallery <a href="/item"><b>{item}</b></a> has been featured!``
 		de = ``Deine Galerie <a href="/item"><b>{item}</b></a> wird jetzt vorgestellt!``
 		fr = ``Votre galerie <a href="/item"><b>{item}</b></a> a été sélectionnée par nos éditeurs!``
 		ru = ``Ваша галерея <a href="/item"><b>{item}</b></a> в разделе Популярные!``
 		zh-Hans = ``你的画廊 <a href="/item"><b>{item}</b></a> 进入了编辑精选！``
+		nl = ``Uw galerij <a href="/item"><b>{item}</b></a> wordt nu aanbevolen!``
 	[activity_action_verb_commented_on]
 		en = commented on
 		de = ``hat <a href="/item"><b>{item}</b></a> kommentiert``
 		fr = commenté sur
 		ru = прокоментировал
 		zh-Hans = 评论了
+		nl = reageerde op
 	[activity_action_verb_liked]
 		en = liked
 		de = gefällt
 		fr = a aimé
 		ru = понравилось
 		zh-Hans = 喜欢了
+		nl = vond leuk
 	[activity_action_301]
 		en = ``<a href="/user"><b>{user}</b></a> added {photo_name} to <a href="/item"><b>{item}</b></a>``
 		de = ``<a href="/user"><b>{user}</b></a> hat {photo_name} zu <a href="/item"><b>{item}</b></a>``
 		fr = ``<a href="/user"><b>{user}</b></a> a ajouté {photo_name} à <a href="/item"><b>{item}</b></a>``
 		ru = ``<a href="/user"><b>{user}</b></a> добавил {photo_name} в <a href="/item"><b>{item}</b></a>``
 		zh-Hans = ``<a href="/user"><b>{user}</b></a> 添加了 {photo_name} 到 <a href="/item"><b>{item}</b></a>``
+		nl = ``<a href="/user"><b>{user}</b></a> 添加了 {photo_name} 到 <a href="/item"><b>{item}</b></a>``
 	[activity_action]
 		en = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		de = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		fr = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		ru = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		zh-Hans = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
+		nl = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 	[activity_comments]
 		en = {comment_count} comments
 		de = {comment_count} kommentare
 		fr = {comment_count} commentaires
 		ru = {comment_count} коментов
 		zh-Hans = {comment_count} 条评论
+		nl = {comment_count} reacties
 	[activity_peoples]
 		en = {user_count} people
 		de = {user_count} personen
 		fr = {user_count} utilisateurs
 		ru = {user_count} подписчиков
 		zh-Hans = {user_count} 位摄影师
+		nl = {user_count} personen
 	[activity_photos]
 		en = {photo_count} photos
 		de = {photo_count} fotos
+		nl = {photo_count} foto's
 		fr = {photo_count} photos
 		ru = {photo_count} фотографий
 		zh-Hans = {photo_count} 张照片
 	[activity_quest_started]
 		en = ``New Photo Quest! Submit your photos to <a href="/item"><b>{item}</b></a>``
+		nl = ``Nieuwe fotowedstrijd!  <a href="/item"><b>{item}</b></a>``
 	[activity_quest_non_winners_selected]
 		en = ``Winners have been selected for the Photo Quest <a href="/item"><b>{item}</b></a>``
+		nl = ``De winnaars van <a href="/item"><b>{item}</b></a> zijn bekend``
 	[activity_quest_winners_selected]
 		en = ``Congratulations! Your photo was selected as a winner of <a href="/item"><b>{item}</b></a>``
+		nl = ``Gefeliciteerd! Uw foto is als beste geselecteerd in de fotowedstrijd <a href="/item"><b>{item}</b></a>``
