@@ -4,6 +4,7 @@
 		ios = %#@d_years@
 		de = Letztes Jahr
 		fr = L'année dernière
+		pl = Rok temu
 		ru = год назад
 	[n_years_ago__other]
 		en = %d years ago
@@ -11,10 +12,12 @@
 		de = Vor %d Jahren
 		fr = il y %d ans
 		it = %d anni fa
+		pl = %d lat temu
 		ru = %d лет назад
 		zh-Hans = %d 年前
 	[n_years_ago__few]
 		ios = %#@d_years@
+		pl = %d lata temu
 		ru = %d года назад
 
 [[n_months_ago]]
@@ -23,6 +26,7 @@
 		ios = %#@d_months@
 		de = Vor 1 Monat
 		fr = il y a un mois
+		pl = Miesiąc temu
 		ru = %d месяц назад
 	[n_months_ago__other]
 		en = %d months ago
@@ -30,10 +34,12 @@
 		de = `Vor %d Monaten `
 		fr = il y a %d mois
 		it = %d mesi fa
+		pl = % miesięcy temu
 		ru = %d месяцев назад
 		zh-Hans = %d 个月前
 	[n_months_ago__few]
 		ios = %#@d_months@
+		pl = %d miesiące temu
 		ru = %d месяца назад
 
 [[n_weeks_ago]]
@@ -42,6 +48,7 @@
 		ios = %#@d_weeks@
 		de = Vor 1 Woche
 		fr = il y a un semaine
+		pl = Tydzień temu
 		ru = неделю назад
 	[n_weeks_ago__other]
 		en = %d weeks ago
@@ -49,10 +56,12 @@
 		de = Vor %d Wochen
 		fr = il y a %d semaines
 		it = %d settimane fa
+		pl = %d tygodni temu
 		ru = %d недель назад
 		zh-Hans = %d 周前
 	[n_weeks_ago__few]
 		ios = %#@d_weeks@
+		pl = %d tygodnie temu
 		ru = %d недели назад
 
 [[n_days_ago]]
@@ -63,6 +72,7 @@
 		es = Ayer
 		fr = Hier
 		it = Ieri
+		pl = Wczoraj
 		ru = вчера
 		zh-Hans = 昨天
 	[n_days_ago__other]
@@ -72,10 +82,12 @@
 		es = Hace %d días
 		fr = il y a %d jours
 		it = %d giorni fa
+		pl = %d dni temu
 		ru = %d дней назад
 		zh-Hans = %d天前
 	[n_days_ago__few]
 		ios = %#@d_days@
+		pl = %d dni temu
 		ru = %d дня назад
 
 [[n_hours_ago]]
@@ -86,6 +98,7 @@
 		es = Hace Una hora
 		fr = il y a une heure
 		it = Un'ora fa
+		pl = Godzinę temu
 		ru = час назад
 	[n_hours_ago__other]
 		en = %d hours ago
@@ -94,10 +107,12 @@
 		es = Hace %d horas
 		fr = il y a %d heures
 		it = %d ore fa
+		pl = %d godzin temu
 		ru = %d часов назад
 		zh-Hans = %d小时前
 	[n_hours_ago__few]
 		ios = %#@d_hours@
+		pl = %d godziny temu
 		ru = %d часа назад
 
 [[n_minutes_ago]]
@@ -108,6 +123,7 @@
 		es = Hace Un minuto
 		fr = il y a une minute
 		it = Un minuto fa
+		pl = Minutę temu
 		ru = Минуту назад
 	[n_minutes_ago__other]
 		en = %d minutes ago
@@ -116,10 +132,12 @@
 		es = Hace %d minutos
 		fr = il y a %d minutes
 		it = %d minuti fa
+		pl = %d minut temu
 		ru = %d минут назад
 		zh-Hans = %d分钟前
 	[n_minutes_ago__few]
 		ios = %#@d_minutes@
+		pl = %d minuty temu
 		ru = %d минуты назад
 
 [[n_seconds_ago]]
@@ -130,6 +148,7 @@
 		es = Ahora
 		fr = Maintenant
 		it = Adesso
+		pl = Teraz
 		ru = Только что
 		zh-Hans = 刚刚
 	[n_seconds_ago__one]
@@ -143,6 +162,7 @@
 		ios = %#@d_comments@
 		de = Keine Kommentare
 		fr = Sans commentaires
+		pl = Brak komentarzy
 		ru = Нет комментариев
 		zh-Hans = 尚无评论
 	[n_comments__one]
@@ -152,6 +172,7 @@
 		es = %d comentario
 		fr = %d commentaire
 		it = %d commento
+		pl = %d komentarz
 		ru = %d комментарий
 	[n_comments__other]
 		en = %d comments
@@ -160,9 +181,11 @@
 		es = %d comentarios
 		fr = %d commentaires
 		it = %d commenti
+		pl = %d komentarzy
 		zh-Hans = %d条评论
 	[n_comments__few]
 		ios = %#@d_comments@
+		pl = %d komentarze
 		ru = %d комментария
 	[n_comments__many]
 		ios = %#@d_comments@
@@ -174,6 +197,7 @@
 		ios = %#@d_people_liked_this_photo@
 		de = Dieses Foto gefällt noch niemandem.
 		fr = Personne n'a encore aimé cette photo
+		pl = Nikt nie polubił tego zdjęcia
 		ru = Никому еще не понравилось это фото
 		zh-Hans = 还没有人喜欢此照片
 	[n_people_liked_this_photo__one]
@@ -183,6 +207,7 @@
 		es = A <strong>%d pesona</strong> le gustó esta foto
 		fr = <strong>%d personne</strong> a aimé cette photo
 		it = A <strong>%d persona</strong> piace questa foto
+		pl = <strong>%d osoba</strong> polubiła te zdjęcie
 		ru = <strong>%d человеку</strong> понравилось это фото
 	[n_people_liked_this_photo__other]
 		en = <strong>%d people</strong> liked this photo
@@ -191,8 +216,12 @@
 		es = A <strong>%d personas</strong> les gustó esta foto
 		fr = <strong>%d personnes</strong> ont aimé cette photo
 		it = A <strong>%d persone</strong> piace questa foto
+		pl = <strong>%d osób</strong> polubiło te zdjęcie
 		ru = <strong>%d людям</strong> понравилось это фото
 		zh-Hans = <strong>%d人</strong>喜欢了此照片
+	[n_people_liked_this_photo__few]
+		ios = %#@d_people_liked_this_photo@
+		pl = <strong>%d osoby</strong> polubiły te zdjęcie
 
 [[user_liked_this]]
 	[user_liked_this__other]
@@ -202,6 +231,7 @@
 		es = ` le dieron 'Me gusta' a esto`
 		fr = ` ont aimé`
 		it = ` hanno messo "Mi piace" a questo elemento`
+		pl = ` polubiło to`
 		ru = ` понравилось это`
 		zh-Hans = ` 喜欢了此照片`
 	[user_liked_this__one]
@@ -209,6 +239,10 @@
 		es = ` le dio 'Me gusta' a esto`
 		fr = ` a aimé`
 		it = ` ha messo "Mi piace" a questo elemento`
+		pl = ` polubiła to`
+	[user_liked_this__few]
+		ios = %#@d_liked_this@
+		pl = ` polubiły to`
 
 [[n_followers]]
 	[n_followers__one]
@@ -218,6 +252,7 @@
 		es = %d seguidor
 		fr = %d Abonné
 		it = %d Follower
+		pl = % Obserwujący
 		ru = %d Подписчик
 	[n_followers__other]
 		en = %d Followers
@@ -226,6 +261,7 @@
 		es = %d seguidores
 		fr = %d Abonnés
 		it = %d Followers
+		pl = %d Obserwujących
 		ru = %d Подписчиков
 		zh-Hans = %d位关注者
 	[n_followers__few]
@@ -243,6 +279,7 @@
 		es = Siguiendo a %d
 		fr = Abonnements %d
 		it = Following %d
+		pl = Obserwowani %d
 		ru = Подписан(а) на %d
 		zh-Hans = 关注%d位
 	[following_n__one]
@@ -261,6 +298,7 @@
 		es = %d 'me gusta'
 		fr = %d aime
 		it = %d "mi piace"
+		pl = %d polubienie
 	[n_likes__other]
 		en = %d likes
 		ios = %#@d_likes@
@@ -268,38 +306,57 @@
 		es = %d 'me gusta'
 		fr = %d aimes
 		it = %d "mi piace"
+		pl = %d polubień
 		ru = %d понравилось
 		zh-Hans = %d 喜欢
+	[n_likes__few]
+		ios = %#@d_likes@
+		pl = %d polubienia
 
 [[n_years_left]]
 	[n_years_left__one]
 		en = One year left
 		ios = %#@d_years_left@
 		de = Noch 1 Jahr
+		pl = Pozostał jeden rok
 	[n_years_left__other]
 		en = %d years left
 		ios = %#@d_years_left@
 		de = Noch %d Jahre
+		pl = Pozostało %d lat
+	[n_years_left__few]
+		ios = %#@d_years_left@
+		pl = Pozostały %d lata
 
 [[n_months_left]]
 	[n_months_left__one]
 		en = One month left
 		ios = %#@d_months_left@
 		de = Noch 1 Monat
+		pl = Pozostał jeden miesiąc
 	[n_months_left__other]
 		en = %d months left
 		ios = %#@d_months_left@
 		de = Noch %d Monate
+		pl = Pozostało %d miesięcy
+	[n_months_left__few]
+		ios = %#@d_months_left@
+		pl = Pozostały %d miesięce
 
 [[n_weeks_left]]
 	[n_weeks_left__one]
 		en = One week left
 		ios = %#@d_weeks_left@
 		de = Noch 1 Woche
+		pl = Pozostał jeden tydzień
 	[n_weeks_left__other]
 		en = %d weeks left
 		ios = %#@d_weeks_left@
 		de = Noch %d Wochen
+		pl = Pozostało %d tygodni
+	[n_weeks_left__few]
+		ios = %#@d_weeks_left@
+		pl = Pozostały %d tygodnie
 
 [[n_days_left]]
 	[n_days_left__one]
@@ -307,6 +364,7 @@
 		ios = %#@d_days_left@
 		de = Noch 1 Tag
 		fr = Un jour restants
+		pl = Pozostał jeden dzień
 		ru = Остался %d день
 	[n_days_left__other]
 		en = %d days left
@@ -314,10 +372,12 @@
 		de = Noch %d Tage
 		fr = %d jours restants
 		it = %d giorni rimasti
+		pl = Pozostało %d dni
 		ru = Осталось %d дней
 		zh-Hans = 还剩余 %d 天
 	[n_days_left__few]
 		ios = %#@d_days_left@
+		pl = Pozostały %d dni
 		ru = Осталось %d дня
 
 [[n_hours_left]]
@@ -326,6 +386,7 @@
 		ios = %#@d_hours_left@
 		de = Noch 1 Stunde
 		fr = Un heure restantes
+		pl = Pozostała jedna godzina
 		ru = Остался %d час
 	[n_hours_left__other]
 		en = %d hours left
@@ -333,10 +394,12 @@
 		de = Noch %d Stunden
 		fr = %d heures restantes
 		it = %d ore rimaste
+		pl = Pozostało %d godzin
 		ru = Осталось %d часов
 		zh-Hans = 还剩余 %d 小时
 	[n_hours_left__few]
 		ios = %#@d_hours_left@
+		pl = Pozostały %d godziny
 		ru = Осталось %d часа
 
 [[n_minutes_left]]
@@ -345,6 +408,7 @@
 		ios = %#@d_minutes_left@
 		de = Noch 1 Minute
 		fr = Un minute restantes
+		pl = Pozostała jedna minuta
 		ru = Осталась минута
 	[n_minutes_left__other]
 		en = %d minutes left
@@ -352,10 +416,12 @@
 		de = Noch %d Minuten
 		fr = %d minutes restantes
 		it = %d minuti rimasti
+		pl = Pozostało %d minut
 		ru = Осталось %d минут
 		zh-Hans = 还剩余 %d 分钟
 	[n_minutes_left__few]
 		ios = %#@d_minutes_left@
+		pl = Pozostały %d minuty
 		ru = Осталось %d минуты
 
 [[n_seconds_left]]
@@ -364,6 +430,7 @@
 		ios = %#@d_seconds_left@
 		de = Noch 1 Sekunde
 		fr = Un seconde restante
+		pl = Pozostała jedna sekunda
 		ru = Осталась %d секунда
 	[n_seconds_left__other]
 		en = %d seconds left
@@ -371,10 +438,12 @@
 		de = Noch %d Sekunden
 		fr = %d secondes restantes
 		it = %d secondi rimasti
+		pl = Pozostało %d sekund
 		ru = Осталось %d секунд
 		zh-Hans = 还剩余 %d 秒
 	[n_seconds_left__few]
 		ios = %#@d_seconds_left@
+		pl = Pozostało %d sekundy
 		ru = Осталось %d секунды
 
 [[n_active_photo_quests_bold]]
@@ -384,6 +453,7 @@
 		de = Es gibt keine aktiven Foto-Quests.
 		fr = Aucun concours photo disponible
 		it = Non ci sono Foto Quest
+		pl = Brak aktywnych Foto-Zadań
 		ru = Нет текущих Фото Квестов
 		zh-Hans = 暂无图片征集
 	[n_active_photo_quests_bold__one]
@@ -391,6 +461,7 @@
 		ios = %#@d_quest_count@
 		de = Es gibt <b>1</b> aktive Foto-Quest.
 		fr = <strong>%d</strong> concours photo disponible
+		pl = Jest <strong>jedno</strong> aktywne Foto-Zadanie
 		ru = <strong>Один</strong> текущий Фото Квест
 	[n_active_photo_quests_bold__other]
 		en = There are <strong>%d</strong> active Photo Quests
@@ -398,10 +469,12 @@
 		de = Es gibt <b>%d</b> aktive Foto-Quests.
 		fr = <strong>%d</strong> concours photo disponibles
 		it = Ci sono <strong>%d</strong> Foto Quest
+		pl = Jest <strong>%d</strong> aktywnych Foto-Zadań
 		ru = <strong>%d</strong> текущих Фото Квестов
 		zh-Hans = 共有 <strong>%d</strong> 个图片征集活动
 	[n_active_photo_quests_bold__few]
 		ios = %#@d_quest_count@
+		pl = Są <strong>%d</strong> aktywne Foto-Zadania
 		ru = <strong>%d</strong> текущих Фото Квеста
 
 [[follow_n_people]]
@@ -412,6 +485,7 @@
 		es = Follow one person
 		fr = S'abonner à un utilisateur
 		it = Segui una persona
+		pl = Obserwujesz jedną osobę
 		ru = Подписаться на %d фотографа
 		zh-Hans = 关注一位用户
 	[follow_n_people__other]
@@ -421,22 +495,29 @@
 		es = Follow %d people
 		fr = S'abonner à %d utilisateurs
 		it = Segui %d persone
+		pl = Obserwujesz %d osób
 		ru = Подписаться на %d фотографов
 		zh-Hans = 关注%d位用户
+	[follow_n_people__few]
+		ios = %#@follow_d_people@
+		pl = Obserwujesz %d osoby
 
 [[selected_galleries]]
 	[selected_galleries__one]
 		en = %d selected gallery
 		de = %d ausgewählte Galerie
 		fr = %d galerie sélectionée
+		pl = %d galeria
 		ru = %d галерея
 	[selected_galleries__other]
 		en = %d selected galleries
 		de = %d ausgewählte Galerien
 		fr = %d galeries sélectionées
+		pl = %d galerii
 		ru = %d галерей
 		zh-Hans = %d 选中的画廊
 	[selected_galleries__few]
+		pl = %d galerie
 		ru = %d галереи
 	[selected_galleries__many]
 		ru = %d галерей
@@ -446,14 +527,17 @@
 		en = %d photo
 		de = %d Foto
 		fr = %d photo
+		pl = %d zdjęcie
 		ru = %d фотография
 	[photos_count__other]
 		en = %d photos
 		de = %d Fotos
 		fr = %d photos
+		pl = %d zdjęć
 		ru = %d фотографий
 		zh-Hans = %d 张照片
 	[photos_count__few]
+		pl = %d zdjęcia
 		ru = %d фотографии
 	[photos_count__many]
 		ru = %d фотографий
@@ -463,14 +547,17 @@
 		en = View %d comment
 		de = %d Kommentar anzeigen
 		fr = Voir %d commentaire
+		pl = Pokaż %d komentarz
 		ru = Прочитать %d комент
 	[view_comments__other]
 		en = View %d comments
 		de = %d Kommentare anzeigen
 		fr = Voir %d commentaires
+		pl = Pokaż %d komentarzy
 		ru = Прочитать %d коментов
 		zh-Hans = 查看 %d 条评论
 	[view_comments__few]
+		pl = Pokaż %d komentarze
 		ru = Прочитать %d комента
 	[view_comments__many]
 		ru = Прочитать %d коментов
@@ -480,14 +567,17 @@
 		en = %d new notification
 		de = %d neue Benachrichtigung
 		fr = %d nouvelle notification
+		pl = %d nowe powiadomienie
 		ru = %d новое оповещение
 	[new_notifications__other]
 		en = %d new notifications
 		de = %d neue Benachrichtigungen
 		fr = %d nouvelles notifications
+		pl = %d nowych powiadomień
 		ru = %d новый оповещений
 		zh-Hans = %d 条新通知
 	[new_notifications__few]
+		pl = %d nowe powiadomienia
 		ru = %d новых оповещения
 	[new_notifications__many]
 		ru = %d новых оповещений
@@ -497,14 +587,17 @@
 		en = %d like
 		de = %d Gefällt mir
 		fr = %d like
+		pl = %d polubienie
 		ru = %d лайк
 	[likes_count__other]
 		en = %d likes
 		de = %d Gefällt mir
 		fr = %d likes
+		pl = %d polubień
 		ru = %d лайков
 		zh-Hans = %d 喜欢
 	[likes_count__few]
+		pl = %d polubienia
 		ru = %d лайка
 	[likes_count__many]
 		ru = %d лайков
@@ -514,14 +607,17 @@
 		en = %d view
 		de = %d Aufruf
 		fr = %d visite
+		pl = %d wyświetlenie
 		ru = %d просмотр
 	[views_count__other]
 		en = %d views
 		de = %d Aufrufe
 		fr = %d visites
+		pl = %d wyświetleń
 		ru = %d просмотров
 		zh-Hans = %d 浏览
 	[views_count__few]
+		pl = %d wyświetlenia
 		ru = %d просмотра
 	[views_count__many]
 		ru = %d просмотров
@@ -531,14 +627,17 @@
 		en = %d comment
 		de = %d Kommentar
 		fr = %d commentaire
+		pl = %d komentarz
 		ru = %d комент
 	[comments_count__other]
 		en = %d comments
 		de = %d Kommentare
 		fr = %d commentaires
+		pl = %d komentarzy
 		ru = %d коментов
 		zh-Hans = %d 条评论
 	[comments_count__few]
+		pl = %d komentarze
 		ru = %d комента
 	[comments_count__many]
 		ru = %d коментов
@@ -548,13 +647,16 @@
 		en = There is <b>%d</b> Photo Quest!<br>Submit your photos to win great prizes.
 		de = Es gibt <b>%d</b> Foto-Quest!<br>Reiche deine Fotos ein, um tolle Preise zu gewinnen.
 		fr = Il y a <b>%d</b> concours photo.<br>Soumettez vos photos pour gagner des prix!
+		pl = Trwa <b>%d</b> Foto-Zadanie!<br>Prześlij swoje zdjęcia, by wygrać wspaniałe nagrody.
 		ru = <b>%d</b> Фото Квест!<br>Загрузите ваши фото что бы выйграть призы!
 	[quests_available__other]
 		en = There are <b>%d</b> Photo Quests!<br>Submit your photos to win great prizes.
 		de = Es gibt <b>%d</b> Foto-Quests!<br>Reiche deine Fotos ein, um tolle Preise zu gewinnen.
 		fr = Il y a <b>%d</b> concours photo.<br>Soumettez vos photos pour gagner des prix!
+		pl = Trwa <b>%d</b> Foto-Zadań!<br>Prześlij swoje zdjęcia, by wygrać wspaniałe nagrody.
 		zh-Hans = 共有 <b>%d</b> 个摄影作品征集活动!<br>提交您的作品，赢取精美礼品。
 	[quests_available__few]
+		pl = Trwają <b>%d</b> Foto-Zadania!<br>Prześlij swoje zdjęcia, by wygrać wspaniałe nagrody.
 		ru = <b>%d</b> Фото Квеста!<br>Загрузите ваши фото что бы выйграть призы!
 	[quests_available__many]
 		ru = <b>%d</b> Фото Квестов!<br>Загрузите ваши фото что бы выйграть призы!
@@ -564,14 +666,17 @@
 		en = %d day left
 		de = Noch %d Tag
 		fr = %d jour restant
+		pl = Pozostał %d dzień
 		ru = Остался %d день
 	[days_left__other]
 		en = %d days left
 		de = Noch %d Tage
 		fr = %d jours restants
+		pl = Pozostało %d dni
 		ru = Осталось %d дня
 		zh-Hans = 还剩下 %d 天
 	[days_left__few]
+		pl = Pozostały %d dni
 		ru = Осталось %d дня
 	[days_left__many]
 		ru = Осталось %d дней
@@ -581,14 +686,17 @@
 		en = %d hour left
 		de = Noch %d Stunde
 		fr = %d heure restante
+		pl = Pozostała %d godzina
 		ru = Остался %d час
 	[hours_left__other]
 		en = %d hours left
 		de = Noch %d Stunden
 		fr = %d heures restantes
+		pl = Pozostało %d godzin
 		ru = Осталось %d часа
 		zh-Hans = 还剩下 %d 小时
 	[hours_left__few]
+		pl= Pozostały %d godziny
 		ru = Осталось %d часа
 	[hours_left__many]
 		ru = Осталось %d часов
@@ -598,19 +706,23 @@
 		en = Less than a minute left
 		de = Noch weniger als 1 Minute
 		fr = Moins d'une minute restante
+		pl = Pozostała mniej niż minuta
 		zh-Hans = 还剩不到一分钟
 	[minutes_left__one]
 		en = %d minute left
 		de = Noch %d Minute
 		fr = %d minute restante
+		pl = Pozostała %d minuta
 		ru = Остался %d минута
 	[minutes_left__other]
 		en = %d minutes left
 		de = Noch %d Minuten
 		fr = %d minutes restantes
+		pl = Pozostało %d minut
 		ru = Осталось %d минуты
 		zh-Hans = 还剩下 %d 分钟
 	[minutes_left__few]
+		pl = Pozostały %d minuty
 		ru = Осталось %d минуты
 	[minutes_left__many]
 		ru = Осталось %d минут
@@ -620,14 +732,17 @@
 		en = Follow %d person
 		de = Folge %d Person
 		fr = S'abonner à %d utilisateur
+		pl = Obserwuj %d osobę
 		ru = Подписаться на %d фотографа
 	[follow_people__other]
 		en = Follow %d people
 		de = Folge %d Personen
 		fr = S'abonner à %d utilisateurs
+		pl = Obserwuj %d osób
 		ru = Подписаться на %d фотографов
 		zh-Hans = 关注 %d 位用户
 	[follow_people__few]
+		pl = Obserwuj %d osoby
 		ru = Подписаться на %d фотографов
 	[follow_people__many]
 		ru = Подписаться на %d фотографов
@@ -639,6 +754,7 @@
 		es = %#@d_liked_this@
 		fr = %#@d_liked_this@
 		it = %#@d_liked_this@
+		pl = %#@d_liked_this@
 		ru = %#@d_liked_this@
 		zh-Hans = %#@d_liked_this@
 	[user_and_n_others]
@@ -647,6 +763,7 @@
 		es = ` y %@ más`
 		fr = ` et %@ autres`
 		it = ` e altri %@`
+		pl = ` i %@ innych`
 		ru = ` и %@ другим`
 		zh-Hans = ` 和其他%@位`
 	[maximum_pulse]
@@ -655,6 +772,7 @@
 		es = %.1f
 		fr = %.1f
 		it = %.1f
+		pl = %.1f
 		ru = %.1f
 		zh-Hans = %.1f
 	[followers_count]
@@ -663,6 +781,7 @@
 		es = %@ seguidores
 		fr = %@ Abonnés
 		it = %@ Follower
+		pl = %@ Obserwujących
 		ru = %@ Подписчиков
 		zh-Hans = %@ 名粉丝
 	[user_hasnt_created_galleries_yet]
@@ -671,6 +790,7 @@
 		es = %@ hasn't created any galleries yet
 		fr = %@ n'a pas encore crée de galeries
 		it = %@ non ha ancora creato alcuna Galleria
+		pl = %@ jeszcze nie utworzył żadnych galerii
 		ru = %@ еще не создал(а) галереи
 		zh-Hans = %@ 还没有创建任何画廊
 	[user_hasnt_uploaded_yet]
@@ -679,6 +799,7 @@
 		es = %@ aún no ha cargado ninguna foto
 		fr = %@ n'a pas encore transféré de photos
 		it = %@ non ha ancora caricato alcuna foto
+		pl = %@ jeszcze nie przesłał żadnych zdjęć
 		ru = %@ еще не загрузил(а) фотографии
 		zh-Hans = %@ 还没有上传任何照片
 	[n_views]
@@ -687,6 +808,7 @@
 		es = %@&nbsp;vistas
 		fr = %@&nbsp;visites
 		it = %@&nbsp;visualizzazioni
+		pl = %@&nbsp;wyświetleń
 		ru = %@&nbsp;просмотров
 		zh-Hans = %@&nbsp;点击
 	[n_curated_photos]
@@ -695,6 +817,7 @@
 		es = %d curated photos
 		fr = %d photos sélectionnées
 		it = %d foto curate
+		pl = %d wybranych zdjęć
 		ru = %d отобранных фотографий
 		zh-Hans = %d 张照片
 	[n_of_n]
@@ -703,6 +826,7 @@
 		es = %1$d of %2$d
 		fr = %d sur %d
 		it = %1$d of %2$d
+		pl = %1$d z %2$d
 		ru = %1$d of %2$d
 		zh-Hans = %1$d ／ %2$d
 	[n_photos]
@@ -711,6 +835,7 @@
 		es = %d photos
 		fr = %d photos
 		it = %d foto
+		pl = %d zdjęć
 		ru = %d фотографий
 		zh-Hans = %d 张照片
 	[n_days_ago]
@@ -719,6 +844,7 @@
 		es = %#@d_days@
 		fr = %#@d_days@
 		it = %#@d_days@
+		pl = %#@d_days@
 		ru = %#@d_days@
 		zh-Hans = %#@d_days@
 	[n_days_left]
@@ -727,6 +853,7 @@
 		es = %d days left
 		fr = %#@d_days_left@
 		it = %#@d_days_left@
+		pl = %#@d_days_left@
 		ru = %#@d_days_left@
 		zh-Hans = %#@d_days_left@
 	[n_hours_ago]
@@ -735,6 +862,7 @@
 		es = %#@d_hours@
 		fr = %#@d_hours@
 		it = %#@d_hours@
+		pl = %#@d_hours@
 		ru = %#@d_hours@
 		zh-Hans = %#@d_hours@
 	[n_hours_left]
@@ -743,6 +871,7 @@
 		es = %d hours left
 		fr = %#@d_hours_left@
 		it = %#@d_hours_left@
+		pl = %#@d_hours_left@
 		ru = %#@d_hours_left@
 		zh-Hans = %#@d_hours_left@
 	[n_minutes_ago]
@@ -751,6 +880,7 @@
 		es = %#@d_minutes@
 		fr = %#@d_minutes@
 		it = %#@d_minutes@
+		pl = %#@d_minutes@
 		ru = %#@d_minutes@
 		zh-Hans = %#@d_minutes@
 	[n_minutes_left]
@@ -759,6 +889,7 @@
 		es = %d minutes left
 		fr = %#@d_minutes_left@
 		it = %#@d_minutes_left@
+		pl = %#@d_minutes_left@
 		ru = %#@d_minutes_left@
 		zh-Hans = %#@d_minutes_left@
 	[n_months_ago]
@@ -767,6 +898,7 @@
 		es = %d months ago
 		fr = %#@d_months@
 		it = %#@d_months@
+		pl = %#@d_months@
 		ru = %#@d_months@
 		zh-Hans = %#@d_months@
 	[n_seconds_ago]
@@ -775,6 +907,7 @@
 		es = %#@d_seconds@
 		fr = %#@d_seconds@
 		it = %#@d_seconds@
+		pl = %#@d_seconds@
 		ru = %#@d_seconds@
 		zh-Hans = %#@d_seconds@
 	[n_seconds_left]
@@ -783,6 +916,7 @@
 		es = %d seconds left
 		fr = %#@d_seconds_left@
 		it = %#@d_seconds_left@
+		pl = %#@d_seconds_left@
 		ru = %#@d_seconds_left@
 		zh-Hans = %#@d_seconds_left@
 	[n_weeks_ago]
@@ -791,6 +925,7 @@
 		es = %d weeks ago
 		fr = %#@d_weeks@
 		it = %#@d_weeks@
+		pl = %#@d_weeks@
 		ru = %#@d_weeks@
 		zh-Hans = %#@d_weeks@
 	[n_years_ago]
@@ -799,6 +934,7 @@
 		es = %d years ago
 		fr = %#@d_years@
 		it = %#@d_years@
+		pl = %#@d_years@
 		ru = %#@d_years@
 		zh-Hans = %#@d_years@
 	[n_comments]
@@ -807,6 +943,7 @@
 		es = %#@d_comments@
 		fr = %#@d_comments@
 		it = %#@d_comments@
+		pl = %#@d_comments@
 		ru = %#@d_comments@
 		zh-Hans = %#@d_comments@
 	[n_followers]
@@ -815,6 +952,7 @@
 		es = %#@d_Followers@
 		fr = %#@d_Followers@
 		it = %#@d_Followers@
+		pl = %#@d_Followers@
 		ru = %#@d_Followers@
 		zh-Hans = %#@d_Followers@
 	[n_likes]
@@ -823,6 +961,7 @@
 		es = %#@d_likes@
 		fr = %#@d_likes@
 		it = %#@d_likes@
+		pl = %#@d_likes@
 		ru = %#@d_likes@
 		zh-Hans = %#@d_likes@
 	[n_people_liked_this_photo]
@@ -831,6 +970,7 @@
 		es = %#@d_people_liked_this_photo@
 		fr = %#@d_people_liked_this_photo@
 		it = %#@d_people_liked_this_photo@
+		pl = %#@d_people_liked_this_photo@
 		ru = %#@d_people_liked_this_photo@
 		zh-Hans = %#@d_people_liked_this_photo@
 	[denied_access_of_your_photos]
@@ -839,6 +979,7 @@
 		es = 500px no tiene acceso a tus fotos.
 		fr = 500px n'a pas accès à vos photos.
 		it = 500px non può accedere alla tue foto.
+		pl = 500px nie ma dostępu do twoich zdjęć.
 		ru = 500px не имеет доступа к вашим фотографиям
 		zh-Hans = 500px不能访问您设备上的照片。
 	[facebook_login_permission_message]
@@ -847,6 +988,7 @@
 		es = 500px necesita permiso para usar tu cuenta de Facebook. Revisa los ajustes de iOS/Facebook e intenta de nuevo.
 		fr = 500px a besoin de votre permission pour utiliser votre compte Facebook. Veuillez vérifier vos Réglages et réessayer.
 		it = 500px ha bisogno del tuo permesso per usare l'account Facebook. Controlla le impostazioni iOS/Facebook e riprova.
+		pl = 50px wymaga uprawnień do twojego konta Facebook. Sprawdź proszę ustawienia iOS/Facebbok i spróbuj ponownie.
 		ru = 500px необходимо разрешение на использование вашей учетной записи Facebook. Пожалуйста, проверьте ваши настройки iOS/Facebook, а затем повторите попытку.
 		zh-Hans = 500px需要使用您的Facebook账户。请检查您的iOS/Facebook设置，然后重试。
 	[user_added_photo_to_gallery_bold]
@@ -855,6 +997,7 @@
 		es = <strong>%1$@</strong> added <strong>%2$@</strong> to <strong>%3$@</strong>
 		fr = <strong>%1$@</strong> a ajouté <strong>%2$@</strong> a <strong>%3$@</strong>
 		it = <strong>%1$@</strong> added <strong>%2$@</strong> to <strong>%3$@</strong>
+		pl = <strong>%1$@</strong> dodał <strong>%2$@</strong> do <strong>%3$@</strong>
 		ru = <strong>%1$@</strong> добавил <strong>%2$@</strong> в <strong>%3$@</strong>
 		zh-Hans = <strong>%1$@</strong> 收藏了 <strong>%2$@</strong> 到 <strong>%3$@</strong>
 	[user_commented_on_a_photo_bold]
@@ -863,6 +1006,7 @@
 		es = <strong>%@</strong> comentó una foto
 		fr = <strong>%@</strong> a laissé un commentaire sur
 		it = <strong>%@</strong> ha commentato una foto
+		pl = <strong>%@</strong> skomentował zdjęcie
 		ru = <strong>%@</strong> прокомментировал
 		zh-Hans = <strong>%@</strong>评论了
 	[n_followers_bold]
@@ -871,6 +1015,7 @@
 		es = <strong>%@</strong> Followers
 		fr = <strong>%@</strong> Abonnés
 		it = <strong>%@</strong> Follower
+		pl = <strong>%@</strong> Obserwujących
 		ru = <strong>%@</strong> Подписчики
 		zh-Hans = <strong>%@</strong> 关注者
 	[user_just_followed_you_bold]
@@ -879,6 +1024,7 @@
 		es = ¡<strong>%@</strong> acaba de seguirte!
 		fr = <strong>%@</strong> s'est abonné!
 		it = <strong>%@</strong> ha cominciato a seguirti!
+		pl = <strong>%@</strong> właśnie zaczął Cię obserwować!
 		ru = У вас новый подписчик <strong>%@</strong>!
 		zh-Hans = <strong>%@</strong> 刚刚关注了您！
 	[user_liked_photo_bold]
@@ -887,6 +1033,7 @@
 		es = <strong>%1$@</strong> liked <strong>%2$@</strong>
 		fr = <strong>%1$@</strong> a aimé <strong>%2$@</strong>
 		it = <strong>%1$@</strong> liked <strong>%2$@</strong>
+		pl = <strong>%1$@</strong> polubił <strong>%2$@</strong>
 		ru = <strong>%1$@</strong> понравилось <strong>%2$@</strong>
 		zh-Hans = <strong>%1$@</strong> 喜欢了 <strong>%2$@</strong>
 	[photos_n_bold]
@@ -895,6 +1042,7 @@
 		es = <strong>Fotos</strong> %@
 		fr = <strong>Photos</strong> %@
 		it = <strong>Foto</strong> %@
+		pl = <strong>Zdjęcia</strong> %@
 		ru = <strong>Фото</strong> %@
 		zh-Hans = <strong>%@</strong>张照片
 	[a_member_since_date]
@@ -903,6 +1051,7 @@
 		es = A member since %@
 		fr = Membre depuis %@
 		it = Membro da %@
+		pl = Członek od %@
 		ru = Участник с %@
 		zh-Hans = 该用户注册于 %@
 	[a_photo_quest_by_name]
@@ -911,6 +1060,7 @@
 		es = A Photo Quest by %@
 		fr = Un concours photo par %@
 		it = Una Foro Quest by %@
+		pl = Foto-Zadanie od %@
 		ru = Фото Квест %@
 		zh-Hans = 摄影作品征集 by %@
 	[server_error_message]
@@ -919,6 +1069,7 @@
 		es = A server-side error has occurred...
 		fr = Une erreur serveur s'est produite...
 		it = Errore dal server...
+		pl = Wystąpił błąd po stronie serwera...
 		ru = Ошибка на сервере...
 		zh-Hans = 服务器出错...
 	[about_500px]
@@ -927,6 +1078,7 @@
 		es = About 500px
 		fr = A propos de 500px
 		it = ` Chi siamo`
+		pl = O 500px
 		ru = О 500px
 		zh-Hans = 关于500px
 	[discover_category_abstract]
@@ -935,6 +1087,7 @@
 		es = Abstracto
 		fr = Abstrait
 		it = Astratte
+		pl = Strzeszczenie
 		ru = Абстрактные
 		zh-Hans = 抽象
 	[activities]
@@ -943,6 +1096,7 @@
 		es = Actividades
 		fr = Activités
 		it = Attività
+		pl = Aktywności
 		ru = Уведомления
 		zh-Hans = 活动
 	[add_a_comment]
@@ -951,6 +1105,7 @@
 		es = Agrega un comentario
 		fr = Ajouter un commentaire
 		it = Aggiungi un commento
+		pl = Dodaj komentarz
 		ru = Комментировать
 		zh-Hans = 添加评论
 	[add_a_cover]
@@ -959,6 +1114,7 @@
 		es = Agregar una portada
 		fr = Ajouter une bannière
 		it = Aggiungi una foto di copertina
+		pl = Dodaj okładkę
 		ru = Добавить обложку
 		zh-Hans = 添加封面照片
 	[add_a_keyword]
@@ -967,6 +1123,7 @@
 		es = Agregar una palabra clave
 		fr = Ajouter un mot clé
 		it = Aggiungi tag
+		pl = Dodaj słowo kluczowe
 		ru = Добавьте ключевое слово
 		zh-Hans = 添加关键词
 	[add_your_comment]
@@ -975,6 +1132,7 @@
 		es = Agrega tu comentario...
 		fr = Ajoutez votre commentaire...
 		it = Aggiungi il tuo commento...
+		pl = Dodaj swój komentarz...
 		ru = Добавить комментарии...
 		zh-Hans = 添加您的评论...
 	[admin]
@@ -983,6 +1141,7 @@
 		es = Admin
 		fr = Admin
 		it = Amministratore
+		pl = Administrator
 		ru = Админ
 		zh-Hans = 管理员
 	[admin_panel]
@@ -991,6 +1150,7 @@
 		es = Admin panel
 		fr = Admin panel
 		it = Pannello amministratore
+		pl = Panel administracyjny
 		ru = Панель администратора
 		zh-Hans = 管理员界面
 	[adult_content]
@@ -999,6 +1159,7 @@
 		es = Adult content
 		fr = Adult content
 		it = Adult content
+		pl = Dla dorosłych
 		ru = Для взрослых
 		zh-Hans = 成人内容
 	[albums]
@@ -1007,6 +1168,7 @@
 		es = Álbumes
 		fr = Albums
 		it = Album
+		pl = Albumy
 		ru = Альбомы
 		zh-Hans = 影集
 	[all_caps]
@@ -1015,6 +1177,7 @@
 		es = ALL
 		fr = TOUTES
 		it = Tutte
+		pl = WSZYSTKIE
 		ru = ВСЕ
 		zh-Hans = 所有
 	[signup_confirm_account_creation_message]
@@ -1023,6 +1186,7 @@
 		es = Se creará una cuenta para ti usando este email
 		fr = Un compte sera créé avec cette adresse
 		it = Verrà creato un account con questa e-mail
+		pl = Konto zostanie założone z wykorzystaniem tego adresu e-mail
 		ru = Этот емайл будет использован для создания аккаунта
 		zh-Hans = 这个邮箱注册的账号将被创建
 	[discover_category_animals]
@@ -1031,6 +1195,7 @@
 		es = Animales
 		fr = Animaux
 		it = Animali
+		pl = Zwierzęta
 		ru = Животные
 		zh-Hans = 动物
 	[comment_delete_confirmation]
@@ -1039,6 +1204,7 @@
 		es = Are you sure you want to delete this comment?
 		fr = Etes-vous sur de vouloir supprimer ce commentaire?
 		it = Sicuro di voler cancellare questo commento?
+		pl = Czy na pewno chcesz usunąć ten komentarz?
 		ru = Вы уверены, что хотите удалить этот коментарий?
 		zh-Hans = 您确定要删除这条评论吗？
 	[gallery_delete_confirmation]
@@ -1047,6 +1213,7 @@
 		es = Are you sure you want to delete this gallery?
 		fr = Êtes-vous sur de vouloir supprimer cette galerie?
 		it = Sicuro di voler eliminare questa galleria?
+		pl = Czy na pewno chcesz usunąć tę galerię?
 		ru = Вы уверены, что хотите удалить галерею?
 		zh-Hans = 你确定要删除此画廊吗？
 	[photo_delete_confirmation]
@@ -1055,6 +1222,7 @@
 		es = ¿Seguro que deseas eliminar esta foto?
 		fr = Êtes-vous sûr de vouloir supprimer cette photo?
 		it = Sei sicuro/a di voler eliminare questa foto?
+		pl = Czy na pewno chcesz usunąć te zdjęcie?
 		ru = Вы действительно хотите удалить эту фотографию?
 		zh-Hans = 您确定要删除此照片吗？
 	[log_out_confirmation]
@@ -1063,6 +1231,7 @@
 		es = ¿Seguro que deseas cerrar sesión?
 		fr = Êtes-vous sûr de vouloir vous déconnecter?
 		it = Sei sicuro di voler uscire?
+		pl = Czy na pewno chcesz się wylogować?
 		ru = Вы действительно хотите выйти?
 		zh-Hans = 您确定想要退出吗？
 	[unfollow_confirmation]
@@ -1071,6 +1240,7 @@
 		es = Are you sure you want to unfollow %@
 		fr = Etes vous sur de vouloir vous désabonner de %@
 		it = Sicuro di voler smettere di seguire %@
+		pl = Czy na pewno chcesz przestać obserwować %@
 		ru = Вы точно хотите удалить %@ из списка друзей
 		zh-Hans = 您确定要取消关注 %@ 吗？
 	[avatar_upload_failed]
@@ -1079,6 +1249,7 @@
 		es = Falló la carga del avatar
 		fr = Echec du transfert de votre avatar
 		it = Carcamento avatar non riuscito
+		pl = Przesyłanie awatara nie powiodło się
 		ru = Не удалось обновить аватар
 		zh-Hans = 上传头像失败
 	[be_first_like_message]
@@ -1087,6 +1258,7 @@
 		es = Sé el primero en darle 'me gusta' a esta foto
 		fr = Personne n'a encore aimé cette photo
 		it = Sii il primo a mettere "Mi piace" a questa foto
+		pl = Bąć pierwszą osobą, która polubi te zdjęcie
 		ru = Будьте первым кому понравилось это фото
 		zh-Hans = 成为此照片的首位喜欢者
 	[bio]
@@ -1095,6 +1267,7 @@
 		es = Bio
 		fr = Biographie
 		it = Bio
+		pl = Bio
 		ru = Био
 		zh-Hans = 个人简介
 	[discover_category_black_and_white]
@@ -1103,6 +1276,7 @@
 		es = Blanco y negro
 		fr = Noir et Blanc
 		it = Bianco e nero
+		pl = Czarno-białe
 		ru = Черно-белые
 		zh-Hans = 黑白
 	[by_500px]
@@ -1111,6 +1285,7 @@
 		es = by 500px
 		fr = par 500px
 		it = by 500px
+		pl = 500px
 		ru = 500px
 		zh-Hans = by 500px
 	[cancel]
@@ -1119,6 +1294,7 @@
 		es = Cancelar
 		fr = Annuler
 		it = Annulla
+		pl = Anuluj
 		ru = Отменить
 		zh-Hans = 取消
 	[capture]
@@ -1127,6 +1303,7 @@
 		es = Capture
 		fr = Caméra
 		it = Scatta
+		pl = Aparat
 		ru = Камера
 		zh-Hans = 拍摄
 	[discover_category_header]
@@ -1135,6 +1312,7 @@
 		es = Categorías
 		fr = Catégories
 		it = Categorie
+		pl = Kategorie
 		ru = Категории
 		zh-Hans = 类别
 	[discover_category_celebrities]
@@ -1143,6 +1321,7 @@
 		es = Celebridades
 		fr = Célébrités
 		it = Celebrità
+		pl = Gwiazdy
 		ru = Знаменитости
 		zh-Hans = 名人
 	[change_password]
@@ -1151,6 +1330,7 @@
 		es = Change Password
 		fr = Changer votre mot de passe
 		it = Cambia Password
+		pl = Zmień hasło
 		ru = Сменить пароль
 		zh-Hans = 更换密码
 	[choose_category]
@@ -1159,6 +1339,7 @@
 		es = Elige una categoría
 		fr = Choisir une catégorie
 		it = Seleziona una categoria
+		pl = Wybierz kategorię
 		ru = Выберите категорию
 		zh-Hans = 选择一个分类
 	[choose_photo]
@@ -1167,6 +1348,7 @@
 		es = Elegir foto
 		fr = Choisir une photo
 		it = Seleziona una foto
+		pl = Wybierz zdjęcie
 		ru = Выберите фото
 		zh-Hans = 选择照片
 	[city]
@@ -1175,6 +1357,7 @@
 		es = Ciudad
 		fr = Ville
 		it = Città
+		pl = Miasto
 		ru = Город
 		zh-Hans = 城市
 	[discover_category_city_and_architecture]
@@ -1183,6 +1366,7 @@
 		es = Ciudad y arquitectura
 		fr = Ville et Architecture
 		it = Città e architettura
+		pl = Miasto i architektura
 		ru = Город и архитектура
 		zh-Hans = 城市与建筑
 	[discover_category_commercial]
@@ -1191,6 +1375,7 @@
 		es = Comercial
 		fr = Commercial
 		it = Commerciali
+		pl = Reklama
 		ru = Реклама
 		zh-Hans = 商业
 	[discover_category_concert]
@@ -1199,6 +1384,7 @@
 		es = Conciertos
 		fr = Concert
 		it = Concerti
+		pl = Koncert
 		ru = Концерт
 		zh-Hans = 音乐会
 	[confirm]
@@ -1207,6 +1393,7 @@
 		es = Confirm
 		fr = Confirmer
 		it = Conferma
+		pl = Potwierdź
 		ru = Подтвердить
 		zh-Hans = 确认
 	[confirm_password]
@@ -1215,6 +1402,7 @@
 		es = Confirm Password
 		fr = Confirmez le mot de passe
 		it = Confirm Password
+		pl = Potwierdź hasło
 		ru = Поддтвердить пароль
 		zh-Hans = 确认密码
 	[confirm_your_email]
@@ -1223,6 +1411,7 @@
 		es = Confirm your email
 		fr = Confirmez votre e-mail
 		it = Conferma la tua email
+		pl = Potwierdź swój adres e-mail
 		ru = Подтвердить емайл
 		zh-Hans = 确认您的邮箱
 	[connect_with_facebook]
@@ -1231,6 +1420,7 @@
 		es = Connect with Facebook
 		fr = Connecter avec Facebook
 		it = Connettiti con Facebook
+		pl = Połącz z kontem Facebook
 		ru = Войти с Facebook
 		zh-Hans = 与 Facebook连接
 	[contact]
@@ -1239,6 +1429,7 @@
 		es = Contacto
 		fr = Contact
 		it = Contatti
+		pl = Kontakt
 		ru = Связаться
 		zh-Hans = 联系方式
 	[contact_us]
@@ -1247,6 +1438,7 @@
 		es = Contáctanos
 		fr = Contactez nous
 		it = Contattaci
+		pl = Skontaktuj się z nami
 		ru = Свяжитесь с нами
 		zh-Hans = 联系我们
 	[continue]
@@ -1255,6 +1447,7 @@
 		es = Continuar
 		fr = Continuer
 		it = Continua
+		pl = Kontynuuj
 		ru = Продолжить
 		zh-Hans = 继续
 	[report_copyright]
@@ -1263,6 +1456,7 @@
 		es = Derechos de autor (plagio, robo)
 		fr = Droits d'auteur (plagiat, vol)
 		it = Copyright (plagio, furto)
+		pl = Prawa autorskie (plagiat, kradzież)
 		ru = Авторские права (плагиат, воровство)
 		zh-Hans = 版权（抄袭或窃用）
 	[countries]
@@ -1271,6 +1465,7 @@
 		es = Países
 		fr = Pays
 		it = Paesi
+		pl = Kraje
 		ru = Страны
 		zh-Hans = 国家
 	[country]
@@ -1279,6 +1474,7 @@
 		es = País
 		fr = Pays
 		it = Paese
+		pl = Kraj
 		ru = Страна
 		zh-Hans = 国家
 	[invalid_cover_photo]
@@ -1287,6 +1483,7 @@
 		es = La foto de portada debe ser apaisada y de al menos 2000 por 1000.
 		fr = Les bannières doivent être en orientation paysage et avoir des dimensions de 2000px par 1000px.
 		it = La foto di copertina deve avere orientamento orizzontale e dimensioni minime 2000x1000.
+		pl = Zdjęcie na okładkę musi być zorientowane poziomo o rozdzielczości przynajmniej 2000px na 1000px.
 		ru = Обложка должна быть как минимум 2000 на 1000 пикселей
 		zh-Hans = 请使用至少2000x1000像素的横向图片作为封面
 	[update_profile_cover_failed]
@@ -1295,6 +1492,7 @@
 		es = Cover photo update failed.
 		fr = Echec lors du transfert de la photo de couverture
 		it = Impossibile caricare la foto di copertina.
+		pl = Aktualizacja zdjęcia okładki nie powiodła się
 		ru = Не удалось обновить фото на обложке
 		zh-Hans = 封面照片更新失败
 	[upload_profile_cover_failed]
@@ -1303,6 +1501,7 @@
 		es = Cover upload failed.
 		fr = Echec lors du transfert de la bannière.
 		it = Caricamento foto di copertina fallito
+		pl = Przesyłanie zdjęcia okładki nie powiodło się
 		ru = Не удалось обновить обложку
 		zh-Hans = 封图上传失败。
 	[signup_password_hint]
@@ -1311,6 +1510,7 @@
 		es = Crea una contraseña
 		fr = Mot de passe
 		it = Crea una password
+		pl = Utwórz hasło
 		ru = Создать пароль
 		zh-Hans = 创建密码
 	[tour_description_page_2]
@@ -1319,6 +1519,7 @@
 		es = Create and curate Galleries of your favourite photos
 		fr = Créez des galeries de vos photos préférées
 		it = Crea e cura Gallerie con le tue foto preferite
+		pl = Stwórz i zarządzaj galeriami Twoich ulubionych zdjęć
 		ru = Создавайте галереи из своих фотографий, или станьте куратором любых фотографий на 500px
 		zh-Hans = 用您最爱的照片整理创建画廊
 	[signup_confirm_account_creation_title]
@@ -1327,6 +1528,7 @@
 		es = Creando una cuenta
 		fr = Création de compte
 		it = Creazione account
+		pl = Tworzenie konta
 		ru = Создания аккаунта
 		zh-Hans = 创建账号
 	[curated_by]
@@ -1335,6 +1537,7 @@
 		es = Curated by %@
 		fr = Sélectionné par %@
 		it = Curata da %@
+		pl = Wybrane przez %@
 		ru = Куратор %@
 		zh-Hans = 由 %@ 精选
 	[current_password]
@@ -1343,6 +1546,7 @@
 		es = Current Password
 		fr = Mot de passe actuel
 		it = Current Password
+		pl = Aktualne hasło
 		ru = Старый пароль
 		zh-Hans = 当前密码
 	[discover_title_debut]
@@ -1351,6 +1555,7 @@
 		es = Debuts
 		fr = Debuts
 		it = Esordienti
+		pl = Debiuty
 		ru = Дебют
 		zh-Hans = 首秀
 	[delete]
@@ -1359,6 +1564,7 @@
 		es = Eliminar
 		fr = Supprimer
 		it = Elimina
+		pl = Usuń
 		ru = Удалить
 		zh-Hans = 删除
 	[delete_comment]
@@ -1367,6 +1573,7 @@
 		es = Delete comment
 		fr = Supprimer ce commentaire
 		it = Cancella commento
+		pl = Usuń komentarz
 		ru = Удалить коментарий
 		zh-Hans = 删除评论
 	[delete_gallery]
@@ -1375,6 +1582,7 @@
 		es = Delete gallery
 		fr = Supprimer la galerie
 		it = Elimina Galleria
+		pl = Usuń galerię
 		ru = Удалить галерею
 		zh-Hans = 删除画廊
 	[description]
@@ -1383,6 +1591,7 @@
 		es = Description
 		fr = Description
 		it = Descrizione
+		pl = Opis
 		ru = Описание
 		zh-Hans = 描述
 	[suggestions_deselect_all]
@@ -1391,6 +1600,7 @@
 		es = Deselect all
 		fr = Tout déselectionner
 		it = Deseleziona tutto
+		pl = Odznacz wszystkie
 		ru = Убрать все
 		zh-Hans = 清空选择
 	[details]
@@ -1399,6 +1609,7 @@
 		es = Detalles
 		fr = Détails
 		it = Dettagli
+		pl = Szczegóły
 		ru = Детали
 		zh-Hans = 详细
 	[people]
@@ -1407,6 +1618,7 @@
 		es = People
 		fr = Utilisateurs
 		it = Persone
+		pl = Ludzie
 		ru = Фотографы
 		zh-Hans = 摄影师
 	[done]
@@ -1415,6 +1627,7 @@
 		es = Listo
 		fr = Terminer
 		it = Fatto
+		pl = Gotowe
 		ru = Готово
 		zh-Hans = 完成
 	[edit]
@@ -1423,6 +1636,7 @@
 		es = Editar
 		fr = Modifier
 		it = Modifica
+		pl = Edytuj
 		ru = Изменить
 		zh-Hans = 编辑
 	[edit_gallery]
@@ -1431,6 +1645,7 @@
 		es = Edit gallery
 		fr = Modifier la galerie
 		it = Modifica Galleria
+		pl = Edytuj galerię
 		ru = Редактировать галерею
 		zh-Hans = 编辑画廊
 	[edit_profile]
@@ -1439,6 +1654,7 @@
 		es = Edit Profile
 		fr = Modifier profil
 		it = Modifica Profilo
+		pl = Edytuj profil
 		ru = Редактировать профиль
 		zh-Hans = 编辑个人信息
 	[edit_recommendations]
@@ -1447,6 +1663,7 @@
 		es = Edit Recommendations
 		fr = Modifier notre sélection
 		it = Modifica Raccomandazioni
+		pl = Edytuj rekomendacje
 		ru = Редактировать рекоммендации
 		zh-Hans = 修改选择
 	[edit_your_profile]
@@ -1455,6 +1672,7 @@
 		es = Edit your profile
 		fr = Editer votre profil
 		it = Modifica il tuo profilo
+		pl = Edytuj swój profil
 		ru = Отредактировать ваш профиль
 		zh-Hans = 编辑您的主页
 	[discover_title_editors]
@@ -1463,6 +1681,7 @@
 		es = Selección del editor
 		fr = Editors' Choice
 		it = Dalla Redazione
+		pl = Wybór redakcji
 		ru = Выбор редакции
 		zh-Hans = 编辑推荐
 	[signup_email_hint]
@@ -1471,6 +1690,7 @@
 		es = Dirección de email
 		fr = Adresse e-mail
 		it = Indirizzo e-mail
+		pl = Adres e-mail
 		ru = Емайл
 		zh-Hans = 邮箱地址
 	[quest_deadline_reached]
@@ -1479,6 +1699,7 @@
 		es = Ended
 		fr = Accompli
 		it = Terminata
+		pl = Zakończone
 		ru = Окончен
 		zh-Hans = 已结束
 	[error]
@@ -1487,6 +1708,7 @@
 		es = Error
 		fr = Erreur
 		it = Errore
+		pl = Błąd
 		ru = Ошибка
 		zh-Hans = 错误
 	[error_saving_settings]
@@ -1495,6 +1717,7 @@
 		es = Error al guardar los ajustes
 		fr = Erreur lors de l'enregistrement des réglages
 		it = Errore durante il salvataggio delle impostazioni
+		pl = Błąd podczas zapisywania ustawień
 		ru = Ошибка при сохранении настроек
 		zh-Hans = 保存设置出错
 	[facebook]
@@ -1503,6 +1726,7 @@
 		es = Facebook
 		fr = Facebook
 		it = facebook
+		pl = Facebook
 		ru = Facebook
 		zh-Hans = Facebook脸书
 	[discover_category_family]
@@ -1511,6 +1735,7 @@
 		es = Familia
 		fr = Famille
 		it = Famiglia
+		pl = Rodzina
 		ru = Семья
 		zh-Hans = 家庭
 	[discover_category_fashion]
@@ -1519,6 +1744,7 @@
 		es = Moda
 		fr = Mode
 		it = Moda
+		pl = Moda
 		ru = Мода
 		zh-Hans = 时尚
 	[fb_page]
@@ -1527,6 +1753,7 @@
 		es = Página de FB
 		fr = Page FB
 		it = Pagina FB
+		pl = Strona FB
 		ru = Facebook страница
 		zh-Hans = Facebook
 	[featured_galleries]
@@ -1535,6 +1762,7 @@
 		es = Featured Galleries
 		fr = Galeries Sélectionnées
 		it = Gallerie Scelte dalla Redazione
+		pl = Wybrane galerie
 		ru = Избранные галереи
 		zh-Hans = 推荐画廊
 	[featured_users]
@@ -1543,6 +1771,7 @@
 		es = Featured Users
 		fr = Selection d'utilisateurs
 		it = Utenti Scelti dalla Redazione
+		pl = Wybrani użytkownicy
 		ru = Популярные фотографы
 		zh-Hans = 推介用户
 	[discover_category_film]
@@ -1551,6 +1780,7 @@
 		es = Películas
 		fr = Argentique
 		it = Analogiche
+		pl = Film
 		ru = Фильм
 		zh-Hans = 电影
 	[find_people]
@@ -1559,6 +1789,7 @@
 		es = Find people
 		fr = Trouver des photographes
 		it = Trova Persone
+		pl = Znajdź osobę
 		ru = Найти фотографов
 		zh-Hans = 浏览用户
 	[find_people_to_follow]
@@ -1567,6 +1798,7 @@
 		es = Find people to follow
 		fr = Trouvez des comptes auxquels s'abonner
 		it = Trova persone da seguire
+		pl = Znajdź osoby do obserwowania
 		ru = Найти интересных фотографов
 		zh-Hans = 关注其他用户
 	[find_photo_quests_in_activities]
@@ -1575,6 +1807,7 @@
 		es = Find Photo Quests in activities
 		fr = Trouver les concours photo dans vos activités
 		it = Ora puoi trovare le Foto Quest in attivitá
+		pl = Znajdź Foto-Zadanie w aktywnościach
 		ru = Список Фото Квестов в уведомлениях
 		zh-Hans = 更多图片征集相关，尽在活动页面
 	[search_empty_view_subtitle]
@@ -1583,6 +1816,7 @@
 		es = Encuentra fotos, etiquetas, ubicaciones y personas
 		fr = Trouvez photos, tags, lieux, et photographes
 		it = Trova foto, tag, luoghi e persone
+		pl = Znajdź zdjęcia, tagi, lokalizacje i osoby
 		ru = Поиск фотографии, тегов, местности и людей
 		zh-Hans = 搜索照片、标签、地点和人
 	[discover_category_fine_art]
@@ -1591,6 +1825,7 @@
 		es = Bellas artes
 		fr = Art
 		it = Arte
+		pl = Sztuka
 		ru = Искусство
 		zh-Hans = 艺术
 	[first_name]
@@ -1599,6 +1834,7 @@
 		es = Nombre
 		fr = Prénom
 		it = Nome
+		pl = Imię
 		ru = Имя
 		zh-Hans = 名
 	[follow]
@@ -1607,6 +1843,7 @@
 		es = Seguir
 		fr = Suivre
 		it = Segui
+		pl = Obserwuj
 		ru = В друзья
 		zh-Hans = 关注
 	[suggestions_follow_all]
@@ -1615,6 +1852,7 @@
 		es = Follow and Continue
 		fr = Continuer
 		it = Segui e continua
+		pl = Obserwuj i kontynuuj
 		ru = Добавить в друзья и Продолжить
 		zh-Hans = 关注并继续
 	[follow_back]
@@ -1623,6 +1861,7 @@
 		es = Follow back
 		fr = S'abonner
 		it = Follow back
+		pl = Obserwuj
 		ru = Добавить в друзья
 		zh-Hans = 关注对方
 	[follow_more_people_message]
@@ -1631,6 +1870,7 @@
 		es = Sigue a más personas y mira sus fotos más recientes aquí.
 		fr = Suivez plus de gens et de voir leurs dernières photos ici.
 		it = Segui più persone e visualizza qui le loro foto più recenti.
+		pl = Obserwuj więcej osób i oglądaj ich najnowsze zdjęcia tutaj.
 		ru = ` Следуйте больше людей и видеть их последние фотографии здесь.`
 		zh-Hans = 关注更多用户，您将第一时间在这里看到他们的更新。
 	[welcome_home_description]
@@ -1639,6 +1879,7 @@
 		es = Sigue a tus amigos y a fotógrafos creativos para ver sus cargas más recientes aquí.
 		fr = Suivez vos amis et photographes préférés pour voir leurs dernières créations
 		it = Segui i tuoi amici e fotografi preferiti per visualizzare qui i loro caricamenti più recenti.
+		pl = Obserwów swoich znajomych i ulubionych fotografów, by oglądać ich najnowsze zdjęcia tutaj
 		ru = Следите за новыми работами ваших друзей и любимых фотографов.
 		zh-Hans = 关注你的朋友和最爱的摄影师，在这里看到他们最新上传
 	[follow_n_people]
@@ -1647,6 +1888,7 @@
 		es = %#@follow_d_people@
 		fr = %#@follow_d_people@
 		it = %#@follow_d_people@
+		pl = %#@follow_d_people@
 		ru = %#@follow_d_people@
 		zh-Hans = %#@follow_d_people@
 	[following]
@@ -1655,6 +1897,7 @@
 		es = Siguiendo
 		fr = Abonné
 		it = Seguiti
+		pl = Obserwujesz
 		ru = В друзьях
 		zh-Hans = 正在关注
 	[following_n]
@@ -1663,6 +1906,7 @@
 		es = %#@Following_d@
 		fr = %#@Following_d@
 		it = %#@Following_d@
+		pl = %#@Following_d@
 		ru = %#@Following_d@
 		zh-Hans = %#@Following_d@
 	[following_n_bold]
@@ -1671,6 +1915,7 @@
 		es = Following <strong>%@</strong>
 		fr = Abonnements <strong>%@</strong>
 		it = Following <strong>%@</strong>
+		pl = Obserwujesz <strong>%@</strong>
 		ru = Подписан(а) <strong>%@</strong>
 		zh-Hans = 关注 <strong>%@</strong>
 	[discover_category_food]
@@ -1679,6 +1924,7 @@
 		es = Comida
 		fr = Nourriture
 		it = Cibo
+		pl = Jedzenie
 		ru = Еда
 		zh-Hans = 美食
 	[login_signup_forgot_your_password]
@@ -1687,6 +1933,7 @@
 		es = ¿Olvidaste la contraseña?
 		fr = Oubli du mot de passe
 		it = Password dimenticata?
+		pl = Zapomniałeś swoje hasło?
 		ru = Забыли пароль?
 		zh-Hans = 忘记了你的密码？
 	[discover_title_fresh]
@@ -1695,6 +1942,7 @@
 		es = Reciente
 		fr = Fresh
 		it = Recenti
+		pl = Nowe
 		ru = Свежее
 		zh-Hans = 新作
 	[galleries]
@@ -1703,6 +1951,7 @@
 		es = Galleries
 		fr = Galeries
 		it = Gallerie
+		pl = Galerie
 		ru = Галереи
 		zh-Hans = 画廊
 	[get_help]
@@ -1711,6 +1960,7 @@
 		es = Get Help
 		fr = Obtenir de l'aide
 		it = Aiuto
+		pl = Pomoc
 		ru = Помощь
 		zh-Hans = 求助
 	[got_it]
@@ -1719,6 +1969,7 @@
 		es = Got it!
 		fr = OK
 		it = Capito!
+		pl = OK!
 		ru = ОК!
 		zh-Hans = 知道啦!
 	[discover_subtitle_editors]
@@ -1727,6 +1978,7 @@
 		es = Seleccionadas a mano por los fotógrafos más importantes
 		fr = Sélectionné par nos meilleurs photographes
 		it = Selezionate dai migliori fotografi
+		pl = Wybrane przez czołowych fotografów
 		ru = Подобрано ведущими фотографами
 		zh-Hans = 顶级摄影师推荐
 	[help]
@@ -1735,6 +1987,7 @@
 		es = Ayuda
 		fr = Aide
 		it = Aiuto
+		pl = Pomoc
 		ru = Помощь
 		zh-Hans = 帮助
 	[rate_dialog_title]
@@ -1743,6 +1996,7 @@
 		es = ¿Qué te parece 500px?
 		fr = Que pensez vous de 500px ?
 		it = Come ti sembra 500px?
+		pl = Jak ci się podoba 500px?
 		ru = Нравится ли вам 500px?
 		zh-Hans = 特别喜欢500px吗?
 	[i_already_have_an_account]
@@ -1751,6 +2005,7 @@
 		es = I already have an account
 		fr = J'ai déjà un compte
 		it = Ho già un account
+		pl = Już mam konto
 		ru = У меня уже есть аккаунт
 		zh-Hans = 我已经有帐户啦
 	[i_dont_like_it]
@@ -1759,6 +2014,7 @@
 		es = No me gusta
 		fr = Je ne suis pas satisfait
 		it = Non mi piace
+		pl = Nie lubię
 		ru = Не нравится
 		zh-Hans = 不喜欢。
 	[i_dont_want_to_join]
@@ -1767,6 +2023,7 @@
 		es = I don't want to join
 		fr = Je ne veux pas participer
 		it = Non voglio partecipare
+		pl = Nie chcę dołączyć
 		ru = Я не хочу
 		zh-Hans = 不想加入
 	[i_love_it]
@@ -1775,6 +2032,7 @@
 		es = ¡Me encanta!
 		fr = Je suis satisfait
 		it = Mi piace!
+		pl = Kucham!
 		ru = Очень нравится!
 		zh-Hans = 我喜欢！
 	[quest_inspiration_caps]
@@ -1783,6 +2041,7 @@
 		es = IMAGES TO INSPIRE YOU
 		fr = Des photos pour s'inspirer
 		it = PER ISPIRARTI
+		pl = INSPIRUJĄCE ZDJĘCIA
 		ru = Вдохновление
 		zh-Hans = 创作参考
 	[invalid_login_credentials]
@@ -1791,6 +2050,7 @@
 		es = Credenciales de inicio de sesión no válidas
 		fr = Identifiant/mot de passe invalide
 		it = Credenziali di accesso non valide
+		pl = Nieprawidłowe poświadczenia
 		ru = Неправильное имя пользователя или пароль
 		zh-Hans = 登录信息无效
 	[join_500px]
@@ -1799,6 +2059,7 @@
 		es = Únete a 500px
 		fr = Rejoindre 500px
 		it = Registrati su 500px
+		pl = Dołącz do 500px
 		ru = Присоединяйтесь к 500px
 		zh-Hans = 加入500px
 	[tour_description_page_3]
@@ -1807,6 +2068,7 @@
 		es = Join over 6 million inspiring photographers
 		fr = Rejoignez plus de 6 millions de photographers
 		it = Entra a far parte della community internazionale con più di 6 milioni di utenti
+		pl = Dołącz do społeczności ponad 6 milionów fotografów
 		ru = Присоединяйтесь к сообществу из 6 миллионов фотографов
 		zh-Hans = 加入超过6百万鼓舞人心的摄影师
 	[join_the_beta]
@@ -1815,6 +2077,7 @@
 		es = Join the Beta
 		fr = Rejoindre la beta
 		it = Partecipa alla Beta
+		pl = Dołącz do Beta
 		ru = Я хочу доступ к Бета
 		zh-Hans = 加入Beta
 	[discover_category_journalism]
@@ -1823,6 +2086,7 @@
 		es = Periodismo
 		fr = Journalisme
 		it = Giornalismo
+		pl = Dziennikarstwo
 		ru = Журналистика
 		zh-Hans = 新闻
 	[k]
@@ -1831,6 +2095,7 @@
 		es = K
 		fr = K
 		it = K
+		pl = K
 		ru = K
 		zh-Hans = K
 	[discover_category_landscapes]
@@ -1839,6 +2104,7 @@
 		es = Paisajes
 		fr = Paysages
 		it = Paesaggi
+		pl = Krajobraz
 		ru = Пейзажи
 		zh-Hans = 风景
 	[last_name]
@@ -1847,6 +2113,7 @@
 		es = Apellido
 		fr = Nom de famille
 		it = Cognome
+		pl = Nazwisko
 		ru = Фамилия
 		zh-Hans = 姓
 	[discover_subtitle_fresh]
@@ -1855,6 +2122,7 @@
 		es = Las fotos más recientes de la Comunidad
 		fr = Les dernières photos de la communauté
 		it = Le foto più recenti dalla community
+		pl = Najnowsze zdjęcia ze społeczności
 		ru = Свежие Фотографий Сообщества
 		zh-Hans = 社区最新照片
 	[learn_more]
@@ -1863,6 +2131,7 @@
 		es = Learn more
 		fr = En savoir plus
 		it = Scopri di più
+		pl = Dowiedz się więcej
 		ru = Узнать больше
 		zh-Hans = 了解更多
 	[onboarding_get_started_new_user_title]
@@ -1871,6 +2140,7 @@
 		es = Let's get started
 		fr = Commençons
 		it = Forza, iniziamo
+		pl = Zacznijmy
 		ru = Давайте начнем
 		zh-Hans = 现在就开始吧。
 	[load_more_comments]
@@ -1879,6 +2149,7 @@
 		es = Cargar más comentarios
 		fr = Charger plus de commentaires
 		it = Carica altri commenti
+		pl = Pokaż więcej komentarzy
 		ru = Загрузить больше комментарий
 		zh-Hans = 加载更多评论
 	[loading]
@@ -1887,6 +2158,7 @@
 		es = Cargando...
 		fr = Chargement
 		it = Caricamento...
+		pl = Ładowanie
 		ru = Загрузка
 		zh-Hans = 加载中
 	[location]
@@ -1895,6 +2167,7 @@
 		es = Ubicación
 		fr = Adresse
 		it = Località
+		pl = Lokalizacja
 		ru = Местоположение
 		zh-Hans = 地理位置
 	[log_in]
@@ -1903,6 +2176,7 @@
 		es = Iniciar sesión
 		fr = Se connecter
 		it = Accedi
+		pl = Zaloguj się
 		ru = Войти
 		zh-Hans = 登入
 	[login_with_facebook]
@@ -1911,6 +2185,7 @@
 		es = Acceder con Facebook
 		fr = Se connecter avec Facebook
 		it = Accedi a Facebook
+		pl = Zaloguj się za pomocą Facebook
 		ru = Войти с Facebook
 		zh-Hans = ` 用Facebook账号登入`
 	[log_out]
@@ -1919,6 +2194,7 @@
 		es = Cerrar sesión
 		fr = Se déconnecter
 		it = Esci
+		pl = Wyloguj
 		ru = Выйти
 		zh-Hans = 登出
 	[login_signup_error]
@@ -1927,6 +2203,7 @@
 		es = Error de Inicio de sesión/Registro
 		fr = Erreur de connexion
 		it = Errore di accesso/registrazione
+		pl = Błąd logowania/rejestracji
 		ru = Ошибка авторизации/регистрации
 		zh-Hans = 登录或注册出错
 	[login_signup_twitter_or_google_login]
@@ -1935,6 +2212,7 @@
 		es = Looking to log in with <twitter>Twitter</twitter> or <google>Google</google>?
 		fr = Se connecter avec <twitter>Twitter</twitter> ou <google>Google</google>?
 		it = Stai cercando di accedere con <twitter>Twitter</twitter> o <google>Google</google>?
+		pl = Chcesz się zalogować za pomocą konta <twitter>Twitter</twitter> lub <google>Google</google>?
 		ru = Войти с помощью <twitter>Twitter</twitter> или <google>Google</google>?
 		zh-Hans = 您在寻找如何用<twitter>Twitter</twitter>或<google>Google</google>登录吗？
 	[m]
@@ -1943,6 +2221,7 @@
 		es = M
 		fr = M
 		it = M
+		pl = M
 		ru = M
 		zh-Hans = M
 	[discover_category_macro]
@@ -1951,6 +2230,7 @@
 		es = Macro
 		fr = Macro
 		it = Macro
+		pl = Makro
 		ru = Макросъемка
 		zh-Hans = 微距
 	[make_gallery_cover_photo]
@@ -1959,6 +2239,7 @@
 		es = Make Gallery cover photo
 		fr = Utiliser en tant que photo de couverture
 		it = Inserisci come Foto di copertina
+		pl = Ustaw jako okładkę galerii
 		ru = Сделать заглавной фото галереи
 		zh-Hans = 设为画廊封面
 	[marketplace]
@@ -1967,6 +2248,7 @@
 		es = Marketplace
 		fr = Marketplace
 		it = Marketplace
+		pl = Market
 		ru = Marketplace
 		zh-Hans = Marketplace
 	[name]
@@ -1975,6 +2257,7 @@
 		es = Nombre
 		fr = Nom
 		it = Nome
+		pl = Imię
 		ru = Имя
 		zh-Hans = 名字
 	[discover_category_nature]
@@ -1983,6 +2266,7 @@
 		es = Naturaleza
 		fr = Nature
 		it = Natura
+		pl = Natura
 		ru = Природа
 		zh-Hans = 自然
 	[discover_galleries_new]
@@ -1991,6 +2275,7 @@
 		es = New
 		fr = Nouveau
 		it = Nuove
+		pl = Nowe
 		ru = Свежие
 		zh-Hans = 最新
 	[new_galleries]
@@ -1999,6 +2284,7 @@
 		es = New Galleries
 		fr = Nouvelles Galeries
 		it = Nuove Gallerie
+		pl = Nowe galerie
 		ru = Новые галереи
 		zh-Hans = 新画廊
 	[new_gallery]
@@ -2007,6 +2293,7 @@
 		es = New Gallery
 		fr = Nouvelle galerie
 		it = Nuova Galleria
+		pl = Nowa galeria
 		ru = Новая галерея
 		zh-Hans = 新画廊
 	[new_password]
@@ -2015,18 +2302,21 @@
 		es = New Password
 		fr = Saissisez votre nouveau mot de passe
 		it = New Password
+		pl = Nowe hasło
 		ru = Новый пароль
 		zh-Hans = 新密码
 	[new_photos]
 		en = New Photos
 		de = Neue Fotos
 		fr = Nouvelles photos
+		pl = Nowe zdjęcia
 	[no_followers]
 		en = No Followers
 		de = Keine Follower
 		es = No Followers
 		fr = Pas d'abonné
 		it = No Follower
+		pl = Brak obserwujących
 		ru = Нет Подписчиков
 		zh-Hans = 尚无关注者
 	[no_galleries]
@@ -2035,6 +2325,7 @@
 		es = No Galleries
 		fr = Aucune galerie
 		it = Nessuna Galleria
+		pl = Brak galerii
 		ru = Ни одной галереи
 		zh-Hans = 尚无画廊
 	[no_galleries_yet]
@@ -2043,6 +2334,7 @@
 		es = No Galleries Yet
 		fr = Aucune galerie
 		it = Nessuna Galleria
+		pl = Brak galerii
 		ru = Нет галерей
 		zh-Hans = 目前还没有画廊
 	[no_network_connection]
@@ -2051,6 +2343,7 @@
 		es = No hay conexión a internet...
 		fr = Pas de connexion internet…
 		it = Nessuna connessione internet...
+		pl = Brak połączeni z Internetem...
 		ru = Нет соединения с Интернетом…
 		zh-Hans = 没有可用的网络连接…
 	[no_notifications]
@@ -2059,6 +2352,7 @@
 		es = No hay notificaciones
 		fr = Aucune notification
 		it = Nessuna notifica
+		pl = Brak powiadomień
 		ru = Нет уведомлений
 		zh-Hans = 无通知
 	[onboarding_no_followers_found_title]
@@ -2067,6 +2361,7 @@
 		es = No se encontraron personas
 		fr = Aucun peuple trouvé
 		it = Nessuna persona trovata
+		pl = Nikogo nie znaleziono
 		ru = Не найдено ни одного человека
 		zh-Hans = 未找到用户
 	[no_photos]
@@ -2075,6 +2370,7 @@
 		es = No hay fotos
 		fr = No Photos
 		it = Nessuna foto
+		pl = Brak zdjęć
 		ru = Нет фотографии
 		zh-Hans = 尚无照片
 	[no_photos_found]
@@ -2083,6 +2379,7 @@
 		es = No se encontraron fotos
 		fr = Aucune photo trouvée
 		it = Nessuna foto trovata
+		pl = Nie znaleziono zdjęć
 		ru = Фотографии не найдены
 		zh-Hans = 没有搜索到照片
 	[no_photos_yet]
@@ -2091,6 +2388,7 @@
 		es = Aún no hay fotos
 		fr = Aucune photo
 		it = Ancora nessuna foto presente
+		pl = Brak zdjęć
 		ru = Нет фотографий
 		zh-Hans = 目前还没有图片
 	[no_twitter_accounts]
@@ -2099,6 +2397,7 @@
 		es = No hay cuentas de Twitter
 		fr = Aucun Compte Twitter
 		it = Nessun account Twitter
+		pl = Brak konta Twitter
 		ru = Нет Twitter аккаунтов
 		zh-Hans = 没有Twitter账户
 	[no_thanks]
@@ -2107,6 +2406,7 @@
 		es = No, gracias
 		fr = Non merci
 		it = No, grazie
+		pl = Nie, dzięki
 		ru = Нет, спасибо
 		zh-Hans = 不用了，谢谢。
 	[not_following_anyone]
@@ -2115,6 +2415,7 @@
 		es = Not following anyone
 		fr = Vous ne suivez personne
 		it = Nessun utente seguito
+		pl = Nikogo nie obserwujesz
 		ru = Никого в друзьях
 		zh-Hans = 尚未关注任何人
 	[not_now]
@@ -2123,6 +2424,7 @@
 		es = Ahora no
 		fr = Pas maintenant
 		it = Non adesso
+		pl = Nie teraz
 		ru = Не сейчас
 		zh-Hans = 稍后再说
 	[push_notifications_prompt_message]
