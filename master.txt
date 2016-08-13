@@ -5,6 +5,7 @@
 		de = Letztes Jahr
 		fr = L'année dernière
 		ru = год назад
+		ua = рік тому
 	[n_years_ago__other]
 		en = %d years ago
 		ios = %#@d_years@
