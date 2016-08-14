@@ -4569,172 +4569,205 @@
 		fr = {liked_by_list}, et {others_count} personnes aiment cette photo.
 		ru = {liked_by_list}, и {others_count} другим понравилось это фото.
 		zh-Hans = {liked_by_list} 和其他 {others_count} 位喜欢这张照片。
+		pl = {liked_by_list}, i {others_count} inni lubią to zdjęcie.
 	[people_like_this_photo]
 		en = {liked_count} people like this photo.
 		de = {liked_count} Personen gefällt dieses Foto.
 		fr = {liked_count} personnes aiment cette photo.
 		ru = {liked_count} людям понравилось это фото.
 		zh-Hans = {liked_count} 人喜欢这张照片。
+		pl = {liked_count} osób lubi to zdjęcie.
 	[one_person_likes_this_photo]
 		en = One person likes this photo.
 		de = 1 Person gefällt dieses Foto.
 		fr = Une personne aime cette photo.
 		ru = одному человеку понравилось это фото.
 		zh-Hans = 1位社区成员喜欢这张照片
+		pl = Jedna osoba lubi to zdjęcie.
 	[retry]
 		en = Retry
 		de = Erneut versuchen
 		fr = Réessayer
 		ru = Попробовать еще
 		zh-Hans = 重试
+		pl = Ponów
 	[reached_upload_limit]
 		en = You have reached your upload limit for the week
 		de = Du hast dein Upload-Limit der Woche erreicht.
 		fr = Votre limite de transfert hebdomadaire est atteinte.
 		ru = Исчерпан лимит на загрузку
 		zh-Hans = 你已经用完了本周的上传限额
+		pl = Osiągnięto limit przesyłania na tydzień
 	[other]
 		en = Other
 		de = Sonstige
 		fr = Autre
 		ru = Другое
 		zh-Hans = 其他
+		pl = Inni
 	[updating]
 		en = Updating
 		de = Wird aktualisiert
 		fr = Mise à jour
 		ru = Обновляем
 		zh-Hans = 更新中
+		pl = Aktualizacja
 	[remove]
 		en = Remove
 		de = Entfernen
 		fr = Supprimer
 		ru = Удалить
 		zh-Hans = 移除
+		pl = Usunąć
+		
 	[deleting]
 		en = Deleting
 		de = Wird gelöscht
 		fr = Suppression en cours
 		ru = Удаляем
 		zh-Hans = 删除中……
+		pl = Usuwanie
 	[unable_remove_photo_from_gallery]
 		en = Unable to remove photo from gallery
 		de = Das Foto kann nicht aus der Galerie entfernt werden.
 		fr = Impossible de retirer cette photo de la galerie
 		ru = Не удалось удалить фото из галереи
 		zh-Hans = 无法删除画廊中的图片
+		pl = Nie można usunąć zdjęcia z galerii
 	[remove_photo_from_gallery]
 		en = Remove photo from Gallery
 		de = Foto aus Galerie entfernen
 		fr = Retirer cette photo de la galerie
 		ru = Удалить фото из галереи
 		zh-Hans = 删除画廊中的图片
+		pl = Usuń zdjęcie z galerii
 	[set_gallery_cover_photo]
 		en = Set as Gallery cover photo
 		de = Als Cover-Foto der Galerie festlegen
 		fr = Utiliser comme bannière pour cette galerie
 		ru = Сделать обложкой галереи
 		zh-Hans = 设置为画廊封面
+		pl = Ustaw zdjęcie jako okładkę galerii
 	[update_profile_avatar_failed]
 		en = Unable to update profile picture
 		de = Das Profilbild kann nicht aktualisiert werden.
 		fr = Impossible de changer votre avatar
 		ru = Не удалось обновить ваш аватар
 		zh-Hans = 无法更新您的头像
+		pl = Nie można zaktualizować zdjęcia profilu
 	[update_gallery_cover_failed]
 		en = Unable to update Gallery cover photo
 		de = Das Cover-Foto der Galerie kann nicht aktualisiert werden.
 		fr = Impossible de mettre à jours la bannière
 		ru = Не удалось обновить обложку галереи
 		zh-Hans = 无法更新画廊封面
+		pl = Nie można zaktualizować zdjęcia jako okładki galerii
 	[cover_photo_updated]
 		en = Cover photo updated
 		de = Cover-Foto aktualisiert
 		fr = Bannière mise à jour
 		ru = Обложка обновлена
 		zh-Hans = 封面图片已更新
+		pl = Zdjęcie okładki zaktualizowane
 	[cover_photo_update_failed]
 		en = Unable to update cover photo
 		de = Das Cover-Foto kann nicht aktualisiert werden.
 		fr = Impossible de mettre à jour votre bannière
 		ru = Не удалось обновить обложку
 		zh-Hans = 无法更新封面图片
+		pl = Nie można zaktualizować zdjęcia okładki
 	[upload_your_first_photo_message]
 		en = Upload your first photo to get activity from the community
 		de = Lade dein erstes Foto hoch, um Aktivitäten von der Community zu erhalten.
 		fr = Transférez des photos et faites vous connaître par la communauté
 		ru = Загрузите несколько фотографий и будьте замеченным сообществом.
 		zh-Hans = 想得到更多关注么？上传些图片吧
+		pl = Dodaj kilka zdjęć, aby zostać zauważonym przez Społeczność
 	[photo_quest_by]
 		en = A Photo Quest by %@
 		de = Eine Foto-Quest von %@
 		fr = Un concours photo par %@
 		ru = Фото Квест %@
 		zh-Hans = 摄影作品征集 by %@
+		pl = Photo Quest przez %@
 	[read_more_about_sponsor]
 		en = Read more about %@
+		pl = Czytaj więcej o %@
 	[quest_challenge]
 		en = The challenge
 		de = Die Aufgabe
 		fr = Détails du concours
 		ru = Задание
 		zh-Hans = 挑战
+		pl = Wyzwanie
 	[quest_submissions]
 		en = Submissions
 		de = Eingereichte Fotos
 		fr = Soumissions
 		ru = Заявки
 		zh-Hans = 参赛作品
+		pl = Zgłoszenia
 	[quests_my_submissions]
 		en = My submissions
 		de = Meine eingereichten Fotos
 		fr = Mes soumissions
 		ru = Мои заявки
 		zh-Hans = 我的参赛作品
+		pl = Moje zgłoszenia
 	[quests_all_submissions]
 		en = All
 		de = Alle
 		fr = Toutes les soumissions
 		ru = Все
 		zh-Hans = 全部
+		pl = WSZYSTKO
 	[quest_inspiration]
 		en = Images to inspire you
 		de = Inspirierende Bilder
 		fr = Des photos pour s'inspirer
 		ru = Вдохновление
 		zh-Hans = 创作参考
+		PL = Zdjęcia, które Cię zainspirują
 	[quest_submission_successful]
 		en = Your photo has been submitted to %@!
 		de = Dein Foto wurde für %@ eingereicht!
 		fr = Votre photo a été soumise à %@
 		ru = Ваше фото заявлена в %@!
 		zh-Hans = 您地图片已提交至 %@!
+		pl = Twoje zdjęcie zostało zgłoszone do %@!
 	[quest_submission_failed]
 		en = Quest submission failed. Please try again
 		de = Quest-Foto nicht eingereicht. Bitte erneut versuchen.
 		fr = ` Soumission Quest a échoué. Veuillez réessayer`
 		ru = ` Представление Quest не удалось. Пожалуйста, попробуйте еще раз`
 		zh-Hans = 上传失败，请重试
+		pl = Zgłoszenie Quest nie powiodło się. Spróbuj ponownie później.
 	[quest_submitting]
 		en = Submitting to quest…
+		pl = Zgłaszanie do questa...
 	[quest_winners_header]
 		en = Winners
+		pl = Zwycięzcy
 	[quest_brief_header]
 		en = Brief
+		pl = Streszczenie
 	[quest_prize_header]
 		en = Prize
 		de = Preis
 		fr = Prix
 		ru = Приз
 		zh-Hans = 奖品
+		pl = Nagroda
 	[quest_rules_header]
 		en = Rules
 		de = Regeln
 		fr = Règles
 		ru = Правила
 		zh-Hans = 活动细则
+		pl = Zasady
 	[quest_about_sponsor_header]
 		en = About %@
+		pl = O %@
 	[quest_winners_tbd]
 		en = This Quest has ended! Check back later to see who won.
 	[quest_winners_description_single]
