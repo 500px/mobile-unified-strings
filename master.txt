@@ -3135,7 +3135,7 @@
 		it = Facci conoscere i tuoi gusti in fatto di fotografia. Noi ti aiuteremo a trovare persone da seguire in base alle tue scelte. Sicuro!
 		ru = Покажите что вам нравится и мы найдем интересных для вас людей.
 		zh-Hans = 告诉系统君您的喜好，系统君为您推介值得关注的用户。
-		pl = Powiedz nam co lubisz a my znajdziemy wspaniałych ludzi, którzy będą podobni w Twoich poczynaniach.
+		pl = Powiedz nam co lubisz a my znajdziemy wspaniałych ludzi, których możesz śledzić w oparciu o Twoje upodobania.
 	[report_confirmation_gallery]
 		en = Thank you. You have reported this gallery.
 		de = Du hast diese Galerie gemeldet. Vielen Dank!
@@ -4770,177 +4770,209 @@
 		pl = O %@
 	[quest_winners_tbd]
 		en = This Quest has ended! Check back later to see who won.
+		pl = Quest został zakończony! Sprawdź później kto wygrał.
 	[quest_winners_description_single]
 		en = Congratulations to the winning entry in this Quest!
+		pl = Gratulujemy wygranej w Quest!
 	[quest_winners_description_multiple]
 		en = Congratulations to the winning entries in this Quest!
+		pl = Gratulujemy wygranej w Quest!
 	[confirm_new_password]
 		en = Repeat new password
 		de = Neues Passwort wiederholen
 		fr = Repeat new password
 		ru = Saissisez votre nouveau mot de passe une 2ème fois
 		zh-Hans = 再次输入新密码
+		pl = Powtórz nowe hasło
 	[passwords_do_not_match]
 		en = Passwords do not match
 		de = Die Passwörter stimmen nicht überein.
 		fr = La 2ème saisie du mot de passe doit être identique
 		ru = Пароли не совпадают
 		zh-Hans = 密码不相符
+		pl = Hasła nie pasują do siebie
 	[current_password_required]
 		en = You must provide your current password
 		de = Du musst dein aktuelles Passwort eingeben.
 		fr = Vous devez fournir votre mot de passe
 		ru = Вы должны ввести ваш пароль
 		zh-Hans = 请提供你的当前密码
+		pl = Musisz podać swoje aktualne hasło
 	[password_change_successful]
 		en = Your password has been changed
 		de = Dein Passwort wurde erfolgreich geändert.
 		fr = Votre mot de passe a été modifié
 		ru = Ваш пароль обновлен
 		zh-Hans = 您的密码已更换
+		pl = Twoje hasło zostało zmienione
 	[password_change_failed]
 		en = Unable to change your password
 		de = Dein Passwort kann nicht geändert werden.
 		fr = Erreur lors du changement du mot de passe
 		ru = Не удалось обновить ваш пароль
 		zh-Hans = 无法更换您的密码
+		pl = Nie można zmienić hasła
 	[suggestions_title]
 		en = Suggestions for you
 		de = Empfehlungen für dich
 		fr = Suggestions personnalisées
 		ru = Наши рекомендации
 		zh-Hans = 为您推介
+		pl = Propozycje dla Ciebie
 	[suggestions_description]
 		en = Based on your choices, here are some suggestions for you. We recommend following them all!
 		de = Hier haben wir einige Empfehlungen entsprechend deiner Auswahl für dich. Du kannst all diesen Personen folgen.
 		fr = Choisissez les photographes auxquels vous souhaitez vous abonner
 		ru = Следуя тому, что вы нам указали, вот наши рекомендации. Мы рекомендуем вам добавить всех в друзья.
 		zh-Hans = 根据您的选择，我们为您特别定制了如下推介。关注全部，首页内容更丰富！
+		pl = W oparciu o Twoje wybory, oto kilka wskazówek. Zalecamy śledzić wszystkie na raz!
 	[suggestions_ready_title]
 		en = We’ve found you some amazing photographers.
 		de = Wir haben tolle Fotografen für dich gefunden.
 		fr = Nous avons trouvé des photographes fantastiques
 		ru = Мы нашли интересных для вас фотографов.
 		zh-Hans = 我们为您找到了一些有趣的用户
+		pl = Odkryliśmy dla Ciebie kilku niesamowitych fotografów.
 	[suggestions_ready_edit_list]
 		en = Edit Recommendations
 		de = Empfehlungen bearbeiten
 		fr = Modifier notre sélection
 		ru = Редактировать рекоммендации
 		zh-Hans = 修改选择
+		pl = Edycja rekomendacji
+		
 	[onboarding_build_home_feed_title]
 		en = Let's build your home feed
 		de = Erstellen wir jetzt deinen Startseiten-Feed!
 		fr = C'est parti!
 		ru = Давайти создадим вашу домашнюю ленту
 		zh-Hans = 开始定制您的首页吧。
+		pl = Zbudujmy Twoją stronę startową
 	[onboarding_build_feed_description]
 		en = What style of photography do you like?
 		de = Welcher Fotografie-Stil gefällt dir?
 		fr = Dites nous quelles photos vous aimez
 		ru = Какой стиль фотографии вам по душе?
 		zh-Hans = 您喜爱哪一类摄影作品？
+		pl = Jaki styl fotografii lubisz?
 	[onboarding_build_feed_pages]
 		en = What do you like? We'll help you find great people to follow based on your choices here.
 		de = Was gefällt dir? Wenn du uns deine Interessen verrätst, werden wir dir helfen, gute Fotografen zu finden.
 		fr = Dites nous quelles photos vous aimez et nous trouverons des photographes fantastiques auxquels vous abonner
 		ru = Что вам нравится? Мы поможем вам найти фотографов удовлетворяющих ваш вкус.
 		zh-Hans = 您会被怎样的摄影作品吸引？我们将根据您的喜好为您推介值得关注的优质用户。
+		pl = Co lubisz? Pomożemy Ci znaleźć wspaniałych ludzi, których możesz śledzić w oparciu o Twoje upodobania.
 	[onboarding_category_progress]
 		en = %d of %d
 		de = %1$d von %2$d
 		fr = %d sur %d
 		ru = %d из %d
 		zh-Hans = %d ／ %d
+		pl = %d z %d
 	[onboarding_no_followers_found_message]
 		en = We didn't find any matches for you. Choose other categories to find more results.
 		de = Wir konnten keine passenden Ergebnisse für dich finden. Bitte versuche es mit anderen Kategorien.
 		fr = Nous ne avons trouvé aucun match pour vous. Choisissez d'autres catégories pour trouver plus de résultats.
 		ru = Мы не нашли никаких совпадений для вас. Выберите другие категории , чтобы найти больше результатов.
 		zh-Hans = 很抱歉，我们未能找到匹配的用户。请尝试选择更多摄影主题。
+		pl = Nie znaleźliśmy żadnych wyników dla Ciebie. Wybierz inne kategorie, aby znaleźć więcej wyników.
 	[onboarding_get_started_existing_user_title]
 		en = Welcome back
 		de = Willkommen zurück
 		fr = Bienvenue
 		ru = Добро пожаловать
 		zh-Hans = 欢迎回来
+		pl = Witamy ponownie
 	[lets_go]
 		en = Let's go!
 		de = Los geht's!
 		fr = C'est parti!
 		ru = Начнем!
 		zh-Hans = 开始吧！
+		pl = Chodźmy!
 	[unable_to_open_preview]
 		en = Unable to open preview
+		pl = Nie można otworzyć podglądu
 	[your_500px_photos]
 		en = Your 500px photos
+		pl = Twoje zdjęcia na 500px
 	[activity_action_13]
 		en = ``<a href="/item"><b>{item}</b></a> is now following you!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt ihr Fan!``
 		fr = ``<a href="/item"><b>{item}</b></a> s'est abonné!``
 		ru = ``<a href="/item"><b>{item}</b></a> добавил вас в друзья!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 关注你啦！``
+		pl = ``<a href="/item"><b>{item}</b></a> obserwuje Cię!``
 	[activity_action_30]
 		en = ``<a href="/item"><b>{item}</b></a> made it to Upcoming!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Upcoming!``
 		fr = ``Votre photo <a href="/item"><b>{item}</b></a> est Upcoming!``
 		ru = ``<a href="/item"><b>{item}</b></a> в разделе Интересное!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 进入排名上升！``
+		pl = ``<a href="/item"><b>{item}</b></a> przekazany jako Upcoming!``
 	[activity_action_31]
 		en = ``<a href="/item"><b>{item}</b></a> made it to Popular!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Popular!``
 		fr = ``Votre photo <a href="/item"><b>{item}</b></a> est Populaire!``
 		ru = ``<a href="/item"><b>{item}</b></a> в разделе Популярные!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 成为了热门！``
+		pl = ``<a href="/item"><b>{item}</b></a> przekazany jako Popular!``
 	[activity_action_8]
 		en = ``<a href="/item"><b>{item}</b></a> made it to Editor\'s Choice!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Editor\'s Choice!``
 		fr = ``Votre photo <a href="/item"><b>{item}</b></a> a été sélectionnée pour Editors\' Choice !``
 		ru = ``<a href="/item"><b>{item}</b></a> в разделе Выбор редакции!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 进入了编辑精选！``
+		pl = ``<a href="/item"><b>{item}</b></a> przekazany jako Editor\'s Choice!``
 	[activity_action_302]
 		en = ``Your gallery <a href="/item"><b>{item}</b></a> has been featured!``
 		de = ``Deine Galerie <a href="/item"><b>{item}</b></a> wird jetzt vorgestellt!``
 		fr = ``Votre galerie <a href="/item"><b>{item}</b></a> a été sélectionnée par nos éditeurs!``
 		ru = ``Ваша галерея <a href="/item"><b>{item}</b></a> в разделе Популярные!``
 		zh-Hans = ``你的画廊 <a href="/item"><b>{item}</b></a> 进入了编辑精选！``
+		pl = ``Twoja galeria <a href="/item"><b>{item}</b></a> została wyróżniona!``
 	[activity_action_verb_commented_on]
 		en = commented on
 		de = ``hat <a href="/item"><b>{item}</b></a> kommentiert``
 		fr = commenté sur
 		ru = прокоментировал
 		zh-Hans = 评论了
+		pl = skomentował
 	[activity_action_verb_liked]
 		en = liked
 		de = gefällt
 		fr = a aimé
 		ru = понравилось
 		zh-Hans = 喜欢了
+		pl = polubił
 	[activity_action_301]
 		en = ``<a href="/user"><b>{user}</b></a> added {photo_name} to <a href="/item"><b>{item}</b></a>``
 		de = ``<a href="/user"><b>{user}</b></a> hat {photo_name} zu <a href="/item"><b>{item}</b></a>``
 		fr = ``<a href="/user"><b>{user}</b></a> a ajouté {photo_name} à <a href="/item"><b>{item}</b></a>``
 		ru = ``<a href="/user"><b>{user}</b></a> добавил {photo_name} в <a href="/item"><b>{item}</b></a>``
 		zh-Hans = ``<a href="/user"><b>{user}</b></a> 添加了 {photo_name} 到 <a href="/item"><b>{item}</b></a>``
+		pl = ``<a href="/user"><b>{user}</b></a> dodał {photo_name} do <a href="/item"><b>{item}</b></a>``
 	[activity_action]
 		en = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		de = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		fr = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		ru = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		zh-Hans = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
+		pl = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 	[activity_comments]
 		en = {comment_count} comments
 		de = {comment_count} kommentare
 		fr = {comment_count} commentaires
 		ru = {comment_count} коментов
 		zh-Hans = {comment_count} 条评论
+		pl = {comment_count} komentarzy
 	[activity_peoples]
 		en = {user_count} people
 		de = {user_count} personen
 		fr = {user_count} utilisateurs
 		ru = {user_count} подписчиков
 		zh-Hans = {user_count} 位摄影师
-		pl = {user_count} użytkowników
+		pl = {user_count} osób
 	[activity_photos]
 		en = {photo_count} photos
 		de = {photo_count} fotos
@@ -4953,6 +4985,7 @@
 		pl = ``Nowy Photo Quest! Dodaj nowe zdjęcia do <a href="/item"><b>{item}</b></a>``
 	[activity_quest_non_winners_selected]
 		en = ``Winners have been selected for the Photo Quest <a href="/item"><b>{item}</b></a>``
+		pl = ``Zwycięzcy zostali wybrani do Photo Quest <a href="/item"><b>{item}</b></a>``
 	[activity_quest_winners_selected]
 		en = ``Congratulations! Your photo was selected as a winner of <a href="/item"><b>{item}</b></a>``
-		pl = ``Gratulacje! Twoje zdjęcie zostało wybrane jako wygrana<a href="/item"><b>{item}</b></a>``
+		pl = ``Gratulacje! Twoje zdjęcie zostało wybrane jako wygrana w<a href="/item"><b>{item}</b></a>``
