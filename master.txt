@@ -88,6 +88,7 @@
 	[n_days_ago__few]
 		ios = %#@d_days@
 		ru = %d дня назад
+		pl = %d dni temu
 
 [[n_hours_ago]]
 	[n_hours_ago__one]
@@ -190,6 +191,7 @@
 	[n_comments__many]
 		ios = %#@d_comments@
 		ru = %d комментариев
+		pl = %d komentarzy
 
 [[n_people_liked_this_photo]]
 	[n_people_liked_this_photo__zero]
@@ -230,12 +232,13 @@
 		it = ` hanno messo "Mi piace" a questo elemento`
 		ru = ` понравилось это`
 		zh-Hans = ` 喜欢了此照片`
-		pl = polubiłem
+		pl = ` polubiłem`
 	[user_liked_this__one]
 		ios = %#@d_liked_this@
 		es = ` le dio 'Me gusta' a esto`
 		fr = ` a aimé`
 		it = ` ha messo "Mi piace" a questo elemento`
+		pl = ` polubiłem`
 
 [[n_followers]]
 	[n_followers__one]
@@ -260,6 +263,7 @@
 	[n_followers__few]
 		ios = %#@d_Followers@
 		ru = %d Подписчика
+		pl = %d obserwujących
 	[n_followers__zero]
 		ios = %#@d_Followers@
 		zh-Hans = 尚无关注者
@@ -275,6 +279,7 @@
 		it = Following %d
 		ru = Подписан(а) на %d
 		zh-Hans = 关注%d位
+		pl = Following %d
 	[following_n__one]
 		ios = %#@Following_d@
 		es = Siguiendo a %d
@@ -359,6 +364,7 @@
 	[n_days_left__few]
 		ios = %#@d_days_left@
 		ru = Осталось %d дня
+		pl = %d dni pozostało
 
 [[n_hours_left]]
 	[n_hours_left__one]
@@ -380,7 +386,7 @@
 	[n_hours_left__few]
 		ios = %#@d_hours_left@
 		ru = Осталось %d часа
-		pl = %d godziny pozostały
+		pl = %d godziny pozostało
 
 [[n_minutes_left]]
 	[n_minutes_left__one]
@@ -424,6 +430,7 @@
 	[n_seconds_left__few]
 		ios = %#@d_seconds_left@
 		ru = Осталось %d секунды
+		pl = %d sekundy pozostało
 
 [[n_active_photo_quests_bold]]
 	[n_active_photo_quests_bold__zero]
