@@ -2343,7 +2343,7 @@
 		es = No hay conexión a internet...
 		fr = Pas de connexion internet…
 		it = Nessuna connessione internet...
-		pl = Brak połączeni z Internetem...
+		pl = Brak połączenia z Internetem...
 		ru = Нет соединения с Интернетом…
 		zh-Hans = 没有可用的网络连接…
 	[no_notifications]
@@ -2433,6 +2433,7 @@
 		es = Notifications may include alerts, sounds and icon badges. These can be configured in Settings.
 		fr = Les notifications peuvent inclure des alerts, sons et badges. Vous pouvez les configurer dans Réglages
 		it = ` Le notifiche possono includere avvisi, suoni e badge icone. Possono essere configurate nelle Impostazioni.`
+		pl = Powiadomienia mogą stanowić ostrzeżenia, dźwięki i ikony. Można je zmienić w Ustawieniach.
 		ru = Уведомления могут быть предупреждениями, звуками и другими компонентами. Их можно поменять в настройках
 		zh-Hans = 推送方式包含标记、声音及横幅。您可以在设置中编辑推送方式。
 	[notify_me]
@@ -2441,6 +2442,7 @@
 		es = Notificarme
 		fr = Notifiez-moi
 		it = Inviami notifiche
+		pl = Powiadom mnie
 		ru = Оповестить меня
 		zh-Hans = 请通知我
 	[discover_category_nude]
@@ -2449,6 +2451,7 @@
 		es = Desnudos
 		fr = Nu
 		it = Nudo
+		pl = Akt
 		ru = Ню
 		zh-Hans = 人体
 	[report_offensive]
@@ -2457,6 +2460,7 @@
 		es = Ofensivo (grosero, obsceno)
 		fr = Offensant (grossier, obscène)
 		it = Offensiva (volgare, oscena)
+		pl = Obraźliwe (wulgarne, obsceniczne)
 		ru = Оскорбительное (грубое, непристойное)
 		zh-Hans = 暴力（粗鲁或淫秽）
 	[report_offtopic]
@@ -2465,6 +2469,7 @@
 		es = Fuera de contexto (provocador)
 		fr = Hors-Sujet
 		it = Off topic (troll)
+		pl = Nie na temat (troll)
 		ru = Оффтопик (троллинг)
 		zh-Hans = 标题不符（有欺骗性）
 	[ok]
@@ -2473,6 +2478,7 @@
 		es = OK
 		fr = Ok
 		it = OK
+		pl = OK
 		ru = OK
 		zh-Hans = 确认
 	[maybe_later]
@@ -2481,6 +2487,7 @@
 		es = Maybe later
 		fr = Plus tard
 		it = Non ora
+		pl = Może później
 		ru = Не сейчас
 		zh-Hans = 稍后再说
 	[onboarding_error_description]
@@ -2489,6 +2496,7 @@
 		es = Check your internet connection and try again later
 		fr = Veuillez vérifier votre connexion et réessayez.
 		it = Controlla la tua connessione e riprova
+		pl = Sprawdź swoje połączenie z Internetem i spróbuj ponownie
 		ru = Проверьте соединение с интернетом и попробуйте еще раз
 		zh-Hans = 请检查您的网络连接，并稍后重试
 	[onboarding_error_title]
@@ -2497,6 +2505,7 @@
 		es = Unable to connect to the internet
 		fr = Impossible de se connecter
 		it = Impossibile connettersi ad Internet
+		pl = Problem z połączeniem do Internetu
 		ru = Нет соединения с интернетом...
 		zh-Hans = 网络无法连接
 	[onboarding_loading_feed_text]
@@ -2505,6 +2514,7 @@
 		es = Please stand by
 		fr = Veuillez patienter.
 		it = Attendi per favore
+		pl = Proszę czekać.
 		ru = Пожалуйста, ожидайте.
 		zh-Hans = 请稍后
 	[onboarding_loading_feed_title]
@@ -2513,6 +2523,7 @@
 		es = Beautiful photos coming your way!
 		fr = De magnifiques photos arrivent!
 		it = `Stiamo caricando fantastiche foto! `
+		pl = Wspaniałe zdjęcia zmierzają w Twoją stronę!
 		ru = Отличные фотографии загружаются в вашу ленту!
 		zh-Hans = 正在载入图片
 	[onboarding_restart_button]
@@ -2521,6 +2532,7 @@
 		es = Try again
 		fr = Réessayer
 		it = `Prova di nuovo `
+		pl = Spróbuj ponownie
 		ru = Попробуй еще раз
 		zh-Hans = 请重试
 	[onboarding_user_list_title]
@@ -2529,6 +2541,7 @@
 		es = Browse and choose who you want to follow.
 		fr = Choisissez les photographes auxquels vous souhaitez vous abonner
 		it = Dai un occhiata e scegli chi vuoi seguire - Scegli chi apparirà nella tua pagina principale. Ti consigliamo di selezionare tutti!
+		pl = Przejrzyj i wybierz kogo chcesz obserwować.
 		ru = Просмотрите и выберите интересных для вас фотографов. Рекомендуем подписаться на всех!
 		zh-Hans = 请选择您的关注对象－－他们的作品将出现在您的动态更新首页。系统君建议您全选！
 	[suggestions_select_all]
@@ -2537,6 +2550,7 @@
 		es = Select all
 		fr = Tout sélectionner
 		it = Seleziona tutto
+		pl = Zaznacz wszystko
 		ru = Выделить все
 		zh-Hans = 全选
 	[or]
@@ -2545,6 +2559,7 @@
 		es = o
 		fr = ou
 		it = oppure
+		pl = lub
 		ru = или
 		zh-Hans = 或者
 	[login_password_hint]
@@ -2553,6 +2568,7 @@
 		es = Contraseña
 		fr = Mot de passe
 		it = Password
+		pl = Hasło
 		ru = Пароль
 		zh-Hans = 密码
 	[signup_password_too_short]
@@ -2561,6 +2577,7 @@
 		es = Las contraseñas deben contener al menos 6 caracteres
 		fr = Votre de passe doit contenir au moins 6 caractères
 		it = Le password devono essere lunghe almeno 6 caratteri
+		pl = Hasło musi zawierać co najmniej 6 znaków
 		ru = Пароль должен быть как минимум 6 знаков
 		zh-Hans = 密码至少为6个字符
 	[discover_category_people]
@@ -2569,6 +2586,7 @@
 		es = Personas
 		fr = Portrait
 		it = Persone
+		pl = Ludzie
 		ru = Портреты
 		zh-Hans = 人物
 	[discover_category_performing_arts]
@@ -2577,6 +2595,7 @@
 		es = Artes escénicas
 		fr = Spectacle
 		it = Spettacolo
+		pl = Sztuki teatralne
 		ru = Представление
 		zh-Hans = 表演艺术
 	[photo]
@@ -2585,6 +2604,7 @@
 		es = foto
 		fr = photo
 		it = foto
+		pl = zdjęcie
 		ru = фото
 		zh-Hans = 照片
 	[photo_added_to]
@@ -2593,6 +2613,7 @@
 		es = Photo added to %@
 		fr = Photo ajouté dans %@
 		it = Foto aggiunte a %@
+		pl = Zdjęcie dodane do %@
 		ru = Фото добавлено в %@
 		zh-Hans = 照片添加到了 %@
 	[photo_has_been_submitted_to_quest]
@@ -2601,6 +2622,7 @@
 		es = Photo has been submitted to a Photo Quest
 		fr = Participation au concours enregistrée
 		it = La foto è stata caricata nella Quest
+		pl = Zdjęcie zostało dodane do Foto-Zadania
 		ru = Фотография заявлена на Фото Квест
 		zh-Hans = 图片已上传至摄影征集令
 	[photos]
@@ -2609,6 +2631,7 @@
 		es = Fotos
 		fr = Photos
 		it = Foto
+		pl = Zdjęcia
 		ru = Фотографии
 		zh-Hans = 照片
 	[photos_by]
@@ -2617,6 +2640,7 @@
 		es = Photos by %@
 		fr = Photos par %@
 		it = Fotografie di %@
+		pl = Zdjęcia autorstwa %@
 		ru = Автор фото %@
 		zh-Hans = ` %@的照片`
 	[photos_tagged_with]
@@ -2625,6 +2649,7 @@
 		es = Fotos etiquetadas con "%@"
 		fr = Photos contenant le mot clé "%@"
 		it = Foto taggate come "%@"
+		pl = Zdjęcia z tagiem "%@"
 		ru = Фото с тэгом "%@"
 		zh-Hans = 带 "%@"标签的照片
 	[please_enter_current_password]
@@ -2633,6 +2658,7 @@
 		es = Please enter your current password.
 		fr = Veuillez renseigner votre mot de passe actuel.
 		it = Please enter your current password.
+		pl = Wpisz aktualne hasło.
 		ru = Введите ваш старый пароль.
 		zh-Hans = 请输入您当前的密码。
 	[rate_dialog_message]
@@ -2641,6 +2667,7 @@
 		es = Haznos saber qué te parece la aplicación 500px. No te llevará más de un minuto. ¡Gracias por tu apoyo!
 		fr = Partager vos impressions sur l'application. Cela ne prendra que quelques minutes. \n\nMerci pour votre soutien !
 		it = Facci sapere che cosa ne pensi dell'app 500px. Impiegherai meno di un minuto. Grazie per il tuo supporto!
+		pl = Podziel się z nami opinią na temat naszej aplikacji. To potrwa tylko chwilę.\n\nDzięki za wsparcie!
 		ru = Поделитесь вашим мнением по нашему приложению. Это займет не больше минуты. Спасибо за вашу поддержку!
 		zh-Hans = 请告诉我们你觉得500px怎么样？不会超过一分钟的。\n\感谢您的支持!
 	[register_notifications_failed_message]
@@ -2649,6 +2676,7 @@
 		es = Asegúrate de que apruebas a 500px en Ajustes/Notificaciones.
 		fr = Assurez-vous que 500px est autorisé dans Réglages/Notifications.
 		it = Controlla di aver autorizzato 500px nelle Impostazioni/Notifiche.
+		pl = Upewnij się, że zatwierdziłeś 500px w Ustawienia/Powiadomienia.
 		ru = Пожалуйста, убедитесь, что вы одобряете 500px в Настройки/Уведомления.
 		zh-Hans = 请在 系统设置/通知 下授权500px。
 	[please_add_twitter_account]
@@ -2657,6 +2685,7 @@
 		es = Abre los Ajustes y agrega una cuenta de Twitter.
 		fr = Ouvrez les réglages et ajoutez un compte Twitter.
 		it = Apri le Impostazioni e aggiungi un account Twitter.
+		pl = Przejdź do Ustawień i dodaj konto Twitter.
 		ru = Пожалуйста отройте настройки и добавьте Twitter аккаунт.
 		zh-Hans = 请打开 设置 并添加Twitter账户。
 	[discover_title_popular]
@@ -2665,6 +2694,7 @@
 		es = Populares
 		fr = Popular
 		it = Popolari
+		pl = Popularne
 		ru = Популярное
 		zh-Hans = 热门
 	[discover_galleries_trending_subtitle]
@@ -2673,6 +2703,7 @@
 		es = Popular right now
 		fr = Le meilleur du moment
 		it = Popolari in questo preciso momento
+		pl = Aktualnie popularne galerie
 		ru = Популярные галереи на данный момент
 		zh-Hans = 热门画廊
 	[private_title]
@@ -2681,6 +2712,7 @@
 		es = Private
 		fr = Privé
 		it = Privata
+		pl = Prywatne
 		ru = Личный
 		zh-Hans = 隐私
 	[quest_prize_header_caps]
@@ -2689,6 +2721,7 @@
 		es = PRIZE
 		fr = PRIX
 		it = PREMI
+		pl = NAGRODA
 		ru = ПРИЗ
 		zh-Hans = 奖品
 	[discover_subtitle_upcoming]
@@ -2697,6 +2730,7 @@
 		es = Nuevas cargas con potencial
 		fr = Nouvelles photos prometteuses
 		it = Nuovi scatti che promettono bene
+		pl = Obiecujące nowe prace
 		ru = Перспективные Новые Работы
 		zh-Hans = 有潜力的最新上传
 	[pulse]
@@ -2705,6 +2739,7 @@
 		es = Pulse
 		fr = Pulse
 		it = Pulse
+		pl = Puls
 		ru = Пульс
 		zh-Hans = 脉动
 	[push_notifications]
@@ -2713,6 +2748,7 @@
 		es = Notificaciones Push
 		fr = Push Notifications
 		it = Notifiche Push
+		pl = Powiadomienia Push
 		ru = Push-уведомления
 		zh-Hans = 推送通知
 	[quests_title]
@@ -2721,6 +2757,7 @@
 		es = Quests
 		fr = Concours photo
 		it = Quest
+		pl = Zadania
 		ru = КвестыКвесты
 		zh-Hans = 征集
 	[rate_500px_on_app_store]
@@ -2729,6 +2766,7 @@
 		es = Califica a 500px en la App Store
 		fr = Donnez votre avis sur l'App Store
 		it = Valuta 500px su App Store
+		pl = Oceń 500px w App Store
 		ru = Оценить 500px в App Store
 		zh-Hans = 在 App Store 给500px评分
 	[login_signup_terms_of_service_bold]
@@ -2737,6 +2775,7 @@
 		es = Read our <strong>Terms of Service</strong>
 		fr = Lire nos <strong>Termes d'Utilisation</strong>
 		it = Leggi i <strong>Termini del Servizio</strong>
+		pl = Przeczytaj nasze <strong>Warunki użytkowania</strong>
 		ru = Прочитать <strong>Условия использования</strong>
 		zh-Hans = 阅读我们的 <strong>服务协议</strong>
 	[recent_caps]
@@ -2745,6 +2784,7 @@
 		es = RECENT
 		fr = RÉCENTES
 		it = RECENTI
+		pl = NOWE
 		ru = СВЕЖИЕ
 		zh-Hans = 最新
 	[recommended_photo]
@@ -2753,6 +2793,7 @@
 		es = Foto recomendada
 		fr = Photo recommandée
 		it = Foto consigliate
+		pl = Zdjęcie polecane
 		ru = Рекомендованное Фото
 		zh-Hans = 被推荐的照片
 	[remove_from_gallery]
@@ -2761,6 +2802,7 @@
 		es = Remove from Gallery
 		fr = Retirer de la galerie
 		it = Rimuovi Galleria
+		pl = Usuń z galerii
 		ru = Убрать из галереи
 		zh-Hans = 移出画廊
 	[reply]
@@ -2769,6 +2811,7 @@
 		es = Reply
 		fr = Répondre
 		it = Reply
+		pl = Odpowiedź
 		ru = Ответить
 		zh-Hans = 回复
 	[reply_to_user]
@@ -2777,6 +2820,7 @@
 		es = Responder a %@
 		fr = Répondre à %@
 		it = Rispondi a %@
+		pl = Odpowiedź do %@
 		ru = Ответить %@
 		zh-Hans = 回复 %@
 	[report]
@@ -2785,6 +2829,7 @@
 		es = Report
 		fr = Signaler
 		it = Segnala
+		pl = Raport
 		ru = Пожаловаться
 		zh-Hans = 举报
 	[report_gallery_as]
@@ -2793,6 +2838,7 @@
 		es = Report this gallery as
 		fr = Signaler cette galerie comme :
 		it = Segnala questa Galleria come
+		pl = Zgłoś tę galerię jako
 		ru = Пожаловаться об этой галереи
 		zh-Hans = 举报此画廊的原因为
 	[report_this_photo]
@@ -2801,6 +2847,7 @@
 		es = Denunciar esta foto
 		fr = Signaler cette photo
 		it = Segnala questa foto
+		pl = Zgłoś te zdjęcie
 		ru = Пожаловаться
 		zh-Hans = 举报此照片
 	[report_this_photo_as]
@@ -2809,6 +2856,7 @@
 		es = Report this photo as
 		fr = Signaler cette photo
 		it = Segnala questa foto come
+		pl = Zgłoś te zdjęcie jako
 		ru = Пожаловаться
 		zh-Hans = 举报此照片的原因为
 	[report_this_user]
@@ -2817,6 +2865,7 @@
 		es = Report this user
 		fr = Signaler cet utilisateur
 		it = Segnala questo utente
+		pl = Zgłoś tę osobę
 		ru = Пожаловаться
 		zh-Hans = 举报此用户
 	[report_this_user_as]
@@ -2825,6 +2874,7 @@
 		es = Report this user as
 		fr = Signaler cet utilisateur
 		it = Segnala questo utente come
+		pl = Zgłoś tę osobę jako
 		ru = Пожаловаться
 		zh-Hans = 举报此用户的原因为
 	[quest_rules_header_caps]
@@ -2833,6 +2883,7 @@
 		es = RULES
 		fr = RÈGLES
 		it = REGOLE
+		pl = ZASADY
 		ru = ПРАВИЛА
 		zh-Hans = 活动细则
 	[save]
@@ -2841,6 +2892,7 @@
 		es = Save
 		fr = Enregistrer
 		it = Salva
+		pl = Zapisz
 		ru = Сохранить
 		zh-Hans = 保存
 	[search]
@@ -2849,6 +2901,7 @@
 		es = Search
 		fr = Recherche
 		it = Cerca
+		pl = Szukaj
 		ru = Поиск
 		zh-Hans = 搜索
 	[search_hint]
@@ -2857,6 +2910,7 @@
 		es = Buscar en 500px
 		fr = Rechercher 500px
 		it = Cerca su 500px
+		pl = Szukaj w 500px
 		ru = Поиск 500px
 		zh-Hans = 搜索500px
 	[see_all]
@@ -2865,6 +2919,7 @@
 		es = See all
 		fr = voir plus
 		it = Vedi tutte
+		pl = Wszystkie
 		ru = Все
 		zh-Hans = 全部
 	[send_us_your_ideas]
@@ -2873,6 +2928,7 @@
 		es = Envíanos tus ideas
 		fr = Envoyez nous vos suggestions
 		it = Inviaci le tue opinioni
+		pl = Podziel się z nami swoimi pomysłami
 		ru = Поделитесь вашими идеями
 		zh-Hans = 请告诉我们您的想法
 	[set_as_cover]
@@ -2881,6 +2937,7 @@
 		es = Set as Cover
 		fr = Utiliser comme bannière
 		it = Foto di Copertina
+		pl = Ustaw jako okładkę
 		ru = Сделать обложкой
 		zh-Hans = 设置为封面
 	[action_settings]
@@ -2889,6 +2946,7 @@
 		es = Ajustes
 		fr = Réglages
 		it = Impostazioni
+		pl = Ustawienia
 		ru = Настройки
 		zh-Hans = 设置
 	[share]
@@ -2897,6 +2955,7 @@
 		es = Compartir
 		fr = Partager
 		it = Condividi
+		pl = Udostępnij
 		ru = Поделиться
 		zh-Hans = 分享
 	[share_this_photo]
@@ -2905,6 +2964,7 @@
 		es = Comparte esta foto
 		fr = Partagez cette photo
 		it = Condividi questa foto
+		pl = Udostępnij te zdjęcie
 		ru = Поделиться этой фото
 		zh-Hans = 分享这张照片
 	[tour_description_page_1]
@@ -2913,6 +2973,7 @@
 		es = Share your best photos with the community
 		fr = Partager vos meilleures photos avec la communauté
 		it = Condiviti le tue migliori foto con la community
+		pl = Podziel się swoimi najlepszymi zdjęciami z naszą społecznością
 		ru = Загрузите несколько фотографий или проявите инициативу добавив людей в друзья.
 		zh-Hans = 与社区分享您的最佳照片
 	[sign_up]
@@ -2921,6 +2982,7 @@
 		es = Registrarse
 		fr = Inscription
 		it = Registrati
+		pl = Zapisz się
 		ru = Подписаться
 		zh-Hans = 注册
 	[signup_with_facebook]
@@ -2929,6 +2991,7 @@
 		es = Registrarse con Facebook
 		fr = Inscription avec Facebook
 		it = Registrati con Facebook
+		pl = Zapisz się za pomocą konta Facebook
 		ru = Подписаться с Facebook
 		zh-Hans = 用Facebook账号注册
 	[skip]
@@ -2937,6 +3000,7 @@
 		es = Skip
 		fr = Passer
 		it = Salta
+		pl = Pomiń
 		ru = Пропустить
 		zh-Hans = 跳过
 	[smart_albums]
@@ -2945,6 +3009,7 @@
 		es = Smart Albums
 		fr = Albums Intelligents
 		it = Smart Albums
+		pl = Sprytne Albumy
 		ru = Cмарт-альбомы
 		zh-Hans = Smart Albums
 	[error_incorrect_password_message]
@@ -2953,6 +3018,7 @@
 		es = Something wrong happened, please make sure your current password is correct!
 		fr = Assurez vous que votre mot de passe actuel est correct.
 		it = Something wrong happened, please make sure your current password is correct!
+		pl = Wystąpił błąd. Upewnij się, że wpisujesz poprawne hasło!
 		ru = Произошла ошибка, убедитесь что вы ввели правильный пароль!
 		zh-Hans = 出错。请确认当前密码是正确的。
 	[report_spam]
@@ -2961,6 +3027,7 @@
 		es = Spam (anuncios, autopromoción)
 		fr = Spam/Publicités
 		it = Spam (pubblicità, autopromozione)
+		pl = Spam (reklamy, autopromocja)
 		ru = Спам (объявления, самореклама)
 		zh-Hans = 垃圾（广告或推销）
 	[quest_sponsored_by]
@@ -2969,6 +3036,7 @@
 		es = Sponsored by %@
 		fr = Avec la participation de %@
 		it = Sponsorizzata da %@
+		pl = Sponsorowane przez %@
 		ru = Спонсор %@
 		zh-Hans = 赞助 by %@
 	[quest_sponsored_by_newline]
@@ -2977,6 +3045,7 @@
 		es = Sponsored by \n%@
 		fr = Avec la participation de \n%@
 		it = Sponsorizzato da \n%@
+		pl = Sponsorowane przez \n%@
 		ru = Спонсор \n%@
 		zh-Hans = 赞助 by \n%@
 	[discover_category_sport]
@@ -2985,6 +3054,7 @@
 		es = Deporte
 		fr = Sport
 		it = Sport
+		pl = Sport
 		ru = Спорт
 		zh-Hans = 运动
 	[steal_this]
@@ -2993,6 +3063,7 @@
 		es = Steal this!
 		fr = Copier
 		it = Rubalo!
+		pl = Ukradnij to!
 		ru = Steal this!
 		zh-Hans = 复制它！
 	[discover_category_still_life]
@@ -3001,6 +3072,7 @@
 		es = Bodegones
 		fr = Nature morte
 		it = Still Life
+		pl = Martwa natura
 		ru = Натюрморт
 		zh-Hans = 静物
 	[discover_category_street]
@@ -3009,6 +3081,7 @@
 		es = Calles
 		fr = Street
 		it = Street photography
+		pl = Ulica
 		ru = Уличные
 		zh-Hans = 街拍
 	[quest_submit_photo]
@@ -3017,6 +3090,7 @@
 		es = Submit a photo
 		fr = Soumettre une photo
 		it = Carica una foto
+		pl = Prześlij zdjęcie
 		ru = Подать фото заявку
 		zh-Hans = 提交一张照片
 	[submit_to_marketplace]
@@ -3025,6 +3099,7 @@
 		es = Submit to Marketplace
 		fr = Publier sur le Marketplace
 		it = Pubblica nel Marketplace
+		pl = Prześlij do Marketu
 		ru = Выставить на продажу
 		zh-Hans = Submit to Marketplace
 	[quests_available_subtitle]
@@ -3033,6 +3108,7 @@
 		es = Submit your photos to win great prizes
 		fr = Participez pour gagner des prix
 		it = Carica le tue foto per vincere favolosi premi
+		pl = Prześlij swoje zdjęcia, by wygrać wspaniałe nagrody
 		ru = Участвуй и выиграй супер призы
 		zh-Hans = 提交照片，赢取大奖
 	[take_a_new_photo]
@@ -3041,6 +3117,7 @@
 		es = Take a new photo
 		fr = Prendre une nouvelle photo
 		it = Scatta una nuova foto
+		pl = Zrób nowe zdjęcie
 		ru = Сфотографировать
 		zh-Hans = 拍摄新照片
 	[take_photo]
@@ -3049,6 +3126,7 @@
 		es = Tomar foto
 		fr = Prendre une photo
 		it = Scatta la foto
+		pl = Zrób zdjęcie
 		ru = Сфотографируйте
 		zh-Hans = 拍照
 	[profile_bio_hint]
@@ -3057,6 +3135,7 @@
 		es = Cuéntale a la Comunidad sobre ti
 		fr = Biographie
 		it = Racconta qualcosa di te alla community
+		pl = Opowiedz naszej społeczności o sobie
 		ru = Расскажите о себе
 		zh-Hans = 向500px社区介绍你自己
 	[upload_photo_description_hint]
@@ -3065,6 +3144,7 @@
 		es = Cuéntanos más acerca de esta foto
 		fr = Description
 		it = Fornisci maggiori informazioni su questa foto
+		pl = Powiedz nam więcej o swoim zdjęciu
 		ru = Расскажите подробнее об этой фотографии
 		zh-Hans = 讲讲这张照片
 	[onboarding_get_started_description]
@@ -3073,6 +3153,7 @@
 		es = Tell us what you like. We’ll help you find people to follow based on your choices here.
 		fr = Dites nous ce que vous aimez, nous vous aiderons à trouver des utilisateurs en fonction de vos choix.
 		it = Facci conoscere i tuoi gusti in fatto di fotografia. Noi ti aiuteremo a trovare persone da seguire in base alle tue scelte. Sicuro!
+		pl = Powiedz nam co lubisz, a my znajdziemy dla ciebie ciekawe osoby do obserwowania.
 		ru = Покажите что вам нравится и мы найдем интересных для вас людей.
 		zh-Hans = 告诉系统君您的喜好，系统君为您推介值得关注的用户。
 	[report_confirmation_gallery]
@@ -3081,6 +3162,7 @@
 		es = Thank you. You have reported this gallery.
 		fr = Merci.
 		it = Galleria segnalata correttamente.
+		pl = Dziękujemy. Galeria została zgłoszona.
 		ru = Спасибо. Сообщение о нарушении отправлено.
 		zh-Hans = 谢谢，你已经举报了这个画廊
 	[report_confirmation_photo]
@@ -3089,6 +3171,7 @@
 		es = Gracias por reportar a esta foto.
 		fr = Merci.
 		it = Foto segnalata gorrettamente.
+		pl = Dziękujemy. Zdjęcie zostało zgłoszone.
 		ru = Спасибо. Сообщение о нарушении отправлено.
 		zh-Hans = 谢谢，你已经举报了这张照片
 	[report_confirmation_user]
@@ -3097,6 +3180,7 @@
 		es = Gracias por reportar a este usuario.
 		fr = Merci.
 		it = Utente segnalato correttamente
+		pl = Dziękujemy. Użytkownik został zgłoszony.
 		ru = Спасибо. Сообщение о нарушении отправлено.
 		zh-Hans = 谢谢，你已经举报了这个用户
 	[discover_subtitle_popular_gallery]
@@ -3105,6 +3189,7 @@
 		es = The best galleries from our community
 		fr = Les meilleures galeries
 		it = Le migliori Gallerie dalla nostra community
+		pl = Najlepsze galerie z naszej społeczności
 		ru = Лучшие галереи нашего сообщества
 		zh-Hans = 社区最佳画廊
 	[discover_galleries_new_subtitle]
@@ -3113,6 +3198,7 @@
 		es = The latest from the community
 		fr = Les dernières galleries
 		it = Le ultime dalla nostra community
+		pl = Najnowsze z naszej społęczności
 		ru = Последнее от нашего сообщества
 		zh-Hans = 来自社区的新画廊
 	[discover_subtitle_fresh_gallery]
@@ -3121,6 +3207,7 @@
 		es = The latest galleries created by our community
 		fr = Les dernières galleries créées par la communauté
 		it = Le ultime Gallerie create dalla nostra community
+		pl = Najnowsze galerie stworzone przez naszą społeczność
 		ru = Свежие галереи нашего сообщества
 		zh-Hans = 社区最新画廊
 	[password_and_confirmation_dont_match]
@@ -3129,6 +3216,7 @@
 		es = The new password and the confirmation don't match!
 		fr = Le nouveau mot de passe et sa confirmation ne correspondent pas.
 		it = The new password and the confirmation don't match!
+		pl = Nowe hasło i jego potwierdzenie nie zgadzają się!
 		ru = Новый пароль и подтверждение не совпадают!
 		zh-Hans = 新口令和确认口令不匹配
 	[n_active_photo_quests_bold]
@@ -3137,6 +3225,7 @@
 		es = There are <strong>%d</strong> active Photo Quests
 		fr = %#@d_quest_count@
 		it = %#@d_quest_count@
+		pl = %#@d_quest_count@
 		ru = %#@d_quest_count@
 		zh-Hans = %#@d_quest_count@
 	[error_delete_comment_message]
@@ -3145,6 +3234,7 @@
 		es = There was an error while trying to delete the comment. Please try again later.
 		fr = Une erreur s'est produite lors de la suppression du commentaire. Veuillez ré-essayer ulterieurement.
 		it = C’è stato un errore durante l’eliminazione del commento. Riprova più tardi.
+		pl = Wystąpił błąd podczas próby usunięcia komentarza. Sprób ponownie później.
 		ru = Произошла ошибка при попытке удалить комментарий. Пожалуйста, попробуйте позже.
 		zh-Hans = 评论删除失败。请稍后重试。
 	[title]
@@ -3153,6 +3243,7 @@
 		es = Title
 		fr = Titre
 		it = Titolo
+		pl = Tytuł
 		ru = Заголовок
 		zh-Hans = 标题
 	[marketplace_not_enough_tags_message]
@@ -3161,6 +3252,7 @@
 		es = To be admissible on the marketplace, your photo needs a minimum of 5 tags
 		fr = Pour être acceptée sur le marketplace, votre photo doit avoir 5 mot-clés
 		it = La tua foto deve avere almeno 5 tag per essere pubblicata nel Marketplace
+		pl = By udostępnić zdjęcie w naszym markecie, potrzeba co najmniej 5 tagów
 		ru = Для продажи фотографии нужно как минимум 5 тэгов
 		zh-Hans = To be admissible on the marketplace, your photo needs a minimum of 5 tags
 	[login_facebook_turn_on_app_message]
@@ -3169,6 +3261,7 @@
 		es = Para usar tu cuenta de Facebook con esta aplicación, abre Ajustes > Facebook y asegúrate de que la aplicación esté activada.
 		fr = Pour utiliser votre compte Facebook avec 500px, ouvrez Réglages > Facebook, et assurez vous que 500px est activé
 		it = Per usare il tuo account Facebook con questa app, apri Impostazioni > Facebook e controlla che essa sia attivata.
+		pl = By korzystać w tej aplikacji z konta Facebook, otwórz Ustawienia > Facebook i upewnij się, że aplikacje jest włączona.
 		ru = Чтобы использовать учетную запись Facebook с этим приложением, откройте Настройки > Facebook и убедитесь, что это приложение включено.
 		zh-Hans = 想使用Facbook账号登录？请打开 系统设置 > Facebook 并\n确认此应用被设置为允许。
 	[discover_category_transportation]
@@ -3177,6 +3270,7 @@
 		es = Transportes
 		fr = Transport
 		it = Trasporti
+		pl = Transport
 		ru = Транспорт
 		zh-Hans = 交通
 	[discover_category_travel]
@@ -3185,6 +3279,7 @@
 		es = Viajes
 		fr = Voyage
 		it = Viaggi
+		pl = Podróż
 		ru = Путешествия
 		zh-Hans = 旅行
 	[discover_galleries_trending]
@@ -3193,6 +3288,7 @@
 		es = Trending
 		fr = Populaire
 		it = Primo Piano
+		pl = Popularne
 		ru = Популярное
 		zh-Hans = 最潮
 	[trending_galleries]
@@ -3201,6 +3297,7 @@
 		es = Trending Galleries
 		fr = Les galeries les plus vues
 		it = Gallerie in Primo Piano
+		pl = Popularne galerie
 		ru = Актуальные галереи
 		zh-Hans = 当红画廊
 	[discover_subtitle_popular]
@@ -3209,6 +3306,7 @@
 		es = Tendencias del momento
 		fr = Le meilleur de 500px
 		it = Di tendenza in questo preciso momento
+		pl = Popularne w tej chwili
 		ru = Популярные на данный момент
 		zh-Hans = 当下最潮最热
 	[try_a_different_search]
@@ -3217,6 +3315,7 @@
 		es = Intenta una búsqueda diferente
 		fr = Essayez une autre recherche
 		it = Prova un'altra ricerca
+		pl = Spróbuj innego wyszukiwania
 		ru = Try a different search
 		zh-Hans = 换个搜索
 	[try_again]
@@ -3225,6 +3324,7 @@
 		es = Intenta de nuevo
 		fr = Ré-essayer
 		it = Riprova
+		pl = Spróbuj ponownie
 		ru = Попробовать еще раз
 		zh-Hans = 重试
 	[twitter]
@@ -3233,6 +3333,7 @@
 		es = Twitter
 		fr = Twitter
 		it = Twitter
+		pl = Twitter
 		ru = Twitter
 		zh-Hans = Twitter推特
 	[login_twitter_google_unsupported]
@@ -3241,6 +3342,7 @@
 		es = Twitter and Google+\n are no longer supported.
 		fr = Twitter et Google+\n ne sont plus supportés.
 		it = Twitter e Google+ non saono più siupportati.
+		pl = Twitter i Google+\n nie są już wspierane.
 		ru = Мы больше не поддерживаем\n Twitter и Google+.
 		zh-Hans = 不再支持Twitter和Google+。
 	[register_notifications_failed_title]
@@ -3249,6 +3351,7 @@
 		es = No se puede registrar para recibir notificaciones
 		fr = Erreur lors de l'inscription aux notifications
 		it = Impossibile sottoscriversi alle notifiche
+		pl = Nie udało się zarejestrować powiadomień
 		ru = Нет удалось зарегистрироваться для уведомлений
 		zh-Hans = 无法注册通知服务
 	[unauthorized]
@@ -3257,6 +3360,7 @@
 		es = No autorizado
 		fr = Non autorisé
 		it = Non autorizzato
+		pl = Nieautoryzowany
 		ru = Не разрешено
 		zh-Hans = 尚未登陆
 	[discover_category_uncategorized]
@@ -3265,6 +3369,7 @@
 		es = Sin categoría
 		fr = Sans catégorie
 		it = Senza categoria
+		pl = Bez kategorii
 		ru = Без рубрики
 		zh-Hans = 无类别
 	[discover_category_underwater]
@@ -3273,6 +3378,7 @@
 		es = Bajo el agua
 		fr = Sous-marine
 		it = Foto subacquee
+		pl = Podwodny świat
 		ru = Подводный мир
 		zh-Hans = 水下摄影
 	[unfollow]
@@ -3281,6 +3387,7 @@
 		es = Unfollow
 		fr = Se désabonner
 		it = Smetti di seguire
+		pl = Przestań obserwować
 		ru = Удалить из друзей
 		zh-Hans = 取消关注
 	[error_unknown_login]
@@ -3289,6 +3396,7 @@
 		es = Error desconocido al iniciar sesión
 		fr = Erreur lors de la connexion
 		it = Errore di accesso non riconosciuto
+		pl = Wystąpił nieznany błąd podczas logowania
 		ru = Неизвестная ошибка при входе
 		zh-Hans = 登录中遇到未知错误
 	[unknown_location]
@@ -3297,6 +3405,7 @@
 		es = Ubicación desconocida
 		fr = Lieu inconnu
 		it = Posizione non nota
+		pl = Nieznana lokalizacja
 		ru = Неизвестное местоположение
 		zh-Hans = 未知地点
 	[untitled]
@@ -3305,6 +3414,7 @@
 		es = Sin título
 		fr = Sans Titre
 		it = Senza titolo
+		pl = Bez tytułu
 		ru = Без названия
 		zh-Hans = 无标题
 	[discover_title_upcoming]
@@ -3313,6 +3423,7 @@
 		es = Prometedoras
 		fr = Upcoming
 		it = In Arrivo
+		pl = Ciekawe
 		ru = Интересное
 		zh-Hans = 排名上升
 	[update]
@@ -3321,6 +3432,7 @@
 		es = Actualizar
 		fr = Mettre à jour
 		it = Aggiorna
+		pl = Aktualizacja
 		ru = Обновить
 		zh-Hans = 更新
 	[update_failed]
@@ -3329,6 +3441,7 @@
 		es = Update Failed
 		fr = La mise à jour a échoué
 		it = Aggiornamento Fallito
+		pl = Aktualizacja nie powiodła się
 		ru = Не удалось обновить
 		zh-Hans = 更新失败
 	[update_password]
@@ -3337,6 +3450,7 @@
 		es = Update Password
 		fr = Mettre à jour le mot de passe
 		it = Aggiorna Password
+		pl = Aktualizuj hasło
 		ru = Обновить пароль
 		zh-Hans = 更新密码
 	[upload]
@@ -3345,6 +3459,7 @@
 		es = Cargar
 		fr = Transfert
 		it = Carica
+		pl = Wyślij
 		ru = Загрузить
 		zh-Hans = 上传
 	[upload_failed]
@@ -3353,6 +3468,7 @@
 		es = Falló la carga
 		fr = Echec du transfert
 		it = Caricamento non riuscito
+		pl = Wysyłanie nie powiodło się
 		ru = Ошибка при загрузке
 		zh-Hans = 上传失败
 	[upload_finished]
@@ -3361,6 +3477,7 @@
 		es = Carga finalizada
 		fr = Transfert terminé
 		it = Caricamento terminato
+		pl = Wysyłąnie zakończone
 		ru = Загрузка завершена
 		zh-Hans = 上传完成
 	[upload_limit_reached]
@@ -3369,6 +3486,7 @@
 		es = Límite de carga alcanzado
 		fr = Limite de transfert atteinte
 		it = Limite caricamento raggiunto
+		pl = Osiągnięto limit wysyłania
 		ru = Исчерпан лимит на загрузку
 		zh-Hans = 达到上传限制
 	[upload_photo]
@@ -3377,6 +3495,7 @@
 		es = Cargar foto
 		fr = Transfert
 		it = Carica foto
+		pl = Wyślij zdjęcie
 		ru = Загрузить фото
 		zh-Hans = 上传照片
 	[upload_photos_to_get_noticed_newline]
@@ -3385,6 +3504,7 @@
 		es = Carga algunas fotos y hazte notar \n en la comunidad.
 		fr = Transférez quelques photos et faites-vous \n remarquer par la communauté
 		it = Carica alcune foto e fatti notare\ndalla community
+		pl = Dodaj kilka zdjęć i zostań zauważonym \n przez naszą społeczności
 		ru = Загрузите несколько фотографий и будьте \n замеченным сообществом.
 		zh-Hans = 上传一些照片以得到\n社区的关注
 	[upload_photos_to_get_noticed]
@@ -3393,6 +3513,7 @@
 		es = Upload some photos and get noticed by the community
 		fr = Transférez des photos et faites vous remarquer par la communauté
 		it = Carica le foto e fatti notare dalla Community
+		pl = Dodaj kilka zdjęć i zostań zauważonym przez naszą społeczności
 		ru = Загрузите несколько фотографий и получите мнение сообщество
 		zh-Hans = 上传摄影作品，让社区发现你
 	[upload_photos_and_engage_to_gain_followers]
@@ -3401,6 +3522,7 @@
 		es = Upload some photos or engage with the community to gain followers.
 		fr = Transférez quelques photos ou echangez avec la communnauté pour gagner des abonnés.
 		it = Carica le tue foto o partecipa alla community per aumentare i tuoi followers.
+		pl = Dodaj kilka zdjęć lub zaangażuj się w społeczności, by zdobyć obserwujących.
 		ru = Загрузите несколько фотографий или проявите инициативу добавив людей в друзья.
 		zh-Hans = 请上传照片或者与社区互动，以得到关注。
 	[upload_token_request_response_invalid]
@@ -3409,6 +3531,7 @@
 		es = Respuesta de solicitud de token de carga no válida
 		fr = Upload token request response invalid
 		it = Caricamento token request: risposta non valida
+		pl = Błedna odpowiedź tokenu przesyłania
 		ru = Ошибка при загрузке
 		zh-Hans = 上传请求失败
 	[uploading]
@@ -3417,6 +3540,7 @@
 		es = Cargando
 		fr = Transfert en cours
 		it = Caricamento
+		pl = Przesyłanie
 		ru = Загрузка
 		zh-Hans = 上传中
 	[discover_category_urban_exploration]
@@ -3425,6 +3549,7 @@
 		es = Exploración urbana
 		fr = Exploration Urbaine
 		it = Ambienti urbani
+		pl = Miejskie
 		ru = Городские пейзажи
 		zh-Hans = 城市探索
 	[login_username_email_hint]
@@ -3433,6 +3558,7 @@
 		es = Nombre de usuario o dirección de email
 		fr = Identifiant ou e-mail
 		it = Nome utente o indirizzo e-mail
+		pl = Nazwa użytkownika lub adres e-mail
 		ru = Имя пользователя или емайл
 		zh-Hans = 用户名或邮箱地址
 	[view_n_comments]
@@ -3441,6 +3567,7 @@
 		es = Ver %@
 		fr = Voir %@
 		it = Visualizza %@
+		pl = Zobacz %@
 		ru = Просмотреть %@
 		zh-Hans = 查看 %@
 	[view_submissions]
@@ -3449,6 +3576,7 @@
 		es = View submissions
 		fr = Voir les soumissions
 		it = Vedi caricamenti
+		pl = Zobacz zgłoszenia
 		ru = Посмотреть заявки
 		zh-Hans = 查看参赛作品
 	[warning]
@@ -3457,6 +3585,7 @@
 		es = Advertencia
 		fr = Attention
 		it = Attenzione
+		pl = Uwaga
 		ru = Внимание
 		zh-Hans = 警告
 	[password_recover_success]
