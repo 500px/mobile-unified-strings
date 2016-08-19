@@ -1681,7 +1681,7 @@
 		es = Selección del editor
 		fr = Editors' Choice
 		it = Dalla Redazione
-		pl = Wybór redakcji
+		pl = Wyróżnienie redakcji
 		ru = Выбор редакции
 		zh-Hans = 编辑推荐
 	[signup_email_hint]
@@ -3306,7 +3306,7 @@
 		es = Tendencias del momento
 		fr = Le meilleur de 500px
 		it = Di tendenza in questo preciso momento
-		pl = Popularne w tej chwili
+		pl = Obecnie popularne
 		ru = Популярные на данный момент
 		zh-Hans = 当下最潮最热
 	[try_a_different_search]
@@ -3423,7 +3423,7 @@
 		es = Prometedoras
 		fr = Upcoming
 		it = In Arrivo
-		pl = Ciekawe
+		pl = Obiecujące
 		ru = Интересное
 		zh-Hans = 排名上升
 	[update]
@@ -3594,6 +3594,7 @@
 		es = Te hemos enviado el email con instrucciones para restablecer tu contraseña
 		fr = Un email vous a été envoyé avec les instructions nécessaires pour réinitialiser votre mot de passe
 		it = Ti abbiamo inviato l'e-mail contenente le istruzioni per reimpostare la password
+		pl = Wysłaliśmy do Ciebie e-mail z instrukcją, w jaki sposób przywrócić hasło
 		ru = Мы отправили вам емайл с инструкциями по восстановлению пароля
 		zh-Hans = 我们已经将重置密码的步骤发到了您的邮箱
 	[beta_tester_invitation_subtitle]
@@ -3602,6 +3603,7 @@
 		es = We value your opinion and would love if you would help us improve your 500px experience!
 		fr = Votre opinion est importante et nous aimerions votre aide pour améliorer 500px!
 		it = La tua opinione conta. Aiutaci a migliorare la tua esperienza su 500px!
+		pl = Cenimy Twoją opinię i chcielibyśmy, abyś pomógł nam udoskonalić 500px!
 		ru = Мы ценим ваше мнение и будем безумно рады если вы нам поможете улучшить 500px!
 		zh-Hans = 我们很重视您的意见。如果您愿意帮助我们改进您的500px体验，我们将非常欣慰。
 	[push_notifications_usage_description]
@@ -3610,6 +3612,7 @@
 		es = Te haremos saber cuando alguien te siga o le guste una de tus fotos.
 		fr = Vous serez informé lorsque quelqu'un vous suivra ou aimera une de vos photos.
 		it = Ti avviseremo quando qualcuno comincerà a seguirti o metterà "Mi piace" alle tue foto.
+		pl = Damy Ci znać, kiedy ktoś zacznie cię obserwować lub polubi jedno z Twoich zdjęć.
 		ru = Мы вас оповестим о новом подписчике или если кому-то понравилась одна из ваших фотографий.
 		zh-Hans = 当有人关注您或者喜欢您的照片，\n我们会通知您。
 	[discover_galleries_featured_subtitle]
@@ -3618,6 +3621,7 @@
 		es = We've picked the best galleries for you
 		fr = Nous avons sélectionné les meilleures galeries pour vous
 		it = Abbiamo selezionato le migliori Gallerie per te
+		pl = Wybraliśmy dla Ciebie najlepsze galerie
 		ru = Мы выбрали лучшие галереи для вас
 		zh-Hans = 我们为您挑选的最佳画廊
 	[website]
@@ -3626,6 +3630,7 @@
 		es = Sitio web
 		fr = Site Web
 		it = Sito web
+		pl = Strona WWW
 		ru = Website
 		zh-Hans = 个人网页
 	[discover_category_wedding]
@@ -3634,6 +3639,7 @@
 		es = Boda
 		fr = Mariage
 		it = Matrimoni
+		pl = Wesele
 		ru = Свадьбы
 		zh-Hans = 婚礼
 	[welcome_back]
@@ -3642,6 +3648,7 @@
 		es = Welcome Back
 		fr = Bienvenue
 		it = Bentornato
+		pl = Witamy spowrotem
 		ru = Добро пожаловать
 		zh-Hans = 欢迎回来
 	[welcome_home]
@@ -3650,6 +3657,7 @@
 		es = Bienvenido a la Página de inicio
 		fr = Bienvenue
 		it = Benvenuto/a a casa
+		pl = Witaj
 		ru = Главная Лента
 		zh-Hans = 欢迎来到主页
 	[discover_subtitle_debut]
@@ -3658,6 +3666,7 @@
 		es = Bienvenida a los nuevos creadores
 		fr = Bienvenue à nos nouveaux photographes
 		it = Il benvenuto ai nuovi fotografi
+		pl = Witamy nowych fotografów
 		ru = Приветствуем Новых Фотографов
 		zh-Hans = 欢迎新艺术家
 	[negative_feedback_confirmation_message]
@@ -3666,6 +3675,7 @@
 		es = Lamentamos que no estés disfrutando la aplicación. ¡Infórmanos cómo te gustaría que mejoremos!
 		fr = Nous sommes désolés d'apprendre que vous n'appréciez pas l'application. Dites nous ce que vous souhaitez voir amélioré!
 		it = Ci dispiace che l'app non sia di tuo gradimento. Facci sapere come potremmo migliorarla!
+		pl = Żałujemy, że nie jesteś zadowolony z naszej aplikacji. Daj nam znać, jeśli masz pomysł co moglibyśmy poprawić!
 		ru = Мы сожалеем, что вас не устраивает наше приложения. Мы с удовольствием выслушаем ваши идеи о том, как улучшить наш продукт.
 		zh-Hans = 很抱歉您不喜欢我们的应用。请告诉我们您希望我们如何改进！
 	[onboarding_found_matches_message]
@@ -3674,6 +3684,7 @@
 		es = We’ve matched you with some amazing people.
 		fr = Nous avons trouvé des photographes fantastiques
 		it = Abbiamo tovato alcune persone che puoi seguire.
+		pl = Znaleźliśmy dla Ciebie interesujący fotografów.
 		ru = Мы нашли интересных для вас фотографов.
 		zh-Hans = 我们为您找到了一些有趣的用户
 	[report_wrong_content]
@@ -3682,6 +3693,7 @@
 		es = Contenido incorrecto (ilustración, 3D)
 		fr = Contenu invalide (illustration, 3D)
 		it = Contenuto errato (illustrazioni, 3D)
+		pl = Niepoprawna zawartość (ilustracja, 3D)
 		ru = Неправильный контент(иллюстрации, 3D)
 		zh-Hans = 错误的内容（插画或三维）
 	[wrong_image_size]
@@ -3690,6 +3702,7 @@
 		es = Tamaño de imagen incorrecto
 		fr = La taille de l'image est invalide
 		it = Dimensioni immagine non corrette
+		pl = Błędny rozmiar obrazu
 		ru = Неправильный размер фотографии
 		zh-Hans = 图像尺寸错误
 	[enable_access_in_privacy_settings]
@@ -3698,6 +3711,7 @@
 		es = Puedes habilitar el acceso en los ajustes de privacidad.
 		fr = Vous pouvez activer l'accès dans les réglages de confidentialité.
 		it = Puoi autorizzare l'accesso nelle impostazioni relative alla privacy.
+		pl = Możesz włączyć dostęp w swoich ustawieniach prywatności.
 		ru = Вы можете дать доступ в настройках конфиденциальности.
 		zh-Hans = 您可以在 设置/隐私 中允许访问您的照片。
 	[login_twitter_google_unsupported_message]
@@ -3706,6 +3720,7 @@
 		es = You can still login with the email address\n associated with your Twitter or Google+\n account. We'll just need you to create a\n new password.
 		fr = Vous pouvez encore utiliser l'adresse mail associée à votre compte Twitter ou Google+. Veuillez créer un nouveau mot de passe.
 		it = È comunque possibile accedere usando l'indirizzo email associato a i tuoi account di Twitter o Google+. Dovrai solo creare una nuova password.
+		pl = Nadal możesz logować się za pomocą adresu e-mail\n powiązanego z twoim kontem Twitter lub Google+.\n Musisz tylko utworzyć nowe hasło.
 		ru = Вы все еще можете войти используя емайл привязанный к Twitter или Google+. Вам просто необходимо создать пароль.
 		zh-Hans = 您仍然可以用Twitter或者Google+账户的邮箱登录。\n只是您需要创建一个密码。
 	[empty_galleries_profile]
@@ -3714,6 +3729,7 @@
 		es = You haven't created any galleries yet
 		fr = Vous n'avez pas encore crée de galeries
 		it = Non hai creato nessuna Galleria
+		pl = Nie utworzyłeś jeszcze żadnych galerii
 		ru = Вы пока не создали ни одной галереи
 		zh-Hans = 您尚未创建任何画廊
 	[empty_photos_profile]
@@ -3722,6 +3738,7 @@
 		es = You haven't shared any photos
 		fr = Vous n'avez partagé aucune photo
 		it = Non hai condiviso nessuna foto
+		pl = Nie udostępniłeś żadnych zdjęć
 		ru = Вы еще не поделились вашими фото
 		zh-Hans = 您还没有上传任何照片
 	[empty_photos_profile_subtitle]
@@ -3730,6 +3747,7 @@
 		es = Aún no has cargado ninguna foto
 		fr = Vous n'avez pas encore envoyé de photo
 		it = Non hai ancora caricato alcuna foto
+		pl = Nie przesłałeś jeszcze żadnych zdjęć
 		ru = Вы еще не загрузили фотографии
 		zh-Hans = 您还没有上传任何照片
 	[share_extension_unauthorized_message]
@@ -3738,6 +3756,7 @@
 		es = Necesitas haber iniciado sesión para usar la extensión para Compartir de 500px. Abre la aplicación 500px e inicia sesión.
 		fr = Vous devez être connecté à 500px. Lancez l'app et inscrivez vous.
 		it = Per usare l'estensione di condivisione 500px devi aver effettuato l'accesso. Apri l'app di 500px e accedi.
+		pl = Musisz być zalogowany, aby użyć dodadku 500px Udostępnij. Otwórz aplikację 500px i się zaloguj.
 		ru = Вы должны залогиниться, чтобы использовать 500px Share. Откройте приложение 500px и залогинтись .
 		zh-Hans = 您需要先登录才能使用500px分享扩展。\n请打开500px应用并登录。
 	[signup_facebook_email_unavailable]
@@ -3746,6 +3765,7 @@
 		es = Your e-mail address wasn't available through Facebook. Please signup with your e-mail.
 		fr = Votre adresse e-mail n'est pas disponible via Facebook. Veuillez créer un compte avec un e-mail.
 		it = La tua e-mail non è stata riconosciuta tramite Facebook. Ti preghiamo di iscriverti usando la tua e-mail.
+		pl = Nie udało się uzyskać Twojego adresu e-mail za pośrednictwem Facebooka. Proszę zarejestrować się za pomocą własnego e-maila.
 		ru = Не удалось получить ваш емайл через Facebook. Пожалуйста зарегестрируйтесь используя емайл.
 		zh-Hans = 您的Facebook帐户e-mail无效. 请尝试使用您的邮箱注册。
 	[gallery_has_been_featured_bold]
@@ -3754,6 +3774,7 @@
 		es = Your gallery <strong>%@</strong> has been featured
 		fr = Votre galerie <strong>%@</strong> a été sélectionnée par nos éditeurs !
 		it = `La tua Galleria <strong>%@</strong> è stata inclusa tra quelle Scelte dalla Redazione `
+		pl = Twoja galeria <strong>%@</strong> została wybrana przez naszych redaktorów
 		ru = Ваша галерея <strong>%@</strong> в избранных
 		zh-Hans = 您的画廊 <strong>%@</strong> 进入了编辑精选
 	[your_home_feed]
@@ -3762,6 +3783,7 @@
 		es = Noticias de tu Página de inicio
 		fr = Your Home Feed
 		it = La tua Home
+		pl = Twój osobisty Kanał
 		ru = Ваша Лента
 		zh-Hans = 您的500px动态
 	[your_photo]
@@ -3770,6 +3792,7 @@
 		es = your photo
 		fr = your photo
 		it = your photo
+		pl = twoje zdjęcie
 		ru = ваше фото
 		zh-Hans = 您的照片
 	[photo_selected_for_editors_choice_bold]
@@ -3778,6 +3801,7 @@
 		es = ¡Se ha seleccionado tu foto para la <strong>Selección del Editor!</strong>
 		fr = Votre photo a été sélectionnée pour <strong>Editors' Choice !</strong>
 		it = La tua foto è stata inclusa tra le <strong>Scelte dalla Redazione!</strong>
+		pl = Twoje zdjęcie otrzymało <strong>Wyróżnienie Redakcji!</strong>
 		ru = Ваша фото в разделе <strong>Выбор редакции!</strong>
 		zh-Hans = 您的作品入选 <strong>编辑精选</strong>！
 	[photo_uploaded_successfully]
@@ -3786,6 +3810,7 @@
 		es = Tu foto se ha cargado correctamente
 		fr = Votre photo a été envoyée avec succès
 		it = La tua foto è stata caricata con successo
+		pl = Twoje zdjęcie zostało wysłane
 		ru = Ваша фотография была успешно загружена
 		zh-Hans = 照片上传成功
 	[photo_is_popular_bold]
@@ -3794,6 +3819,7 @@
 		es = ¡Tu foto es <strong>Popular!</strong>
 		fr = Votre photo est <strong>Populaire !</strong>
 		it = La tua foto è inclusa tra quelle <strong>Popolari!</strong>
+		pl = Twoje zdjęcie jest <strong>Popularne!</strong>
 		ru = Ваша фото в разделе <strong>Популярные!</strong>
 		zh-Hans = 您的作品成为了 <strong>热门照片</strong>！
 	[photo_is_upcoming_bold]
@@ -3802,6 +3828,7 @@
 		es = ¡Tu foto es <strong>Prometedora!</strong>
 		fr = Votre photo est <strong>Upcoming !</strong>
 		it = La tua foto è inclusa tra quelle <strong>In arrivo!</strong>
+		pl = Twoje zdjęcie jest <strong>Obiecujące!</strong>
 		ru = Ваша фото в разделе <strong>Интересное!</strong>
 		zh-Hans = 您的作品进入了 <strong>排名上升</strong>！
 	[photo_upload_failed]
@@ -3810,6 +3837,7 @@
 		es = Falló la carga de tu foto
 		fr = Le transfert a échoué
 		it = Caricamento foto non riuscito
+		pl = Wysyłanie zdjęcia nie powiodło się
 		ru = Не удалось загрузить вашу фоторгафию
 		zh-Hans = 照片上传失败
 	[not_following_anyone_yet]
@@ -3818,6 +3846,7 @@
 		es = You’re not following anyone yet
 		fr = Vous êtes pas encore abonné à d'autres utilisateurs
 		it = Non stai seguendo nessuno
+		pl = Jeszcze nikogo nie obserwujesz
 		ru = У нас никого в друзьях
 		zh-Hans = 您尚未关注任何用户
 	[beta_tester_invitation_title]
@@ -3826,6 +3855,7 @@
 		es = You’ve been hand selected to join our beta program!
 		fr = Vous avez été sélectionné pour participer à notre programme Beta!
 		it = Sei stato selezionato per partecipare al programma di beta test!
+		pl = Zostałeś wybrany do naszego programu beta testów!
 		ru = Присоеденяйтись к Бета тестерам
 		zh-Hans = 您被选中加入我们的Beta测试计划。
 	[push_notification_prompt_title]
@@ -3834,345 +3864,406 @@
 		es = “500px” Would Like to Send you Notifications
 		fr = “500px” souhaite vous envoyer des notifications
 		it = “500px” Vorrebbe Inviarti Notifiche
+		pl = “500px” chciałoby wysyłać Ci powiadomienia
 		ru = «500px» хочет посылать вам уведомления
 		zh-Hans = “500px” 希望向您推送通知
 	[app_name]
 		en = 500px
 		de = 500px
 		fr = 500px
+		pl = 500px
 		ru = 500px
 		zh-Hans = 500px
 	[company_name]
 		en = 500px
 		de = 500px
 		fr = 500px
+		pl = 500px
 		ru = 500px
 		zh-Hans = 500px
 	[login_signup_or]
 		en = OR
 		de = ODER
 		fr = OU
+		pl = LUB
 		ru = ИЛИ
 		zh-Hans = 登录或者注册
 	[login_signup_terms_of_service]
 		en = Read our Terms of Service
 		de = Lies unsere Nutzungsbedingungen
 		fr = Lire nos règles d'utilisation
+		pl = Przeczytaj nasze Warunki użytkowania
 		ru = Прочитать Условия использования
 		zh-Hans = 阅读我们的服务条款
 	[login_signup_facebook_failed]
 		en = Facebook login failed
 		de = Facebook-Anmeldung fehlgeschlagen
 		fr = Echec de la connexion avec Facebook
+		pl = Logowanie za pomocą Facebooka nie powiodło się
 		ru = Не удалось войти с Facebook
 		zh-Hans = Facebook登入失败
 	[login_signup_twitter_login]
 		en = Looking to login with {twitter}?
 		de = Möchtest du dich mit {twitter} anmelden?
 		fr = Vous rechercher la connexion avec {twitter}?
+		pl = Chcesz zalogować się za pomocą {twitter}?
 		ru = Вход с помощью {twitter}?
 		zh-Hans = 用{twitter}帐号登录？
 	[login_with_google]
 		en = Log in with Google
 		de = Mit Google anmelden
 		fr = Se connecter avec Google
+		pl = Zaloguj się za pomocą Google
 		ru = Войти с Google
 		zh-Hans = ` 用Google账号登入`
 	[login_username_required]
 		en = You must provide your Username or Email address
 		de = Du musst deinen Benutzernamen oder deine E-Mail-Adresse angeben.
 		fr = Vous devez fournir un e-mail ou identifiant
+		pl = Musisz podać nazwę użytkownika lub adres e-mail
 		ru = Пожалуйста введите имя пользователя или емайл
 		zh-Hans = 请提供你的用户名或邮箱地址
 	[login_password_required]
 		en = You must provide your Password
 		de = Du musst dein Passwort angeben.
 		fr = Vous devez fournir un mot de passe
+		pl = Musisz podać swoje hasło
 		ru = Введите ваш пароль
 		zh-Hans = 请提供你的密码
 	[login_password_too_short]
 		en = Passwords are at least 6 characters
 		de = Das Passwort muss mind. 6 Zeichen enthalten.
 		fr = Votre de passe doit contenir au moins 6 caractères
+		pl = Hasła zawierają co najmniej 6 znaków
 		ru = Пароль должен быть как минимум 6 знаков
 		zh-Hans = 密码至少为6个字符
 	[logging_in]
 		en = Logging in
 		de = Anmelden ...
 		fr = Chargement en cours
+		pl = Logowanie
 		ru = Войти
 		zh-Hans = 登入中
 	[login_google_services_unavailable_title]
 		en = Missing Google Play Services
 		de = Google-Play-Dienste fehlen
 		fr = Google Play Services n'est pas installé
+		pl = Brak usługi Google Play
 		ru = Отсутсвует Google Play Services
 		zh-Hans = Google Play服务连接丢失
 	[login_google_services_unavailable]
 		en = You need to have Google Play Services installed in order to log in with Google. You can still login with the email address associated with your Google account. We will just need you to create a password.
 		de = Du musst Google-Play-Dienste installiert haben, um dich mit Google anzumelden. Du kannst dich jedoch auch mit der E-Mail-Adresse anmelden, die mit deinem Google-Konto verknüpft ist. Für uns ist dann nur wichtig, dass du ein Passwort festlegst.
 		fr = Google Play Services doit être installé pour se connecter avec Google. Vous pouvez néanmoins vous connecter avec l'adresse e-mail liée à votre compte Google. Vous devrez créer un mot de passe.
+		pl = Musisz mieć zainstalowaną usługę Google Play, by zalogować się za pomocą konta Google. Nadal możesz zalogować się za pomocą adresu e-mail powiązanego z kontem Google, wystarczy że utworzysz hasło.
 		ru = Вам нужно установить Google Play Services для того что бы зайти с помощью Google. Вы все еще можете войти используя емайл связанный с вашим Google аккаунтом. Вам только нужно будет создать пароль.
 		zh-Hans = 使用Google帐户联合登录需安装Google Play服务。您也可以选择邮箱登入，填写Google帐户邮箱于邮箱一栏 ＋ 创建新密码即可。
 	[login_twitter_unsupported_title]
 		en = Twitter is no longer supported
 		de = Twitter wird nicht mehr unterstützt.
 		fr = Twitter n'est plus supporté
+		pl = Twitter nie jest już wspierany
 		ru = Мы больше не поддерживаем Twitter
 		zh-Hans = 对不起，我们暂时不支持Twitter联合登录
 	[login_twitter_unsupported]
 		en = You can still login with the email address associated with your Twitter account. We will just need you to create a password.
 		de = Du kannst dich jedoch auch mit der E-Mail-Adresse anmelden, die mit deinem Twitter-Konto verknüpft ist. Für uns ist dann nur wichtig, dass du ein Passwort festlegst.
 		fr = Vous pouvez encore utiliser l'adresse mail associée à votre compte Twitter. Veuillez créer un nouveau mot de passe.
+		pl = Nadal możesz zalogować się za pomocą adresu e-mail powiązanego z kontem Twitter, wystarczy że utworzysz hasło.
 		ru = Вы все еще можете войти с помощью Twitter. Вам надо будет создать пароль.
 		zh-Hans = 您仍旧可以使用Twitter帐户邮箱进行E-mail登入，仅需创建新密码即可。
 	[login_create_password_button]
 		en = Create Password
 		de = Passwort erstellen
 		fr = Créer un mot de passe
+		pl = Utwórz hasło
 		ru = Создать пароль
 		zh-Hans = 创建密码
 	[signup_button]
 		en = Sign me up!
 		de = Registrieren!
 		fr = Créer un compte
+		pl = Zarejestruj mnie!
 		ru = Подпишите меня!
 		zh-Hans = 我要注册！
 	[signup_with_google]
 		en = Sign up with Google
 		de = Mit Google registrieren
 		fr = Inscription avec Google
+		pl = Zarejestruj się kontem Google
 		ru = Подписаться с Google
 		zh-Hans = 用Google账号注册
 	[signup_email_required]
 		en = You must provide an Email address
 		de = Du musst eine E-Mail-Adresse angeben.
 		fr = Vous devez fournir une adresse e-mail
+		pl = Musisz podać adres e-mail
 		ru = Введите ваш емайл
 		zh-Hans = 请提供一个邮箱地址
 	[signup_password_required]
 		en = You must create a Password
 		de = Du musst ein Passwort festlegen.
 		fr = Vous devez fournir un mot de passe
+		pl = Musisz utworzyć hasło
 		ru = Создайте пароль
 		zh-Hans = 请创建一个密码
 	[signup_email_invalid]
 		en = That is not a valid Email address
 		de = Das ist keine gültige E-Mail-Adresse.
 		fr = Cet e-mail n'est pas valide
+		pl = To nie jest poprawny adres e-mail
 		ru = Это не является допустимым емайлом
 		zh-Hans = 这不是一个有效的邮箱地址
 	[signup_email_used]
 		en = This Email is already in use
 		de = Diese E-Mail-Adresse ist bereits registriert.
 		fr = Cet e-mail est déjà utilisé
+		pl = Ten adres e-mail jest już w użyciu
 		ru = Этот емайл уже в использований
 		zh-Hans = 这个邮箱已经被注册使用
 	[signup_failure]
 		en = Failed to create account. Please try again later
 		de = Konto nicht erstellt. Bitte später erneut versuchen.
 		fr = Impossible de créer un compte. Veuillez ré-essayer plus tard
+		pl = Stworzenie konta nie powiodło się. Spróbuj ponownie później.
 		ru = Ошибка при созданий аккаунта. Попробуйте позже.
 		zh-Hans = 账号创建失败，请稍后重试
 	[signup_facebook_email_missing]
 		en = Failed: Your Facebook account does not contain an Email
 		de = Fehler: Dein Facebook-Konto enthält keine E-Mail-Adresse.
 		fr = Erreur: Votre compte Facebook ne contient pas d'adresse e-mail
+		pl = Błąd: Twoje konto Facebook nie zawiera adresu e-mail
 		ru = Ошибка: Ваш Facebook аккаунт не имеет емайла
 		zh-Hans = 您的Facebook账户没有电子
 	[action_login]
 		en = Log In
 		de = Anmelden
 		fr = Se connecter
+		pl = Zaloguj
 		ru = Войти
 		zh-Hans = 登入
 	[action_discover]
 		en = Discover
 		de = Entdecken
 		fr = Découverte
+		pl = Odkrywaj
 		ru = Cообщество
 		zh-Hans = 发现
 	[plus_error_msg]
 		en = Google Play Services is not available.
 		de = Google-Play-Dienste sind nicht verfügbar.
 		fr = Google Play Services n'est pas disponible.
+		pl = Usług Google Play nie jest dostępna.
 		ru = Google Play Services не доступен.
 		zh-Hans = Google Play 服务器不可用.
 	[photo_content_desc]
 		en = Photo
 		de = Foto
 		fr = Photo
+		pl = Zdjęcie
 		ru = Фото
 		zh-Hans = 照片
 	[hello_world]
 		en = Hello world!
 		de = Hallo an alle!
 		fr = Hello world!
+		pl = Witaj świecie!
 		ru = Привет мир!
 		zh-Hans = 你好世界！
 	[discover_blurb_popular]
 		en = Trending right now
 		de = Derzeit angesagt
 		fr = Le meilleur de 500px
+		pl = Obecnie popularne
 		ru = Популярные на данный момент
 		zh-Hans = 当下最潮最热
 	[discover_blurb_fresh]
 		en = The latest from the community
 		de = Das Neueste von der Community
 		fr = Les dernières créations de la communauté
+		pl = Najnowsze z naszej społęczności
 		ru = Последнее от нашего сообщества
 		zh-Hans = 社区最近动态
 	[more]
 		en = More
 		de = Mehr
 		fr = Plus
+		pl = Więcej
 		ru = Еще
 		zh-Hans = 更多
 	[no_galleries_found]
 		en = No galleries found
 		de = Keine Galerien gefunden
 		fr = Aucune galerie trouvée
+		pl = Nie znaleziono galerii
 		ru = No galleries found
 		zh-Hans = 没有搜索到画廊
 	[no_people_found]
 		en = No people found
 		de = Keine Personen gefunden
 		fr = Aucun utilisateur trouvé
+		pl = Nie znaleziono osób
 		ru = Никто не найден
 		zh-Hans = 没有搜索到摄影师
 	[no_internet_connection]
 		en = No internet connection
 		de = Keine Internetverbindung
 		fr = Pas de connexion Internet
+		pl = Brak połączenia z Internetem
 		ru = Нет соединения с интернетом
 		zh-Hans = 无网络连接
 	[unable_to_login]
 		en = Unable to login.
 		de = Anmeldung nicht möglich.
 		fr = Impossible de se connecter.
+		pl = Bląd logowania.
 		ru = Ошибка авторизации/регистрации
 		zh-Hans = 无法登入
 	[get_image_chooser_title]
 		en = Choose a photo from
 		de = Wähle ein Foto von
 		fr = Choisir une photo depuis
+		pl = Wybierz zdjęcie z
 		ru = Выберите фото из
 		zh-Hans = 从中选一张照片
 	[submit_from]
 		en = Submit from
+		pl = Prześlij z
 	[get_image_wrong_format]
 		en = Wrong format!
 		de = Falsches Format!
 		fr = Format invalide !
+		pl = Błędny format!
 		ru = Неправильный формат!
 		zh-Hans = 错误格式！
 	[no_image_found]
 		en = No image found!
 		de = Kein Bild gefunden!
 		fr = Aucune image trouvée !
+		pl = Nie znaleziono obrazu!
 		ru = Нет фотографии!
 		zh-Hans = 找不到图片！
 	[update_photo_failed]
 		en = Failed to update your photo
 		de = Dein Foto konnte nicht aktualisiert werden.
 		fr = Echec lors de la mise à jour de votre photo
+		pl = Aktualizacja zdjęcia nie powiodła się
 		ru = Не удалось сохранить ваши изменения
 		zh-Hans = 无法更新图片
 	[add_to_gallery]
 		en = Add to Gallery
 		de = Zur Galerie hinzufügen
 		fr = Ajouter dans une galerie
+		pl = Dodaj do galerii
 		ru = Добавить в Галерею
 		zh-Hans = 添加到画廊
 	[add_new_keyword]
 		en = Add new keyword
 		de = Neuen Suchbegriff hinzufügen
 		fr = Ajouter un mot clé
+		pl = Dodaj nowe słowo kluczowe
 		ru = Добавьте ключевое слово
 		zh-Hans = 添加新关键字
 	[suggested_tags]
 		en = Suggested
+		pl = Sugerowane
 		de = Vorgeschlagen
 	[suggested_tags_request_failed]
 		en = Unable to retrieve tag suggestions
+		pl = Prooblem z pobraniem sugerowanych tagów
 		de = Tag-Vorschläge nicht abrufbar
 	[notification_upload_complete_title]
 		en = Upload Complete
 		de = Fertig hochgeladen
 		fr = Transfert terminé
+		pl = Wysyłanie zakończone
 		ru = Загрузка окончена
 		zh-Hans = 上传成功
 	[notification_upload_complete_body]
 		en = Completed upload of your photo
 		de = Dein Foto ist jetzt hochgeladen.
 		fr = Votre photo a été transférée
+		pl = Wysyłanie zdjęcia zakończone
 		ru = Загрузка вашей фото окончена
 		zh-Hans = 您的照片上传完成了
 	[notification_uploading_title]
 		en = Uploading
 		de = Wird hochgeladen
 		fr = En cours
+		pl = Przesyłanie
 		ru = Загружается
 		zh-Hans = 上传中
 	[notification_uploading_body]
 		en = Uploading your photo
 		de = Dein Foto wird hochgeladen
 		fr = Transfert en cours
+		pl = Aktualizacja zdjęcia
 		ru = Ваше фото загружается
 		zh-Hans = 上传照片中
 	[notification_upload_failed_title]
 		en = Upload Failed
 		de = Hochladen fehlgeschlagen
 		fr = Echec du transfert
+		pl = Wysyłanie nie powiodło się
 		ru = Ошибка при загрузке
 		zh-Hans = 上传失败
 	[notification_upload_failed_body]
 		en = Failed to upload your photo
 		de = Dein Foto wurde nicht hochgeladen.
 		fr = Impossible de transférer votre photo
+		pl = Wysyłanie zdjęcie nie powiodło się
 		ru = Ошибка при загрузке вашей фото
 		zh-Hans = 你的照片上传失败了
 	[notification_upload_starting]
 		en = Started upload to 500px
 		de = Der Uploadvorgang zu 500px wurde gestartet.
 		fr = Début du transfert vers 500px
+		pl = Wysyłanie do 500px rozpoczęte
 		ru = Загружаем на 500px
 		zh-Hans = 开始上传至500px
 	[upload_no_network_connection]
 		en = There is no internet connection to upload the photo
+		pl = Brak połączenia z Internetem do przesłania zdjęcia
 		de = Keine Internetverbindung. Das Foto kann nicht hochgeladen werden.
 	[upload_your_first_photo]
 		en = Upload your first photo!
+		pl = Prześlj swoje pierwsze zdjęcie!
 	[upload_your_photos_here]
 		en = Upload your photos here!
+		pl = Prześlij swoje zdjęcia tutaj!
 	[title_activity_search]
 		en = Search
 		de = Suchen
 		fr = Recherche
+		pl = Szukaj
 		ru = Поиск
 		zh-Hans = 搜索
 	[share_via]
 		en = Share via
 		de = Teilen per
 		fr = Partager via
+		pl = Udostępnij przez
 		ru = Поделиться
 		zh-Hans = 分享到
 	[following_count]
 		en = Following %@
 		de = Ich folge %@
 		fr = Abonnements %@
+		pl = Obserwuje %@
 		ru = В друзьях %@
 		zh-Hans = 正在关注 %@
 	[followers_count_singular]
 		en = %@ Follower
 		de = %@ Follower
 		fr = %@ Abonné
+		pl = %@ Obserwujący
 		ru = %@ Подписчик
 		zh-Hans = %@ 名粉丝
 	[followers_count_plural]
 		en = %@ Followers
 		de = %@ Follower
 		fr = %@ Abonnés
+		pl = %@ Obserwujących
 		ru = %@ Подписчики
 		zh-Hans = %@ 名粉丝
 	[rate_dialog_ok]
