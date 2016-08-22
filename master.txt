@@ -3160,7 +3160,7 @@
 		it = Foto segnalata gorrettamente.
 		ru = Спасибо. Сообщение о нарушении отправлено.
 		zh-Hans = 谢谢，你已经举报了这张照片
-		ua = Дякуємо. Повідомлення про порушення наділано.
+		ua = Дякуємо. Повідомлення про порушення надіслано.
 	[report_confirmation_user]
 		en = Thank you. You have reported this user.
 		de = Du hast diesen Nutzer gemeldet. Vielen Dank!
@@ -3304,7 +3304,7 @@
 		it = Prova un'altra ricerca
 		ru = Try a different search
 		zh-Hans = 换个搜索
-		ua = Спробуйте інших пошук
+		ua = Спробуйте інший пошук
 	[try_again]
 		en = Try again
 		de = Erneut versuchen
@@ -3511,7 +3511,7 @@
 		it = Carica le tue foto o partecipa alla community per aumentare i tuoi followers.
 		ru = Загрузите несколько фотографий или проявите инициативу добавив людей в друзья.
 		zh-Hans = 请上传照片或者与社区互动，以得到关注。
-		ua = Завантажте декулька фотографій чи проявіть ініціативу додавши людей у друзі
+		ua = Завантажте декілька фотографій чи проявіть ініціативу додавши людей у друзі
 	[upload_token_request_response_invalid]
 		en = Upload token request response invalid
 		de = Ungültige Antwort auf die Upload-Token-Anfrage
@@ -3601,7 +3601,7 @@
 		it = Ti avviseremo quando qualcuno comincerà a seguirti o metterà "Mi piace" alle tue foto.
 		ru = Мы вас оповестим о новом подписчике или если кому-то понравилась одна из ваших фотографий.
 		zh-Hans = 当有人关注您或者喜欢您的照片，\n我们会通知您。
-		ua = Ми вас сповістимо про нового підписника або якщо комусь сподобалась одна з ваших фотографій.
+		ua = Ми вас сповістимо про нового підписника або якщо комусь сподобалась одна з ваших фото.
 	[discover_galleries_featured_subtitle]
 		en = We've picked the best galleries for you
 		de = Wir haben die besten Galerien für dich ausgewählt.
@@ -3888,7 +3888,7 @@
 		fr = Echec de la connexion avec Facebook
 		ru = Не удалось войти с Facebook
 		zh-Hans = Facebook登入失败
-		ua = Не вдалось увайти з Facebook
+		ua = Не вдалось увiйти з Facebook
 	[login_signup_twitter_login]
 		en = Looking to login with {twitter}?
 		de = Möchtest du dich mit {twitter} anmelden?
@@ -4014,7 +4014,7 @@
 		fr = Impossible de créer un compte. Veuillez ré-essayer plus tard
 		ru = Ошибка при созданий аккаунта. Попробуйте позже.
 		zh-Hans = 账号创建失败，请稍后重试
-		ua = Помилка пр створені акаунта. Спробуйте пізніше
+		ua = Помилка при створені акаунта. Спробуйте пізніше
 	[signup_facebook_email_missing]
 		en = Failed: Your Facebook account does not contain an Email
 		de = Fehler: Dein Facebook-Konto enthält keine E-Mail-Adresse.
@@ -4598,7 +4598,7 @@
 		fr = Votre limite de transfert hebdomadaire est atteinte.
 		ru = Исчерпан лимит на загрузку
 		zh-Hans = 你已经用完了本周的上传限额
-		ua = Вичерпано ліміт на завантаення
+		ua = Вичерпано ліміт на завантаження
 	[other]
 		en = Other
 		de = Sonstige
@@ -4740,13 +4740,15 @@
 		fr = ` Soumission Quest a échoué. Veuillez réessayer`
 		ru = ` Представление Quest не удалось. Пожалуйста, попробуйте еще раз`
 		zh-Hans = 上传失败，请重试
-		ua = ` Додати до Quest не вдалось. Будь ласка, спробуйте ще`
+		ua = ` Додати до Квеста не вдалось. Будь ласка, спробуйте ще`
 	[quest_submitting]
 		en = Submitting to quest…
 	[quest_winners_header]
 		en = Winners
+		ua = Переможці
 	[quest_brief_header]
 		en = Brief
+		ua = Опис
 	[quest_prize_header]
 		en = Prize
 		de = Preis
@@ -4765,10 +4767,13 @@
 		en = About %@
 	[quest_winners_tbd]
 		en = This Quest has ended! Check back later to see who won.
+		ua = Цей Квест закінчився! Перевірте пізніше, щоб побачити хто виграв.
 	[quest_winners_description_single]
 		en = Congratulations to the winning entry in this Quest!
+		ua= Вітаємо переможця в цьому Квести!
 	[quest_winners_description_multiple]
 		en = Congratulations to the winning entries in this Quest!
+		ua = Вітаємо переможців цого Квеста!
 	[confirm_new_password]
 		en = Repeat new password
 		de = Neues Passwort wiederholen
@@ -4970,7 +4975,10 @@
 		ua = {photo_count} фотографій
 	[activity_quest_started]
 		en = ``New Photo Quest! Submit your photos to <a href="/item"><b>{item}</b></a>``
+		ua = ``Новий Фото Квест! Завантажте ваші фото до <a href="/item"><b>{item}</b></a>``
 	[activity_quest_non_winners_selected]
 		en = ``Winners have been selected for the Photo Quest <a href="/item"><b>{item}</b></a>``
+		ua = ``Переможці Фото Квеста були обрані <a href="/item"><b>{item}</b></a>``
 	[activity_quest_winners_selected]
 		en = ``Congratulations! Your photo was selected as a winner of <a href="/item"><b>{item}</b></a>``
+		ua = ``Вітаємо ! Ваша фотографія була обрана в якості переможця <a href="/item"><b>{item}</b></a>``
