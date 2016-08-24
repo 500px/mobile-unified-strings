@@ -3684,7 +3684,7 @@
 		es = We’ve matched you with some amazing people.
 		fr = Nous avons trouvé des photographes fantastiques
 		it = Abbiamo tovato alcune persone che puoi seguire.
-		pl = Znaleźliśmy dla Ciebie interesujący fotografów.
+		pl = Znaleźliśmy dla Ciebie interesujących fotografów.
 		ru = Мы нашли интересных для вас фотографов.
 		zh-Hans = 我们为您找到了一些有趣的用户
 	[report_wrong_content]
@@ -4270,74 +4270,87 @@
 		en = Love it!
 		de = Gefällt mir!
 		fr = Oui
+		pl = Rewelacja!
 		ru = Очень нравится!
 		zh-Hans = 特别特别喜欢！
 	[rate_dialog_cancel]
 		en = Later
 		de = Später
 		fr = Plus tard
+		pl = Później
 		ru = Может быть позже
 		zh-Hans = 稍后再说特别特别喜欢吧~
 	[rate_dialog_no]
 		en = Feedback
 		de = Feedback
 		fr = Donnez votre avis
+		pl = Kontakt
 		ru = Свяжитесь с нами
 		zh-Hans = 反馈
 	[general]
 		en = General
 		de = Allgemein
 		fr = Général
+		pl = Ogólne
 		ru = Общее
 		zh-Hans = 通用
 	[feedback]
 		en = Feedback
 		de = Feedback
 		fr = Donnez votre avis
+		pl = Kontakt
 		ru = Свяжитесь с нами
 		zh-Hans = 反馈
 	[rate_500px]
 		en = Rate 500px app
 		de = 500px-App bewerten
 		fr = Notez l'application 500px
+		pl = Oceń aplikację 500px
 		ru = Оценить 500px в App Store
 		zh-Hans = ` 500px app评分`
 	[personalization_ai_recommendations]
 		en = See Personalization AI Recommendations
+		pl = Sprawdź rekomendacje AI Personalizacji
 	[report_photo]
 		en = Report Photo
 		de = Foto melden
 		fr = Signaler la photo
+		pl = Zgłoś zdjęcie
 		ru = Пожаловаться
 		zh-Hans = 照片举报
 	[report_user]
 		en = Report User
 		de = Nutzer melden
 		fr = Signaler l'utilisateur
+		pl = Zgłoś użytkownika
 		ru = Пожаловаться
 		zh-Hans = 用户举报
 	[report_gallery]
 		en = Report Gallery
 		de = Galerie melden
 		fr = Signaler la galerie
+		pl = Zgłoś galerię
 		ru = Пожаловаться
 		zh-Hans = 画廊举报
 	[report_nsfw]
 		en = Should be tagged as adult content
 		de = Sollte als nicht jugendfreier Inhalt markiert werden.
 		fr = Contenu pour adultes
+		pl = Powinno zostać oznaczone jako zawartość dla dorosłych
 		ru = Для взрослых
 		zh-Hans = 应标记为成人内容
 	[confirm_report_photo]
 		en = You are about to report this photo for:
 		de = Du bist im Begriff, dieses Foto aus folgendem Grund zu melden:
 		fr = Vous allez signaler cette photo pour:
+		pl = Masz zamiar zgłosić te zdjęcie z powodu:
 		ru = Пожаловаться на фото
 		zh-Hans = 你就要举报此照片，原因为：
 	[confirm_report_user]
 		en = You are about to report this user for:
 		de = ` Du bist im Begriff, diesen Nutzer aus folgendem Grund zu melden:`
 		fr = Vous allez signaler cet utilisateur pour:
+		pl = Masz zamiar zgłosić tego użytkownika z powodu:
 		ru = Пожаловаться на пользователя
 		zh-Hans = 你就要举报此用户，原因为：
 	[confirm_report_gallery]
@@ -4350,547 +4363,646 @@
 		en = Failed to delete photo
 		de = Foto nicht gelöscht
 		fr = Impossible de supprimer cette photo
+		pl = Usunięcie zdjęcia nie powiodło się
 		ru = Не удалось удалить фото
 		zh-Hans = 无法删除图片
 	[confirm_are_you_sure]
 		en = Are you sure?
 		de = Sicher?
 		fr = Êtes vous sur?
+		pl = Czy jesteś pewien?
 		ru = Вы уверены?
 		zh-Hans = 你确定吗？
 	[photo_details]
 		en = Photo Details
 		de = Foto-Details
 		fr = Détails
+		pl = Szczegóły zdjęcia
 		ru = Фото Детали
 		zh-Hans = 照片详情
 	[upload_photo_title_hint]
 		en = Title your photo
 		de = Foto-Titel hinzufügen
 		fr = Titre
+		pl = Tytuł Twojego zdjęcia
 		ru = Заголовок вашего фото
 		zh-Hans = 给你的照片命名
 	[add_comment]
 		en = Add comment
 		de = Kommentar hinzufügen
 		fr = Ajouter un commentaire
+		pl = Dodaj komentarz
 		ru = Комментировать
 		zh-Hans = 添加评论
 	[report_failed]
 		en = Report failed. Please try again later.
 		de = Nicht gemeldet. Bitte später erneut versuchen.
 		fr = Echec. Veuillez réessayer plus tard.
+		pl = Zgłoszenie nie powiodło się. Spróbuj ponownie później.
 		ru = Произошла ошибка при попытке отправить сообщение о нарушении. Пожалуйста, попробуйте позже.
 		zh-Hans = 举报失败，请稍后重试
 	[about]
 		en = About
 		de = Infos
 		fr = A Propos
+		pl = O aplikacji
 		ru = Био
 		zh-Hans = 关于
 	[gallery_delete_confirmation_detail]
 		en = Deleting a Gallery cannot be undone
 		de = Die Löschung einer Galerie kann nicht rückgängig gemacht werden.
 		fr = Il n'est pas possible d'annuler la suppression d'une galerie.
+		pl = Usunięcie galerii nie może być cofnięte
 		ru = Удаленные галереи востановлению не подлежат
 		zh-Hans = 画廊删除不能复原
 	[network_error]
 		en = Network Error
 		de = Netzwerkfehler
 		fr = Erreur de connexion
+		pl = Błąd sieci
 		ru = Нет доступа к сети
 		zh-Hans = 网络出错
 	[bad_deeplink]
 		en = Failed to open link
 		de = Link nicht geöffnet
 		fr = Impossible d'ouvrir ce lien
+		pl = Otwarcie linku nie powiodło się
 		ru = Не получилось открыть ссылку
 		zh-Hans = 打开连接失败
 	[most_popular_photos_on_500px]
 		en = The most popular photos on 500px
 		de = Die beliebtesten Fotos auf 500px
 		fr = Les photos les plus populaires sur 500px
+		pl = Najpopularniejsze zdjęcia na 500px
 		ru = Лучшие работы на 500px
 		zh-Hans = ` 500px上最热照片`
 	[separator_dot]
 		en = •
 		de = •
 		fr = •
+		pl = •
 		ru = •
 		zh-Hans = •
 	[updating_gallery]
 		en = Updating gallery
 		de = Galerie wird aktualisiert
 		fr = Mise à jour de la galerie
+		pl = Aktualizacja galerii
 		ru = Сохраняем изменения галереи
 		zh-Hans = 画廊更新中
 	[unable_to_create_gallery]
 		en = Unable to create this gallery!
 		de = Diese Galerie kann nicht erstellt werden.
 		fr = Impossible de créer cette galerie
+		pl = Nie udało się utworzyć galerii!
 		ru = Не удалось создать галерею!
 		zh-Hans = 画廊创建失败
 	[creating_new_gallery]
 		en = Creating new gallery
 		de = Neue Galerie wird erstellt
 		fr = Creation d'une nouvelle galerie
+		pl = Tworzenie nowej galerii
 		ru = Создать новую галерею
 		zh-Hans = 创建新画廊
 	[error_creating_gallery]
 		en = Error attempting to create a gallery
 		de = Fehler beim Erstellen der Galerie
 		fr = Erreur lors de la création de la galerie
+		pl = Błąd podczas tworzenia galerii
 		ru = Ошибка при создании галереи
 		zh-Hans = 创建画廊时出错
 	[edit_complete]
 		en = Edit complete
 		de = Bearbeitung abgeschlossen
 		fr = Modification terminée
+		pl = Edycja zakonczona
 		ru = Изменения завершены
 		zh-Hans = 编辑完成
 	[unable_edit_gallery]
 		en = Unable to edit gallery
 		de = Die Galerie kann nicht bearbeitet werden.
 		fr = Impossible de modifier la galerie
+		pl = Nie można edytować galerii
 		ru = Не удалось созранить изменения галереи
 		zh-Hans = 画廊编辑失败
 	[enable_storage_permissions]
 		en = Please enable storage permissions first
 		de = Bitte gewähre zunächst den Speicherzugriff.
 		fr = Veuillez autoriser notre application a accéder à vos données
+		pl = Nadaj wpierw uprawnienia dostępu do danych
 		ru = Необходим доступ к хранилищу
 		zh-Hans = 需要预先给予存储访问许可
 	[gallery_has_been_deleted]
 		en = Your gallery has been deleted
 		de = Deine Galerie wurde gelöscht.
 		fr = Votre galerie a été supprimée
+		pl = Twoja galeria została usunięta
 		ru = Ваша галерея удалена
 		zh-Hans = 画廊删除成功
 	[unable_delete_gallery]
 		en = Unable to delete gallery
 		de = Die Galerie kann nicht gelöscht werden.
 		fr = Impossible de supprimer la galerie
+		pl = Nie można usunąć galerii
 		ru = Не удалось удалить галерею
 		zh-Hans = 画廊删除失败
 	[cancel_facebook_login]
 		en = Canceled Facebook login
 		de = Facebook-Anmeldung abgebrochen
 		fr = Annulation de la connexion Facebook
+		pl = Anulowano logowanie kontem Facebook
 		ru = Отменен вход с Facebook
 		zh-Hans = 取消用Facebook登入
 	[facebook_login_error]
 		en = Facebook login error
 		de = `Fehler bei der Facebook-Anmeldung `
 		fr = Erreur lors de la connexion avec Facebook
+		pl = Błąd logowania kontem Facebook
 		ru = Ошибка при попытке входа с Facebook
 		zh-Hans = Facebook登入出错
 	[failed_getting_google_access_token]
 		en = Failed to get Google access token
 		de = Google-Zugriff-Token nicht abgerufen
 		fr = Impossible de récupérer votre jeton d'accès Google
+		pl = Uwierzytelnienie kontem Google nie powiodło się
 		ru = Не удалось аутентифицироваться с Google
 		zh-Hans = 获取谷歌令牌失败
 	[google_signin_failed]
 		en = Google sign in failed!
 		de = Google-Anmeldung fehlgeschlagen!
 		fr = Erreur de la connexion avec Google!
+		pl = Rejestracja kontem Google nie powiodła się!
 		ru = Ошибка при попытки входа с Google!
 		zh-Hans = 用谷歌登入失败
 	[successfully_created_account]
 		en = Successfully created account!
 		de = Konto erfolgreich erstellt!
 		fr = Compte créé avec succès!
+		pl = Twoje konto zostało utworzone!
 		ru = Ваш аккаунт создан!
 		zh-Hans = 账号创建成功！
 	[failed_to_signup]
 		en = Failed to signup
 		de = Registrierung fehlgeschlagen
 		fr = Impossible de créer un compte
+		pl = Błąd rejestracji
 		ru = Ошибка при регистрации
 		zh-Hans = 注册失败
 	[uploaded_started]
 		en = Your upload has started
 		de = Dein Uploadvorgang hat begonnen.
 		fr = Votre transfert a démarré
+		pl = Przesyłanie rozpoczęte
 		ru = Загрузка началась
 		zh-Hans = 上传开始
 	[invalid_upload_intent]
 		en = Invalid upload request
 		de = Ungültige Upload-Anfrage
 		fr = Echec du transfert
+		pl = Błędne żądanie przesyłania
 		ru = Ошибка при загрузке
 		zh-Hans = 无效的上传请求
 	[login_before_upload]
 		en = Please log in before upload
 		de = Bitte melde dich an, bevor du etwas hochlädst.
 		fr = Veuillez vous identifier avant le transfert
+		pl = Zaloguj się przed wysłaniem
 		ru = Для загрузки нужно войти
 		zh-Hans = 请先登入再上传
 	[like_by_list_no_others]
 		en = {liked_by_list} likes this photo.
 		de = {liked_by_list} gefällt dieses Foto.
 		fr = {liked_by_list} aiment cette photo.
+		pl = {liked_by_list} lubi te zdjęcie.
 		ru = {liked_by_list} понравилось это фото.
 		zh-Hans = {liked_by_list} 喜欢这张照片。
 	[like_by_list_with_one_other]
 		en = {liked_by_list}, and one other like this photo.
 		de = {liked_by_list} und 1 weiteren Person gefällt dieses Foto.
 		fr = {liked_by_list}, et une autre personne aiment cette photo.
+		pl = {liked_by_list} i jeszcze jedna osoba polubili te zdjęcie.
 		ru = {liked_by_list}, и еще одному понравилось это фото.
 		zh-Hans = {liked_by_list} 和另一位喜欢这张照片。
 	[like_by_list_with_others]
 		en = {liked_by_list}, and {others_count} others like this photo.
 		de = {liked_by_list} und {others_count} weiteren Personen gefällt dieses Foto.
 		fr = {liked_by_list}, et {others_count} personnes aiment cette photo.
+		pl = {liked_by_list} i {others_count} innych osób lubią te zdjęcie.
 		ru = {liked_by_list}, и {others_count} другим понравилось это фото.
 		zh-Hans = {liked_by_list} 和其他 {others_count} 位喜欢这张照片。
 	[people_like_this_photo]
 		en = {liked_count} people like this photo.
 		de = {liked_count} Personen gefällt dieses Foto.
 		fr = {liked_count} personnes aiment cette photo.
+		pl = {liked_count} osób polubiło te zdjęcie.
 		ru = {liked_count} людям понравилось это фото.
 		zh-Hans = {liked_count} 人喜欢这张照片。
 	[one_person_likes_this_photo]
 		en = One person likes this photo.
 		de = 1 Person gefällt dieses Foto.
 		fr = Une personne aime cette photo.
+		pl = Jedna osoba lubi te zdjęcie.
 		ru = одному человеку понравилось это фото.
 		zh-Hans = 1位社区成员喜欢这张照片
 	[retry]
 		en = Retry
 		de = Erneut versuchen
 		fr = Réessayer
+		pl = Spróbuj ponownie
 		ru = Попробовать еще
 		zh-Hans = 重试
 	[reached_upload_limit]
 		en = You have reached your upload limit for the week
 		de = Du hast dein Upload-Limit der Woche erreicht.
 		fr = Votre limite de transfert hebdomadaire est atteinte.
+		pl = Osiągnięto limit przesyłania na tydzień
 		ru = Исчерпан лимит на загрузку
 		zh-Hans = 你已经用完了本周的上传限额
 	[other]
 		en = Other
 		de = Sonstige
 		fr = Autre
+		pl = Inne
 		ru = Другое
 		zh-Hans = 其他
 	[updating]
 		en = Updating
 		de = Wird aktualisiert
 		fr = Mise à jour
+		pl = Aktualizacja
 		ru = Обновляем
 		zh-Hans = 更新中
 	[remove]
 		en = Remove
 		de = Entfernen
 		fr = Supprimer
+		pl = Usuń
 		ru = Удалить
 		zh-Hans = 移除
 	[deleting]
 		en = Deleting
 		de = Wird gelöscht
 		fr = Suppression en cours
+		pl = Usuwanie
 		ru = Удаляем
 		zh-Hans = 删除中……
 	[unable_remove_photo_from_gallery]
 		en = Unable to remove photo from gallery
 		de = Das Foto kann nicht aus der Galerie entfernt werden.
 		fr = Impossible de retirer cette photo de la galerie
+		pl = Usuwanei zdjęcia z galerii nie powiodło się
 		ru = Не удалось удалить фото из галереи
 		zh-Hans = 无法删除画廊中的图片
 	[remove_photo_from_gallery]
 		en = Remove photo from Gallery
 		de = Foto aus Galerie entfernen
 		fr = Retirer cette photo de la galerie
+		pl = Usuń zdjęcie z galerii
 		ru = Удалить фото из галереи
 		zh-Hans = 删除画廊中的图片
 	[set_gallery_cover_photo]
 		en = Set as Gallery cover photo
 		de = Als Cover-Foto der Galerie festlegen
 		fr = Utiliser comme bannière pour cette galerie
+		pl = Ustaw jako okładkę galerii
 		ru = Сделать обложкой галереи
 		zh-Hans = 设置为画廊封面
 	[update_profile_avatar_failed]
 		en = Unable to update profile picture
 		de = Das Profilbild kann nicht aktualisiert werden.
 		fr = Impossible de changer votre avatar
+		pl = Błąd aktualizacji zdjęcia profilowego
 		ru = Не удалось обновить ваш аватар
 		zh-Hans = 无法更新您的头像
 	[update_gallery_cover_failed]
 		en = Unable to update Gallery cover photo
 		de = Das Cover-Foto der Galerie kann nicht aktualisiert werden.
 		fr = Impossible de mettre à jours la bannière
+		pl = Błąd aktualizacji okładki galerii
 		ru = Не удалось обновить обложку галереи
 		zh-Hans = 无法更新画廊封面
 	[cover_photo_updated]
 		en = Cover photo updated
 		de = Cover-Foto aktualisiert
 		fr = Bannière mise à jour
+		pl = Zaktualizowano zdjęcie okładki
 		ru = Обложка обновлена
 		zh-Hans = 封面图片已更新
 	[cover_photo_update_failed]
 		en = Unable to update cover photo
 		de = Das Cover-Foto kann nicht aktualisiert werden.
 		fr = Impossible de mettre à jour votre bannière
+		pl = Błąd aktualizacji zdjęcia okładki
 		ru = Не удалось обновить обложку
 		zh-Hans = 无法更新封面图片
 	[upload_your_first_photo_message]
 		en = Upload your first photo to get activity from the community
 		de = Lade dein erstes Foto hoch, um Aktivitäten von der Community zu erhalten.
 		fr = Transférez des photos et faites vous connaître par la communauté
+		pl = Prześlj swoje pierwsze zdjęcie, by być zauważonym przez społeczność
 		ru = Загрузите несколько фотографий и будьте замеченным сообществом.
 		zh-Hans = 想得到更多关注么？上传些图片吧
 	[photo_quest_by]
 		en = A Photo Quest by %@
 		de = Eine Foto-Quest von %@
 		fr = Un concours photo par %@
+		pl = Foto-zadanie od %@
 		ru = Фото Квест %@
 		zh-Hans = 摄影作品征集 by %@
 	[read_more_about_sponsor]
 		en = Read more about %@
+		pl = Przeczytaj więćej o %@
 	[quest_challenge]
 		en = The challenge
 		de = Die Aufgabe
 		fr = Détails du concours
+		pl = Wyzwanie
 		ru = Задание
 		zh-Hans = 挑战
 	[quest_submissions]
 		en = Submissions
 		de = Eingereichte Fotos
 		fr = Soumissions
+		pl = Zgłoszenia
 		ru = Заявки
 		zh-Hans = 参赛作品
 	[quests_my_submissions]
 		en = My submissions
 		de = Meine eingereichten Fotos
 		fr = Mes soumissions
+		pl = Moje zgłoszenia
 		ru = Мои заявки
 		zh-Hans = 我的参赛作品
 	[quests_all_submissions]
 		en = All
 		de = Alle
 		fr = Toutes les soumissions
+		pl = Wszystkie
 		ru = Все
 		zh-Hans = 全部
 	[quest_inspiration]
 		en = Images to inspire you
 		de = Inspirierende Bilder
 		fr = Des photos pour s'inspirer
+		pl = Inspirujące zdjęcia
 		ru = Вдохновление
 		zh-Hans = 创作参考
 	[quest_submission_successful]
 		en = Your photo has been submitted to %@!
 		de = Dein Foto wurde für %@ eingereicht!
 		fr = Votre photo a été soumise à %@
+		pl = Twoje zdjęcie zostało zgłoszone do %@!
 		ru = Ваше фото заявлена в %@!
 		zh-Hans = 您地图片已提交至 %@!
 	[quest_submission_failed]
 		en = Quest submission failed. Please try again
 		de = Quest-Foto nicht eingereicht. Bitte erneut versuchen.
 		fr = ` Soumission Quest a échoué. Veuillez réessayer`
+		pl = Zgłoszenie do Zadania nie powiodło się. Spróbuj ponownie.
 		ru = ` Представление Quest не удалось. Пожалуйста, попробуйте еще раз`
 		zh-Hans = 上传失败，请重试
 	[quest_submitting]
 		en = Submitting to quest…
+		pl = Zgłaszanie do zadania...
 	[quest_winners_header]
 		en = Winners
+		pl = Zwycięzcy
 	[quest_brief_header]
 		en = Brief
+		pl = Krótkie
 	[quest_prize_header]
 		en = Prize
 		de = Preis
 		fr = Prix
+		pl = Nagroda
 		ru = Приз
 		zh-Hans = 奖品
 	[quest_rules_header]
 		en = Rules
 		de = Regeln
 		fr = Règles
+		pl = Reguły
 		ru = Правила
 		zh-Hans = 活动细则
 	[quest_about_sponsor_header]
 		en = About %@
+		pl = O %@
 	[quest_winners_tbd]
 		en = This Quest has ended! Check back later to see who won.
+		pl = To Zadanie zostało zakończone! Sprawdź później, by zobaczyć kto wygrał.
 	[quest_winners_description_single]
 		en = Congratulations to the winning entry in this Quest!
+		pl = Gratulujemy zwycięskiemu zgłoszeniu w tym Zadaniu!
 	[quest_winners_description_multiple]
 		en = Congratulations to the winning entries in this Quest!
+		pl = Gratulujemy zwycięskim zgłoszeniom w tym Zadaniu!
 	[confirm_new_password]
 		en = Repeat new password
 		de = Neues Passwort wiederholen
 		fr = Repeat new password
+		pl = Powtórz nowe hasło
 		ru = Saissisez votre nouveau mot de passe une 2ème fois
 		zh-Hans = 再次输入新密码
 	[passwords_do_not_match]
 		en = Passwords do not match
 		de = Die Passwörter stimmen nicht überein.
 		fr = La 2ème saisie du mot de passe doit être identique
+		pl = Hasła nie pasują do siebie
 		ru = Пароли не совпадают
 		zh-Hans = 密码不相符
 	[current_password_required]
 		en = You must provide your current password
 		de = Du musst dein aktuelles Passwort eingeben.
 		fr = Vous devez fournir votre mot de passe
+		pl = Musisz podać aktualne hasło
 		ru = Вы должны ввести ваш пароль
 		zh-Hans = 请提供你的当前密码
 	[password_change_successful]
 		en = Your password has been changed
 		de = Dein Passwort wurde erfolgreich geändert.
 		fr = Votre mot de passe a été modifié
+		pl = Hasło zostało zmienione
 		ru = Ваш пароль обновлен
 		zh-Hans = 您的密码已更换
 	[password_change_failed]
 		en = Unable to change your password
 		de = Dein Passwort kann nicht geändert werden.
 		fr = Erreur lors du changement du mot de passe
+		pl = Błąd zmiany hasła
 		ru = Не удалось обновить ваш пароль
 		zh-Hans = 无法更换您的密码
 	[suggestions_title]
 		en = Suggestions for you
 		de = Empfehlungen für dich
 		fr = Suggestions personnalisées
+		pl = Propozycje dla Ciebie
 		ru = Наши рекомендации
 		zh-Hans = 为您推介
 	[suggestions_description]
 		en = Based on your choices, here are some suggestions for you. We recommend following them all!
 		de = Hier haben wir einige Empfehlungen entsprechend deiner Auswahl für dich. Du kannst all diesen Personen folgen.
 		fr = Choisissez les photographes auxquels vous souhaitez vous abonner
+		pl = W oparciu o Twoje wybory, oto kilka propozycji. Zalecamy obserwować ich wszystkich!
 		ru = Следуя тому, что вы нам указали, вот наши рекомендации. Мы рекомендуем вам добавить всех в друзья.
 		zh-Hans = 根据您的选择，我们为您特别定制了如下推介。关注全部，首页内容更丰富！
 	[suggestions_ready_title]
 		en = We’ve found you some amazing photographers.
 		de = Wir haben tolle Fotografen für dich gefunden.
 		fr = Nous avons trouvé des photographes fantastiques
+		pl = Znaleźliśmy dla Ciebie interesujących fotografów.
 		ru = Мы нашли интересных для вас фотографов.
 		zh-Hans = 我们为您找到了一些有趣的用户
 	[suggestions_ready_edit_list]
 		en = Edit Recommendations
 		de = Empfehlungen bearbeiten
 		fr = Modifier notre sélection
+		pl = Edycja rekomendacji
 		ru = Редактировать рекоммендации
 		zh-Hans = 修改选择
 	[onboarding_build_home_feed_title]
 		en = Let's build your home feed
 		de = Erstellen wir jetzt deinen Startseiten-Feed!
 		fr = C'est parti!
+		pl = Stwórzmy Twój osobisty kanał
 		ru = Давайти создадим вашу домашнюю ленту
 		zh-Hans = 开始定制您的首页吧。
 	[onboarding_build_feed_description]
 		en = What style of photography do you like?
 		de = Welcher Fotografie-Stil gefällt dir?
 		fr = Dites nous quelles photos vous aimez
+		pl = Jaki styl fotografii lubisz?
 		ru = Какой стиль фотографии вам по душе?
 		zh-Hans = 您喜爱哪一类摄影作品？
 	[onboarding_build_feed_pages]
 		en = What do you like? We'll help you find great people to follow based on your choices here.
 		de = Was gefällt dir? Wenn du uns deine Interessen verrätst, werden wir dir helfen, gute Fotografen zu finden.
 		fr = Dites nous quelles photos vous aimez et nous trouverons des photographes fantastiques auxquels vous abonner
+		pl = Co ci się podoba? Na podstawie Twoich odpowiedzi pomożemy Ci znaleźć interesujące osoby do obserwowania.
 		ru = Что вам нравится? Мы поможем вам найти фотографов удовлетворяющих ваш вкус.
 		zh-Hans = 您会被怎样的摄影作品吸引？我们将根据您的喜好为您推介值得关注的优质用户。
 	[onboarding_category_progress]
 		en = %d of %d
 		de = %1$d von %2$d
 		fr = %d sur %d
+		pl = %d z %d
 		ru = %d из %d
 		zh-Hans = %d ／ %d
 	[onboarding_no_followers_found_message]
 		en = We didn't find any matches for you. Choose other categories to find more results.
 		de = Wir konnten keine passenden Ergebnisse für dich finden. Bitte versuche es mit anderen Kategorien.
 		fr = Nous ne avons trouvé aucun match pour vous. Choisissez d'autres catégories pour trouver plus de résultats.
+		pl = Nie znaleźliśmy żadnych dopasowań dla Ciebie. Wybierz inne kategorie, by znaleźć więcej wyników.
 		ru = Мы не нашли никаких совпадений для вас. Выберите другие категории , чтобы найти больше результатов.
 		zh-Hans = 很抱歉，我们未能找到匹配的用户。请尝试选择更多摄影主题。
 	[onboarding_get_started_existing_user_title]
 		en = Welcome back
 		de = Willkommen zurück
 		fr = Bienvenue
+		pl = Witaj ponownie
 		ru = Добро пожаловать
 		zh-Hans = 欢迎回来
 	[lets_go]
 		en = Let's go!
 		de = Los geht's!
 		fr = C'est parti!
+		pl = Zacznijmy!
 		ru = Начнем!
 		zh-Hans = 开始吧！
 	[unable_to_open_preview]
 		en = Unable to open preview
+		pl = Otwarcie podglądu nie powiodło się
 	[your_500px_photos]
 		en = Your 500px photos
 	[activity_action_13]
 		en = ``<a href="/item"><b>{item}</b></a> is now following you!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt ihr Fan!``
 		fr = ``<a href="/item"><b>{item}</b></a> s'est abonné!``
+		pl = ``<a href="/item"><b>{item}</b></a> obserwuje Cię!``
 		ru = ``<a href="/item"><b>{item}</b></a> добавил вас в друзья!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 关注你啦！``
 	[activity_action_30]
 		en = ``<a href="/item"><b>{item}</b></a> made it to Upcoming!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Upcoming!``
 		fr = ``Votre photo <a href="/item"><b>{item}</b></a> est Upcoming!``
+		pl = ``Zdjęcie <a href="/item"><b>{item}</b></a> osiągnęło status Obiecującego!``
 		ru = ``<a href="/item"><b>{item}</b></a> в разделе Интересное!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 进入排名上升！``
 	[activity_action_31]
 		en = ``<a href="/item"><b>{item}</b></a> made it to Popular!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Popular!``
 		fr = ``Votre photo <a href="/item"><b>{item}</b></a> est Populaire!``
+		pl = ``Zdjęcie <a href="/item"><b>{item}</b></a> osiągnęło status Popularnego!``
 		ru = ``<a href="/item"><b>{item}</b></a> в разделе Популярные!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 成为了热门！``
 	[activity_action_8]
 		en = ``<a href="/item"><b>{item}</b></a> made it to Editor\'s Choice!``
 		de = ``<a href="/item"><b>{item}</b></a> ist jetzt in Editor\'s Choice!``
 		fr = ``Votre photo <a href="/item"><b>{item}</b></a> a été sélectionnée pour Editors\' Choice !``
+		pl = ``Zdjęcie <a href="/item"><b>{item}</b></a> otrzymało Wyróżnienie redakcji!``
 		ru = ``<a href="/item"><b>{item}</b></a> в разделе Выбор редакции!``
 		zh-Hans = ``<a href="/item"><b>{item}</b></a> 进入了编辑精选！``
 	[activity_action_302]
 		en = ``Your gallery <a href="/item"><b>{item}</b></a> has been featured!``
 		de = ``Deine Galerie <a href="/item"><b>{item}</b></a> wird jetzt vorgestellt!``
 		fr = ``Votre galerie <a href="/item"><b>{item}</b></a> a été sélectionnée par nos éditeurs!``
+		pl = ``Twoja galeria <a href="/item"><b>{item}</b></a> została wybrana przez naszych redaktorów!``
 		ru = ``Ваша галерея <a href="/item"><b>{item}</b></a> в разделе Популярные!``
 		zh-Hans = ``你的画廊 <a href="/item"><b>{item}</b></a> 进入了编辑精选！``
 	[activity_action_verb_commented_on]
 		en = commented on
 		de = ``hat <a href="/item"><b>{item}</b></a> kommentiert``
 		fr = commenté sur
+		pl = skomentował
 		ru = прокоментировал
 		zh-Hans = 评论了
 	[activity_action_verb_liked]
 		en = liked
 		de = gefällt
 		fr = a aimé
+		pl = polubił
 		ru = понравилось
 		zh-Hans = 喜欢了
 	[activity_action_301]
 		en = ``<a href="/user"><b>{user}</b></a> added {photo_name} to <a href="/item"><b>{item}</b></a>``
 		de = ``<a href="/user"><b>{user}</b></a> hat {photo_name} zu <a href="/item"><b>{item}</b></a>``
 		fr = ``<a href="/user"><b>{user}</b></a> a ajouté {photo_name} à <a href="/item"><b>{item}</b></a>``
+		pl = ``<a href="/user"><b>{user}</b></a> dodał {photo_name} do <a href="/item"><b>{item}</b></a>``
 		ru = ``<a href="/user"><b>{user}</b></a> добавил {photo_name} в <a href="/item"><b>{item}</b></a>``
 		zh-Hans = ``<a href="/user"><b>{user}</b></a> 添加了 {photo_name} 到 <a href="/item"><b>{item}</b></a>``
 	[activity_action]
 		en = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		de = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		fr = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
+		pl = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		ru = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 		zh-Hans = ``<a href="/user"><b>{user}</b></a> {verbs} <a href="/item"><b>{item}</b></a>``
 	[activity_comments]
 		en = {comment_count} comments
 		de = {comment_count} kommentare
 		fr = {comment_count} commentaires
+		pl = {comment_count} komentarzy
 		ru = {comment_count} коментов
 		zh-Hans = {comment_count} 条评论
 	[activity_peoples]
 		en = {user_count} people
 		de = {user_count} personen
 		fr = {user_count} utilisateurs
+		pl = {user_count} osób
 		ru = {user_count} подписчиков
 		zh-Hans = {user_count} 位摄影师
 	[activity_photos]
 		en = {photo_count} photos
 		de = {photo_count} fotos
 		fr = {photo_count} photos
+		pl = {photo_count} zdjęć
 		ru = {photo_count} фотографий
 		zh-Hans = {photo_count} 张照片
 	[activity_quest_started]
 		en = ``New Photo Quest! Submit your photos to <a href="/item"><b>{item}</b></a>``
+		pl = ``Nowe Foto-Zadanie! Wyślij swoje zdjęcie do <a href="/item"><b>{item}</b></a>``
 	[activity_quest_non_winners_selected]
 		en = ``Winners have been selected for the Photo Quest <a href="/item"><b>{item}</b></a>``
+	 	pl = ``Wyłoniono zwycięzców do Foto-Zadania <a href="/item"><b>{item}</b></a>``
 	[activity_quest_winners_selected]
 		en = ``Congratulations! Your photo was selected as a winner of <a href="/item"><b>{item}</b></a>``
+		pl = ``Gratulacje! Twoje zdjęcie wygrało <a href="/item"><b>{item}</b></a>``
