@@ -4982,3 +4982,31 @@
 	[activity_quest_winners_selected]
 		en = ``Congratulations! Your photo was selected as a winner of <a href="/item"><b>{item}</b></a>``
 		uk = ``Вітаємо ! Ваша фотографія була обрана в якості переможця <a href="/item"><b>{item}</b></a>``
+	[raw_app_banner_title]
+		en = RAW by 500px
+		es = RAW by 500px
+		de = RAW by 500px
+		fr = RAW par 500px
+		it = RAW by 500px
+		ru = RAW от 500px
+		zh-Hans = RAW by 500px
+		uk = RAW от 500px
+	[raw_app_banner_subtitle]
+		en = Edit your photos with ease and accuracy while on the go.
+		es = Edite sus imágenes con facilidad y precisión donde sea.
+		de = Fotos unterwegs bearbeiten - bequem und akkurat.
+		fr = Retouchez vos photos avec simplicité et précision ou que vous soyez.
+		it = Edita le tue foto con semplicità ed accuratezza anche quando non sei alla scrivania.
+		ru = Обработка фотографий на ходу с легкостью и точностью.
+		zh-Hans = 口袋里的图像编辑软体，原来可以如此简洁动人。
+		uk = Обробка фотографій на ходу з легкістю і точністю.
+	[raw_app_banner_cta_button_title]
+		en = Get the app
+		es = Descargar la aplicación
+		de = Laden Sie die App
+		fr = Téléchargez l'application
+		it = Scarica l'applicazione
+		ru = Скачать приложение
+		zh-Hans = 下载申请
+		uk = Завантажити додаток
+
