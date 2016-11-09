@@ -5009,4 +5009,22 @@
 		ru = Скачать приложение
 		zh-Hans = 下载申请
 		uk = Завантажити додаток
+	[date_taken]
+		en = Date taken
+		es = Tomada
+		de = Aufgenommen
+		fr = Prise le
+		it = Assunto
+		ru = Дата создания
+		zh-Hans = 拍摄
+		uk = дата створення
+	[date_uploaded]
+		en = Date uploaded
+		es = Subida
+		de = Hochgeladen am
+		fr = Importé
+		it = Importati
+		ru = Загружено
+		zh-Hans = 上传
+		uk = Завантажено
 
