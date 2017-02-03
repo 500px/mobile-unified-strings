@@ -4997,7 +4997,7 @@
 		de = Capture und Bearbeiten Sie Ihre Fotos mit Leichtigkeit und Genauigkeit, während auf dem Sprung.
 		fr = Capturez et éditez vos photos avec facilité et précision pendant vos déplacements.
 		it = Cattura e modificare le foto con facilità e precisione, mentre in viaggio.
-		ru = Захват и редактирование фотографий с легкостью и точностью, а на ходу.
+		ru = Сними и обработай фотографий на ходу с легкостью и точностью.
 		zh-Hans = 在旅途中轻松准确地拍摄和编辑您的照片。
 		uk = Захоплення і редагування фотографій з легкістю і точністю, а на ходу.
 	[raw_app_banner_cta_button_title]
