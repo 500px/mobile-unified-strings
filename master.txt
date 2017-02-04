@@ -4992,14 +4992,14 @@
 		zh-Hans = RAW by 500px
 		uk = RAW от 500px
 	[raw_app_banner_subtitle]
-		en = Edit your photos with ease and accuracy while on the go.
-		es = Edite sus imágenes con facilidad y precisión donde sea.
+		en = Capture and Edit your photos with ease and accuracy while on the go.
+		es = Capture y Edite sus imágenes con facilidad y precisión donde sea.
 		de = Fotos unterwegs bearbeiten - bequem und akkurat.
-		fr = Retouchez vos photos avec simplicité et précision ou que vous soyez.
-		it = Edita le tue foto con semplicità ed accuratezza anche quando non sei alla scrivania.
-		ru = Обработка фотографий на ходу с легкостью и точностью.
-		zh-Hans = 口袋里的图像编辑软体，原来可以如此简洁动人。
-		uk = Обробка фотографій на ходу з легкістю і точністю.
+		fr = Capturez et éditez vos photos avec facilité et précision pendant vos déplacements.
+		it = Cattura e modificare le foto con facilità e precisione, mentre in viaggio.
+		ru = Снимай и обрабатывай фотографий на ходу с легкостью и точностью.
+		zh-Hans = 在旅途中轻松准确地拍摄和编辑您的照片。
+		uk = Захоплення і редагування фотографій з легкістю і точністю, а на ходу.
 	[raw_app_banner_cta_button_title]
 		en = Get the app
 		es = Descargar la aplicación
