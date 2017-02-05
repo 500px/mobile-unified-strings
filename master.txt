@@ -4995,7 +4995,7 @@
 		en = Capture and Edit your photos with ease and accuracy while on the go.
 		es = Capture y Edite sus imágenes con facilidad y precisión donde sea.
 		de = Fotos unterwegs bearbeiten - bequem und akkurat.
-		fr = Capturez et éditez vos photos avec facilité et précision pendant vos déplacements.
+		fr = Capturez et éditez vos photos facilement et avec précision, ou que vous soyez.
 		it = Cattura e modificare le foto con facilità e precisione, mentre in viaggio.
 		ru = Снимай и обрабатывай фотографий на ходу с легкостью и точностью.
 		zh-Hans = 在旅途中轻松准确地拍摄和编辑您的照片。
