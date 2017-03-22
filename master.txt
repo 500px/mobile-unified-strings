@@ -1538,14 +1538,14 @@
 		zh-Hans = 当前密码
 		uk = Старий пароль
 	[discover_title_debut]
-		en = Debuts
-		de = Debüts
-		es = Debuts
-		fr = Debuts
-		it = Esordienti
-		ru = Дебют
-		zh-Hans = 首秀
-		uk = Дебют
+		en = New Content
+		de = Neuer Inhalt
+		es = Nuevo Contenido
+		fr = Nouveau Contenu
+		it = Nuovi Contenuti
+		ru = Новый Kонтент
+		zh-Hans = 新内容
+		uk = Новий Контент
 	[delete]
 		en = Delete
 		de = Löschen
@@ -3648,14 +3648,14 @@
 		zh-Hans = 欢迎来到主页
 		uk = Головна Стрічка
 	[discover_subtitle_debut]
-		en = Welcoming New Creators
-		de = Neue Künstler begrüßen
-		es = Bienvenida a los nuevos creadores
-		fr = Bienvenue à nos nouveaux photographes
-		it = Il benvenuto ai nuovi fotografi
-		ru = Приветствуем Новых Фотографов
-		zh-Hans = 欢迎新艺术家
-		uk = Вітаємо Нових Фотографів
+		en = Based on Your Likes
+		de = Fotos Derivat, das Ihnen gefallen
+		es = Derivado de Fotos que Te Gusto
+		fr = Dérivé des Photos que Vous Avez Aimé
+		it = Foto Derivato che Ti è Piaciuto
+		ru = На Основе Ваших Лайков
+		zh-Hans = 从你最喜欢的照片
+		uk = На Основі Ваших Лайков
 	[negative_feedback_confirmation_message]
 		en = We’re sorry you aren’t enjoying the app. Please let us know how you’d like us to improve!
 		de = Wir bedauern, dass dir unsere App nicht gefällt. Bitte schreibe uns, was wir besser machen können.
