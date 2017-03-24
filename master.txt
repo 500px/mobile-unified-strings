@@ -5027,4 +5027,30 @@
 		ru = Загружено
 		zh-Hans = 上传
 		uk = Завантажено
-
+    [please_wait]
+        en = Please wait...
+        es = Por favor espera...
+        de = Warten Sie mal...
+        fr = S'il vous plaît, attendez...
+        it = Attendere prego...
+        ru = Пожалуйста, подождите...
+        zh-Hans = 请稍候...
+        uk = Будь ласка, зачекайте ...
+    [operation_couldnt_complete]
+        en = The operation couldn't be completed. Please try again in a few minutes
+        es = No se pudo completar la operación. Vuelve a intentarlo en unos minutos.
+        de = Der Vorgang konnte nicht abgeschlossen werden. Bitte versuchen Sie es in einigen Minuten noch einmal
+        fr = L'opération n'a pas pu être terminée. S'il vous plait, réessayez dans quelques minutes
+        it = L'operazione non può essere completata. Riprova tra qualche minuto
+        ru = Операция не может быть выполнена. Пожалуйста, повторите попытку через несколько минут
+        zh-Hans = 操作无法完成。请在几分钟后再试一次
+        uk = Операція не може бути завершена. Будь ласка, спробуйте ще раз через кілька хвилин
+    [got_it]
+        en = Got it!
+        es = ¡Lo tengo!
+        de = Ich habs!
+        fr = Je l'ai!
+        it = Fatto!
+        ru = Понял!
+        zh-Hans = 得到它了！
+        uk = Зрозумів!
