@@ -2005,15 +2005,6 @@
 		ru = Не нравится
 		zh-Hans = 不喜欢。
 		uk = Не подобається
-	[i_dont_want_to_join]
-		en = I don't want to join
-		de = Ich möchte nicht beitreten.
-		es = I don't want to join
-		fr = Je ne veux pas participer
-		it = Non voglio partecipare
-		ru = Я не хочу
-		zh-Hans = 不想加入
-		uk = Я не хочу
 	[i_love_it]
 		en = I love it!
 		de = Gefällt mir sehr!
@@ -2059,15 +2050,6 @@
 		ru = Присоединяйтесь к сообществу из 6 миллионов фотографов
 		zh-Hans = 加入超过6百万鼓舞人心的摄影师
 		uk = Долучайтесь до спільноти з 6 мільйонів фотографів
-	[join_the_beta]
-		en = Join the Beta
-		de = Beta testen
-		es = Join the Beta
-		fr = Rejoindre la beta
-		it = Partecipa alla Beta
-		ru = Я хочу доступ к Бета
-		zh-Hans = 加入Beta
-		uk = Я хочу доступ до Бети
 	[discover_category_journalism]
 		en = Journalism
 		de = Journalismus
@@ -3584,15 +3566,6 @@
 		ru = Мы отправили вам емайл с инструкциями по восстановлению пароля
 		zh-Hans = 我们已经将重置密码的步骤发到了您的邮箱
 		uk = Ми надіслали вам емейл з інструкціями по відновленю пароля
-	[beta_tester_invitation_subtitle]
-		en = We value your opinion and would love if you would help us improve your 500px experience!
-		de = Wir schätzen deine Meinung und würden uns freuen, wenn du uns beim Optimieren von 500px helfen könntest!
-		es = We value your opinion and would love if you would help us improve your 500px experience!
-		fr = Votre opinion est importante et nous aimerions votre aide pour améliorer 500px!
-		it = La tua opinione conta. Aiutaci a migliorare la tua esperienza su 500px!
-		ru = Мы ценим ваше мнение и будем безумно рады если вы нам поможете улучшить 500px!
-		zh-Hans = 我们很重视您的意见。如果您愿意帮助我们改进您的500px体验，我们将非常欣慰。
-		uk = Мі цінуємо вашу думку і будемо безмежно раді якщо ви нам допоможете покращити 500рх!
 	[push_notifications_usage_description]
 		en = We'll let you know when someone follows you or likes one of your photos.
 		de = Wir benachrichtigen dich, sobald dir eine neue Person folgt oder eine neue Person deine Fotos mag.
@@ -3836,15 +3809,6 @@
 		ru = У нас никого в друзьях
 		zh-Hans = 您尚未关注任何用户
 		uk = У вас жодної людини у друзях
-	[beta_tester_invitation_title]
-		en = You’ve been hand selected to join our beta program!
-		de = Du wurdest persönlich für unser Beta-Programm ausgewählt!
-		es = You’ve been hand selected to join our beta program!
-		fr = Vous avez été sélectionné pour participer à notre programme Beta!
-		it = Sei stato selezionato per partecipare al programma di beta test!
-		ru = Присоеденяйтись к Бета тестерам
-		zh-Hans = 您被选中加入我们的Beta测试计划。
-		uk = Приєднуйтесь до Бета тестерам
 	[push_notification_prompt_title]
 		en = “500px” Would Like to Send you Notifications
 		de = 500px möchte dir Benachrichtigungen senden.
