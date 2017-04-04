@@ -2042,14 +2042,14 @@
 		zh-Hans = 加入500px
 		uk = Долучайтеь до 500рх
 	[tour_description_page_3]
-		en = Join over 6 million inspiring photographers
-		de = Tritt 6 Millionen inspirierenden Fotografen bei.
-		es = Join over 6 million inspiring photographers
-		fr = Rejoignez plus de 6 millions de photographers
-		it = Entra a far parte della community internazionale con più di 6 milioni di utenti
-		ru = Присоединяйтесь к сообществу из 6 миллионов фотографов
-		zh-Hans = 加入超过6百万鼓舞人心的摄影师
-		uk = Долучайтесь до спільноти з 6 мільйонів фотографів
+		en = Join over 9 million inspiring photographers
+		de = Tritt 9 Millionen inspirierenden Fotografen bei.
+		es = Join over 9 million inspiring photographers
+		fr = Rejoignez plus de 9 millions de photographers
+		it = Entra a far parte della community internazionale con più di 9 milioni di utenti
+		ru = Присоединяйтесь к сообществу из 9 миллионов фотографов
+		zh-Hans = 加入超过9百万鼓舞人心的摄影师
+		uk = Долучайтесь до спільноти з 9 мільйонів фотографів
 	[discover_category_journalism]
 		en = Journalism
 		de = Journalismus
