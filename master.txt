@@ -1151,12 +1151,12 @@
 		uk = Для дорослих
 	[discover_category_aerial]
 		en = Aerial
-		de = Luftaufnahmen
-		es = Fotografía aérea
-		fr = Photographie aérienne
-		it = Fotografia aerea
+		de = Luftaufnahme
+		es = Aérea
+		fr = Aérienne
+		it = Aereo
 		ru = Aэросъемка
-		zh-Hans = 航空摄影
+		zh-Hans = 航空
 		uk = Аерофотозйомка
 	[albums]
 		en = Albums
@@ -2296,11 +2296,11 @@
 	[discover_category_night]
 		en = Night
 		de = Nachtfotografie
-		es = Fotografía nocturna
-		fr = Photographie nocturne
-		it = Fotografia di notte
+		es = Nocturna
+		fr = Nocturne
+		it = Notturno
 		ru = Ночная съемка
-		zh-Hans = 夜间摄影
+		zh-Hans = 夜
 		uk = Нічна фотографія
 	[no_followers]
 		en = No Followers
