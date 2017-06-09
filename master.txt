@@ -2287,7 +2287,12 @@
 	[new_photos]
 		en = New Photos
 		de = Neue Fotos
+		es = Fotos nuevas
 		fr = Nouvelles photos
+		it = Nuove foto
+		ru = Новые фотографии
+		zh-Hans = 新照片
+		uk = Нові фото
 	[discover_category_night]
 		en = Night
 		de = Nachtfotografie
