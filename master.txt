@@ -2788,15 +2788,6 @@
 		ru = СВЕЖИЕ
 		zh-Hans = 最新
 		uk = СВІЖІ
-	[recommended_photo]
-		en = Recommended Photo
-		de = Empfohlenes Foto
-		es = Foto recomendada
-		fr = Photo recommandée
-		it = Foto consigliate
-		ru = Рекомендованное Фото
-		zh-Hans = 被推荐的照片
-		uk = Рекомендовані Фото
 	[remove_from_gallery]
 		en = Remove from Gallery
 		de = Aus Galerie entfernen
@@ -3653,14 +3644,14 @@
 		zh-Hans = 欢迎来到主页
 		uk = Головна Стрічка
 	[discover_subtitle_debut]
-		en = Based on Your Likes
+		en = Based on Your likes
 		de = Fotos Derivat, das Ihnen gefallen
 		es = Derivado de Fotos que Te Gusto
 		fr = Dérivé des Photos que Vous Avez Aimé
 		it = Foto Derivato che Ti è Piaciuto
-		ru = На Основе Ваших Лайков
+		ru = На основе Ваших лайков
 		zh-Hans = 从你最喜欢的照片
-		uk = На Основі Ваших Лайков
+		uk = На основі Ваших лайков
 	[negative_feedback_confirmation_message]
 		en = We’re sorry you aren’t enjoying the app. Please let us know how you’d like us to improve!
 		de = Wir bedauern, dass dir unsere App nicht gefällt. Bitte schreibe uns, was wir besser machen können.
