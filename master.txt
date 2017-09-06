@@ -1,6 +1,7 @@
 [[n_years_ago]]
 	[n_years_ago__one]
 		en = Last year
+		es = El año pasado
 		ios = %#@d_years@
 		de = Letztes Jahr
 		fr = L'année dernière
@@ -8,6 +9,7 @@
 		uk = рік тому
 	[n_years_ago__other]
 		en = %d years ago
+		es = Hace %d años
 		ios = %#@d_years@
 		de = Vor %d Jahren
 		fr = il y %d ans
@@ -23,6 +25,7 @@
 [[n_months_ago]]
 	[n_months_ago__one]
 		en = One month ago
+		es = Hace un mes
 		ios = %#@d_months@
 		de = Vor 1 Monat
 		fr = il y a un mois
@@ -30,6 +33,7 @@
 		uk = %d місяць тому
 	[n_months_ago__other]
 		en = %d months ago
+		es = Hace %d meses
 		ios = %#@d_months@
 		de = `Vor %d Monaten `
 		fr = il y a %d mois
@@ -45,6 +49,7 @@
 [[n_weeks_ago]]
 	[n_weeks_ago__one]
 		en = One week ago
+		es = Hace una semana
 		ios = %#@d_weeks@
 		de = Vor 1 Woche
 		fr = il y a un semaine
@@ -52,6 +57,7 @@
 		uk = тиждень тому
 	[n_weeks_ago__other]
 		en = %d weeks ago
+		es = Hace %d semanas
 		ios = %#@d_weeks@
 		de = Vor %d Wochen
 		fr = il y a %d semaines
@@ -425,6 +431,7 @@
 [[n_active_photo_quests_bold]]
 	[n_active_photo_quests_bold__zero]
 		en = There are no active Photo Quests
+		es = No hay concursos de fotos activas
 		ios = %#@d_quest_count@
 		de = Es gibt keine aktiven Foto-Quests.
 		fr = Aucun concours photo disponible
@@ -434,6 +441,7 @@
 		uk = Немає активних Фото Квестів
 	[n_active_photo_quests_bold__one]
 		en = There is <strong>one</strong> active Photo Quest
+		es = Hay <strong>un</strong> concurso de fotos activo
 		ios = %#@d_quest_count@
 		de = Es gibt <b>1</b> aktive Foto-Quest.
 		fr = <strong>%d</strong> concours photo disponible
@@ -441,6 +449,7 @@
 		uk = <strong>Один</strong> активний Фото Квест
 	[n_active_photo_quests_bold__other]
 		en = There are <strong>%d</strong> active Photo Quests
+		es = Hay <strong>%d</strong> concursos de fotos activos
 		ios = %#@d_quest_count@
 		de = Es gibt <b>%d</b> aktive Foto-Quests.
 		fr = <strong>%d</strong> concours photo disponibles
@@ -1132,7 +1141,7 @@
 		zh-Hans = 管理员
 		uk = Адмін
 	[admin_panel]
-		en = Admin panel
+		en = Admin Panel
 		de = Administratorbereich
 		es = Admin panel
 		fr = Admin panel
@@ -1547,7 +1556,7 @@
 		zh-Hans = 当前密码
 		uk = Старий пароль
 	[discover_title_debut]
-		en = New Content
+		en = Just for you
 		de = Neuer Inhalt
 		es = Nuevo Contenido
 		fr = Nouveau Contenu
@@ -2662,6 +2671,15 @@
 		ru = Пожалуйста, подождите...
 		zh-Hans = 请稍候...
 		uk = Будь ласка, зачекайте ...
+	[operation_couldnt_complete]
+		en = The operation couldn't be completed. Please try again in a few minutes
+		de = Der Vorgang konnte nicht abgeschlossen werden. Bitte versuchen Sie es in einigen Minuten noch einmal
+		es = No se pudo completar la operación. Vuelve a intentarlo en unos minutos.
+		fr = L'opération n'a pas pu être terminée. S'il vous plait, réessayez dans quelques minutes
+		it = L'operazione non può essere completata. Riprova tra qualche minuto
+		ru = Операция не может быть выполнена. Пожалуйста, повторите попытку через несколько минут
+		zh-Hans = 操作无法完成。请在几分钟后再试一次
+		uk = Операція не може бути завершена. Будь ласка, спробуйте ще раз через кілька хвилин
 	[rate_dialog_message]
 		en = Please let us know how you feel about the 500px app. It won't take more than a minute.\n\nThanks for your support!
 		de = Bitte sage uns, was du von der 500px-App hältst. Dauert nicht mal eine Minute.\n\nVielen Dank für deine Unterstützung!
@@ -3097,7 +3115,7 @@
 	[quests_available_subtitle]
 		en = Submit your photos to win great prizes
 		de = Reiche deine Fotos ein, um tolle Preise zu gewinnen.
-		es = Submit your photos to win great prizes
+		es = Envía tus fotos para ganar grandes premios
 		fr = Participez pour gagner des prix
 		it = Carica le tue foto per vincere favolosi premi
 		ru = Участвуй и выиграй супер призы
@@ -3214,7 +3232,7 @@
 	[n_active_photo_quests_bold]
 		en = %#@d_quest_count@
 		de = %#@d_quest_count@
-		es = There are <strong>%d</strong> active Photo Quests
+		es = %#@d_quest_count@
 		fr = %#@d_quest_count@
 		it = %#@d_quest_count@
 		ru = %#@d_quest_count@
@@ -3644,7 +3662,7 @@
 		zh-Hans = 欢迎来到主页
 		uk = Головна Стрічка
 	[discover_subtitle_debut]
-		en = Based on Your likes
+		en = Photos chosen just for you
 		de = Fotos Derivat, das Ihnen gefallen
 		es = Derivado de Fotos que Te Gusto
 		fr = Dérivé des Photos que Vous Avez Aimé
@@ -5014,4 +5032,3 @@
 		ru = Загружено
 		zh-Hans = 上传
 		uk = Завантажено
-
