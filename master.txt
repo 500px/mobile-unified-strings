@@ -52,7 +52,7 @@
 		es = Hace una semana
 		ios = %#@d_weeks@
 		de = Vor 1 Woche
-		fr = il y a un semaine
+		fr = il y a une semaine
 		ru = неделю назад
 		uk = тиждень тому
 	[n_weeks_ago__other]
