@@ -3663,7 +3663,7 @@
 		uk = Головна Стрічка
 	[discover_subtitle_debut]
 		en = Photos chosen just for you
-		de = Fotos Derivat, das Ihnen gefallen
+        de = Für Sie ausgewählte Fotos
 		es = Derivado de Fotos que Te Gusto
 		fr = Dérivé des Photos que Vous Avez Aimé
 		it = Foto Derivato che Ti è Piaciuto
