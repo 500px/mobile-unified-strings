@@ -2789,14 +2789,14 @@
 		zh-Hans = 在 App Store 给500px评分
 		uk = Оцінити 500рх в Арр Store
 	[login_signup_terms_of_service_bold]
-		en = Read our <strong>Terms of Service</strong>
-		de = Lies unsere <b>Nutzungsbedingungen</b>
-		es = Read our <strong>Terms of Service</strong>
-		fr = Lire nos <strong>Termes d'Utilisation</strong>
-		it = Leggi i <strong>Termini del Servizio</strong>
-		ru = Прочитать <strong>Условия использования</strong>
-		zh-Hans = 阅读我们的 <strong>服务协议</strong>
-		uk = Прочитати <strong>Умови використання</strong>
+		en = By signing up you are agreeing to our\n<strong>Terms of Service</strong>
+		de = Mit der Anmeldung erklären Sie sich mit unseren\n<strong>Nutzungsbedingungen</strong> einverstanden
+		es = Al registrarse, usted está de acuerdo con nuestros\n<strong>Términos de Servicio</strong>
+		fr = En vous souscrivant, vous acceptez nos\n<strong>Termes d'Utilisation</strong>
+		it = Con l'iscrizione tu accetti i nostri\n<strong>Termini del Servizio</strong>
+		ru = Зарегистрировавшись, вы соглашаетесь с нашими\n<strong>Условия использования</strong>
+		zh-Hans = 通过订阅您同意我们的<strong>服务条款</strong>
+		uk = Підписавшись, ви приймаєте наші\n<strong>Умови використання</strong>
 	[recent_caps]
 		en = RECENT
 		de = NEUESTE
