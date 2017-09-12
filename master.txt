@@ -1185,6 +1185,33 @@
 		ru = ВСЕ
 		zh-Hans = 所有
 		uk = ВСІ
+    [block_this_user]
+        en = Block this user
+        de = Diesen Benutzer blockieren
+        es = Bloquee este usuario
+        fr = Bloquer cet utilisateur
+        it = Blocca questo utente
+        ru = Заблокировать этого пользователя
+        zh-Hans = 阻止此用户
+        uk = Блокувати цього користувача
+    [block_user_action]
+        en = Block
+        de = Blockieren
+        es = Bloquear
+        fr = Blocage
+        it = Blocco
+        ru = Заблокировать
+        zh-Hans = 块
+        uk = Заблокувати
+    [block_user_confirmation]
+        en = You're about to block %@
+        de = Blockieren %@
+        es = Bloquear %@
+        fr = Blocage %@
+        it = Blocco %@
+        ru = Заблокировать %@
+        zh-Hans = 块 %@
+        uk = Заблокувати %@
 	[signup_confirm_account_creation_message]
 		en = An account will be created for you using this Email
 		de = Ein Konto wird für dich mit dieser E-Mail-Adresse erstellt.
