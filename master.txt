@@ -1203,6 +1203,15 @@
         ru = Заблокировать
         zh-Hans = 块
         uk = Заблокувати
+    [unblock_user_action]
+        en = Unblock
+        de = Entblocken
+        es = Desatascar
+        fr = Débloquer
+        it = Sbloccare
+        ru = Разблокировать
+        zh-Hans = 解除封锁
+        uk = Розблокувати
     [block_user_confirmation]
         en = You're about to block %@
         de = Blockieren %@
