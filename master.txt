@@ -2977,6 +2977,24 @@
 		ru = Сделать обложкой
 		zh-Hans = 设置为封面
 		uk = Зробити обкладинкою
+    [settings_blocked_users]
+        en = List of blocked users
+        de = Liste der blockierten Benutzer
+        es = Lista de usuarios bloqueados
+        fr = Liste des utilisateurs bloqués
+        it = Elenco degli utenti bloccati
+        ru = Список заблокированных пользователей
+        zh-Hans = 被阻止的用户列表
+        uk = Список заблокованих користувачів
+    [settings_restore_purchases]
+        en = Restore purchases
+        de = Käufe wiederherstellen
+        es = Restaurar las compras
+        fr = Restaurer les achats
+        it = Ripristinare gli acquisti
+        ru = Восстановить покупки
+        zh-Hans = 恢复购买
+        uk = Відновити покупки
 	[action_settings]
 		en = Settings
 		de = Einstellungen
