@@ -1185,6 +1185,42 @@
 		ru = ВСЕ
 		zh-Hans = 所有
 		uk = ВСІ
+    [block_this_user]
+        en = Block this user
+        de = Diesen Benutzer blockieren
+        es = Bloquee este usuario
+        fr = Bloquer cet utilisateur
+        it = Blocca questo utente
+        ru = Заблокировать этого пользователя
+        zh-Hans = 阻止此用户
+        uk = Блокувати цього користувача
+    [block_user_action]
+        en = Block
+        de = Blockieren
+        es = Bloquear
+        fr = Blocage
+        it = Blocco
+        ru = Заблокировать
+        zh-Hans = 块
+        uk = Заблокувати
+    [unblock_user_action]
+        en = Unblock
+        de = Entblocken
+        es = Desatascar
+        fr = Débloquer
+        it = Sbloccare
+        ru = Разблокировать
+        zh-Hans = 解除封锁
+        uk = Розблокувати
+    [block_user_confirmation]
+        en = You're about to block %@
+        de = Blockieren %@
+        es = Bloquear %@
+        fr = Blocage %@
+        it = Blocco %@
+        ru = Заблокировать %@
+        zh-Hans = 块 %@
+        uk = Заблокувати %@
 	[signup_confirm_account_creation_message]
 		en = An account will be created for you using this Email
 		de = Ein Konto wird für dich mit dieser E-Mail-Adresse erstellt.
@@ -2950,6 +2986,24 @@
 		ru = Сделать обложкой
 		zh-Hans = 设置为封面
 		uk = Зробити обкладинкою
+    [settings_blocked_users]
+        en = List of blocked users
+        de = Liste der blockierten Benutzer
+        es = Lista de usuarios bloqueados
+        fr = Liste des utilisateurs bloqués
+        it = Elenco degli utenti bloccati
+        ru = Список заблокированных пользователей
+        zh-Hans = 被阻止的用户列表
+        uk = Список заблокованих користувачів
+    [settings_restore_purchases]
+        en = Restore purchases
+        de = Käufe wiederherstellen
+        es = Restaurar las compras
+        fr = Restaurer les achats
+        it = Ripristinare gli acquisti
+        ru = Восстановить покупки
+        zh-Hans = 恢复购买
+        uk = Відновити покупки
 	[action_settings]
 		en = Settings
 		de = Einstellungen
