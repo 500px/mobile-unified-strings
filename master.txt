@@ -1022,14 +1022,14 @@
 		zh-Hans = <strong>%@</strong> 刚刚关注了您！
 		uk = У вас новий підписник <strong>%@</strong>!
 	[user_liked_photo_bold]
-		en = <strong>%1$@</strong> liked <strong>%2$@</strong>
-		de = <b>%1$@</b> gefällt <b>%2$@</b>
-		es = <strong>%1$@</strong> liked <strong>%2$@</strong>
-		fr = <strong>%1$@</strong> a aimé <strong>%2$@</strong>
-		it = <strong>%1$@</strong> liked <strong>%2$@</strong>
-		ru = <strong>%1$@</strong> понравилось <strong>%2$@</strong>
-		zh-Hans = <strong>%1$@</strong> 喜欢了 <strong>%2$@</strong>
-		uk = <strong>%1$@</strong> сподобалось <strong>%2$@</strong>
+        en = <strong>%1$@</strong> liked your photo
+        de = <b>%1$@</b> gefällt dein foto
+        es = <strong>%1$@</strong> liked your photo
+        fr = <strong>%1$@</strong> a aimé votre photo
+        it = <strong>%1$@</strong> liked your photo
+        ru = <strong>%1$@</strong> понравилось твоя фотография
+        zh-Hans = <strong>%1$@</strong> 喜欢了你的照片
+        uk = <strong>%1$@</strong> сподобалося ваше фото
 	[photos_n_bold]
 		en = <strong>Photos</strong> %@
 		de = <b>Fotos</b> %@
