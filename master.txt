@@ -1221,6 +1221,24 @@
         ru = Заблокировать %@
         zh-Hans = 块 %@
         uk = Заблокувати %@
+    [block_user_success]
+        en = You're about to block %@
+        de = Benutzer blockiert
+        es = Usuario bloqueado
+        fr = Utilisateur bloqué
+        it = Utente bloccato
+        ru = Пользователь заблокирован
+        zh-Hans = 用户被阻止
+        uk = Користувач заблоковано
+    [block_list_empty_state_message]
+        en = You have not blocked any users
+        de = Sie haben keine Benutzer blockiert
+        es = No has bloqueado ningún usuario.
+        fr = Vous n'avez bloqué aucun utilisateur
+        it = Non hai bloccato nessun utente
+        ru = Вы не заблокировали пользователей
+        zh-Hans = 您没有阻止任何用户
+        uk = Ви не заблокували жодного користувача
 	[signup_confirm_account_creation_message]
 		en = An account will be created for you using this Email
 		de = Ein Konto wird für dich mit dieser E-Mail-Adresse erstellt.
